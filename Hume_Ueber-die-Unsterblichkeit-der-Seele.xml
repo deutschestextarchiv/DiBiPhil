@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dialoge über natürliche Religion</title>
+        <author><persName ref="http://d-nb.info/gnd/54735">
+        <forename>David</forename>
+        <surname>Hume</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">David Hume: Dialoge über natürliche Religion. Über Selbstmord und
+      Unsterblichkeit der Seele. Ins Deutsche übersetzt und mit einer Einleitung versehen von
+      Friedrich Paulsen, 3. Auflage, Leipzig: Felix Meiner, 1905 (Philosophische Bibliothek, Bd.
+      36).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Dialoge über natürliche Religion</title>
+      <title level="m" type="sub">Über Selbstmord und Unsterblichkeit der Seele</title>
+      <author><persName ref="http://d-nb.info/gnd/54735">
+        <forename>David</forename>
+        <surname>Hume</surname>
+      </persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/39603"><forename>Friedrich</forename><surname>Paulsen</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition n="3">{3}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Felix Meiner</name>
+      </publisher><pubPlace>Leipzig</pubPlace>
+      <date type="publication">1905</date>
+      <date type="firstPublication">1877</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Der bereits 1757 gedruckte Aufsatz wurde (ebenso wie die Abhandlung »Über Selbstmord«) noch vor der Auslieferung auf Humes Wunsch unterdrückt. Erste Veröffentlichung (postum) in: David Hume: Five Dissertations. London 1777. Der Text folgt der Übersetzung durch Friedrich Paulsen von 1877.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Über die Unsterblichkeit der Seele</note>
+
+<pb n="157" facs="#f0001"/>
+<head>David Hume</head>
+<head>Über die Unsterblichkeit der Seele</head>
+<head><hi rendition="#i">(Of the Immortality of the Soul)</hi></head>
+<p rendition="#et">Durch das bloße Licht der Vernunft scheint es schwer, die Unsterblichkeit der Seele zu beweisen; die Argumente dafür werden gewöhnlich entweder metaphysischen, oder moralischen, oder physischen Gesichtspunkten entnommen. In Wirklichkeit ist es das Evangelium allein, welches »Leben und unsterbliches Wesen ans Licht gebracht hat.«</p>
+<p rendition="#et">I. Es ist ein Gemeinplatz der Metaphysik, daß die Seele immateriell und daß es dem Gedanken unmöglich ist, einer materiellen Substanz anzugehören.</p>
+<p rendition="#et">Aber eben die Metaphysik lehrt uns, daß der Begriff der Substanz ganz verworren und unvollkommen ist, und daß wir keine andere Vorstellung von einer Substanz haben als von einem Aggregat einzelner Eigenschaften, die einem unbekannten Etwas anhängen. Materie und Geist sind daher im Gründe gleich unbekannt, und wir können nicht bestimmen, welche Eigenschaften der einen oder andern anhangen.</p>
+<p rendition="#et">Ebenso lehrt sie uns, daß über Ursache und Wirkung nichts <hi rendition="#i">a priori</hi> ausgemacht werden kann; und daß, da Erfahrung die einzige Quelle unserer Urteile dieser Art ist, wir nicht irgendwo anders her wissen können, ob nicht die Materie durch ihre Struktur oder Anordnung die Ursache des Gedankens sein kann. Abstraktes Räsonnement kann keine Frage mit Bezug auf Tatsachen oder Dasein entscheiden.</p>
+<p rendition="#et">Doch, geben wir zu, daß eine geistige Substanz durch die Welt verstreut sei, etwa wie das ätherische Feuer der Stoiker, und daß diese das Substrat sei, welches <pb n="157" facs="#f0002"/> einzig den Gedanken trage, so haben wir Grund aus der Analogie zu schließen, daß die Natur davon in gleicher Weise Gebrauch macht, wie von der andern Substanz, der Materie. Sie verwendet dieselbe als eine Art Teig oder Ton, bildet sie in mannigfache Formen und Existenzen, löst nach einiger Zeit jede Bildung auf und fügt den Stoff in eine neue Form. Wie dieselbe materielle Substanz nach und nach den Leib aller Tiere bilden kann, so kann dieselbe geistige Substanz ihre Seelen bilden: ihr Selbstbewußtsein, oder das System von Gedanken, welches sie während des Lebens bildeten, mag jedesmal durch den Tod aufgelöst werden, und nichts interessiert sie an der neuen Gestaltung. Dieselben Männer, welche die Sterblichkeit der Seele am entschiedensten behaupteten, haben die Unsterblichkeit ihrer Substanz nie geleugnet; und daß eine immaterielle Substanz so gut wie eine materielle ihr Gedächtnis und ihr Selbstbewußtsein verlieren könne, wird zum Teil in der Erfahrung gegeben.</p>
+<p rendition="#et">Nach einem Schluß aus dem gemeinen Lauf der Dinge und ohne Annahme einer neuen Einmischung der höchsten Ursache, welche in der Philosophie niemals zugelassen werden sollte, ist dasjenige, was unvergänglich ist, auch unentstehbar. Wenn demnach die Seele unsterblich ist, so existierte sie auch vor der Geburt; und wenn diese frühere Existenz uns nichts angeht, so tut es auch die folgende nicht.</p>
+<p rendition="#et">Es ist kein Zweifel, daß Tiere fühlen, denken, lieben, hassen, wollen und sogar überlegen, wenn auch in einer weniger vollkommenen Weise als der Mensch: sind auch ihre Seelen immateriell und unsterblich?</p>
+<p rendition="#et">II. Wir wollen nun die moralischen Beweise überlegen, besonders die aus der Gerechtigkeit Gottes abgeleiteten, von dem man voraussetzt, daß er an der künftigen Strafe der Lasterhaften und der Belohnung der Tugendhaften interessiert sei.</p>
+<p rendition="#et">Aber diese Beweise gründen sich auf die Voraussetzung, daß Gott Eigenschaften habe, außer den in der Welt manifestierten, mit denen allein wir bekannt sind. Woher schließen wir auf das Dasein dieser Eigenschaften?</p>
+<p rendition="#et"><pb n="158" facs="#f0003"/> Mit großer Sicherheit dürfen wir behaupten, daß dasjenige, von dem wir wissen, daß Gott es wirklich getan habe, das beste sei; aber sehr unsicher ist die Behauptung, daß er allemal tun muß, was uns das beste scheint. In wie vielen Fällen würde dieser Schluß, auf die gegenwärtige Welt angewendet, uns irre führen?</p>
+<p rendition="#et">Wenn aber irgendeine Absicht der Natur deutlich ist, so dürfen wir behaupten, daß, soweit wir durch natürliche Vernunft urteilen können, die ganze Absicht und Zwecksetzung in der Schöpfung des Menschen auf das gegenwärtige Leben begrenzt ist. Mit wie geringer Anteilnahme sieht er, infolge der angeborenen Natur der Seele und der Gefühle, über dies Leben hinaus? Ist ein Vergleich, sei es mit Bezug auf Festigkeit oder Wirksamkeit, zwischen jener schwankenden Idee und der zweifelhaftesten Überzeugung von irgend etwas Tatsächlichem, das im gewöhnlichen Leben begegnet?</p>
+<p rendition="#et">In der Tat erheben sich in einigen Gemütern unerklärliche Schrecken mit Bezug auf die Zukunft; aber diese würden schnell verschwinden, wenn sie nicht künstlich durch Lehre und Erziehung gepflegt würden. Und ihre Pfleger, was haben sie für einen Beweggrund? Allein die Gewinnung ihres Lebensunterhalts und die Erwerbung von Macht und Reichtum in dieser Welt. Ihr eigener Eifer und ihr Bemühen beweisen also gegen sie.</p>
+<p rendition="#et">Welche Grausamkeit, welche Unbilligkeit, welche Ungerechtigkeit der Natur, unser Interesse und unsere Einsicht auf diese Welt zu beschränken, wenn uns ein anderer Schauplatz von unendlich größerer Bedeutung erwartet. Dürfte ein so barbarischer Betrug einem gütigen und weisen Wesen zugeschrieben werden?</p>
+<p rendition="#et">Man sehe, mit wie genauer Angemessenheit die auszuführende Absicht und die ausführenden Kräfte durch die ganze Natur hindurch einander angepaßt sind. Wenn die Vernunft des Menschen ihm große Überlegenheit über die anderen Tiere verschafft, so sind seine Bedürfnisse in entsprechender Weise vermehrt: seine ganze Zeit, seine ganze Fähigkeit, Tätigkeit, Tapferkeit und Leidenschaftlichkeit finden ausreichende Verwendung in Abwehr des Elends von seinem gegenwärtigen Zustande. Und oft, ja fast <pb n="159" facs="#f0004"/> stets sind sie für das ihnen zugewiesene Geschäft zu schwach.</p>
+<p rendition="#et">Ein Paar Schuhe ist vielleicht noch nie zu der höchsten Vollkommenheit, welche dieses Bekleidungsstück erreichen kann, gebracht worden; und schon ist es notwendig, oder wenigstens sehr nützlich, daß es Staatsmänner und Sittenlehrer, ja sogar Geometer, Dichter und Philosophen unter den Menschen gebe.</p>
+<p rendition="#et">Die Kräfte des Menschen sind, wenn wir allein dieses Leben in Betracht ziehen, seinen Bedürfnissen nicht mehr überlegen, als die der Füchse und Hasen im Vergleich zu ihren Bedürfnissen und ihrer Lebensdauer. Der Schluß aus der Gleichheit des Grundes liegt auf der Hand.</p>
+<p rendition="#et">Bei der Theorie der Sterblichkeit der Seele läßt sich die Inferiorität der weiblichen Fähigkeit leicht rechtfertigen. Ihr häusliches Leben erfordert keine größeren Fähigkeiten weder des Geistes noch des Leibes. Dieser Umstand kommt in Wegfall und wird ganz unerheblich bei der religiösen Theorie: das eine Geschlecht hat die gleiche Aufgabe zu erfüllen wie das andere, ihre Verstandes- und Willenskräfte müßten ebenfalls gleich sein, und zwar beide unendlich größer als jetzt.</p>
+<p rendition="#et">Da jede Wirkung eine Ursache voraussetzt, und diese wieder eine, bis wir zu der letzten Ursache aller Dinge kommen, welche die Gottheit ist, so ist alles, was sich ereignet, durch ihn angeordnet und nichts kann Gegenstand seiner Strafe und Rache sein.</p>
+<p rendition="#et">Nach welcher Regel sollen Strafen und Belohnungen ausgeteilt werden? Was ist das göttliche Maß von Verdienst und Schuld? Sollen wir annehmen, daß menschliche Empfindungen in der Gottheit stattfinden? Eine wie verwegene Annahme! Wir haben keine Vorstellung von andern Empfindungen.</p>
+<p rendition="#et">Nach menschlichem Gefühl sind Verstand, Mut, gute Sitten, Fleiß, Einsicht, Genie wesentliche Bestandteile persönlicher Auszeichnung. Sollen wir demnach einen Himmel für Dichter und Helden erbauen, wie die alte Mythologie? Warum alle Belohnungen auf eine Art von Verdienst einschränken?</p>
+<p rendition="#et">Strafe ohne Zweck und Absicht ist mit <hi rendition="#i">unseren</hi> Vorstellungen <pb n="160" facs="#f0005"/> von Güte und Gerechtigkeit unverträglich; und kein Zweck kann durch sie gefördert werden, wenn das ganze Spiel abgeschlossen ist.</p>
+<p rendition="#et">Strafe muß, nach <hi rendition="#i">unseren</hi> Begriffen, dem Vergehen angemessen sein. Warum denn ewige Strafen für zeitliche Vergehen eines so schwachen Wesens als des Menschen? Kann irgend jemand die Wut Alexanders billigen, der ein ganzes Volk auszurotten vorhatte, weil sie sein Lieblingspferd Bukephalus weggenommen hatten?</p>
+<p rendition="#et">Himmel und Hölle setzen zwei verschiedene Arten von Menschen voraus: gute und böse; aber der größte Teil der Menschen schwankt zwischen Laster und Tugend.</p>
+<p rendition="#et">Wenn jemand mit dem Vorhaben die Welt durchwanderte, den Rechtschaffenen eine gute Mahlzeit, den Bösen eine tüchtige Tracht Prügel zu geben, so würde ihm oft die Wahl schwer werden und er würde finden, daß Tugend und Schuld der meisten Männer wie Weiber weder das eine noch das andere zu verdienen groß genug sei.</p>
+<p rendition="#et">Einen andern Maßstab von Billigung und Tadel als den menschlichen vorauszusetzen, verwirrt alle Dinge. Woher lernen wir, daß es so etwas wie moralische Unterscheidung gibt als von unseren eigenen Empfindungen?</p>
+<p rendition="#et">Wer könnte, wenn er keine persönliche Beleidigung erfahren hat (und welcher Mensch von guter Art könnte es selbst dann?), allein aus der Empfindung der Mißbilligung heraus selbst nur die gemeinen gesetzlichen leichten Strafen auferlegen? Stählt irgend etwas die Brust unserer Richter und Geschworenen gegen die Empfindungen der Menschlichkeit, als die Rücksicht auf die Notwendigkeit und das öffentliche Interesse?</p>
+<p rendition="#et">Nach römischem Gesetz wurden diejenigen, welche sich des Vatermordes schuldig gemacht hatten, mit einem Affen, einem Hund und einer Schlange in einen Sack getan und in den Fluß geworfen. Der Tod allein war die Strafe derer, die ihre Schuld, wie erwiesen sie sein mochte, leugneten. Ein Verbrecher wurde vor Augustus verhört und nach vollständiger Überführung verurteilt; der letzten Frage, die er stellte, gab der menschliche Kaiser eine solche Wendung, daß sie den Elenden zu einer Leugnung seiner Schuld anleitete. »Sicherlich (sagte der Fürst) <pb n="161" facs="#f0006"/> Ihr tötetet nicht Euren Vater«?<note place="end" n="1"><bibl><ref>/Philosophie/M/Hume, David/Über die Unsterblichkeit der Seele#F701</ref></bibl></note> Diese Milde, selbst gegen den größten Verbrecher und selbst zur Verhinderung so unerheblichen Leidens, entspricht unseren natürlichen Ideen von Recht. Ja, auch der bigotteste Priester würde, wenn er ohne Reflexion seinem natürlichen Gefühl folgte, dieselbe billigen, vorausgesetzt, daß das Verbrechen nicht Ketzerei oder Unglaube wäre, denn gegen diese Verbrechen möchte er überhaupt keine Nachsicht kennen, da sie ihn in seinen zeitlichen Interessen und seinem Vorteil beeinträchtigen.</p>
+<p rendition="#et">Die Hauptquelle moralischer Ideen ist die Erwägung des Interesses der menschlichen Gesellschaft. Verdienen diese so kurzen, so geringfügigen Interessen durch ewige und unendliche Strafen geschützt zu werden? Die Verdammnis eines einzigen Menschen ist ein unendlich größeres Übel in der Welt, als der Sturz von tausend Millionen Königreichen.</p>
+<p rendition="#et">Die Natur hat die menschliche Kindheit besonders schwach und sterblich gemacht, als wollte sie die Vorstellung von einem Prüfungsstand widerlegen; die Hälfte der Menschen stirbt, ehe sie vernünftige Geschöpfe sind.</p>
+<p rendition="#et">III. Die physischen Argumente aus der Analogie der Natur sprechen deutlich für die Sterblichkeit der Seele; und sie sind in Wahrheit die einzigen philosophischen Argumente, welche mit Bezug auf diese Frage oder überhaupt mit Bezug auf Tatsachenfragen zugelassen werden sollten.</p>
+<p rendition="#et">Wo immer zwei Objekte so nahe miteinander verbunden sind, daß alle Veränderungen, welche wir an dem einen wahrnehmen von entsprechenden Veränderungen an dem andern begleitet sind, da müssen wir nach den Regeln der Analogie schließen, daß, wenn in ersterem noch größere Veränderungen eintreten und es gänzlich aufgelöst wird, eine gänzliche Auflösung auch des anderen folgt.</p>
+<p rendition="#et">Der Schlaf, eine sehr kleine Veränderung im Körper, wird von einem zeitweiligen Erlöschen, wenigstens einer großen Verwirrung in der Seele begleitet.</p>
+<p rendition="#et"><pb n="162" facs="#f0007"/> Die Schwäche des Körpers und des Geistes in der Kindheit sind genau entsprechend, ihre Kraft im Mannesalter, ihre sympathische Störung in Krankheit, ihr gemeinsamer allmählicher Verfall im Alter. Der weitere Schritt scheint unvermeidlich: ihre gemeinsame Auflösung im Tode.</p>
+<p rendition="#et">Die letzten Symptome, in welchen der Geist sich äußert, sind Unordnung, Schwäche, Empfindungslosigkeit und Stumpfsinn, die Vorläufer seiner Vernichtung. Der Fortschritt derselben Ursachen löscht ihn, dieselben Wirkungen steigernd, gänzlich aus.</p>
+<p rendition="#et">Wenn wir nach der gewöhnlichen Analogie der Natur urteilen, so kann keine Form die Verpflanzung aus ihren ursprünglichen Lebensbedingungen in sehr verschiedene überdauern. Bäume gehen im Wasser, Fische in der Luft, Tiere in der Erde zugrunde. Schon ein so kleiner Unterschied wie der des Klimas ist oft tötlich. Was ist für ein Grund zu der Einbildung, daß eine so ungeheure Veränderung, als die Seele durch die Auflösung des Körpers und aller seiner Organe des Denkens und Empfindens erfährt, ohne die Auflösung des Ganzen überstanden werden könne?</p>
+<p rendition="#et">Alles ist gemeinsam zwischen Leib und Seele. Die Organe des einen sind alle zugleich Organe der andern; daher muß auch das Dasein der einen von dem des andern abhangen.</p>
+<p rendition="#et">Die Seelen der Tiere sind zugestandenermaßen sterblich; und diese sind den Seelen der Menschen so ähnlich, daß die Analogie ein sehr starkes Argument abgibt. Ihre Leiber sind den unsrigen nicht ähnlicher, dennoch verwirft niemand ein Argument aus der vergleichenden Anatomie. Die Metempsychose ist daher das einzige System dieser Art, dem die Philosophie Gehör geben kann.</p>
+<p rendition="#et">Nichts in dieser Welt ist beständig, jedes Ding, wie fest dem Anschein nach, ist in fortwährendem Fluß oder Wechsel, die Welt selbst trägt Anzeichen von Schwäche und Auflösung an sich. Wie entgegen aller Analogie ist es daher sich einzubilden, daß eine einzige Form, anscheinend die schwächste von allen und den größten Störungen unterworfen, unsterblich und unauflöslich ist? Was <pb n="163" facs="#f0008"/> ist das für eine Theorie! Wie leichthin, um nicht zu sagen leichtsinnig aufgestellt!</p>
+<p rendition="#et">Auch die Verfügung über die unendliche Zahl posthumer Existenzen muß der religiösen Theorie Schwierigkeiten machen. Jeden Planeten jedes Sonnensystems haben wir die Freiheit als bevölkert mit intelligenten sterblichen Wesen vorzustellen, wenigstens läßt sich eine gegenteilige Annahme nicht beweisen. Für diese müßte demnach bei jeder neuen Generation eine neue Welt jenseit der Grenzen der gegenwärtigen erbaut werden, oder es müßte am Anfang eine so wunderbar weite Welt geschaffen sein, daß sie diese beständig einströmenden Wesen fassen kann. Darf eine Philosophie so kühne Voraussetzungen annehmen, und zwar lediglich unter dem bloßen Vorwand der Möglichkeit?</p>
+<p rendition="#et">Wenn gefragt wird, ob Agamemnon, Thersites, Hannibal, Nero und jeder stupide Bursche, der jemals in Italien, Skythien, Bactrien oder Guinea gelebt hat, jetzt noch am Leben ist, kann jemand sich einreden, daß eine Durchforschung der Natur Beweismittel an die Hand geben kann, eine so befremdliche Frage bejahend zu entscheiden? Der Mangel an Argumenten, von der Offenbarung abgesehen, begründet hinlänglich die Verneinung. <hi rendition="#i">Quanto facilius certiusque</hi>, sagt Plinius, <hi rendition="#i">sibi quemque credere ac specimen securitatis antegenitali sumere experimento.</hi><note place="end" n="2"><bibl><ref>/Philosophie/M/Hume, David/Über die Unsterblichkeit der Seele#F702</ref></bibl></note> Unsere Empfindungslosigkeit vor der Zusammensetzung des Körpers scheint für die natürliche Vernunft einen gleichen Zustand nach der Auflösung zu beweisen.</p>
+<p rendition="#et">Wäre unsere Furcht vor der Vernichtung eine ursprüngliche Empfindung und nicht die Wirkung unseres allgemeinen Verlangens nach Glück, so würde sie eher die Sterblichkeit der Seele beweisen; denn da die Natur nichts umsonst tut, so würde sie uns nicht Furcht vor einem unmöglichen Ereignis eingepflanzt haben. Sie kann uns Furcht vor einem unvermeidlichen Ereignis einpflanzen, vorausgesetzt, daß unsere Bemühungen, wie hier der Fall ist, es auf einige Entfernung hinausschieben können. Der <pb n="164" facs="#f0009"/> Tod ist am Ende unvermeidlich; aber das Menschengeschlecht könnte sich nicht erhalten, hätte uns die Natur nicht eine Abneigung gegen ihn eingepflanzt. – Alle Lehren, welche von unseren Neigungen begünstigt werden, sind verdächtig und die Hoffnungen und Befürchtungen, welche dieser Theorie den Ursprung gaben, liegen auf der Hand.</p>
+<p rendition="#et">Es ist ein unendlicher Vorteil in jeder Streitfrage die negative Seite zu behaupten. Wenn die Frage außerhalb des gewöhnlichen erfahrungsmäßigen Laufes der Natur liegt, so ist dieser Umstand meist, wenn nicht stets entscheidend. Durch welche Argumente oder Analogien können wir einen Zustand der Existenz beweisen, den niemals jemand sah und der auf keine Weise einem, der je gesehen wurde, gleicht? Wer will in irgendeine vorgebliche Philosophie so viel Vertrauen setzen, um auf ihr Zeugnis die Wirklichkeit einer so wunderbaren Welt zu gründen? Eine neue Art Logik ist zu diesem Zweck erforderlich, und neue Geisteskräfte, die uns diese Logik zu verstehen befähigen.</p>
+<p rendition="#et">Nichts kann die unendliche Verpflichtung, welche die Menschheit gegen die göttliche Offenbarung hat, in helleres Licht setzen, als der Umstand, daß wir kein anderes Mittel finden, welches diese große und wichtige Wahrheit feststellen könnte.</p>
+<pb n="165" facs="#f00010"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Hume, David/Über die Unsterblichkeit der Seele#N701</ref>1</bibl> Sueton. August. cap. 33.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Hume, David/Über die Unsterblichkeit der Seele#N702</ref>2</bibl> Um wieviel leichter und sicherer möchte jeder sich selber glauben und den Beweis seiner Sicherheit vorgeburtlicher Erfahrung entnehmen. Lib. 7. cap. 56.</note>
+
+</body></text></TEI>

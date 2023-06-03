@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winckelmanns Werke in einem Band</title>
+        <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Winckelmanns Werke in einem Band. Herausgegeben von Helmut Holtzhauer, Berlin und
+      Weimar: Aufbau, 1969 (Bibliothek Deutscher Klassiker).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Winckelmanns Werke in einem Band</title>
+      <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Aufbau-Verlag</name>
+      </publisher><pubPlace>Berlin, Weimar</pubPlace>
+      <date type="publication">1969</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Bibliothek der schönen Wissenschaften und freien Künste, hg. v. Christian Felix Weiße (Leipzig), 1. Jg., 5. Heft, 1759.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Erinnerung über die Betrachtung der Werke der Kunst</note>
+
+
+
+<head>Johann Joachim Winckelmann</head>
+<head>Erinnerung über die Betrachtung der Werke der Kunst</head>
+
+<p><pb n="38" facs="#f0001"/>
+Willst du über Werke der Kunst urteilen, so sieh anfänglich hin über das, was sich durch Fleiß und Arbeit anpreist, und sei aufmerksam auf das, was der Verstand hervorgebracht hat, denn der Fleiß kann sich ohne Talent zeigen, und dieses erblickt man auch, wo der Fleiß fehlt. Ein sehr mühsam gemachtes Bild vom Maler oder Bildhauer ist, bloß als dieses, mit einem mühsam gearbeiteten Buche zu vergleichen. Denn, wie gelehrt zu schreiben nicht die größte Kunst ist, so ist ein sehr fein und glatt ausgepinseltes Bild allein kein Beweis von einem großen Künstler. Was die ohne Not gehäuften Stellen vielmals nie gelesener Bücher in einer Schrift sind, das ist in einem Bilde die Andeutung aller Kleinigkeiten. Diese Betrachtung wird dich nicht erstaunen machen über die Lorbeerblätter an dem Apollo und der Daphne vom Bernini, noch über das Netz an einer Statue in Deutschland vom älteren Adam aus Paris. Ebenso sind keine Kennzeichen, an welchen der Fleiß allein Anteil hat, fähig zur Kenntnis oder zum Unterschiede des Alten vom Neuen.</p>
+<p rendition="#et">Gib Achtung, ob der Meister des Werks, welches du betrachtest, selbst gedacht oder nur nachgemacht hat, ob er die vornehmste Absicht der Kunst, die Schönheit, gekannt oder nach den ihm gewöhnlichen Formen gebildet und ob er als ein Mann gearbeitet oder als ein Kind gespielt hat.</p>
+<p rendition="#et">Es können Bücher und Werke der Kunst gemacht werden, ohne viel zu denken (ich schließe von dem, was wirklich ist); ein Maler kann auf diese mechanische Art eine Madonna <pb n="38" facs="#f0002"/>
+bilden, die sich sehen läßt, und ein Professor sogar eine Metaphysik schreiben, die tausend jungen Leuten gefällt. Die Fähigkeit des Künstlers zu denken aber kann sich nur in oft wiederholten Vorstellungen sowie in eigenen Erfindungen zeigen. Denn so wie ein einziger Zug die Bildung des Gesichts verändert, so kann die Andeutung eines einzigen Gedankens, welcher sich in der Richtung eines Gliedes äußert, dem Vorwurfe eine andere Gestalt geben und die Würdigkeit des Künstlers dartun. Plato in Raffaels Schule von Athen rührt nur den Finger, und er sagt genug, und Figuren vom Zuccari sagen wenig mit allen ihren verdrehten Wendungen. Denn wie es schwerer ist, viel mit wenigem anzuzeigen, als es das Gegenteil ist, und der richtige Verstand mit wenigem mehr als mit vielem zu wirken liebt, so wird eine einzelne Figur der Schauplatz aller Kunst eines Meisters sein können. Aber es würde den meisten Künstlern ein ebenso hartes Gebot sein, eine Begebenheit in einer einzigen oder in ein paar Figuren, und dieses in Groß gezeichnet, vorzustellen, als es einem Skribenten sein würde, zum Versuch eine ganz kurze Schrift aus eigenem Stoff abzufassen, denn hier kann beider Blöße erscheinen, die sich in der Vielheit versteckt. Eben daher lieben fast alle angehenden und sich selbst überlassenen jungen Künstler mehr, einen Entwurf von einem Haufen zusammengestellter Figuren zu machen, als eine einzige völlig auszuführen. Da nun das Wenige, mehr oder geringer, den Unterschied unter Künstlern macht und das wenige Unmerkliche ein Vorwurf denkender empfindlicher Geschöpfe ist, das Viele und Handgreifliche aber schlaffe Sinne und einen stumpfen Verstand beschäftigt, so wird der Künstler, der sich Klugen zu gefallen begnügt, im Einzelnen groß und im Wiederholten und Bekannten mannigfaltig und denkend erscheinen können. Ich rede hier wie aus dem Munde des Altertums. Dieses lehren die Werke der Alten, und es würde ihnen ähnlich geschrieben und gebildet werden, wenn ihre Schriften wie ihre Bilder betrachtet und untersucht würden.</p>
+<p rendition="#et"><pb n="39" facs="#f0003"/>
+Der Stolz in dem Gesicht des Apollo äußert sich vornehmlich in dem Kinn und in der Unterlefze, der Zorn in den Nüstern seiner Nase und die Verachtung in der Öffnung des Mundes. Auf den übrigen Teilen dieses göttlichen Hauptes wohnen die Grazien, und die Schönheit bleibt bei der Empfindung unvermischt und rein wie die Sonne, deren Bild er ist. Im Laokoon siehst du bei dem Schmerz den Unmut (wie über ein unwürdiges Leiden) in dem Krausen der Nase und das väterliche Mitleiden auf den Augäpfeln, wie einen trüben Duft, schwimmen. Diese Schönheiten in einem einzigen Drucke sind wie ein Bild in einem Worte beim Homer; nur der kann sie finden, welcher sie kennt. Glaube gewiß, daß der alten Künstler sowie ihrer Weisen Absicht war, mit wenigem viel anzudeuten. Daher liegt der Verstand der Alten tief in ihren Werken; in der neueren Welt ist es meistenteils wie bei verarmten Krämern, die alle ihre Ware ausstellen. Homer gibt ein höheres Bild, wenn alle Götter sich von ihrem Sitze erheben, da Apollo unter ihnen erscheint, als Callimachus mit seinem ganzen Gesange voller Gelehrsamkeit. Ist ein Vorurteil nützlich, so ist es die Überzeugung von dem, was ich sage; mit derselben nähere dich zu den Werken des Altertums in Hoffnung, viel zu finden, so wirst du viel suchen. Aber du mußt dieselbe mit großer Ruhe betrachten, denn das Viele im Wenigen und die stille Einfalt wird dich sonst unerbaut lassen wie die eilfertige Lesung des ungeschmückten großen Xenophon.</p>
+<p rendition="#et">Gegen das eigene Denken setze ich das Nachmachen, nicht die Nachahmung. Unter jenem verstehe ich die knechtische Folge, in dieser aber kann das Nachgeahmte, wenn es mit Vernunft geführt wird, gleichsam eine andere Natur annehmen und etwas Eigenes werden. Domenichino, der Maler der Zärtlichkeit, hat die Köpfe des sogenannten Alexander zu Florenz und der Niobe zu Rom zu Mustern gewählt. Sie sind in seinen Figuren zu erkennen (Alexander im Johannes zu S. Andrea della Valle in Rom und Niobe in dem Gemälde des Tesoro zu S. Gennaro in Neapel), aber doch sind <pb n="40" facs="#f0004"/>
+sie nicht ebendieselben. Auf Steinen und Münzen findet man sehr viele Bilder aus Poussins Gemälden; Salomon in seinem Urteil ist der Jupiter auf macedonischen Münzen, aber sie sind bei ihm wie eine versetzte Pflanze, die sich verschieden vom ersten Grunde zeigt.</p>
+<p rendition="#et">Nachmachen ohne zu denken ist: eine Madonna vom Maratta, einen h. Joseph vom Barocci und andere Figuren anderswo nehmen und ein Ganzes machen, wie eine große Menge Altarblätter auch in Rom sind. Ein solcher Maler war der kürzlich verstorbene berühmte Masucci zu Rom. Nachmachen nenne ich ferner, gleichsam nach einem gewissen Formular arbeiten, ohne selbst zu wissen, daß man nicht denkt. Von diesem Schlage ist derjenige, welcher für einen Prinzen die Vermählung der Psyche, die ihm vorgeschrieben wurde, verfertigte. Er hatte vermutlich keine andere gesehen als die vom Raffael in Klein-Farnese; die seinige könnte auch eine Königin aus Saba sein. Die meisten letzten großen Statuen der Heiligen in St. Peter zu Rom sind von dieser Art: große Stücke Marmor, welche ungearbeitet jedes 500 Scudi kosten. Wer eine sieht, hat sie alle gesehen.</p>
+<p rendition="#et">Das zweite Augenmerk bei Betrachtung der Werke der Kunst soll die Schönheit sein. Der höchste Vorwurf der Kunst für denkende Menschen ist der Mensch oder nur dessen äußere Fläche, und diese ist für den Künstler so schwer auszuforschen wie von den Weisen das Innere desselben, und das Schwerste ist, was es nicht scheint, die Schönheit, weil sie, eigentlich zu reden, nicht unter Zahl und Maß fällt. Eben daher ist das Verständnis des Verhältnisses des Ganzen, die Wissenschaft von Gebeinen und Muskeln, nicht so schwer und allgemeiner als die Kenntnis des Schönen; und wenn auch das Schöne durch einen allgemeinen Begriff könnte bestimmt werden, welches man wünscht und sucht, so würde sie dem, welchem der Himmel das Gefühl versagt hat, nicht helfen. Das Schöne besteht in der Mannigfaltigkeit im Einfachen; dieses ist der Stein der Weisen, den die Künstler zu suchen haben und welchen wenige finden; nur der versteht <pb n="41" facs="#f0005"/>
+die wenigen Worte, der sich diesen Begriff aus sich selbst gemacht hat. Die Linie, die das Schöne beschreibt, ist elliptisch, und in derselben ist das Einfache und eine beständige Veränderung, denn sie kann mit keinem Zirkel beschrieben werden und verändert in allen Punkten ihre Richtung. Dieses ist leicht gesagt und schwer zu lernen. Welche Linie, mehr oder weniger elliptisch, die verschiedenen Teile zur Schönheit formt, kann die Algebra nicht bestimmen, aber die Alten kannten sie, und wir finden sie vom Menschen bis auf ihre Gefäße. So wie nichts Zirkelförmiges am Menschen ist, so macht auch kein Profil eines alten Gefäßes einen halben Zirkel.</p>
+<p rendition="#et">Wenn von mir verlangt würde, sinnliche Begriffe der Schönheit zu bestimmen, welches sehr schwer ist, so würde ich, in Ermangelung alter vollkommener Werke oder deren Abgüsse, kein Bedenken tragen, dieselben nach einzelnen Teilen, von den schönsten Menschen genommen an dem Orte, wo ich schrieb, zu bilden. Da nun dieses jetzt im Deutschen nicht geschehen kann, so müßte ich, wenn ich lehren wollte, die Begriffe der Schönheit verneinungsweise mich anzudeuten begnügen, ich müßte mich aber aus Mangel der Zeit auf das Gesicht einschränken.</p>
+<p rendition="#et">Die Form der wahren Schönheit hat nichtunterbrochene Teile. Auf diesen Satz gründet sich das Profil der alten jugendlichen Köpfe, welches nichts Linealmäßiges, auch nichts Eingebildetes ist, aber es ist selten in der Natur und scheint sich noch seltener unter einem rauhen als glücklichen Himmel zu finden. Es besteht in der sanftgesenkten Linie von der Stirn bis auf die Nase. Diese Linie ist der Schönheit dermaßen eigen, daß ein Gesicht, welches, von vorne gesehen, schön scheint, von der Seite erblickt, vieles verliert, je mehr dessen Profil von der sanften Linie abweicht. Diese Linie hat Bernini, der Kunstverderber, in sei nem größten Flor nicht kennen wollen, weil er sie in der gemeinen Natur, welche nur allein sein Vorwurf gewesen, nicht gefunden, und seine Schule folgt ihm. Aus diesem Satze folgt ferner, daß weder <pb n="42" facs="#f0006"/>
+das Kinn noch die Wangen, durch Grübchen unterbrochen, der Form der wahren Schönheit gemäß sein können. Es kann also auch die Mediceische Venus, die ein solches Kinn hat, keine hohe Schönheit sein, und ich glaube, daß ihre Bildung von einer bestimmten schönen Person genommen ist, so wie zwei andere Venus in dem Garten hinter dem Palast Farnese offenbare Porträtköpfe haben.</p>
+<p rendition="#et">Die Form der wahren Schönheit hat die erhobenen Teile nicht stumpf und die gewölbten nicht abgeschnitten; der Augenknochen ist prächtig erhaben und das Kinn völlig gewölbt. Die besten Künstler der Alten haben daher dasjenige Teil, auf welchem die Augbraunen liegen, scharf geschnitten gehalten, und in dem Verfalle der Künste im Altertume und in dem Verderbnis neuerer Zeiten ist dieses Teil rundlich und stumpf vertrieben, und das Kinn ist insgemein zu kleinlich. Aus dem stumpf gehaltenen Augenknochen kann man unter anderm urteilen, daß der berühmte, fälschlich so genannte Antinous im Belvedere zu Rom nicht aus der höchsten Zeit der Kunst sein kann, so wenig wie die Venus. Dieses ist allgemein gesprochen von dem Wesentlichen der Schönheit des Gesichts, welches in der Form besteht; die Züge und Reizungen, welche dieselbe erhöhen, sind die Grazie, von welcher besonders zu handeln ist. Aber ich merke, daß ich meinen Vorsatz überschreite, welchen mir die Kürze der Zeit und meine überhäufte Arbeit setzen. Ich will hier kein System der Schönheit, wenn ich auch könnte, schreiben.</p>
+<p rendition="#et">Eine männliche Figur hat ihre Schönheit, wie eine jugendliche; aber da alles einfache Mannigfaltige in allen Dingen schwerer ist als das Mannigfaltige an sich, so ist eben deswegen eine schöne jugendliche Figur groß zu zeichnen (ich verstehe in dem möglichen Grade der Vollkommenheit) das Schwerste. Die Überzeugung ist für alle Menschen auch von dem Kopfe allein. Nehmt das Gesicht der schönsten Figur in neueren Gemälden, so werdet ihr fast allezeit eine Person kennen, die schöner ist. Ich urteile nach Rom und Florenz, wo die schönsten Gemälde sind.</p>
+<p rendition="#et"><pb n="43" facs="#f0007"/>
+Ist ein Künstler mit persönlicher Schönheit, mit Empfindung des Schönen, mit Geist und Kenntnis des Altertums begabt gewesen, so war es Raffael; und dennoch sind seine Schönheiten unter dem Schönsten in der Natur. Ich kenne Personen, die schöner sind als seine unvergleichliche Madonna im Palast Pitti zu Florenz und als Alcibiades in der Schule von Athen: die Madonna des Correggio ist keine hohe Idee, noch die vom Maratta in der Galerie zu Dresden, ohne Nachteil von den ursprünglichen Schönheiten in der Nacht des erstern zu reden; die berühmte Venus vom Tizian in der Tribuna zu Florenz ist nach der gemeinen Natur gebildet. Die Köpfe kleinerer Figuren vom Albano scheinen schön; aber vom Kleinen ins Große zu gehen ist hier fast, als wenn man nach Erlernung der Schiffkunst aus Büchern die Führung eines Schiffes im Ozean unternehmen wollte. Poussin, welcher das Altertum mehr als seine Vorgänger untersucht, hat sich gekannt und sich niemals ins Große gewagt.</p>
+<p rendition="#et">Die Griechen aber scheinen Schönheiten entworfen zu haben, wie ein Topf gedreht wird, denn fast alle Münzen ihrer freien Staaten zeigen Köpfe, die vollkommener sind von Form, als was wir in der Natur kennen, und diese Schönheit besteht in der Linie, die das Profil bildet. Sollte es nicht leicht scheinen, den Zug dieser Linie zu finden? – Und in allen Münzbüchern ist von derselben abgewichen. Hätte nicht Raffael, der sich beklagte, zur Galatee keine würdige Schönheit in der Natur zu finden, die Bildung von den besten syrakusanischen Münzen nehmen können, da die schönsten Statuen, außer dem Laokoon, zu seiner Zeit noch nicht entdeckt waren? Weiter als diese Münzen kann der menschliche Begriff nicht gehen, und ich hier auch nicht. Ich muß dem Leser wünschen, den Kopf des schönen Genius in der Villa Borghese, die Niobe und ihre Töchter, die Bilder der höchsten Schönheit, zu sehen; außer Rom müssen ihn die Abgüsse oder die geschnittenen Steine lehren. Zwei der schönsten jugendlichen Köpfe sind die Minerva vom Aspasius, jetzt zu Wien, und ein jugendlicher Herkules in dem Stoschischen <pb n="44" facs="#f0008"/>
+Museum zu Florenz. Wer die besten Werke des Altertums nicht hat kennenlernen, glaube nicht zu wissen, was wahrhaftig schön ist. Unsere Begriffe werden außer dieser Kenntnis einzeln und nach unserer Neigung gebildet sein. Von Schönheiten neuerer Meister kann ich nichts Vollkommenes angeben als die Griechische Tänzerin vom Herrn Mengs, groß wie die Natur, halbe Figur, in Pastell auf Holz gemalt, für den Marquis Croimare in Paris.</p>
+<p rendition="#et">Daß die Kenntnis der wahren Schönheit in Beurteilung der Werke der Kunst zur Regel dienen kann, bezeugen die mit großem Fleiße nach alten geschnittenen Steinen gearbeiteten neueren Steine. Natter hat sich gewagt, den angeführten Kopf der Minerva in gleicher Größe und kleiner zu kopieren, und dennoch hat er die Schönheit der Form nicht erreicht; die Nase ist um ein Haar zu stark, das Kinn ist zu platt und der Mund schlecht; und ebenso verhält es sich mit anderen Nachahmungen in dieser Art. Gelingt es den Meistern nicht, was ist von Schülern zu hoffen, und was könnte man sich von selbst entworfenen Schönheiten versprechen? Ich will nicht die Unmöglichkeit sogar der einfachen Nachahmung alter Köpfe daraus zu erkennen geben, aber es muß solchen Künstlern irgendwo fehlen. Natters Buch von geschnittenen Steinen zeigt nicht viel Einsicht der alten Kunst auch in der einzigen Art, die er allein getrieben, welches künftig kann dargetan werden.</p>
+<p rendition="#et">Die eigene Überzeugung von der schwer zu erreichenden Schönheit der Alten ist daher eine der vornehmsten Ursachen von der Seltenheit untergeschobener griechischer Münzen in der besten Zeit. Eine falsche neue Münze, die in griechischen freien Staaten geprägt ausgegeben würde, wäre gegen eine jede echte zu entdecken. Unter den kaiserlichen Münzen ist der Betrug leichter gewesen; die zu alten Münzen geschnittenen Stempel des berühmten Padovano sind im Museum Barberini zu Rom, und die von Michel, einem Franzosen, der diese Kunst zu Florenz getrieben, sind in dem Stoschischen Museum.</p>
+<p rendition="#et"><pb n="45" facs="#f0009"/>
+Was zum dritten die Ausarbeitung eines Werkes der Kunst im engeren Verstande nach dessen geendigtem Entwurfe betrifft, so ist der Fleiß in derselben zu loben, aber der Verstand zu schätzen. Die Hand des Meisters erkennt sich, so wie in der Schreibart an der Deutlichkeit und kräftigen Fassung der Gedanken, also in der Ausarbeitung des Künstlers an der Freiheit und Sicherheit der Hand. Auf der Verklärung Christi von Raffael sieht man die sicheren und freien Züge des großen Künstlers in den Figuren Christi, St. Peters und der Apostel zur rechten Hand und an der mühsam vertriebenen Arbeit des Giulio Romano an einigen Figuren zur Linken. Bewundere niemals, weder am Marmor die glänzende, sanfte Oberhaut, noch an einem Gemälde die spiegelnde glatte Fläche; jene ist eine Arbeit, die dem Tagelöhner Schweiß gekostet hat, und diese dem Maler nicht viel Nachsinnen. Der Apollo des Bernini ist so glatt wie der im Belvedere, und eine Madonna vom Trevisani ist noch viel fleißiger als die vom Correggio gemalt. Wo Stärke der Arme und Fleiß in der Kunst gilt, hat das Altertum nichts vor uns voraus; auch der Porphyr kann ebenso gut bearbeitet werden wie vor Alters, welches viele unwissende Skribenten leugnen, und zuletzt Carlencas in einem Buche, dessen Übersetzung den Deutschen keine Ehre macht.</p>
+<p rendition="#et">Die größere Glätte an Figuren tiefgeschnittener alter Steine ist nicht das Geheimnis, welches Maffei der Welt zum Besten mitteilend entdecken will, wodurch sich die Arbeit eines alten Künstlers im Steinschneiden von den neuern unterscheidet. Unsere Meister in ihrer Kunst haben die Glätte so hoch als die Alten getrieben; die Glätte der Ausarbeitung ist wie die feine Haut im Gesichte, die allein nicht schön macht.</p>
+<p rendition="#et">Ich tadle dadurch nicht die Glätte einer Statue, da sie zur Schönheit viel beiträgt, ohnerachtet ich sehe, daß die Alten das Geheimnis erreicht haben, eine Statue bloß mit dem Eisen auszuarbeiten, wie am Laokoon geschehen ist. Es ist auch in einem Gemälde die Sauberkeit des Pinsels ein großer <pb n="46" facs="#f00010"/>
+Wert desselben; dieses muß aber von Verschmelzung der Tinten unterschieden werden, denn eine baumrindenmäßige Fläche einer Statue würde so unangenehm sein als ein bloß mit Borstpinseln ausgeführtes Bild, sowohl in der Nähe als in der Ferne. Man muß mit Feuer entwerfen und mit Phlegma ausführen. Meine Meinung geht auf solche Arbeiten, deren größtes Verdienst der Fleiß allein ist, wie die aus der Berninischen Schule in Marmor und die von Denner, Seybold und ihresgleichen auf Leinewand.</p>
+<p rendition="#et">Mein Leser! Es ist diese Erinnerung nötig. Denn da die meisten Menschen nur an der Schale der Dinge umhergehen, so zieht auch das Liebliche, das Glänzende unser Auge zuerst an, und die bloße Warnung vor Irrungen, wie hier nur geschehen können, macht den ersten Schritt zur Kenntnis.</p>
+<p rendition="#et">Ich habe überhaupt in etlichen Jahren meines Aufenthaltes in Italien eine fast tägliche Erfahrung, wie sonderliche junge Reisende von blinden Führern geleitet werden und wie nüchtern sie über die Meisterstücke der Kunst hinflattern. Ich behalte mir vor, einen ausführlichen Unterricht hierüber zu erteilen.</p>
+<pb n="47" facs="#f00011"/>
+
+</body></text></TEI>

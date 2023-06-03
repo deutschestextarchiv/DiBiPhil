@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sämtliche Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Platon: Sämtliche Werke. Berlin: Lambert Schneider, [1940].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sämtliche Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Verlag Lambert Schneider</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1940</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden etwa zwischen 399 und 390 v. Chr. Erstdruck (in lateinischer Übersetzung durch Marsilio Ficino) in: Opera, Florenz o. J. (ca. 1482/84). Erstdruck des griechischen Originals in: Hapanta ta tu Platônos, herausgegeben von M. Musoros, Venedig 1513. Erste deutsche Übersetzung durch J. S. Müller unter dem Titel »Crito, vom Gehorsam gegen das Vaterland«, Hamburg 1740. Der Text folgt der Übersetzung durch Friedrich Daniel Ernst Schleiermacher von 1805.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Kriton</note>
+
+<head>Platon</head>
+<head>Kriton</head>
+<head><hi rendition="#i">(Kritôn)</hi></head>
+<pb n="37" facs="#f0001"/> <pb n="39" facs="#f0002"/><lb/>
+<head>Sokrates · Kriton</head>
+<p><hi rendition="#i">Sokrates:</hi> Wie bist du schon um diese Zeit gekommen, Kriton? Oder ist es nicht noch früh?</p>
+<p><hi rendition="#i">Kriton:</hi> Noch gar sehr.</p>
+<p><hi rendition="#i">Sokrates:</hi> Welche Zeit wohl?</p>
+<p><hi rendition="#i">Kriton:</hi> Die erste Morgendämmerung.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da wundere ich mich, daß der Schließer des Gefängnisses dir aufmachen gewollt hat.</p>
+<p><hi rendition="#i">Kriton:</hi> Er ist schon gut bekannt mit mir, Sokrates, weil ich oft hierher komme. Auch hat er wohl eher etwas von mir erhalten.</p>
+<p><hi rendition="#i">Sokrates:</hi> Bist du eben erst gekommen oder schon lange da?</p>
+<p><hi rendition="#i">Kriton:</hi> Schon ziemlich lange.</p>
+<p><hi rendition="#i">Sokrates:</hi> Warum also hast du mich nicht gleich geweckt, sondern dich so still hingesetzt?</p>
+<p><hi rendition="#i">Kriton:</hi> Nein, beim Zeus, Sokrates, wollte ich doch selbst lieber nicht so lange gewacht haben in solcher Betrübnis. Aber sogar dir habe ich schon lange verwundert zugesehen, wie sanft du schliefest: und recht wohlbedächtig habe ich dich nicht geweckt, damit dir die Zeit noch recht sanft hingehe. Denn oft schon freilich auch sonst im ganzen Leben habe ich dich glücklich gepriesen deiner Gemütsart wegen, bei weitem aber am meisten bei dem jetzigen Unglück, wie leicht und gelassen du es erträgst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es wäre ja auch frevelhaft, o Kriton, mich in solchem Alter unwillig darüber zu gebärden, wenn ich endlich sterben muß.</p>
+<p><hi rendition="#i">Kriton:</hi> Werden doch auch andere, Sokrates, ebenso Bejahrte von solchem Unglück bestrickt; aber ihr Alter schützt sie nicht davor, sich nicht unwillig zu gebärden gegen das eintretende Geschick.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohl wahr! Aber warum doch bist du so früh gekommen?</p>
+<p><hi rendition="#i">Kriton:</hi> Um dir eine traurige Botschaft zu bringen, Sokrates: <pb n="39" facs="#f0003"/> nicht dir, wie ich wohl sehe, aber mir und allen deinen Freunden traurig und schwer, und die ich, wie mich dünkt, ganz besonders am schwersten ertragen werde.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was doch für eine? Ist etwa das Schiff aus Delos zurückgekommen, nach dessen Ankunft ich sterben soll?</p>
+<p><hi rendition="#i">Kriton:</hi> Noch ist es zwar nicht hier, aber ich glaube doch, es wird heute kommen, nach dem, was einige von Sunion Gekommene berichten, die es dort verlassen haben. Aus dieser Nachricht nun ergibt sich, daß es heute kommt und daß du also morgen dein Leben wirst beschließen müssen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also, o Kriton, Glück auf! Wenn es den Göttern so genehm ist, sei es so! Jedoch glaube ich nicht, daß es heute kommt.</p>
+<p><hi rendition="#i">Kriton:</hi> Woher vermutest du das?</p>
+<p><hi rendition="#i">Sokrates:</hi> Das will ich dir sagen. Ich soll doch an dem folgenden Tage sterben, nachdem das Schiff gekommen ist.</p>
+<p><hi rendition="#i">Kriton:</hi> So sagen wenigstens die, die darüber zu gebieten haben.</p>
+<p><hi rendition="#i">Sokrates:</hi> Daher glaube ich nun nicht, daß es an dem jetzt anbrechenden Tage kommen wird, sondern erst an dem nächsten. Ich schließe das aber aus einem Traume, den ich vor einer kleinen Weile in dieser Nacht gesehen habe, und beinahe mag es sich recht gelegen gefügt haben, daß du mich nicht aufgeweckt hast.</p>
+<p><hi rendition="#i">Kriton:</hi> Und was träumte dir?</p>
+<p><hi rendition="#i">Sokrates:</hi> Es kam mir vor, als ob eine schöne, wohlgestaltete Frau mit weißen Kleidern angetan auf mich zukam, mich anrief und mir sagte: »O Sokrates,</p>
+
+
+<p> <hi rendition="#i">Möchtst du am dritten Tag in die schollige Phthia gelangen!</hi>«</p>
+<lb/>
+<p><hi rendition="#i">Kriton:</hi> Welch ein sonderbarer Traum, o Sokrates!</p>
+<p><hi rendition="#i">Sokrates:</hi> Deutlich gewiß, wie mich dünkt, o Kriton!</p>
+<p><hi rendition="#i">Kriton:</hi> Gar sehr, wie es scheint. Aber du wunderlicher Sokrates, auch jetzt noch folge mir und rette dich. Denn für mich ist es nicht <hi rendition="#i">ein</hi> Unglück, etwa wenn du stirbst: sondern außerdem, daß ich eines solchen Freundes beraubt weide, – wie ich nie wieder einen finden kann, werden auch viele glauben, die mich und dich nicht genau kennen, daß, ob ich schon imstande gewesen wäre, dich zu retten, wenn ich einiges Geld aufwenden gewollt, ich es doch verabsäumt hätte. Und was <pb n="40" facs="#f0004"/> für einen schlechteren Ruf könnte es wohl geben, als dafür angesehen sein, daß man das Geld höher achte als die Freunde? Denn das werden die Leute nicht glauben, daß du selbst nicht weggehn gewollt habest, wiewohl wir alles dazu getan.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber du guter Kriton, was soll uns doch die Meinung der Leute so sehr kümmern? Denn die Besseren, auf welche es eher lohnt, Bedacht zu nehmen, werden schon glauben, es sei so gegangen, wie es gegangen ist.</p>
+<p><hi rendition="#i">Kriton:</hi> Aber du siehst doch nun, Sokrates, daß es nötig ist, auch um der Leute Meinung sich zu kümmern. Eben das Gegenwärtige zeigt ja genug, daß die Leute wohl vermögen, nicht das kleinste Übel nur zuzufügen, sondern wohl das größte, wenn jemand bei ihnen verleumdet ist.</p>
+<p><hi rendition="#i">Sokrates:</hi> Möchten sie nur, o Kriton, das größte Übel zuzufügen vermögen, damit sie auch das größte Gut vermöchten! Das wäre ja vortrefflich! Nun aber vermögen sie keines von beiden. Denn weder vernünftig noch unvernünftig können sie machen; sondern sie machen nur, was sich eben trifft.</p>
+<p><hi rendition="#i">Kriton:</hi> Das mag immer so sein. Dies aber, Sokrates, sage mir, ob du auch nicht etwa um mich besorgt bist und um die anderen Freunde, daß nicht, wenn du von hier weggingest, die Angeber uns Händel anrichten, weil wir dir heimlich fortgeholfen hätten, und wir dann entweder unser ganzes Vermögen daran geben müßten oder doch vieles Geld, und vielleicht noch sonst etwas dazu erleiden. Denn wenn du dergleichen etwas fürchtest, das laß gut sein! Uns gebührt es ja wohl, über deiner Rettung diese Gefahr auf uns zu nehmen, und wenn es sein müßte, eine noch größere. Also gehorche mir und tue ja nicht anders!</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch darum bin ich besorgt: auch noch um vieles andere.</p>
+<p><hi rendition="#i">Kriton:</hi> Keineswegs aber befürchte dies! Denn zuerst ist es nicht einmal viel Geld, wofür einige dich retten und von hier wegführen wollen. Und dann, – siehst du nicht diese Angeber, wie wohlfeil sie sind, und wie gar nicht viel Geld für sie nötig sein würde? Für dich also, glaube ich, würde auch mein Geldvorrat hinreichend sein. Wenn du aber etwa aus Vorsorge für mich nicht leiden wolltest, daß ich von dem meinigen aufwendete, so sind hier die Fremden bereit, es auszulegen. Ja, <pb n="41" facs="#f0005"/> einer hat ausdrücklich hierzu eine hinreichende Summe zur Stelle gebracht, Simmias von Theben. Auch Kebes ist bereit und gar viele andere. So daß, wie gesagt, weder aus dieser Besorgnis du es aufgeben darfst, dich zu retten, noch auch, was du vor Gericht sagtest, dir hinderlich sein muß, daß du nämlich nach deiner Auswanderung von hier nicht wissen würdest, was du anfangen solltest mit dir selbst. Denn an gar vielen Orten auch anderwärts, wohin du nur kämest, würde man dich gern sehen; wolltest du aber nach Thessalien gehen, so habe ich dort Gastfreunde, die dich sehr wert achten und dir solche Sicherheit genug gewähren würden, daß dir niemand etwas anhaben dürfte in Thessalien. Ferner, Sokrates, dünkt mich auch nicht einmal recht zu sein, daß du darauf beharrest, dich selbst preiszugeben, da du dich retten kannst, und selbst betreibst, daß es so mit dir werde, wie nur deine Feinde es betreiben könnten und betrieben haben, welche dich verderben wollen. Überdies dünkst du mich deinen eigenen Söhnen untreu zu sein, die du ja auferziehen und ausbilden könntest: nun aber verläßt du sie und gehst davon, so daß es ihnen, was dich anlangt, ergehen wird, wie es sich trifft. Es wird sie aber wahrscheinlich so treffen, wie es Waisen zu ergehen pflegt im Waisenstande. Denn entweder solltest du keine Kinder erzeugt haben, oder auch treulich aushaken bei ihrer Erziehung und Ausbildung. Du aber scheinst nur das Bequemste zu erwählen, und solltest doch nur das wählen, was ein tüchtiger und tapferer Mann wählen würde, da du ja behauptest, dein ganzes Leben hindurch dich der Tugend befleißigt zu haben. Wie denn auch ich für dich und für uns, deine Freunde, mich schäme, daß es fast das Ansehn hat, als ob diese ganze Geschichte mit dir nur durch eine Unmännlichkeit von unserer Seite so geschehen sei, sowohl die Einlassung der Klage, daß du dich vor Gericht gestellt hast, da es dir freistand, dich nicht zu stellen, als auch der ganze Rechtshandel selbst, wie er ist geführt worden: und nun gar dieses Ende, recht das Lächerliche von der Geschichte, wild uns nur aus Feigheit und Unmännlichkeit entgangen zu sein scheinen, daß wir dich nicht gerettet haben, noch du dich selbst, da es gar wohl möglich gewesen wäre und auch ausführbar, wenn wir nur irgend etwas nutz waren. Dies also, o Sokrates, sieh wohl zu, daß es nicht außer zum Unglück auch <pb n="42" facs="#f0006"/> zur Schande gereiche, dir wie uns! Also berate dich! Oder es ist vielmehr nicht einmal mehr Zeit, sich zu beraten, sondern sich beraten zu haben. Und es gibt nur <hi rendition="#i">einen</hi> Rat. Denn in der nächsten Nacht muß dies alles geschehen sein, oder wenn wir zaudern, ist es unausführbar und nicht mehr möglich. Also auf alle Weise, Sokrates, gehorche mir und tue ja nicht anders!</p>
+<p><hi rendition="#i">Sokrates:</hi> Deine Sorge um mich, du lieber Kriton, ist viel wert, wenn sie nur irgend mit dem Richtigen bestehen könnte; wo aber nicht, so ist sie je dringender, um desto peinlicher. Wir müssen also erwägen, ob dies wirklich tunlich ist oder nicht. Denn nicht jetzt nur, sondern schon immer habe ich ja das an mir, daß ich nichts anderem von mir gehorche als dem Satze, der sich mir bei der Untersuchung als der beste zeigt. Das aber, was ich schon ehedem in meinen Reden festgesetzt habe, kann ich ja nun nicht verwerfen, weil mir dieses Schicksal geworden ist; sondern jene Reden erscheinen mir noch ganz als dieselben, und ich schätze und ehre sie noch ebenso wie vorher. Wenn wir also nicht bessere als sie jetzt vorzutragen haben, so wisse nur, daß ich dir nicht nachgeben werde, und wenn auch die Macht der Menge noch mehr, als schon geschieht, um uns wie Kinder einzuschüchtern, Gefangenschaft und Tod auf uns losließe und Verlust des Vermögens. Wie können wir also dies recht zu unserer Befriedigung untersuchen? Wenn wir zuerst den Satz wegen der Meinungen aufnehmen, von dem du sprichst, ob wohl für jeden Fall gut gesagt war oder nicht, daß man auf einige Meinungen zwar achten müsse, auf andere aber nicht, oder ob es zwar, ehe ich sterben sollte, gut gesagt war, nun aber offenbar geworden ist, daß es nur obenhin des Redens wegen gesagt, in der Tat aber nichts war als Scherz und Geschwätz? Ich meinesteils habe Lust, Kriton, dies mit dir gemeinschaftlich zu untersuchen, ob diese Rede mir jetzt etwa wunderlicher erscheinen wird, nun es so mit mir steht, oder noch ebenso, und demgemäß wollen wir sie entweder gehen lassen oder ihr gehorchen. So aber, glaube ich, wurde sonst immer von denen behauptet, die etwas zu sagen meinten, wie ich jetzt eben sagte, daß von den Meinungen, welche die Menschen hegen, man einige zwar sehr hoch achten müsse, andere aber nicht. Sprich nun, Kriton, bei den Göttern, dünkt dich dies nicht gut gesagt zu sein? Denn du bist doch menschlichem <pb n="43" facs="#f0007"/> Ansehen nach fern davon, morgen sterben zu müssen, und das bevorstehende Schicksal könnte dich nicht berücken. Erwäge also: scheint dir das nicht gut gesagt, daß man nicht alle Meinungen der Menschen ehren muß, sondern einige wohl, andere aber nicht? Und auch nicht aller Menschen, sondern einiger ihre wohl, anderer aber nicht? Was meinst du? Ist das nicht gut gesagt?</p>
+<p><hi rendition="#i">Kriton:</hi> Gut.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nämlich doch die guten Meinungen soll man ehren, die schlechten nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und die guten, sind das nicht die der Vernünftigen, die schlechten aber die der Unvernünftigen?</p>
+<p><hi rendition="#i">Kriton:</hi> Wie anders?</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohlan, wie wurde wiederum hierüber gesprochen? Ein Mann, der Leibesübungen treibt und sich dies zum eigentlichen Geschäfte macht, wird der wohl auf jedermanns Lob und Tadel und Meinung achten, oder nur auf jenes allein, auf des Arztes oder des Turnmeisters?</p>
+<p><hi rendition="#i">Kriton:</hi> Auf jenes allein.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also fürchten muß er auch nur den Tadel, und Freude haben nur an dem Lobe jenes einen, und nicht der Menge?</p>
+<p><hi rendition="#i">Kriton:</hi> Offenbar.</p>
+<p><hi rendition="#i">Sokrates:</hi> Auf die Art also muß er zu Werke gehn und sich üben und essen und trinken, wie dieser eine es gut findet, der Meister und Sachverständige, viel mehr als wie alle anderen insgesamt.</p>
+<p><hi rendition="#i">Kriton:</hi> So ist es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohl! Ist er aber diesem einen unfolgsam und achtet seine Meinung und sein Lob gering, höher aber das der andern unkundigen Leute, wird ihm dann nichts Übles begegnen?</p>
+<p><hi rendition="#i">Kriton:</hi> Wie sollte es ihm nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Was ist nun wohl dieses Übel? Worauf zielt es, und was trifft es von dem Unfolgsamen?</p>
+<p><hi rendition="#i">Kriton:</hi> Seinen Leib offenbar: denn diesen zerrüttet er.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohlgesprochen! Ist es nun nicht ebenso mit allem andern, Kriton, damit wir nicht alles durchgehen: also <pb n="44" facs="#f0008"/> auch mit dem Gerechten und Ungerechten, dein Schändlichen und Schönen, dem Guten und Bösen, worüber wir eben jetzt beratschlagen, ob wir hierin der Meinung der Menge folgen und sie fürchten müssen, oder nur des einen seiner, wenn es einen Sachverständigen hierin gibt, den man mehr scheuen und fürchten muß als alle anderen, welchem dann nicht folgend wir uns das verderben werden und verstümmeln, was eben durch das Recht besser wird, durch das Unrecht aber untergeht? Oder gibt es dergleichen nichts?</p>
+<p><hi rendition="#i">Kriton:</hi> Jawohl, denke ich wenigstens, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohlan denn! Wenn wir nun das, was durch das Ungesunde zerrüttet, durch das Gesunde aber gebessert wird, indem wir nicht der Sachkundigen Meinung gehorchen, zerrüttet haben, lohnt es wohl noch zu leben nach dessen Zerrüttung? Dies ist aber doch der Leib? Oder nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Lohnt es nun wohl, zu leben mit einem abgeschwächten und zerrütteten Leibe?</p>
+<p><hi rendition="#i">Kriton:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Sokrates:</hi> Allein, wenn jenes zerrüttet ist, soll es doch noch lohnen zu leben, was eben durch Unrechthandeln beschädigt wird, durch Rechthandeln aber gewinnt? Oder halten wir das etwa für schlechter als den Leib, was es auch sei von dem unsrigen, worauf Gerechtigkeit und Ungerechtigkeit sich beziehen?</p>
+<p><hi rendition="#i">Kriton:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sondern für edler?</p>
+<p><hi rendition="#i">Kriton:</hi> Bei weitem.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also keineswegs, o Bester, haben wir das so seht zu bedenken, was die Leute sagen werden von uns, sondern was der eine, der sich auf Gerechtes und Ungerechtes versteht, und die Wahrheit selbst. So daß du schon hierin die Sache nicht richtig einleitest, wenn du vorträgst, wir müßten auf die Meinung der Leute vom Gerechten, Schönen und Guten und dem Gegenteil Bedacht nehmen. »Aber doch,« könnte, wohl jemand sagen, »haben die Leute es ja in ihrer Gewalt, uns zu töten«.</p>
+<p><hi rendition="#i">Kriton:</hi> Offenbar freilich auch dieses: und so könnte es leicht jemand sagen, o Sokrates.</p>
+<pb n="45" facs="#f0009"/> <p><hi rendition="#i">Sokrates:</hi> Sehr wahr. Allein, du Wunderlicher, nicht nur dieser Satz selbst, den wir durchgenommen, erscheint mir wenigstens noch immer ebenso wie vorher; sondern betrachte nun auch diesen, ob er uns noch fest steht oder nicht, daß man nämlich nicht das Leben am höchsten achten muß, sondern das gut Leben?</p>
+<p><hi rendition="#i">Kriton:</hi> Freilich besteht der.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und daß das gut Leben mit dem gerecht und sittlich Leben einerlei ist, besteht der oder besteht er nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Er besteht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also von dem Eingestandenen aus müssen wir dieses erwägen, ob es gerecht ist, daß ich versuche, von hier fortzugehen, ohne daß die Athener mich fortlassen, oder nicht gerecht. Und wenn es sich als gerecht zeigt, wollen wir es versuchen; wo nicht, es unterlassen. Die du aber vorbringst, o Kriton, die Überlegungen wegen Verlust des Geldes und des Rufs und Erziehung der Kinder, – sollten das nur nicht recht eigentlich Betrachtungen dieser Leute sein, die leichtsinnig töten und ebenso auch hernach gern wieder lebendig machten, wenn sie könnten, alles ohne Vernunft; und sollte nur nicht im Gegenteil für uns, da ja unsere Rede es so festsetzt, gar nichts anderes zu überlegen sein, als wie wir eben sagten, ob wir gerecht handeln werden, wenn wir denen, welche mich von hier fortbringen wollen, Geld zahlen und Dank dazu, und wenn wir selbst dabei mitwirken, ihr, indem ihr mich fortbringt, und ich, indem ich mich fortbringen lasse, oder ob wir nicht in Wahrheit unrecht handeln werden, indem wir dies alles tun? Und wenn sich zeigt, wir können dies nur ungerechterweise ausführen, dann dürfen wir jenes, ob wir sterben müssen, wenn ich hier bleibe und mich ruhig verhalte, oder was wir sonst erleiden, gar nicht in Anschlag bringen gegen das Unrechthandeln.</p>
+<p><hi rendition="#i">Kriton:</hi> Schön dünkt mich das gesagt, Sokrates. Sieh aber, was wir tun wollen!</p>
+<p><hi rendition="#i">Sokrates:</hi> Gemeinschaftlich, du Guter, wollen wir das überlegen; und hast du etwas einzuwenden, wenn ich rede, so wende es ein, und ich will dir folgen. Wo aber nicht, so höre auf, mir immer dieselbe Rede zu wiederholen, ich solle wider der Athener Willen von hier fortgehn! Denn es ist mir ja wohl viel wert, wenn du mich überredest, dieses zu tun, nur nicht wider meinen <pb n="46" facs="#f00010"/> Willen. Betrachte also den Anfang der Untersuchung, ob er dir genügt, und suche das Gefragte zu beantworten nach deiner besten Meinung!</p>
+<p><hi rendition="#i">Kriton:</hi> Das will ich versuchen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sagen wir, man müsse auf gar keine Weise vorsätzlich Unrecht tun? Oder auf einige zwar, nur auf andere nicht? Oder ist auf keine Weise das Unrechthandeln weder gut noch schön, wie wir oft ehedem übereingekommen sind, und wie auch jetzt eben gesagt worden ist? Oder sind uns alle jene Behauptungen von ehedem seit diesen wenigen Tagen verschüttet? Und so lange, o Kriton, haben wir, so bejahrte Männer, nicht gemerkt, daß wir im ernsthaftesten Gespräch mit einander doch nichts besser waren als die Kinder? Oder verhält es sich ja auf alle Weise so, wie wir damals sagten, – die Leute mögen es nun annehmen oder nicht, und es mag uns nun deshalb noch härter ergehen als jetzt, oder auch besser, – das Unrechttun ist doch dem, der es tut, schädlich und schändlich auf alle Weise? Wollen wir dies sagen oder nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Das wollen wir.</p>
+<p><hi rendition="#i">Sokrates:</hi> Auf keine Weise also soll man Unrecht tun?</p>
+<p><hi rendition="#i">Kriton:</hi> Nein freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also auch nicht der, dem Unrecht geschehen ist, darf wieder Unrecht tun, wie die meisten glauben, wenn man doch auf keine Weise Unrecht tun darf?</p>
+<p><hi rendition="#i">Kriton:</hi> Es scheint nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wie doch? Darf man mißhandeln, oder nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Man darf es wohl nicht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber wie? Wieder mißhandeln, nachdem man schlecht behandelt worden ist, – ist das, wie die meisten sagen, gerecht oder nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Auf keine Weise.</p>
+<p><hi rendition="#i">Sokrates:</hi> Denn jemanden schlecht behandeln, ist nicht unterschieden vom Unrecht tun.</p>
+<p><hi rendition="#i">Kriton:</hi> Wahr gesprochen!</p>
+<p><hi rendition="#i">Sokrates:</hi> Also weder wiederbeleidigen darf man, noch irgend einen Menschen mißhandeln, und wenn man auch von ihm erleidet, was es immer sei. Und siehe wohl zu, Kriton, wenn du dies eingestehst, daß du es nicht gegen deine Meinung eingestehst! Denn ich weiß wohl, daß nur wenige dieses<pb n="47" facs="#f00011"/> glauben und glauben werden. Welche also dies annehmen, und welche nicht, für die gibt es keine gemeinschaftliche Beratschlagung; sondern sie müssen notwendig einander gering achten, wenn einer des andern Entschließungen sieht. Überlege also auch du recht wohl, ob du Gemeinschaft mit mir machst und dies auch annimmst und wir hiervon unsere Beratung anfangen wollen, daß niemals weder beleidigen noch wiederbeleidigen recht ist, noch auch, wenn einem Übles geschieht, sich dadurch helfen, daß man wieder Übles zufügt; oder ob du abstehst und du keinen Teil haben willst an diesem Anfang? Ich meinesteils habe schon immer dieses angenommen und auch jetzt noch. Du aber, nimmst du irgend etwas anderes an, so sprich und trage es vor: bleibst du aber bei dem Ehemaligen, so höre nun das Weitere!</p>
+<p><hi rendition="#i">Kriton:</hi> Allerdings bleibe ich dabei und nehme es mit dir an. Also rede!</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich sage also hierauf weiter, oder vielmehr ich frage, ob, was jemand jemandem Gerechtes versprochen hat, er auch leisten müsse, oder ob er betrügen dürfe?</p>
+<p><hi rendition="#i">Kriton:</hi> Leisten muß er es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Von hier aus nun schaue um: Wenn wir, ohne die Stadt zu überreden, von hier weggehn, behandeln wir dann jemanden schlecht, und zwar die, welchen es am wenigsten geschehen sollte, oder nicht? Und halten wir fest an den, was wir Gerechtes versprochen haben, oder nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Darauf weiß ich nicht zu antworten, Sokrates, was du fragtest: denn ich verstehe es nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Erwäge es denn so: Wenn, indem wir von hier davonlaufen wollten, oder wie man dies sonst nennen soll, die Gesetze kämen und das gemeine Wesen dieser Stadt, und uns in den Weg tretend fragten: »Sage nur, Sokrates, was hast du im Sinne zu tun? Ist es nicht so, daß du durch diese Tat, welche du unternimmst, uns, den Gesetzen, und also dem ganzen Staat den Untergang zu bereiten gedenkst, soviel an dir ist? Oder dünkt es dich möglich, daß jener Staat noch bestehe und nicht in gänzliche Zerrüttung gerate, in welchem die abgetanen Rechtssachen keine Kraft haben, sondern von Einzelmännern können ungültig gemacht und umgestoßen werden?« Was sollen wir hierauf und auf mehr dergleichen sagen, Kriton? Denn <pb n="48" facs="#f00012"/> noch gar vieles könnte einer, und zumal ein Redner, vorbringen zum Besten dieses gefährdeten Gesetzes, welches befiehlt, daß die geschlichteten Rechtssachen sollen gültig bleiben. Oder sollen wir zu ihnen sagen: »Ja, die Stadt hat uns Unrecht getan und die Klage nicht recht gerichtet?« Wollen wir dies sagen, oder was sonst?</p>
+<p><hi rendition="#i">Kriton:</hi> Dies, beim Zeus!</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie nun? Wenn die Gesetze sagten: »O Sokrates, war denn auch das unser Abkommen, oder vielmehr du wollest dich dabei beruhigen, wie die Stadt die Rechtssachen schlichtet?« Wenn wir uns nun über ihre Rede wunderten, würden sie vielleicht sagen: »Wundere dich nicht, Sokrates, über das Gesagte, sondern antworte, da du ja gewohnt bist, in Fragen und Antworten zu reden! Denn sprich: Welche Beschwerden hast du gegen uns und die Stadt, daß du suchst, uns zugrunde zu richten? Sind wir es nicht zuerst, die dich zur Welt gebracht haben, und durch welche dein Vater deine Mutter bekommen und dich gezeugt hat? Erkläre also, tadelst du etwas an denen unter uns Gesetzen, die sich auf die Ehe beziehen, was nicht gut wäre?« – »Nichts tadle ich,« würde ich dann sagen. – »Aber an den Gesetzen über des Geborenen Auferziehung und Unterricht, nach denen auch du bist unterrichtet worden? Ist es etwa nicht gut, was die Gesetze unter uns, die hierüber festgesetzt sind, gebieten, indem sie deinem Vater auflegten, dich in den Geistesübungen und Leibeskünsten zu unterrichten?« – »Sehr gut«, würde ich sagen. – »Wohl! Nachdem du nun geboren, auferzogen und unterrichtet worden bist, kannst du zuerst wohl leugnen, daß du nicht unser warst als Abkömmling und Knecht, du und deine Vorfahren? Und wenn sich dies so verhält, glaubst du, daß du gleiches Recht hast mit uns, und daß, was immer wir uns beigehen lassen, dir anzutun, auch du das Recht habest, uns wieder zu tun? Oder hattest du gegen deinen Vater zwar nicht gleiches Recht oder gegen deinen Herrn, wenn du einen gehabt hättest, so daß du, was dir geschähe, ihm wieder antun dürfest, noch auch, wenn er dich verunglimpfte, widersprechen, noch, wenn er dich schlug, wiederschlagen und mehreres dergleichen: gegen das Vaterland aber und gegen die Gesetze soll es dir erlaubt sein, so daß, wenn wir darauf ausgingen, dich zugrundezurichten, indem wir es für gerecht hielten, auch du <pb n="49" facs="#f00013"/> wieder auf unsern, der Gesetze und des Vaterlandes Untergang, so viel an dir ist, ausgehen und dann sagen dürftest, du handeltest hierin recht, du, der sich in Wahrheit der Tugend befleißigt? Oder bist du so weise, daß du nicht weißt, wie viel höher als Vater und Mutter und alle anderen Vorfahren das Vaterland geachtet ist, und wieviel ehrwürdiger und heiliger bei den Göttern und bei allen Menschen, welche Vernunft haben? Und wie man ein aufgebrachtes Vaterland noch mehr ehren und ihm nachgeben und es besänftigen muß als einen Vater, und entweder es überzeugen oder tun, was es befiehlt, und was es zu leiden auflegt, ganz ruhig leiden, wenn es auch wäre, dich schlagen zu lassen oder dich fesseln zu lassen, oder wenn es dich in den Krieg schickt, wo du verwundet und getötet werden kannst, du dies doch alles tun mußt und es so allein recht ist? Und daß du nicht weichen und nicht weggehen und nicht deine Stelle verlassen mußt, sondern im Kriege und vor Gericht und überall tun mußt, was der Staat gebietet und das Vaterland, oder es überzeugen mußt, was eigentlich Recht sei? Daß aber Gewalt nicht ohne Frevel gebraucht werden kann gegen Vater oder Mutter und noch viel weniger als gegen sie gegen das Vaterland?« – Was sollen wir hierauf sagen, o Kriton? Daß es wahr ist, was die Gesetze sagen, oder nicht?</p>
+<p><hi rendition="#i">Kriton:</hi> Mich dünkt, ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> »Überlege also, o Sokrates,« würden die Gesetze vielleicht weiter sagen, »wenn wir hiervon mehr gesprochen haben, daß du alsdann nicht mit Recht uns das antun willst, was du jetzt willst: Denn wir, die wir dich zur Welt gebracht, auferzogen, unterrichtet und alles Gute, was nur in unserm Vermögen stand, dir und jedem Bürger mitgeteilt haben, wir verkünden dennoch, indem wir Freiheit gestatten jedem Athener, der es nur will, daß, wenn jemand Bürger geworden ist und den Zustand der Stadt und uns, die Gesetze, kennengelernt hat und wir ihm dann nicht gefallen, er das Seinige nehmen und fortgehn dürfe, wohin er nur will. Und keins von uns Gesetzen steht im Wege oder verbietet, wenn jemand von euch, dem wir und die Stadt nicht gefallen, in eine Pflanzstadt ziehen will oder auch anderswohin sich begeben und sich als Schutzverwandter ansiedeln, wo er nur will, mit Beibehaltung alles des Seinigen. Wer von euch aber geblieben ist, nachdem er gesehen, <pb n="50" facs="#f00014"/> wie wir die Rechtssachen schlichten und sonst die Stadt verwalten, – von dem behaupten wir dann, daß er uns durch die Tat angelobt habe, was wir nur immer befehlen möchten, wolle er tun. Und wer nicht gehorcht, sagen wir, der tue dreifach Unrecht, weil er uns als seinen Erzeugern nicht gehorcht und nicht als seinen Erziehern, und weil er, ohnerachtet er uns angelobt, er wolle gewiß gehorchen, doch weder gehorcht noch uns überzeugt, wo wir etwas nicht recht tun; und da wir ihm doch vortragen und nicht aufrauhe Artgebieten, was wir anordnen, sondern freistellen eins von beiden, entweder uns zu überzeugen oder uns zu folgen, er doch hiervon keines tut. Und diese Verschuldungen nun, behaupten wir, werden auch auf dir, Sokrates, haften, wenn du ausführst, was du im Sinne hast, und zwar auf dir nicht am wenigsten unter den andern Athenern, sondern wohl ganz vorzüglich.« – Wenn ich nun fragte: »Weshalb denn das?« – so würden sie mich wohl ganz recht angreifen, wenn sie sprächen, daß ich ganz vorzüglich vor andern Athenern ihnen dies Versprechen geleistet hätte. »Denn«, würden sie sagen, »hiervon haben wir große Beweise, daß wir sowohl als die Stadt dir Wohlgefallen haben: Sonst würdest du ja wohl nicht so vorzüglich vor allen Athenern immer einheimisch darin geblieben sein, wenn sie dir nicht vorzüglich gefiele. Denn weder bist du je zur Schau der großen Feste aus der Stadt herausgegangen, außer einmal auf den Isthmos, noch sonst irgend wohin anders als nur mit dem Heere ziehend, oder hast sonst eine Reise gemacht, wie andere Menschen, noch auch hat dich jemals Lust angewandelt, andere Städte und andere Gesetze zu sehen, sondern wir genügten dir und unsere Stadt: so sehr zogst du uns vor und gelobtest, uns gemäß dein Bürgerleben zu führen, hast auch überdies Kinder in der Stadt erzeugt, weil sie dir gefiel. Ja auch noch während des Rechtshandels konntest du dir ja die Verweisung zuerkannt haben, wenn du gewollt hättest, und so, was du jetzt gegen den Willen der Stadt unternimmst, damals mit ihrem Willen tun. Du aber tatest damals zwar gar schön, als wärest du gar nicht unwillig, wenn du sterben müßtest, sondern wähltest, wie du sagtest, lieber als die Verweisung den Tod: nun hingegen schämst du dich weder vor jenen deinen Reden, noch scheust du uns, die Gesetze, sondern versuchst, uns zu zerstören, und <pb n="51" facs="#f00015"/> handelst, wie nur der schlechteste Knecht handeln könnte, in dem du zu entlaufen versuchst gegen alle Verträge und Versprechungen, nach denen du uns versprochen hast, als Bürger zu leben. Zuerst also beantworte uns nur dieses, ob wir die Wahrheit reden, indem wir behaupten, du habest nach unserer Anordnung dein Bürgerleben zu führen uns durch die Tat versprochen, nicht bloß durch Worte, – oder ob wir nicht die Wahrheit reden?« – Was sollen wir hierauf sagen, Kriton? Sollen wir es nicht einräumen?</p>
+<p><hi rendition="#i">Kriton:</hi> Wir müssen wohl, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> »Ist es also nicht so,« würden sie sagen, »daß du deine Verträge mit uns und deine Versprechungen übertrittst? Die du doch nicht gezwungen abgelegt hast, noch überlistet, noch in der Notwendigkeit, etwa dich in kurzer Zeit zu beraten, sondern siebzig Jahre lang, während deren du hättest fortgehn können, wenn wir dir nicht gefielen und du die Bedingungen nicht für gerecht hieltest. Du aber hast weder Lakedaimon vorgezogen noch Kreta, die du doch immer rühmst als wohlgeordnete Staaten, noch irgend einen andern von den hellenischen Staaten oder von den unhellenischen, sondern weniger hast du dich von hier entfernt als die Lahmen, Blinden und andere Verstümmelten. So vorzüglich vor allen Athenern hat dir die Stadt gefallen, und wir, die Gesetze, also auch. Denn wem würde eine Stadt wohl gefallen ohne die Gesetze? Und nun also willst du doch dem Versprochenen nicht treu bleiben? Wohl wirst du es, wenn du uns folgst, o Sokrates, und du wirst dich nicht lächerlich machen durch deinen Auszug aus der Stadt. Denn erwäge nur, wenn du es übertrittst und etwas davon verletzest, was du Gutes dir selbst bereiten wirst und deinen Freunden! Denn daß deine Freunde ja freilich in Gefahr geraten werden, auch selbst flüchtig zu werden und der Stadt entsagen zu müssen, oder ihr Vermögen einzubüßen, das ist wohl offenbar. Du selbst aber, wenn du zuerst in eine der nächstgelegenen Städte gehst, sei es nach Theben oder nach Megara, denn wohleingerichtet sind beide, so kommst du als ein Feind ihrer Verfassung; und wer nur seiner eignen Stadt zugetan ist, wird dich scheel ansehen als einen Verderber der Gesetze, und so wirst du nur das Ansehen deiner Richter befestigen, daß sie dafür gelten werden, in deiner Sache recht gerichtet zu haben: <pb n="52" facs="#f00016"/> denn wer der Gesetze Verderber ist, muß wohl gar sehr dafür gehalten werden, auch der jüngeren und noch unvernünftigen Menschen Verderber zu sein. Willst du also etwa die wohleingerichtetsten Staaten und die ehrenwertesten Menschen meiden? Und wenn du dieses tust, wird es dir etwa noch lohnen zu leben? Oder willst du dich zu ihnen halten und unverschämt genug sein, was doch für Reden vorzubringen, o Sokrates? Oder dieselben wie hier, daß über Tugend und Gerechtigkeit nichts gehe für den Menschen und über Ordnungen und Gesetze? Und glaubst du nicht, des Sokrates Sache werde dann ganz unanständig erscheinen? Wohl muß man das glauben! Aber aus diesen Gegenden wirst du dich wohl fortmachen und dich nach Thessalien begeben zu den Gastfreunden des Kriton! Denn dort sind ja Unordnung und Ungebundenheit am größten, und die möchten dir wohl mit Vergnügen zuhören, wie lächerlich du aus dem Gefängnis entlaufen bist, in irgend ein Stück Zeug eingehüllt oder mit einem gemeinen Kittel umgetan, oder wie sich sonst die Entfliehenden zu verkleiden pflegen, und nachdem du dich ganz unkenntlich gemacht. Daß du aber als ein alter Mann, dem wahrscheinlich nur noch wenig Lebenszeit übrig ist, dich nicht gescheut hast, mit solcher Gier nach dem Leben zu gelüsten mit Übertretung jedes heiligsten Gesetzes, wird das niemand sagen? Vielleicht nicht, wenn du niemanden beleidigst; sonst aber, o Sokrates, dann wirst du auch viel deiner Unwürdiges hören müssen. Kriechend also vor allen Menschen wirst du leben; und was denn tun als schmausen in Thessalien? So daß du wie zum Gastgebot wirst hingereist scheinen nach Thessalien! Und jene Reuen von der Gerechtigkeit und von den übrigen Tugenden, wo werden uns die bleiben? Doch deiner Kinder wegen willst du leben, um sie selbst aufzuziehen und zu unterrichten! Wie also? Nach Thessalien willst du sie mitnehmen und dort aufziehen und unterrichten? Und sie zu Fremdlingen machen, damit sie dir auch das noch zu verdanken haben? Oder das wohl nicht; aber hier sollten sie, wenn du nur lebst, besser aufgezogen und unterrichtet werden, obgleich du nicht bei ihnen bist? Deine Freunde nämlich werden sich ihrer annehmen. Ob nun wohl, wenn du nach Thessalien wanderst, sie sich ihrer annehmen werden, wenn du aber in die Unterwelt wanderst, <pb n="53" facs="#f00017"/> dann nicht? Wenn sie anders etwas wert sind, die deine Freunde zu sein behaupten, so muß man es ja wohl glauben. Also, Sokrates, gehorche uns, deinen Erziehern, und achte weder die Kinder noch das Leben noch irgend etwas anderes höher als das Recht, damit, wenn du in die Unterwelt kommst, du dies alles zu deiner Verteidigung anführen kannst den dortigen Herrschern. Denn es zeigt sich ja weder hierfür dich besser oder gerechter oder frömmer, dies wirklich auszuführen, oder für irgend einen der Deinigen, noch auch wird es, wenn du dort ankommst, besser für dich sein. Sondern wenn du jetzt hingehst, so gehst du hin als einer, der Unrecht erlitten hat, nicht zwar von uns Gesetzen, sondern von Menschen. Entfliehst du aber, so schmählich Unrecht und Böses mit gleichem vergeltend, deine eignen Versprechungen und Verträge mit uns verletzend und allen denen Übles zufügend, denen du es am wenigsten solltest, dir selbst nämlich, deinen Freunden, dem Vaterlande und uns, – so werden nicht nur wir auf dich zürnen, solange du lebst, sondern auch unsere Brüder, die Gesetze der Unterwelt, werden dich nicht freundlich aufnehmen, wenn sie wissen, daß du auch uns zugrunde zu richten versucht hast, soviel an dir war. Also, daß ja nicht Kriton mehr dich überrede, zu tun, was er sagt, als wir!«</p>
+<p>Dies, lieber Freund Kriton, glaube ich zu hören, wie die, welche das Ohrenklingen haben, die Flöte zu hören glauben. Denn auch in mir klingt so der Ton dieser Reden und macht, daß ich andere nicht hören kann. Also wisse nur, was meine jetzige Überzeugung betrifft, daß, wenn du etwas hiergegen sagst, du es vergeblich reden wirst. Dennoch aber, wenn du glaubst, etwas damit auszurichten, so sprich!</p>
+<p><hi rendition="#i">Kriton:</hi> Nein, Sokrates, ich habe nichts zu sagen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohl denn, Kriton! So laß uns auf diese Art handeln, da uns hierhin der Gott leitet!</p>
+<pb n="54" facs="#f00018"/> 
+</body></text></TEI>

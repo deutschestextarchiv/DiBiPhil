@@ -1,0 +1,1655 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gītagovinda</title>
+        <author><persName ref="http://d-nb.info/gnd/80927">Jayadeva</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Gītagovinda: Das indische Hohelied des bengalischen Dichters Jayadeva. Nach der
+      metrischen Übersetzung Friedrich Rückerts neu hrsg. von Herman Kreyenborg, Leipzig:
+      Insel Verlag, [1920].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Gītagovinda</title>
+      <title level="m" type="sub">Das indische Hohelied des bengalischen Dichters Jayadeva</title>
+      <author><persName ref="http://d-nb.info/gnd/80927">Jayadeva</persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/34443">
+        <forename>Herman</forename>
+        <surname>Kreyenborg</surname>
+      </persName>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Insel Verlag</name>
+      </publisher><pubPlace>Leipzig</pubPlace>
+      <date type="publication">1920</date>
+      <date type="firstPublication">1837</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Verfasst im 12. Jahrhundert. Hier in der metrischen Übersetzung von Friedrich Rückert.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Gitagovinda, ein Singspiel von Jayadeva</note>
+
+
+
+<head>Gītagovinda</head>
+<head>ein Singspiel von Jayadeva</head>
+
+
+
+<div n="1">
+<note type="editorial">Gitagovinda</note>
+
+<head><pb n="7" facs="#f0001"/>
+Gītagovinda</head>
+<head>oder</head>
+<head>Die Liebe des Kṛṣṇa und der Rādhā</head>
+
+
+<div n="2">
+<note type="editorial">1.</note>
+
+<head>I</head>
+<p>Im Frühlingshauch, mit frühlingsblumenzartem Leib,</p>
+<p>Im Walde wallend, Kṛṣṇa suchend überall,</p>
+<p>Von Kāma's Kummer schwer bedrängt, verwirrten Sinns,</p>
+<p>Ward Rādhā von der Freundin angeredet so:</p>
+<p rendition="#right"><hi rendition="#smaller">(26)</hi></p>
+<lb/>
+<p>Unter malayischem, duftende Nelkengebüsche besuchendem Hauche,</p>
+<p>Unter dem bienenumschwärmten, von Kokila's Rufen ertönenden Strauche,</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die nicht süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(27)</hi></p>
+<lb/>
+<p>Wo sich von Frau'n der Verreisten erheben aus sehnender Liebe die Klagen,</p>
+<p>Bakula-Kronen den immenbelagerten Blütengeweben entragen;</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die nicht süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(28)</hi></p>
+<lb/>
+<p><pb n="7" facs="#f0002"/> Wo sich mit Moschusgedüfte berauschet das junge Gesproß der Tamālen,</p>
+<p>Kiṃśuka-Blüten wie Madana's Nägel, die herzenzerreißenden, strahlen;</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die nicht süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(29)</hi></p>
+<lb/>
+<p>Wo wie die Zepter des Königs Anaṅga sind blühende Kesara's golden,</p>
+<p>Bienengefüllet wie Köcher Kandarpa's sich zeigen die Pāṭali-Dolden;</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die nicht süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(30)</hi></p>
+<lb/>
+<p>Wo die entfesselte Schöpfung erblickend die sprießenden Karuṇa's lachen,</p>
+<p>Ketakī-Stengel wie liebeverwundende Spieße die Gegend umwachen;</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(31)</hi></p>
+<lb/>
+<p>Wo vom Gerank Atimukta's umarmet der Āmra, der knospende, schaudert,</p>
+<p>Durch Vṛndāvana's Dickicht sich schlingend die schlängelnde Yámunā zaudert;</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die nicht süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(33)</hi></p>
+<lb/>
+<p><pb n="8" facs="#f0003"/> Nun in dem Mādhavī-Düfte verhauchenden, mālikabalsam-betauten,</p>
+<p>Selber die Sinne des Büßers berauschenden, zaubrischen Jugendvertrauten –</p>
+<p>Hari nun spielet im Lenze, dem frohen,</p>
+<p>Tanzet, o Freundin, mit Mädchen, zur Zeit, die nicht süß ist, wo Liebe geflohen.</p>
+<p rendition="#right"><hi rendition="#smaller">(32)</hi></p>
+<lb/>
+<p>Aus Blumenstaube, der entstiebt gespaltnem Schoße</p>
+<p>Der Malli-Blüte, webt ein hainbeflorend Florzelt</p>
+<p>Er jetzt, der sengt das Herz wie Pañcabāṇa's Odem,</p>
+<p>Ketakī's Duftgespiel, Duftwagenlenker Lenzwind.</p>
+<p rendition="#right"><hi rendition="#smaller">(35)</hi></p>
+<lb/>
+<p>Auf den, hundert Frauen zu umfangen</p>
+<p>Geizenden, liebreizenden Murāri</p>
+<p>In der Näh' hinzeigend, hat nun jene</p>
+<p>Freundin wieder angeredet Rādhā'n:</p>
+<p rendition="#right"><hi rendition="#smaller">(37)</hi></p>
+<lb/>
+<p>Sandelgesalbeten bräunlichen Leibes im gelblichen Kleid, der Bekränzte,</p>
+<p>Ringe des Ohres im Tanze bewegend um Wangen, von Lächeln beglänzte,</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(38)</hi></p>
+<lb/>
+<p>Mit den erschwellenden wallenden Brüsten umfangend den Hari voll Preise</p>
+<p>Singet ihm eine der Hirtinnen nach die gewirbelte Pañcama-Weise;</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(39)</hi></p>
+<lb/>
+<p><pb n="9" facs="#f0004"/> Eine, die Lust hat aus lauschender Losheit der locken den Augen getrunken,</p>
+<p>Steht in Gedanken nun in Madhusūdana's Antlitznymphäe versunken.</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(40)</hi></p>
+<lb/>
+<p>Eine geschmiegt an die Seite der Wangen, um etwas ins Ohr ihm zu raunen,</p>
+<p>Küsset geschwinde den Liebsten und machet den wonnedurchschauerten staunen.</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(41)</hi></p>
+<lb/>
+<p>Eine des Wirbels der Wonne verlangende ziehet am Yamunā-Strande</p>
+<p>Jenen zur luftigen Laube Gewandten zurück mit der Hand am Gewande.</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(42)</hi></p>
+<lb/>
+<p>Wie die vom Taktschlag schütternden Spangen die Flöte begleiten im Schwunge,</p>
+<p>Schwingt sich im rauschenden Reigen die andre, und Hari belobet die junge.</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(43)</hi></p>
+<lb/>
+<p>Eine die halset er, eine die küsset er, herzet der herzigen eine,</p>
+<p><pb n="10" facs="#f0005"/> Blicket nach jener mit lieblichem Lächeln und haschet die andere feine.</p>
+<p>Hari im munteren Mädchengedräng,</p>
+<p>Mit Scherzenden scherzt er im Freudengepräng.</p>
+<p rendition="#right"><hi rendition="#smaller">(44)</hi></p>
+<lb/>
+<p>Er, der allgemeine Wonne ruft hervor durch seine Gunst,</p>
+<p>Dessen zarter Lotosleib weiht des leiblosen Gottes Fest,</p>
+<p>Den nach Wunsch allgegenwärtig die Hainmädchen rings umfahn,</p>
+<p>Sieh, o Freundin, wie im Frühling unbefangen Hari spielt!</p>
+<p rendition="#right"><hi rendition="#smaller">(45)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">2.</note>
+
+<head>II</head>
+<p>Rādhā, während allverliebt im Haine Hari scherzte,</p>
+<p>Ging hinweg, ob dem verlornen Vorzug eifersüchtig,</p>
+<p>Und in einer Laube, deren Wipfel laut von Bienen-</p>
+<p>Schwärmen tönte, sprach mit Härmen sie zur Freundin also:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Der mit dem Nektar der Lippe versüßet den Ton des bezaubernden Rohres,</p>
+<p>Flitternden Blickes und flatternden Kranzes, geschütterter Ringe des Ohres,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p><pb n="11" facs="#f0006"/> Dem mit beaugetem Pfauengefieder bespangt ist Fülle des Haares,</p>
+<p>Reich mit Puraṃdara's Bogen bezogen das weiche Gewölk des Talares,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Üppiggelendeten ländlichen Frauen zu küssen den Mund voll Begierde,</p>
+<p>Süß bandhujīvischen Lippengeknospes mit lockender, lächelnder Zierde,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Mit den erschaudernden Ranken des Armes ein Hirtinnentausend umkränzend,</p>
+<p>Mit bejuweleten Händen und Füßen und Busen das Dunkel durchglänzend,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Schimmer von sandelbemaleter Stirn zu des Mondes Beschämung ergießend,</p>
+<p>Schwellende Brüste mit ungestüm pochender Pforte des Herzens umschließend,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Edelgesteiniges mákara-förmiges Ohrengehäng' um die Wangen,</p>
+<p><pb n="12" facs="#f0007"/> Safrangemantelt, von Helden und Heiligen, Göttern und Geistern umfangen,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Lehnend am weißen Kadamba, das Grauen und Grausen von Kali beschwichtend,</p>
+<p>Mich mit Anaṅga's Gedanken und Blicken empor auch ein weniges richtend,</p>
+<p>Dort wie sich Hari gebärdet im Reigen,</p>
+<p>Denk' ich, wo munterer Scherz ihm ist eigen.</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Es zählet aller Zierden Zahl, und stößt sich nicht an die Verstoßung,</p>
+<p>Es sehnet nach Versöhnung sich, und weiset ferne die Verschuldung;</p>
+<p>Nach Kṛṣṇa, der mit andern zwar sich letzt und ohne mich ergetzet,</p>
+<p>Macht liebend wieder doch sich auf dies leide Herz! Was soll ich machen?</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Mir, der verborgnen im laubigen Dach, ihn, den Schlummrer in nächtlicher Hülle,</p>
+<p>Mir, der allspähenden furchtsames Blicks, ihn, den lachenden wonniger Fülle,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p><pb n="13" facs="#f0008"/> Mir, der bei seinem Erscheinen errötenden, ihn, den beredsamen Koser,</p>
+<p>Mir, der mit lieblichem Lächeln begrüßten, ihn, der dies Gewand macht loser,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Mir, der aufs grünende Bette gesunkenen, ihn, der mir liege zur Seiten,</p>
+<p>Mir, der bereiten zu Kuß und Umfang, ihn die Lippen zu saugen bereiten,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<p>Mir mit ermattet gesunkenem Aug', ihn mit lustvoll erschauernden Wangen,</p>
+<p>Mir, der im Tau der Erschöpfung zerfloßnen, ihn trunken von Zittern umfangen,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p>Mir, von des Kokila Girren umschwirrt, ihn, den Sieger anaṅgischer Regeln,</p>
+<p>Mir, mit zerknitterten Blumen im Haar, ihn am Busen mit Spuren von Nägeln,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(15)</hi></p>
+<lb/>
+<p><pb n="14" facs="#f0009"/> Mir, der bespanget erklingelt der Fuß, ihn, durchmessend die Bahn von Genüssen,</p>
+<p>Mir, der entkettet der Gürtel ertönt, ihn, der fasset beim Haar, um zu küssen,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(16)</hi></p>
+<lb/>
+<p>Mir, im Gefühle der Wonne betäubt, ihn, dem halb ist das Aug' aufgegangen,</p>
+<p>Mir, der die Ranke des Leibs hinsinkt, ihn mit steigendem Liebesverlangen,</p>
+<p>Freundin, den Keśi-Besieger, den klaren,</p>
+<p>Bring' ihn zum Spiele mir, liebesbewegt sich der wunschesgewährten zu paaren.</p>
+<p rendition="#right"><hi rendition="#smaller">(17)</hi></p>
+<lb/>
+<p>Wie aus der Hand die Flöt' ihm sinkt, wie aus den schiefen Augenbrauenranken</p>
+<p>Der frohen Frauen freier Blick ihn trifft, die Wang' ihm perlt von hellem Schweiße,</p>
+<p>Und, da sein Auge mich erblickt, verlegnes Lächeln um den Mund ihm spielt,</p>
+<p>Govind' im Hain von Hirtinnen-Gedräng umgeben seh' ich, und es freut mich.</p>
+<p rendition="#right"><hi rendition="#smaller">(18)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">3.</note>
+
+<head>III</head>
+<p>Doch es nahm der Kaṃsa-Feind die wollustbilderfesselnde</p>
+<p>Spange, Rādhā, nun ans Herz, und wich vom Chor der Hirtinnen.</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<pb n="15" facs="#f00010"/> <p>Dahin und dorthin ging er nach der Rhādikā</p>
+<p>Anaṅga-Pfeileswunden fühlend in der Brust,</p>
+<p>Herzreuevoll, und an Kalindanandinī's</p>
+<p>Gestad' im Busche ließ sich nieder Mādhava.</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>O, sie ging, wie sie hier umrungen mich sah von Frauengestalten,</p>
+<p>Im Gefühle der Schuld auch ward sie von mir zurück nicht gehalten;</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Was beginnet sie? Was wohl sinnet sie, die Verlaßne, voll Beben?</p>
+<p>Was kann Gold nun und Gut mir gelten, was gelten Welt mir und Leben?</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Ihres Antlitzes denk' ich unter den Brau'n, vom Zorne verzogen,</p>
+<p>Gleich der roten Nymphäe, dunkel von Bienenschwarm überflogen,</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Herzlich halt' ich sie hier umhegt, in des Herzens Räumen getragen;</p>
+<p>Warum soll ich im Wald sie suchen, warum vergebens hier klagen?</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p><pb n="16" facs="#f00011"/> Schmächt'ge! Deines von Gram zerbrochenen Herzens muß ich gedenken,</p>
+<p>Kann – ich weiß nicht, wohin du gingest – nach dir die Schritte nicht lenken.</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Du erscheinest mir! Ja, ich sehe vor meinen Augen dich schweben;</p>
+<p>Warum willst du mit froher Hast mir wie sonst Umarmung nicht geben?</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>O verzeih' mir! Und nimmer wieder von mir soll solches geschehen.</p>
+<p>Gib, o Schönste, mir deinen Blick! Ich vergeh' in Manmatha's Wehen.</p>
+<p>Harihari! Die Gekränkte, gegangen ist sie im Zorne!</p>
+<p rendition="#right"><hi rendition="#smaller">(9)</hi></p>
+<lb/>
+<p>Dies Fasernband am Herzen mir, nicht ist's der Fürst der Schlangen;</p>
+<p>Dies Lotoslaubgewind am Hals, nicht ist's der Glanz des Giftes;</p>
+<p>Nur Sandelstaub, nicht Asch' ist dies: befehde nicht mich kranken,</p>
+<p>Mit Hara mich verwechselnd, was voll Grimm, Anaṅga, tobst du?</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p><pb n="17" facs="#f00012"/> Nimm zur Hand den Āmra-Pfeil nicht! Spanne den Bogen straff!</p>
+<p>Spielender Weltbesieger! Ist Ohnmächt'ge fällen Heldentat?</p>
+<p>Schon vom Liebesblickgeschosse der Gazellenäugigen</p>
+<p>Ist dies Herz genug verwundet, das bis heut sich nicht erholt.</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Ist Brau' ein Bogen, Wimperblickes Schwingung</p>
+<p>Ein Pfeil, Ohrläppchen eine Sehn', o Smara,</p>
+<p>Wie hast du zum Triumphzug dieser Schönen</p>
+<p>Geliehen alle Weltbesiegungswaffen!</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<p>Vom Brauenbogen Streifblickschuß, richt' er nur Gliederweh an!</p>
+<p>Das schwarzgewundne Haarnetz auch, üb' es nur Zauberkünste!</p>
+<p>Berückung spend', o Schmächtige, die rote Bimba- Lippe!</p>
+<p>Doch deine zartgewölbte Brust, wie spielt mit meinem Geist sie!</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p>Die lieblichen Berührungen, das holde schwanke Blickespiel der Augen,</p>
+<p>Der Mundnymphäe würz'ger Duft, die Nektarträufelung der losen Worte,</p>
+<p>Der Bimba-Lippe Süßigkeit! Da in Vergegenwärt'gung all der Reize</p>
+<p>Mit Andacht das Gemüt an sie sich schmiegt; wie kann der Trennung Pein doch walten!</p>
+<p rendition="#right"><hi rendition="#smaller">(15)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">4.</note>
+
+<head><pb n="18" facs="#f00013"/> IV</head>
+<p>Den am Yamunā-Stromufer im Laubhause verweilenden</p>
+<p>Hari voll Liebesunruhen grüßte die Freundin Rādhā's itzt:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Sandel verbannt sie, die Strahlen des Mondes erkennt sie für Qualenumschnürung,</p>
+<p>Nennt die malayischen Lüfte vergiftet von Schlangengebirges Berührung,</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Um vor den dicht sich ergießenden Madana-Pfeilen dir Schirmung zu geben,</p>
+<p>Wölbt sie ums Herz, wo du wohnest, ein Schild sich aus tauigen Lotosgeweben,</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Aus den Geschossen des blumenverschießenden Gottes, versenkt in Gefühle,</p>
+<p>Häufet sie deiner Umarmungen Wonnen geweihete, blumige Pfühle,</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p><pb n="19" facs="#f00014"/> Ihres Gesichtes Nymphäe bewegt sie, von rinnenden Tränen umflossen,</p>
+<p>Ähnlich dem Mond, der, vom Rachen des Rāhu bedrängt, hat sein Amṛt vergossen,</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Mit Antilopengewürze sie malet dich heimlich als Schürer der Gluten,</p>
+<p>Betet das Bild an, in Händen den Makara haltend und Pfeile von Cūten,</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Also die Wiederkehr singet sie: Mādhava! Sieh mich zu Fuße dir fallen;</p>
+<p>Kehrst du dich ab, so wird Feuer statt Nektar im Becher des Mondes mir wallen.</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Hin in Gedanken geschmolzen, sie stellt sich dich vor, dich so schwer zu erflehen,</p>
+<p>Klaget und lachet und lieget und weinet und wandelt und wechselt die Wehen,</p>
+<p>Sie, von der Trennung erkrankend,</p>
+<p>Kṛṣṇa, geschreckt von Anaṅga's Geschossen, als einzigen Hort dich umrankend.</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<pb n="20" facs="#f00015"/> <p>Ihre Wohnung dünkt ein wilder Wald ihr,</p>
+<p>Und ihr Mägdechor ein Jägernetz,</p>
+<p>Während ihre glüh'nden Seufzerhauche</p>
+<p>Bilden eines Waldbrands Flammenkranz;</p>
+<p>Doch sie selbst durch deine Flucht, o Jammer,</p>
+<p>Nahm Gazellenbild an, ach und wie</p>
+<p>Kāma die Gestalt gewann von Yama,</p>
+<p>Und beschickt mit Lust sein Tigerspiel!</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Selber vom lieblichen Kranz, der sie schmücket,</p>
+<p>Fühlt die Gemagerte sich wie gedrücket,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p>Saftige weichliche Salbe von Sandeln</p>
+<p>Fühlt sie in Gift auf dem Leib sich verwandeln,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Seufzers unendlich gedehnetes Hauchen</p>
+<p>Lässet wie Madana's Lohe sie rauchen,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<p>Um und um drehet sie, träufelnden Spieles,</p>
+<p>Augennymphäen gesunkenen Stieles,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p>Zweifelnd besieht sie ihr blumiges Bette,</p>
+<p>Das ihr erscheint wie Hutāśana's Stätte,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(15)</hi></p>
+<lb/>
+<pb n="21" facs="#f00016"/> <p>Still auf die Hand nur die Wange sie leget,</p>
+<p>Wie sich am Abend der Mond nicht beweget,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(16)</hi></p>
+<lb/>
+<p>Hari, o Hari! so ruft sie erbangend,</p>
+<p>Selbst in der Trennung zu sterben verlangend,</p>
+<p>Rādhā, in deiner Trennung, o Keśava!</p>
+<p rendition="#right"><hi rendition="#smaller">(17)</hi></p>
+<lb/>
+<p>Sie schauert, stöhnet, winselt, zittert, schweigt,</p>
+<p>Sinnt, schwärmet, nickt, fällt, strebet, schwiemet hin;</p>
+<p>Nur deine Huld erhält die Holde noch,</p>
+<p>O Himmelsarzt, sonst bleibt kein Anhalt ihr.</p>
+<p rendition="#right"><hi rendition="#smaller">(19)</hi></p>
+<lb/>
+<p>Wenn die Liebeskranke, süßer Götterarzt,</p>
+<p>Deren Heilung deines Leibes Amṛt ist,</p>
+<p>Wenn du Rādhā von dem Weh nicht retten willst,</p>
+<p>Indra's Bruder, bist du hart wie Indra's Keil.</p>
+<p rendition="#right"><hi rendition="#smaller">(20)</hi></p>
+<lb/>
+<p>Unter Kāma's Drang und Andrang kranken Leibs, o Wunder, fühlt</p>
+<p>Ihr Gemüt, an Sandel, Mond und Lotos denkend, Traurigkeit.</p>
+<p>In Geduld nur die Gedanken ganz auf deinen kühlen Leib</p>
+<p>Richtend, einz'ger Freund, im stillen atmet noch die schwindende.</p>
+<p rendition="#right"><hi rendition="#smaller">(21)</hi></p>
+<lb/>
+<p>Die, durch ein Blinzen deines Augs gekränkt schon,</p>
+<p>Sonst keinen Augenblick ertrug die Trennung,</p>
+<p>Wie seufzt sie jetzt, da den Rasāla-Strauch sie</p>
+<p>Durch Trennungslänge siehet neu beblütet.</p>
+<p rendition="#right"><hi rendition="#smaller">(22)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">5.</note>
+
+<head><pb n="22" facs="#f00017"/> V</head>
+<p>»Hier verweil' ich, geh zu Rādhā,</p>
+<p>Bring' mein Werben, bring' sie hergeführet!«</p>
+<p>So vom Madhu-Feind gesendet,</p>
+<p>Eilte selbst und sprach zu Rādhā jene:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Wo malayische Lüfte wehn,</p>
+<p>schwebend Anaṅga zu tragen,</p>
+<p>Blühende Knospen aufgehn,</p>
+<p>Herzen getrennter Verliebten zu nagen,</p>
+<p>Freundin, wie schmachtet der Hainbekränzte,</p>
+<p>getrennt von dir!</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Glühend am tauigen Mondenstrahl,</p>
+<p>stellt er sich an zu sterben;</p>
+<p>Fühlend Madana's Pfeilqual,</p>
+<p>klaget er laut das gedrohte Verderben.</p>
+<p>Freundin, wie schmachtet der Hainbekränzte,</p>
+<p>getrennt von dir!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Vor dem tönenden Bienenschwarm</p>
+<p>hält er verstopft die Ohren;</p>
+<p>Durch die Trennung an Lust arm,</p>
+<p>siechet er nächtlich in Schmerzen verloren.</p>
+<p>Freundin, wie schmachtet der Hainbekränzte,</p>
+<p>getrennt von dir!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Wälder wählt er zum Aufenthalt,</p>
+<p>glänzende Schlösser verlassend,</p>
+<pb n="23" facs="#f00018"/> <p>Wälzt am Boden sich stumm bald,</p>
+<p>bald bei dem Namen dich ruft er erblassend;</p>
+<p>Freundin, wie schmachtet der Hainbekränzte,</p>
+<p>getrennt von dir!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Wo schon eh'r des Wonneherren Lustziel er mit dir erreicht,</p>
+<p>In derselben Laube, Kāma's hohem Tempel, harret er,</p>
+<p>Mādhava, der dich nur denkend flüstert Huldbeschwörungen,</p>
+<p>Wieder deiner Busenschal' Umarmungsnektar wünschet er.</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Wo er zur Wohnung der Wonnebelohnung genaht ist im Schmucke der Liebe,</p>
+<p>Stattlich gelendete, säume nicht, wende dich schnell zu dem Herrscher der Triebe!</p>
+<p>Unter dem Duftstrauch an Yámunā's Lufthauch harret der Hainbekränzte.</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Deinen bedungenen, töneverschlungenen Namen enthaucht er dem Rohre,</p>
+<p>Neidet dem Winde den Staub, der gelinde dir, Zarte, gespielt hat am Flore;</p>
+<p>Unter dem Duftstrauch an Yamunā's Lufthauch harret der Hainbekränzte.</p>
+<p rendition="#right"><hi rendition="#smaller">(9)</hi></p>
+<lb/>
+<p>Schwingt eine Taube sich, regt es im Laube sich, meinet er, daß du gekommen,</p>
+<p>Schmücket das Lager dir, blicket mit zager Begier dir entgegen beklommen;</p>
+<p><pb n="24" facs="#f00019"/> Unter dem Duftstrauch an Yamunä's Lufthauch harret der Hainbekränzte.</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Laß die umzingelnden, plauderhaft klingelnden, liebesverrätrischen Spangen,</p>
+<p>Freundin, o husche zum dämmrigen Busche, von nächtlichen Schleiern umfangen!</p>
+<p>Unter dem Duftstrauch an Yamunā's Lufthauch harret der Hainbekränzte.</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p>Dort die geschmeidete, safranbekleidete Brust, wie die kranichumschweifte</p>
+<p>Wolke, dem Blitze gleich wählst du zum Sitze, die heiß im Verlangen gereifte.</p>
+<p>Unter dem Duftstrauch an Yamunā's Lufthauch harret der Hainbekränzte.</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Schlag' die gelösete, schmuckesentblößete Lende gleich einem Gewande</p>
+<p>Um den auf Sprossen gewiegten Genossen, o blüh'nde, zu wonnigem Pfande!</p>
+<p>Unter dem Duftstrauch an Yamunā's Lufthauch harret der Hainbekränzte.</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<p>Mādhava's Sinn ist stolz, im Beginn ist die Nacht, bald ist sie vergangen,</p>
+<p>Tu, was ich heiße, mit eilendem Fleiße, befriedige Hari's Verlangen!</p>
+<p>Unter dem Duftstrauch an Yamunā's Lufthauch harret der Hainbekränzte,</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p><pb n="25" facs="#f00020"/> Zugleich mit deiner Sprödigkeit hinunter ganz gegangen ist die Sonne,</p>
+<p>Und mit Govinda's Sehnsucht hat die volle Dichtigkeit erlangt das Dunkel;</p>
+<p>Dem Cakravāka-Rufe gleich tönt kläglich meine lange Liebesmahnung:</p>
+<p>Leichtsinnige, was zauderst du? Die rechte Zeit ist da zum Nachtbesuche!</p>
+<p rendition="#right"><hi rendition="#smaller">(17)</hi></p>
+<lb/>
+<p>Unter Armverschränkung, unter Küssen, unter Nägelkampf,</p>
+<p>Unter Wonn'erweckung, unter Liebeshast und Lustbeginn,</p>
+<p>Zwei Entzweite, wieder eins gewordne, traulich kosende,</p>
+<p>Welche Lust, o welche labt sie, schamgewürzt, nicht in der Nacht!</p>
+<p rendition="#right"><hi rendition="#smaller">(18)</hi></p>
+<lb/>
+<p>Scheuer Furcht, die Augen rings im Dunkel werfend auf den Pfad,</p>
+<p>Oft an einem Baume stockend, langsam setzend Fuß vor Fuß,</p>
+<p>Endlich heimlich angelangt mit Gliedern wonnewogenden,</p>
+<p>Schöne, mag der Freund dich sehen und begehen seine Lust!</p>
+<p rendition="#right"><hi rendition="#smaller">(19)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">6.</note>
+
+<head><pb n="26" facs="#f00021"/> VI</head>
+<p>Doch sie, zu schwach zu gehen,</p>
+<p>Voll Liebeswehen lag im Rankenhaus.</p>
+<p>Die Freundin, um Govinden</p>
+<p>Dies zu verkünden, kam zu ihm:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Überall schaut sie, wohin sie nur schauet,</p>
+<p>Dich, dem die Lippe von Honige tauet,</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Hebt, dir entgegenzugehn, sie die Glieder,</p>
+<p>Sinkt sie nach wenigen Schritten danieder,</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Blüten und Blätter zu Ketten verwebend,</p>
+<p>Schwärmt sie, von deiner Erinnrung nur lebend,</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Sich im gebärdenden Spiele betrachtend,</p>
+<p>»Bin ich nicht Hari?« so rufet sie schmachtend,</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>»Warum zum Ort der Bestimmung nicht eilt er?«</p>
+<p>Fragt sie beständig: »o Freundin, wo weilt er?«</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<pb n="27" facs="#f00022"/> <p>Küssend umarmt sie der nächtlichen Schatten</p>
+<p>Wolkengebild, das sie hält für den Gatten,</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Während du säumest, erliegt sie dem Drange,</p>
+<p>Jammert, und harret bereit zum Empfange,</p>
+<p>Hari, o Hort!</p>
+<p>Rādhā erliegt in der Laube dort.</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Bis zum Ohrläppchen schaudernd, seufzerschwellend,</p>
+<p>Mit stockender, erstickter Stimme stammelnd,</p>
+<p>Auf dich, Treuloser, richtend tiefe Sehnsucht,</p>
+<p>Denkt, lustversenkt, nur dich die Rehgeaugte.</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Oft legt sie ihren Gliedern an den Putz, und rührt ein Blatt sich,</p>
+<p>So wähnt sie dich gekommen, breitet auf das Bett, und sinnet.</p>
+<p>Wiewohl sie so mit Wohnungsschmuck, mit Wonnewahn und Argwohn</p>
+<p>Sich unterhält, doch ohne dich durchlebet sie die Nacht nicht.</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">7.</note>
+
+<head>VII</head>
+<p>Der, dem zur Last fällt Fall und Fehltritt vieler</p>
+<p>Nachtwandlerinnen (davon trägt er Flecken),</p>
+<p>Jetzt um Vṛndāvan's Wald ein Strahlnetz wob er,</p>
+<p>Der Mond, am Mund der Nacht ein Sandeltropfen.</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<pb n="28" facs="#f00023"/> <p>Da hin die Lichtscheib' eilte,</p>
+<p>Und ferne weilte Mādhava von ihr,</p>
+<p>Hub an mit lauten Klagen</p>
+<p>Ihr Leid zu sagen Rādhā so:</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Ach! Der Freund läßt zur Frist mich im Hain unbesucht!</p>
+<p>Welken muß meines Leibs Jugendblüt' ohne Frucht.</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Dem ich nachgehe nachts tief in Waldwüstenei'n,</p>
+<p>Madana's Pfeile bohrt er ins Herz mir, o Pein!</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Sterben! Was bleibt mir sonst? Soll ich mit krankem Leib,</p>
+<p>Sinnberaubt, diese Glut tragen, glückloses Weib?</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Ach, wie bringt Kummer mir diese lenzlaue Nacht!</p>
+<p>Welche Glücksel'ge hat sie in Lust dort durchwacht?</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Meines Leibs Edelsteinspangenschmuck, keine Lust,</p>
+<p>Keinen Trost bringt er mir unter'm Brand meiner Brust.</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p><pb n="29" facs="#f00024"/> Selbst der Strauß, den ich drück' an dies Herz blumenweich,</p>
+<p>Tötet mich, denn er sieht jenes Gotts Pfeilen gleich.</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Hier am Fluß seh' ich Schilfrohre stehn ohne Zahl,</p>
+<p>Doch es denkt Mādhava mein nicht ein einzig Mal.</p>
+<p>Ha, an wen wend' ich mich? Auch der Herzfreundin</p>
+<p>Wort ist Betrug.</p>
+<p rendition="#right"><hi rendition="#smaller">(9)</hi></p>
+<lb/>
+<p>Was ist es? Geht er Schönen nach? Hält ihn umringt der Reigen</p>
+<p>Von frohen Tanzgenossen? Ging er irr im dunklen Haine?</p>
+<p>Vermag der liebe lässige nicht einen Schritt zu schreiten,</p>
+<p>Daß den bestimmten Ort der Rankenhütt' er nicht besucht hat?</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p>Da sie nun ohne Mādhava die Freundin</p>
+<p>Sah wiederkommen schweigend und verlegen,</p>
+<p>Argwohnte sie, den Weltersehnten habe</p>
+<p>Verlockt ein Weib, und sprach, als ob sie's sähe:</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Rüstig geschürzet zu Madana's Kriegen,</p>
+<p>Blumenverstreuender Haare, die fliegen,</p>
+<p>Liebend mit Hari vereint,</p>
+<p>Scherzt eine, die mir selig scheint.</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<pb n="30" facs="#f00025"/> <p>Trunken von Hari's Umarmung durchzittert,</p>
+<p>Während der Schmuck auf dem Busen ihr schüttert,</p>
+<p>Liebend mit Hari vereint,</p>
+<p>Scherzt eine, die mir selig scheint.</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p>Mond des Gesichtes von Locken umflogen,</p>
+<p>Saugend an Lippen und müde gesogen,</p>
+<p>Liebend mit Hari vereint,</p>
+<p>Scherzt eine, die mir selig scheint.</p>
+<p rendition="#right"><hi rendition="#smaller">(15)</hi></p>
+<lb/>
+<p>Ohrengehäng' um die Wangen bewegend,</p>
+<p>Rasch mit der klingelnden Hüfte sich regend,</p>
+<p>Liebend mit Hari vereint,</p>
+<p>Scherzt eine, die mir selig scheint.</p>
+<p rendition="#right"><hi rendition="#smaller">(16)</hi></p>
+<lb/>
+<p>Lächelnd am Blicke des Liebsten errötend,</p>
+<p>Liebesentzückungen wonniglich flötend,</p>
+<p>Liebend mit Hari vereint,</p>
+<p>Scherzt eine, die mir selig scheint.</p>
+<p rendition="#right"><hi rendition="#smaller">(17)</hi></p>
+<lb/>
+<p>Schauerdurchrieselt, empfindungdurchzittert,</p>
+<p>Stöhnend und blinzend, von Kāma umwittert,</p>
+<p>Liebend mit Hari vereint,</p>
+<p>Scherzt eine, die mir selig scheint.</p>
+<p rendition="#right"><hi rendition="#smaller">(18)</hi></p>
+<lb/>
+<p>Der wie Hari's sehnsuchtbleiches Antlitz</p>
+<p>Lächelt, um den Kummer zu zerstreuen,</p>
+<p>Ach, der Mond, er breitet übers Herz voll</p>
+<p>Herzenliebe mir nur Liebespein.</p>
+<p rendition="#right"><hi rendition="#smaller">(21)</hi></p>
+<lb/>
+<p><pb n="31" facs="#f00026"/> Aufs liebesentzündete kußlichgemündete Antlitz der Liebsten malt</p>
+<p>Er mit Schauderbeschleichen aus Muscus ein Zeichen, als Reh, das im Monde strahlt.</p>
+<p>O wie spielt an Yámunā's waldigem Strand</p>
+<p>Madhusūdana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(22)</hi></p>
+<lb/>
+<p>In das Wolkengeflocke der glänzenden Locke, weht um der Wangen Zier,</p>
+<p>Flicht er Kuraba-Spitzen, die flattern gleich Blitzen, in Madana's Jagdrevier.</p>
+<p>O wie spielt an Yamunā's waldigem Strand</p>
+<p>Madhusūdana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(23)</hi></p>
+<lb/>
+<p>Des Busens gelüftete muscusdurchdüftete wölbende Himmelsflur,</p>
+<p>Er besternt sie mit reinen Gehängen von Steinen, ihr Mond ist die Nagelspur.</p>
+<p>O wie spielt an Yamunā's waldigem Strand</p>
+<p>Madhusūdana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(24)</hi></p>
+<lb/>
+<p>Den Arm ohne Mängel, den Lilienstengel, den Lilienhand bezweigt,</p>
+<p>Umspangt er mit Bienen, mit feur'gen Rubinen, den Arm, der dem Schnee'e gleicht.</p>
+<p>O wie spielt an Yamunā's waldigem Strand</p>
+<p>Madhusūdana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(25)</hi></p>
+<lb/>
+<p>Ums Wonnegelände der schwellenden Lende, den Madana-Thron von Gold,</p>
+<p><pb n="32" facs="#f00027"/> Ist der festliche Bogen des Sieges gezogen, der Gürtel juwelenhold.</p>
+<p>O wie spielt an Yamunā's waldigem Strand</p>
+<p>Madhusūdana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(26)</hi></p>
+<lb/>
+<p>Die Kámala-Schüsse, die weichlichen Füße, mit Nageljuwel geschmückt,</p>
+<p>Belegt er zum Schutze mit Yāvaka-Putze, indem er ans Herz sie drückt.</p>
+<p>O wie spielt an Yamunā's waldigem Strand</p>
+<p>Madhusādana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(27)</hi></p>
+<lb/>
+<p>Da also der Sieger, der Bruder vom Pflüger, ein reizendes Weib umkos't,</p>
+<p>Was weil' ich, zum Raube dem Gram, in der Laube, o Freundin, hier ohne Trost?</p>
+<p>O wie spielt an Yamunā's waldigem Strand</p>
+<p>Madhusūdana jetzo, der Held!</p>
+<p rendition="#right"><hi rendition="#smaller">(28)</hi></p>
+<lb/>
+<p>Was, Freundin, wenn der Grausame nicht kam, o Botin, grämst du dich?</p>
+<p>Ergötzt der Vielgeliebte sich nach Lust, was ist es deine Schuld?</p>
+<p>Sieh, zur Vereinung mit dem Freund, gezogen von des Liebsten Zier,</p>
+<p>In Sehnsuchtwehn ergossen, soll nun diese Seele selber gehn.</p>
+<p rendition="#right"><hi rendition="#smaller">(30)</hi></p>
+<lb/>
+<p>Unter dem lächelnden Blick des Genossen</p>
+<p>Schmachtet sie nicht auf dem Lager von Sprossen,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(31)</hi></p>
+<lb/>
+<pb n="33" facs="#f00028"/> <p>Unter dem Hauche vom blühenden Munde</p>
+<p>Fühlet sie nicht von Anaṅga die Wunde,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(32)</hi></p>
+<lb/>
+<p>Unter'm ambrosischen Kosen gelinde</p>
+<p>Trinket sie Glut nicht im Málaya- Winde,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(33)</hi></p>
+<lb/>
+<p>Unter den glänzenden Lilienhänden</p>
+<p>Dürfen sie Strahlen des Mondes nicht blenden,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(34)</hi></p>
+<lb/>
+<p>Unter der tauenden Wolke der Wonnen</p>
+<p>Ist sie dem Jammer der Trennung entronnen,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(35)</hi></p>
+<lb/>
+<p>Unter dem Glanze des Schmucks des Getreuen</p>
+<p>Braucht sie kein Mägdegelächter zu scheuen,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(36)</hi></p>
+<lb/>
+<p>Unter dem Schirme des Schönsten von allen</p>
+<p>Trifft sie kein Weh, denn sie hat ihm gefallen,</p>
+<p>Sie, o Freundin, mit der Vanamālin spielt.</p>
+<p rendition="#right"><hi rendition="#smaller">(37)</hi></p>
+<lb/>
+<p>Kāma's Wonn' erregender, o Sandelwind,</p>
+<p>Schenk' mir Huld und wehe recht! O sei nicht links!</p>
+<p>Schöpfungsodem, bring' mir einen Augenblick</p>
+<p>Hari her, und nimm den Odem mir dafür!</p>
+<p rendition="#right"><hi rendition="#smaller">(39)</hi></p>
+<lb/>
+<pb n="34" facs="#f00029"/> <p>Malaya-Luft, gib mir den Tod! Fünfpfeiliger,</p>
+<p>Nimm meinen Hauch hin! Nicht nach Hause geh ich mehr.</p>
+<p>Was, Yama's Schwester, schonest du? In deine Flut</p>
+<p>Tauch' meine Glieder, lösche dieses Leibes Brand!</p>
+<p rendition="#right"><hi rendition="#smaller">(41)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">8.</note>
+
+<head>VIII</head>
+<p>Doch nach endlich hingebrachter Nacht,</p>
+<p>Morgens, noch von Smara's Pfeile wund,</p>
+<p>Sprach zu dem, vor ihr zwar auf den Knien</p>
+<p>Gnade fleh'nden, sie doch voll Verdruß:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Dein von beschwerlicher nächtlicher Wache gerötetes Auge, das träge</p>
+<p>Blinzende, trägt es nicht gleichsam zur Schau des erwünschten Genusses Gepräge?</p>
+<p>Hárihari! Geh nur, Mādhava! Geh nur, Kéśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Die von geküssetem, dunkelgeschminketem Auge geliehenen Schwärzen</p>
+<p>Färben die rötlichen Lippen, o Kṛṣṇa, dir ganz überein mit dem Herzen.</p>
+<p>Harihari! Geh nur, Mādhava! Geh nur, Keśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p><pb n="35" facs="#f00030"/> Zeiget dein Leib doch die Spuren geschärfeter Nägel kandarpischen Krieges,</p>
+<p>Wie die smaragdene Tafel in goldenen Zügen das Denkmal des Sieges!</p>
+<p>Harihari! Geh nur, Mādhava! Geh nur, Keśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Glänzt nicht dein edeler Busen vom Lacke, dem Lotos des Fußes entflossen,</p>
+<p>Wie um von außen zu weisen vom Baume der Liebe die neuesten Sprossen?</p>
+<p>Harihari! Geh nur, Mādhava! Geh nur, Keśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Spuren verwundender Zähn' auf den Lippen erregen mir Gram im Gemüte,</p>
+<p>Fragen mich, ob unversehrt ich bei mir nun den Leib des Geliebten wohl hüte?</p>
+<p>Harihari! Geh nur, Mādhava! Geh nur, Keśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Deine befleckte Gesinnung, o Kṛṣṇa, ist gleichsam von außen zu sehen;</p>
+<p>Sprich, was betörst ein ergebenes Weib du, das ringet in Madana's Wehen?</p>
+<p><pb n="36" facs="#f00031"/> Harihari! Geh nur, Mādhava! Geh nur, Keśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Edler, du schweifest, um Weiber zu fahen, in Wäldern, was ist da zu staunen?</p>
+<p>Pūtanikā schon bezeugt dir die kindischen frauenverderblichen Launen.</p>
+<p>Harihari! Geh nur, Mādhava! Geh nur, Keśava! Rede nicht trügliche Worte!</p>
+<p>Lotosgeaugeter, suche nur die, die dir dienet im Kummer zum Horte!</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">9.</note>
+
+<head>IX</head>
+<p>Aber zu der liebesgekränkten,</p>
+<p>Kummerversenkten, verlangenvollen,</p>
+<p>Über Hari's Vergehen grollenden,</p>
+<p>Mit ihm schmollenden, spricht die Magd:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Hari auf Flügeln der Lenzluft besucht dich;</p>
+<p>Locket auf Erden wohl süßere Frucht dich?</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Deine die Dattel beschämende Brust hier,</p>
+<p>Sprich, was entziehest du selber die Lust ihr?</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<pb n="37" facs="#f00032"/> <p>Sagt' ich's so oft dir in jeglicher Art nicht?</p>
+<p>Gegen den herrlichen Hari sei hart nicht!</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Warum o zagest du, klagest du, weinst du?</p>
+<p>Alle Gefährtinnen lachen, was meinst du?</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Sieh, auf dem Lager von Blüt' und von Blatt da</p>
+<p>Lagert er mache die Augen dir satt da!</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Treibe vom Herzen des Kummers Berennung!</p>
+<p>Höre mein Wort, das nicht rät zu der Trennung:</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Hari soll kommen und kosen genußreich;</p>
+<p>Freundin, was machst du das Herz dir verdrußreich?</p>
+<p>Gegen Mādhava tu</p>
+<p>Nicht spröd', o spröde du!</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Wenn du hart dem weichen, wenn du starr bist dem sich schmiegenden,</p>
+<p>Abgeneigt dem zugeneigten, feindlich einem solchen Freund;</p>
+<p>Billig wird dann, o Verkehrte, Sandelsalbe dir zu Gift,</p>
+<p>Mondstrahl Sonnenbrand, Schnee Feuer, Minnelustspiel Todeskampf.</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">10.</note>
+
+<head><pb n="38" facs="#f00033"/> X</head>
+<p>Als inzwischen lind ihr Zorn geworden war,</p>
+<p>Und des langen Seufzens müd' ihr schöner Mund,</p>
+<p>Trat zu ihr, die schamvoll auf die Mägde sah,</p>
+<p>Abends Hari, sprach mit holdem Stammeln so:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Wenn du nur ein Wörtchen sprichst, wird des Zahnes Lilienglanz dieses Bangens Nacht mir entfloren;</p>
+<p>Deines Angesichtes Mond mit dem Lippennektarstrom labt der Augen durst'ge Cakoren.</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p>Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Schöngezahnte, wenn du bist wirklich gegen mich erzürnt, gib vom Pfeil des Nagels die Wunde!</p>
+<p>In Armfesseln schlage mich, scharfes Bisses nage mich, oder was dir lieb ist zur Stunde!</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p>Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Du allein bist meine Zier, du allein mein Leben hier, mein Juwel in irdischen Schachten;</p>
+<p>Herrin, daß du gegen mich immer freundlich seiest, das ist des Herzens eifrigstes Trachten.</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p><pb n="39" facs="#f00034"/> Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Dein sonst lotosblaues Aug', holde, trägt erzürnt den Schein rötlicher Nymphä' im Gewässer,</p>
+<p>Wenn du durch des Liebepfeils Regung es wie meinen Leib dunkeln ließest, ständ' es ihm besser.</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p>Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Laß dein Edelsteingerank auf der Brüste Schalen sprühn, daß es färbe des Herzens Bleichen!</p>
+<p>Laß des Gürtels Glockenspiel tönen um der Lende Wall, daß zur Lust es gebe das Zeichen!</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p>Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Dein nymphäentötendes, meinen Busen rötendes, siegreich auf dem Lustkampfplatze</p>
+<p>Schimmernd steh'ndes Sohlenpaar, sprich, soll ich's belegen zart mit des Lacks sanftglänzendem Schatze?</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p>Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p><pb n="40" facs="#f00035"/> Gib, die Kāma's Gift versöhnt, gib, die meine Scheitel krönt, mir des Fußzweigs blühende Spitze!</p>
+<p>Furchtbar ist in meinem Blut Madana's Verzehrungsglut; laß den Fußtritt dämpfen die Hitze!</p>
+<p>Freundin, anmutreiche! Laß den Stolz, den grundlosen, sinken!</p>
+<p>Von Kandarpa's Feuer ging meine Seel' in Flammen auf; gib des Mundes Met mir zu trinken!</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Laß, zweifelnde, den Wahn, den Haß! In deinem Schoß und Busen</p>
+<p>Ruht, reizende, mein Wunsch und tut für andres nie sich auf,</p>
+<p>Eingeht ins Herz allein die Pein mir des leiblosen Gottes;</p>
+<p>Gib, holde, gib sein Recht dem Trieb, umarmend gib dich hin.</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Gib, Mädchen, mir des schonungslosen Zahnes Biß,</p>
+<p>Der Arme Ketten, enge Busenklemmung!</p>
+<p>Entbrannte! Deine Lust laß aus! Aus Wundenklaff</p>
+<p>Des Mördergotts entfliehn die Lebensgeister.</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p>Mondangesicht, die Krümmung deiner Brauen</p>
+<p>Ist junger Herzen schwarze Todesschlange;</p>
+<p>Die von ihr drohende Gefahr zu wenden,</p>
+<p>Ist dein Mundnektar die Beschwörungsformel.</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Nutzlos peinigt mich dein Schmollen, Schmächt'ge, kose Köstliches!</p>
+<p><pb n="41" facs="#f00036"/> Blühende, mit holdanredenden Blicken scheuche den Verdruß!</p>
+<p>Wohlgewandte, wend' einmal nicht mehr dein Antlitz ab! O tu</p>
+<p>Dir nicht selbst weh, milde, holde, dein Geliebter ich bin da!</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<p>Bandhūka's Glanz hat deine Lipp', und deine Wange zart Madhūka's Schimmer,</p>
+<p>O Huldin, blauen Lotosduft zu hauchen scheinen deine dunkeln Augen;</p>
+<p>Die Nase strebt ein Tila-Sproß empor, o Kind mit Zähnen von Jasminen!</p>
+<p>In deines Angesichtes Dienst besiegt die Welt der Gott mit Blumenwaffen.</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p>In deinem Blick die Trunkenheit, den Mondschein auf der Stirne,</p>
+<p>Die Anmut selbst in deinem Gang, die Füll im Schenkelpaare,</p>
+<p>In deinem Arm die Liebeslust, die Zierd' in krauser Locke,</p>
+<p>Wie manche Jugendgottheit bringst du mit dir her zur Erde!</p>
+<p rendition="#right"><hi rendition="#smaller">(15)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">11.</note>
+
+<head>XI</head>
+<p>Nachdem er lang geliebkost der Rehaugigen,</p>
+<p>Ging vollgeschmückt zum laub'gen Lager Kéśava;</p>
+<p>Da sprach, als augenlabend an der Abend glomm,</p>
+<p>Zur fröhlich aufgeputzten Rādhā so die Magd:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p><pb n="42" facs="#f00037"/> Der da mit schönen versöhnenden Tönen die Füße dir flehend umfangen,</p>
+<p>Nun in der luftigen Laube zum lockenden Lager der Lust ist gegangen,</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p>Walle mit wallendem Busen, mit wogender Lendenbewegung die Bahnen,</p>
+<p>Schüchtern im Klange des schütternden Schmuckes, und zeige den Gang der Fasanen,</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Hörst du des Madhu-Befehders die frauenbezaubernde Stimme, die süße?</p>
+<p>Unter dem Kokila-Chore, dem Liebe besingenden, suche Genüsse,</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Winkend im Winde, mit blättergefingerten Händen, die Winden der Bäume</p>
+<p>Mahnen dich lange zur Eile des Gangs, saumselige, länger nicht säume,</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Diese vom Drang des Anaṅga bewegte, nach Hari's Umarmungen Lust nur</p>
+<p><pb n="43" facs="#f00038"/> Zeigende, frage du diese von hellen Juwelen betauete Brust nur,</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Von der Gefährtinnen Reihen umrungen, zum ringenden Kampfe gerüstet,</p>
+<p>Rasende, rühre die Trommel, und fahre die Nachtfahrt, scheulos gebrüstet!</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Stütze die Hand mit dem Manmatha-Pfeile, dem Nagel, auf deine Vertraute,</p>
+<p>Wecke den lauschenden Freund mit der Spangen im Anschritt dröhnenden Laute,</p>
+<p>Mädchen! Dem Madhu-Bemeistrer,</p>
+<p>Dem genaheten, nahe dich, Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>»Schauen wird sie mich, wird kommen, bringen süßen Liebesgruß,</p>
+<p>Mit Umfang sich letzen, lustvereinigt!« so gedankenvoll</p>
+<p>Blickt er, Freundin, dort nach dir aus, zittert, schaudert, jauchzt, zerfließt,</p>
+<p>Springt empor und sinkt zurück, im dunkeln Laubgewölb, dein Freund.</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Schwarze Schmink' aufs Auge tuend, hinters Ohr Tāpiccha-Laub,</p>
+<p><pb n="44" facs="#f00039"/> Auf die Locke dunklen Lotos, auf die Brust ein Muscusmal</p>
+<p>Lauscht, gehüllt in dichte Schleier, jetzt das Nachtgraun im Gebüsch,</p>
+<p>Und umfängt, o Freundin, eil'ger Nachtbesucherinnen Leib.</p>
+<p rendition="#right"><hi rendition="#smaller">(11)</hi></p>
+<lb/>
+<p>Von kaschmirweißgeleibter Wandlerinnen</p>
+<p>Juwelenglänzen überall bestreifet,</p>
+<p>Dient dies tamālenblätterschwarze Dunkel</p>
+<p>Der Nacht zum Probstein ihres Liebegoldes.</p>
+<p rendition="#right"><hi rendition="#smaller">(12)</hi></p>
+<lb/>
+<p>Am Eingang des vom Glanz des Halsgeschmeides,</p>
+<p>Des goldnen Gürtels und der Kettenspangen</p>
+<p>Durchstrahlten Laubdachs stand beschämt und schaute</p>
+<p>Den Hari Rādhā, da begann die Freundin:</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<p>Hier in des Laubrankengeflechts Freudengemache,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, Wonnebegierblickende, lache!</p>
+<p rendition="#right"><hi rendition="#smaller">(14)</hi></p>
+<lb/>
+<p>Wo sich ein frischgrünes Gebüsch wölbet zum Bette,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, laß auf der Brust klingen die Kette!</p>
+<p rendition="#right"><hi rendition="#smaller">(15)</hi></p>
+<lb/>
+<p>Wo den Palast blühender Ast baut, der betaute,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, zierliche, zartblumengebaute!</p>
+<p rendition="#right"><hi rendition="#smaller">(16)</hi></p>
+<lb/>
+<pb n="45" facs="#f00040"/> <p>Wo von der Duftmalaya-Luft kühl sind die Hallen,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, laß den Gesang lockend erschallen!</p>
+<p rendition="#right"><hi rendition="#smaller">(17)</hi></p>
+<lb/>
+<p>Unter des Laubdaches gewindwebendem Hange,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, ruhe vom anstrengenden Gange!</p>
+<p rendition="#right"><hi rendition="#smaller">(18)</hi></p>
+<lb/>
+<p>Wo ihr Gesumm übet die Imm' honigbetrunken,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, süß in Begier wonnig versunken!</p>
+<p rendition="#right"><hi rendition="#smaller">(19)</hi></p>
+<lb/>
+<p>Wo dich der Lenzkokila laut ladet zum Sitze,</p>
+<p>Rādhā, tritt ein in Mādhava's Nähe,</p>
+<p>Spiele du hier, zeige des Zahns glänzende Spitze!</p>
+<p rendition="#right"><hi rendition="#smaller">(20)</hi></p>
+<lb/>
+<p>Mit verlangendem Lustbangen, auf Govinda gewandt den Blick,</p>
+<p>Hold mit hellem Geschmeid läutend, ging sie ein in das Haingemach.</p>
+<p rendition="#right"><hi rendition="#smaller">(23)</hi></p>
+<lb/>
+<p>Ihn, der, von Rādhā's Antlitz bestrahlet, entfaltete vielfache Regung,</p>
+<p>Wie bei des Monds Aufgange des wallenden Weltmeers Wellenbewegung,</p>
+<p>Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(24)</hi></p>
+<lb/>
+<p><pb n="46" facs="#f00041"/> Dem ein gesterntes Geschmeide sich schmiegt' um den Busen in weiter Umfließung,</p>
+<p>Gleich der mit glänzenden Schäumen sich kränzenden Yamunā-Flutenergießung,</p>
+<p>Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(25)</hi></p>
+<lb/>
+<p>Dem um den bräunlichen lieblichen Leib sich gebreitet die gelbliche Hülle,</p>
+<p>Wie um die blaue Nymphäe des stäubenden Duftes vergoldende Fülle,</p>
+<p>Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(26)</hi></p>
+<lb/>
+<p>Dem auf dem liebegeröteten Antlitz die flatternden Wimpern sich wiegen,</p>
+<p>Wie Bachstelzen im herbstlichen Weiher um blühende Lotosse fliegen,</p>
+<p>Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(27)</hi></p>
+<lb/>
+<p>Welchem die Wangennymphäe zu küssen, die Ohrringsonnen sich drehen,</p>
+<p>Welchem mit lächelndem Glanz aufblühen die Lippen, um Liebe zu flehen,</p>
+<p><pb n="47" facs="#f00042"/> Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(28)</hi></p>
+<lb/>
+<p>Dessen beblumete Locken der Wolke, der mondlich- beschimmerten, gleichen,</p>
+<p>Dem wie ein Mond aus der Nacht sich erhebt an der Stirne von Sandel das Zeichen,</p>
+<p>Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(29)</hi></p>
+<lb/>
+<p>Mächtig vom Schauer der Wonne geschüttert, vom Pulse der Liebe durchzittert,</p>
+<p>Rings von dem Strahlengewebe juwelenen Schmuckes die Glieder umflittert,</p>
+<p>Hari, den einzigholden, der lang' ersehnt die Vereinung,</p>
+<p>Sah sie nun, ihn mit den lustaussprechenden Mienen, Anaṅga's Erscheinung.</p>
+<p rendition="#right"><hi rendition="#smaller">(30)</hi></p>
+<lb/>
+<p>Aus dem Auge, das den Winkel überschreitend, nach des Ohrs</p>
+<p>Grenzgebiet hinstrebend, niedersinken ließ den schwanken Stern,</p>
+<p>Stürzte jetzt der Rādhā, da ihr des Geliebten Anblick ward,</p>
+<p>Plötzlich wie ein Schweißerguß hervor ein Freudentränenstrom.</p>
+<p rendition="#right"><hi rendition="#smaller">(32)</hi></p>
+<lb/>
+<pb n="48" facs="#f00043"/> <p>Sie stand am Rand des Lagers,</p>
+<p>Als, unter'm Schein, die Wange sich zu jücken,</p>
+<p>Das Lachen sich verhaltend,</p>
+<p>Der aufmerksamen Mägde Schar hinausging;</p>
+<p>Und als sie sah das Antlitz</p>
+<p>Des Liebsten, das von Smara's Pfeil entglommne,</p>
+<p>Die schämige, da ging nun</p>
+<p>Hinweg die Scham auch von der Rehgeaugten.</p>
+<p rendition="#right"><hi rendition="#smaller">(33)</hi></p>
+
+</div>
+
+<div n="2">
+<note type="editorial">12.</note>
+
+<head>XII</head>
+<p>Nach der Dienerinnen Weggang, als, von minder Scheu bedrängt,</p>
+<p>Von Gefühlsiegs Ausdruck schwellend, lächeltaubenetzten Munds,</p>
+<p>Rādhā, die verlangenvolle, dastand und am laub'gen Bett</p>
+<p>Ihre Augen niederschlug, sprach zur Geliebten Hari so:</p>
+<p rendition="#right"><hi rendition="#smaller">(1)</hi></p>
+<lb/>
+<p>Liebende! Setz' auf das Lager von Laube den Fuß, der den Lotos besieget,</p>
+<p>Mach' es zum glänzenden Zeugen, wie leicht ihm sein blühender Gegner erlieget!</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(2)</hi></p>
+<lb/>
+<p><pb n="49" facs="#f00044"/> Soll in die Hand ich nicht fassen den Fuß dir? So weit her bist du gegangen;</p>
+<p>Laß auf dem Bett wie mich selber nur ruhen die mutig begleitenden Spangen!</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(3)</hi></p>
+<lb/>
+<p>Träufle vom Nektarbehälter des Mundes ambrosische Worte zur Feier!</p>
+<p>Sieh, wie die Trennung entheb' ich dem Busen den brüstebedrängenden Schleier.</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(4)</hi></p>
+<lb/>
+<p>Den nach des Freundes Umfangen verlangenden, bangenden, einzig erkornen</p>
+<p>Busen laß wallen am Busen mir, stille die Glut des Gemütegebornen!</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(5)</hi></p>
+<lb/>
+<p>Reizende, reiche den Nektar der Lippe, belebe den Sklaven, den toten,</p>
+<p>Den in dir lebenden, welchem die Gluten der Trennung zu atmen verboten.</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(6)</hi></p>
+<lb/>
+<p>Klingle mit Gürteljuwelen ins Klingen der Kehle, du Mond von Gesichte!</p>
+<p><pb n="50" facs="#f00045"/> Meine zu lange von Kokila's Gellen ermüdeten Ohren beschwichte!</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(7)</hi></p>
+<lb/>
+<p>Jetzo den Freund, den von deinem so nutzlosen Grolle gequälten, zu sehen,</p>
+<p>Blinzet dein Auge vor Scham; o laß es und löse der Liebe die Wehen!</p>
+<p>Im Augenblick dem Nārāyaṇa, dem genaheten, nah', o Rādhikā!</p>
+<p rendition="#right"><hi rendition="#smaller">(8)</hi></p>
+<lb/>
+<p>Wo dem engeren Umfahn vom Schauern,</p>
+<p>Und dem Minneblickspiel von des Augs</p>
+<p>Blinzelung, dem Lippennektartrinken</p>
+<p>Von dem scherzenden Liebkosungswort,</p>
+<p>Selbst dem Liebeskampfe vom Entzücken</p>
+<p>Immer eine Schranke ward gesetzt:</p>
+<p>Unter solchen Hemmungen ergehend,</p>
+<p>Ward ihr Lustaustausch genußreich erst.</p>
+<p rendition="#right"><hi rendition="#smaller">(10)</hi></p>
+<lb/>
+<p>Von Nageldruck blaßrote Brust, von Schlummerlosigkeit getrübte Augen,</p>
+<p>Der Lippen Purpur weggehaucht, des Hauptes Wald wirr mit zerstörten Kränzen,</p>
+<p>Der Gürtel klaffend, schlapp das Kleid: ein solches Morgenbild war sie den Augen;</p>
+<p>O Wunder, wie des Gatten Herz von diesen Kāma- Pfeilen ward durchbohret!</p>
+<p rendition="#right"><hi rendition="#smaller">(13)</hi></p>
+<lb/>
+<pb n="51" facs="#f00046"/> <p>Zum liebebegnügten nach Wonnegenuß,</p>
+<p>Sie mit gelösten Gliedern,</p>
+<p>Rādhā mit ehrerbietiger Scheu</p>
+<p>Sprach also zu Govinda:</p>
+<p rendition="#right"><hi rendition="#smaller">(17)</hi></p>
+<lb/>
+<p>Yadu-Beglücker! Mit sandelerkühlender Hand an die strahlende Busenschal',</p>
+<p>An die mit Madana's Opfergefäße sich messende, male das Muscusmal!</p>
+<p>Sie gebot dem Yadu-Geborenen,</p>
+<p>Dem spielenden Herzenserkorenen.</p>
+<p rendition="#right"><hi rendition="#smaller">(18)</hi></p>
+<lb/>
+<p>Laß hier, o Liebster, am liebesgeschosse-versendenden blendenden Augenpaar</p>
+<p>Nun die vom Kusse der Lippen zerstobenen blinkenden Schminken enttauchen klar!</p>
+<p>Sie gebot dem Yadu-Geborenen,</p>
+<p>Dem spielenden Herzenserkorenen.</p>
+<p rendition="#right"><hi rendition="#smaller">(19)</hi></p>
+<lb/>
+<p>Holder Gesell! An die augengazellenbewegung-umhegenden Ohren bring'</p>
+<p>Hier den geschickt sich wie Madana's Fangstrick dehnenden sehnenden Ohrenring;</p>
+<p>Sie gebot dem Yadu-Geborenen,</p>
+<p>Dem spielenden Herzenserkorenen.</p>
+<p rendition="#right"><hi rendition="#smaller">(20)</hi></p>
+<lb/>
+<p>Fang' ins Geflechte die flatternden, lange wie Bienen in schwärmenden Flocken mein</p>
+<p>Lilienlicht des Gesichtes umhängenden, fange die lockeren Locken ein!</p>
+<p>Sie gebot dem Yadu-Geborenen,</p>
+<p>Dem spielenden Herzenserkorenen.</p>
+<p rendition="#right"><hi rendition="#smaller">(21)</hi></p>
+<lb/>
+<p><pb n="52" facs="#f00047"/> Male mir, muntrer, am Monde der Stirne das Zeichen aus Muscus gemischt mit Fleiß,</p>
+<p>Daß an dem Monde die Flecken nicht fehlen, nachdem du ihn ab hast gewischt den Schweiß.</p>
+<p>Sie gebot dem Yadu-Geborenen,</p>
+<p>Dem spielenden Herzenserkorenen.</p>
+<p rendition="#right"><hi rendition="#smaller">(22)</hi></p>
+<lb/>
+<p>Flicht nur, und sträube dich nicht, hier ins wallende Banner Anaṅga's die Blumenschleif',</p>
+<p>Hier in das wirre Geflirre des Schopfes, der spielt wie ein spiegelnder Pfauenschweif.</p>
+<p>Sie gebot dem Yadu-Geborenen,</p>
+<p>Dem spielenden Herzenserkorenen.</p>
+<p rendition="#right"><hi rendition="#smaller">(23)</hi></p>
+<lb/>
+<p>Den Schmuck der Brüste rüste zu, laß Farb' auf Wangen prangen!</p>
+<p>Lind um die Lende leg den Gurt, den Kranz am Haarnetz kräusle!</p>
+<p>Schling um die Hand die Spangenschlang', am Fuße fest die Fessel! –</p>
+<p>So angewiesen, jedes tat gewandt der Gelbgewand'ge.</p>
+<p rendition="#right"><hi rendition="#smaller">(24)</hi></p>
+
+</div>
+
+</div>
+
+<div n="1">
+<note type="editorial">Anmerkungen</note>
+
+<head><pb n="53" facs="#f00048"/> Anmerkungen</head>
+<p><hi rendition="#g">Allgemeines.</hi> Als die blonde Arierrasse im Lauf der Jahrhunderte unter der Sonnenglut des indischen Himmels allmählich erschlaffte und ihre Lebenskraft durch vielfache Mischungen mit unarischem Blute immer mehr verlor, da war mit dem alten Ariergeiste auch der Glaube an die lichten Götter des vedischen Olymps dahingeschwunden. Ein neuer Volkstypus, der <hi rendition="#g">Hindu,</hi> war das Resultat dieser tiefgreifenden Umwandlung des Volkscharakters, die notwendig auch eine gewaltige Revolution der religiösen Vorstellungen zeitigen mußte. Die neue Volksseele forderte neue – wie überall in der Religionsgeschichte – anthropomorph gestaltete Götter. So schuf denn die zaubermächtige indische Phantasie die eigentlichen Hindugottheiten, die durchweg mit ihrer vielleibigen, vielgliedrigen Mißgestaltigkeit alle wesentlichen Züge des für alles Schreckliche, Grausame, Wollüstige unheimlich empfänglichen Hindugeistes an sich tragen. Neben dem Zerstörergotte Śiva ist der wohltätige, starke Gott <hi rendition="#g">Viṣṇu</hi> eine der Hauptgottheiten des Hinduismus. Um die Welt zu erhalten, steigt er, wie Buddha, nach der viṣṇuitischen Avatāra-Lehre in immer neuen Inkarnationen mannigfacher Gestalt zur Erde nieder, jedesmal, wenn die notleidende Mensch heit seiner als des Erlösers bedarf. Unter diesen Avatāra's (»Herabsteigungen«, Verkörperungen) Viṣṇu's, deren zehn der große Viṣṇu-Hymnus der Einleitung des Gītagovinda feiert, ist einer von größter Tragweite für die Viṣṇu-Religion gewesen, in der Viṣṇu in der Gestalt des <hi rendition="#g">Kṛṣṇa,</hi> des »dunkelfarbigen« Gottes, auf Erden erscheint. Der Gott <hi rendition="#g">Kṛṣṇa,</hi> vielleicht auf den früh vergötterten gleichnamigen Helden des Mahābhārata-Epos zurückgehend, scheint sich mit einem Hirtengotte <hi rendition="#g">Govinda</hi> verschmolzen zu haben, bevor er von den Viṣṇuiten zum Avatāra ihres höchsten Gottes erhoben wurde. Als <hi rendition="#g">Viṣṇu-Kṛṣṇa</hi> erscheint er in der philosophischen Bhagavadgītā als Verkünder einer tiefen ethisch-religiösen Lehre, als »höchster Gott«, der für sich von den Menschen – bedeutsamerweise ganz gegen die Begriffe der anderen durchaus intellektuell gerichteten Religionssysteme Indiens – die <hi rendition="#g">Bhakti,</hi> <pb n="54" facs="#f00049"/> die »Hingabe an Gott«, die Gottes-<hi rendition="#g">Liebe</hi> fordert. Mit dieser Liebe versenken sich nun die Gläubigen in den Erdenwandel des Kṛṣṇa, der als Govinda, als Kuhhirte, unter Hirten und Hirtinnen aufwächst und gewaltige Heldentaten verrichtet. Er zeigt sich aber auch als »<hi rendition="#g">Held in der Liebe</hi>«, der im Vṛndā-Walde mit den Hirtinnen unerschöpfliche Liebeslust genießt. Diese Seite des Gottes hat für die sinnenheiße, allem Sinnlich-Erotischen zugewandte Hindu-Phantasie besondere Anziehungskraft. Durch die einschlägige Literatur kann man es deutlich verfolgen, wie Kṛṣṇa's Liebesleben das Volksbewußtsein der breiten Masse immer ausschließlicher beschäftigt: Im Harivaṃśa zeugt Kṛṣṇa mit 16008 Frauen Tausende von Söhnen. Im Bhāgavata-Purāṇa, wo die Schilderungen des Liebeslebens Kṛṣṇa's einen schon viel breiteren Raum einnehmen, tritt als bedeutsames Phänomen zum ersten Male <hi rendition="#g">Rādhā,</hi> die Hauptgeliebte Kṛṣṇa's, hervor. Im Brahmavaivarta-Purāṇa endlich überwuchert die Verherrlichung der Liebe des Gottes zu Rādhā und den Gopī's (Hirtinnen) alle anderen Darstellungen der Begebenheiten aus Kṛṣṇa's Leben. Sehr wahrscheinlich wird sich auch der Inhalt der für uns verlorenen Yātrā's, volkstümlicher Schauspiele mit gesungenen Liedern und improvisiertem Dialog, die – ähnlich wie die mittelalterlichen Mysterienspiele – Begebenheiten aus dem Leben des Gottes behandelten, in derselben Weise verschoben haben. So wird Kṛṣṇa immer mehr zum Liebling Rādhā's und der Hirtinnen, ja fast zu einem Gott der Liebe, und die Kṛṣṇa-Religion, in der das mystische Sichversenken in das Liebesleben des Gottes immer mehr zum Hauptandachtsgegenstand der gläubigen Kṛṣṇa-Verehrer wird, entwickelt sich zu einem üppig-sinnlichen Kultus, zu einer wahrhaft erotischen Religion, die immer weitere Kreise zieht und noch heute in Bengalen viele Anhänger hat.</p>
+<p rendition="#et">Diesem eigenartigen sensuellen Kṛṣṇa-Kultus erstand in dem Dichter <hi rendition="#g">Jayadeva</hi> ein indischer Salomo, der das Liebesleben des Kṛṣṇa mit Rādhā und den Gopī's in wunderbare Verse faßte und damit den Kṛṣṇaiten ein Hohes Lied <hi rendition="#g">Gītagovinda</hi> schenkte, das zu den meistbewunderten Werken der indischen Literatur gehört. <hi rendition="#g"><pb n="55" facs="#f00050"/> Jayadeva</hi> <note place="end" n="1"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen/Zu den Gesängen#F2198</ref></bibl></note> wurde in Kindubilva, dem heutigen Kendulī in Bengalen, geboren und lebte zu Anfang des 12. Jahrhunderts als Hofdichter am Hofe des Königs Lakṣmaṇasena. Außer den von ihm selbst im Gītagovinda überlieferten Namen seiner Eltern und seiner Gattin haben wir von seinem Leben kaum wichtige historische Zeugnisse. Aber des gefeierten Sängers bemächtigte sich bald die üppig wuchernde Legende, deren Niederschlag wir in der Bhakt-Mālā, einer in Hindī geschriebenen Heiligenlegende der Viṣṇuiten, noch besitzen. Nach diesem Lieblingsbuche der Hindu war Jayadeva ein begeisterter Verehrer Viṣṇu-Kṛṣṇa's und ein gefeierter Dichter, der asketisch lebte, aber gegen seinen Willen auf Befehl seines Gottes eine Brahmanentochter heiratete. Bei der Abfassung des Gītagovinda soll Kṛṣṇa selber in der Gestalt Jayadeva's einen Teil des Gedichtes geschrieben haben, als der Dichter nicht wußte, wie er die Schönheit der Rādhā gebührend besingen sollte und zum Baden gegangen war, um eine günstigere Gelegenheit zu erwarten. Räuber, die ihn auf der Reise überfielen, und ihm Arme und Beine abschlugen, verschlang nachher die Erde, dem Dichter aber wuchsen seine Glieder wieder. Seine Gattin, die gekränkt von einer Königin aus Kummer in den Tod gegangen war, erweckte Jayadeva durch die Rezitation seiner Verse wieder zum Leben. Selbst die heilige Gaṅgā änderte ihren Lauf und floß näher an Kindubilva vorbei, damit der alternde Dichter seinem Wunsche gemäß täglich in ihren gelben Fluten baden könne usw. – Über sein Werk und seine Kunst hat der Dichter selber im Gītagovinda uns einiges überliefert: So nennt er sich den Dichter, »dessen Herzenswohnung geschmückt ist mit den Werken der Göttin der Rede« (<hi rendition="#i">Vāgdevatā,</hi> I, 2); er rühmt seine Muse, »deren Versreihen reizend, zart und lieblich sind« (I, 3.) In der berühmten Strophe I, 4 sagt er: »Jayadeva fürwahr versteht die Klarheit beim Aneinanderreihen der Worte.« In den Abgesängen der einzelnen Cantica bezeichnet er sein Gedicht als <hi rendition="#i">udāra</hi> »ausgezeichnet«,<pb n="56" facs="#f00051"/> als <hi rendition="#i">śubhada, sukhada</hi> »Glück und Segen bringend«, als <hi rendition="#i">bhāvasāra</hi> »Quintessenz der Welt« (I, 15.) Weiter sagt er davon, es »bringe Freude« <hi rendition="#i">(kurute mudaṃ),</hi> es sei ein »glänzender Sang« <hi rendition="#i">(ujjvalagīti.)</hi> Endlich nennt er sich selber mit dem naiven Selbstbewußtsein des orientalischen Dichters den <hi rendition="#i">kavirājarāja</hi> »der Dichterkönige König« (XI, 21.) – Wie hoch der große Dichter von seinen Landsleuten geschätzt wurde, beweist einmal die Fülle großartiger Gītagovinda-Nachahmungen der in einer ungemein wohllautenden Sprache geschriebenen Hindī-Literatur der Folgezeit, die im 17. Jahrhundert mit dem vielgefeierten Dichter<hi rendition="#g"> Sūr-Dās</hi> ihren Höhepunkt erreichte. Dann zeugt für die Berühmtheit Jayadeva's das noch heute alljährlich ihm zu Ehren von den Kṛṣṇaiten in Kindubilva gefeierte Rāsā-Fest, an dem die ganze Nacht hindurch der Gītagovinda mimisch-dramatisch mit Musik und Gesang aufgeführt wird. – Und »auch die europäische Kritik ist sich darin einig, daß kein indischer Dichter Jayadeva an Glut der Empfindung, Beherrschung des Metrums und Wohlklang der Sprache übertroffen« hat.</p>
+<p rendition="#et">Nach der indischen Poetik ist der Gītagovinda ein<hi rendition="#i"> Kāvya,</hi> ein lyrisches Gedicht mit leisem dramatischen Einschlag, und steht, wie der geistreiche Kenner des indischen Theaters, <hi rendition="#g">S. Lévi,</hi> treffend sagt <note place="end" n="2"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen/Zu den Gesängen#F2199</ref></bibl></note>, »encore à mi-chemin entre l'hymne et la drame«, in der Mitte zwischen Lied und Drama, für dessen Geschichte er von Bedeutung ist. Ein ausgesprochener Dialog ist noch nicht ausgebildet. Das Ganze zerfällt in 12 Abschnitte oder <hi rendition="#i">sarga,</hi> deren Strophen seit dem Schöpfer der ersten kritischen Ausgabe, <hi rendition="#g">Christian Lassen,</hi> etwas willkürlich einfach durchgezählt werden. Die indischen Ausgaben haben noch eine andere, sicher ältere und originalere Einteilung in 24 je eine Arie enthaltende Prabandha oder Cantica, die auf dem musikalischen Vortrag beruht. Denn der Gītagovinda ist wohl schon von Jayadeva komponiert worden, wie die am Anfange eines jeden Prabandha sich findenden musikalischen Noten, die Takt <hi rendition="#i">(tāla)</hi> und Melodie <hi rendition="#i">(rāga)</hi> des Liedes angeben, beweisen. Die ursprüngliche Musik des <pb n="57" facs="#f00052"/> Gedichtes ist verloren; ob sie sich aus moderneren Hindukompositionen des Gītagovinda wird rekonstruieren lassen, ist fraglich. Wahrscheinlich ist sie für uns verloren wie die Melodien der Chorlieder der griechischen Tragödie. Die nicht gesungenen Strophen sind im Original als <hi rendition="#i">śloka</hi> bezeichnet und werden rezitiert.</p>
+<p rendition="#et">»Die Handlung ist die einfachste. Kṛṣṇa, der menschgewordene Gott, mit den Scharen der Hirtinnen an Tanz und Liebeslust sich ergötzend, ist Rādhā, seiner Geliebten, entfremdet. Leiden und Klagen der Rādhā, wiedererwachende Sehnsucht des Gottes, Suchen, Warten, Grollen, trunkenes Glück der Vereinigung. Den drei Personen, welche auftreten – den Liebenden und einer Gefährtin Rādhā's – werden abwechselnd Arien in den Mund gelegt; vor einer jeden erklären einleitende Verse die Situation; nachfolgende Gebetssprüche preisen Kṛṣṇa. Das ist der Rahmen, den Jayadeva mit seinen Versgirlanden umwoben hat.« <note place="end" n="3"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen/Zu den Gesängen#F2200</ref></bibl></note></p>
+<p rendition="#et">In seiner sprachlichen Klangfülle und Schönheit, seiner höchst kunstvollen Metrik, seiner Musik der Reime und Alliterationen ist Jayadeva's Werk eines der größten Wunderwerke der Sanskritliteratur, das einzig dasteht in seiner Art. »Gesang für Gesang in immer wechselnden Rhythmen fließt die quellende Fülle duftgesättigter Worte, bald kurz, rasch, hüpfend, bald in langen, kunstvoll verschlungenen Zusammensetzungen sich wiegend und wogend. Weiche Klänge, Häufungen sanft gleitender Laute, zierliche Alliterationen, Reimgebilde, sonst von den Indern selten und sehr sparsam verwandt, hier im Übermaß verschwendet, umschmeicheln das Ohr und überströmen es mit Wohllaut. Refrains, zu denen ein Vers nach dem andern zurücklenkt, sammeln Stimmung der Lieder in sich, bald klagend, bald lockend, bald in Bildern voll heißer Glut schwelgend, bald den Gott in bacchantischem Aufschrei rufend.« <note place="end" n="4"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen/Zu den Gesängen#F2201</ref></bibl></note> – Der weiche Wohllaut des Ganzen <pb n="58" facs="#f00053"/> trotz der mit vielen harten Lauten durchsetzten Sanskritsprache, prākritische Name und vor allem die reiche Verwendung des Reimes machen es wahrscheinlich, daß das bengalische Lied als geniale Sanskrit-Nachschöpfung auf ein ursprünglich in einem der überaus wohlklingenden Volksdialekte (Apabhraṃśa) abgefaßtes Original zurückgeht. Daß Jayadeva in diesen Dialekten gedichtet hat, wissen wir aus einem von ihm überlieferten Gedichte.</p>
+<p rendition="#et">Fromme Kreise der Viṣṇu-Kṛṣṇa-Verehrung haben dieses glühende Lied der Liebe <hi rendition="#g">mystisch gedeutet</hi> und tiefsinnig in dem Liebesspiel des gottmenschlichen Kṛṣṇa mit den Gopī's und der Rādhā die Beziehungen der gotterfüllten Menschenseele zur höchsten Gottheit gefunden: die menschliche Seele in ihrem Kampfe um die mystische Vereinigung mit der Gottheit, ihr Sich-Verlieren in der Finsternis der Sinnenwelt, ihr Erwachen, ihr Suchen, ihr siegreiches Durchdringen zu den himmlischen Reichen des Lichts. Wenn nicht alles trügt, scheint es in der Tat so, als hätte der Dichter eine verborgene mystisch-religiöse Welt fast unmerklich in seine Verse verwebt. Das Original, mit einem großen feierlichen Hymnus an Viṣṇu-Kṛṣṇa beginnend, ist bei seinem wollustatmenden Inhalt in einer für unser Empfinden befremdenden Weise mit religiösen Elementen durchsetzt. Freilich sind die eigentlich mystischen Lichter sehr sparsam mit einzelnen Worten aufgesetzt, und sie leuchten leise auf wie Irrlichter im nächtlichen Moore, aufblitzend und erlöschend, geheimnisvoll, rätselhaft. Wer will hier den Schleier der Symbole lüften und behaupten oder bestreiten? Wo letzteres geschah, blieb es bei Behauptung. Ob die von dem Engländer<hi rendition="#g"> Edwin Arnold</hi> in mystischem Sinne »not without occasional difficulty« verfaßte Übersetzung des »Indian Song of Songs« <note place="end" n="5"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen/Zu den Gesängen#F2202</ref></bibl></note>, die mit dem Original allerdings sehr frei schaltet und auch vor der englischen Prüderie die gründlichsten Verbeugungen macht, wirklich ein so ganz falsches Bild des Gedichtes gibt, wie man gemeint hat? Und ob man nicht von der entgegengesetzten einseitigen Auswahl Rückerts <pb n="59" facs="#f00054"/> Ähnliches sagen könnte? <hi rendition="#g">Oldenberg</hi> hebt mit Recht hervor, »der Art indischer Dichtung würde wohl ein solches Doppelgesicht poetischer Gedankengebilde entsprechen, ein solches Spiel, das nach launenhafter Lust Sinnlichstes und Übersinnlichstes aus unergründlichen Fernen einen Augenblick ineinander scheinen läßt«. Und hat nicht die Mystik aller Zeiten und Religionen bei der poetischen Schilderung innigster Verzückungen, die nur stärkste Farben und kühnste Bilder wiedergeben konnten, immer wieder zum erotischen Symbol gegriffen? Es fehlt in der Weltliteratur nicht an Parallelen: Man denke nur daran, wie sich der Sūfismus des Islām mit der Paradiesesschilderung des <hi rendition="#g">Korans,</hi> mit den frivolen Liedchen und Sprüchen eines <hi rendition="#g">Hāfis,</hi> eines <hi rendition="#g">Omar Khayyam</hi> auseinandersetzte; an die mystische Auslegung des alttestamentlichen <hi rendition="#g">Hohen Liedes</hi> Salomonis.</p>
+<p rendition="#et">Mit dem letzteren lag ein Vergleich des Gītagovinda in mehr als einer Hinsicht nahe, und schon <hi rendition="#g">Th. Benfey</hi> hat diesen Vergleich gezogen. <note place="end" n="6"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen/Zu den Gesängen#F2203</ref></bibl></note> Er sagt darüber: »In Bezug auf die Auffassung der Welt- und Gottesverbindung als eine mystische Ehe hat dieses Gedicht eine bedeutende Ähnlichkeit mit dem Hohenlied Salomo's. Indem es aber diese Verbindung der tieferen theosophischen Spekulation der Inder gemäß weiter faßt, verliert es an concentrirter poetischer Potenz, durch welche es vom jüdischen Liede trotz seiner beschränkteren Auffassung weit überragt wird. Das indische Gedicht hat dagegen eine tief durchgebildete poetische Form zu Gebot, durch welche das geistige Element äußerlich klarer zur Anschauung kommt.« –</p>
+<p rendition="#et">In <hi rendition="#g">Friedrich Rückert</hi> fand der bengalische Dichter einen kongenialen Interpreten, der uns aus seiner sprachgewaltigen Feder eine Übersetzung bescherte, wie sie keine andere Sprache in gleicher Vollkommenheit besitzt. Sie kommt dem Original bei aller vielfach geradezu verblüffenden Wörtlichkeit der Version so nahe, wie überhaupt möglich, und ist eines der unbestritten größten Meisterwerke der Übersetzungskunst, wenn auch in Deutschland, das dem Dichter dafür dankbarer sein sollte, in <pb n="60" facs="#f00055"/> weiteren Kreisen so unbekannt wie die ähnlich vollendete Übertragung der altarabischen <hi rendition="#g">Hamāsa.</hi> Leider hat Rückert den Gītagovinda <hi rendition="#g">nicht ganz</hi> übersetzt. Er hat mit den Strophen, in denen der Dichter seinen Namen einfügte, alle religiösen Strophen weggelassen, weil »dergleichen für uns mitten in einem so üppig sinnlichen Gemälde etwas Unheimliches habe«. Außerdem hat Rückert neben manchem »Unschuldi geren« noch zwei Strophen »als unserm sittlichen Gefühl allzu anstößig« gestrichen, und er glaubt damit »dem Gedicht an sich, besonders ... bei den Lesern, für die es bestimmt ist, eher einen Dienst als einen Schaden getan zu haben«. Trotzdem darf man nicht vor der Einseitigkeit dieser Auswahl nicht die Augen verschließen, da das religiöse Element des Originals dabei zu kurz kommt. Der Leser der Rückertschen Übersetzung wird noch viel mehr als der Kenner des von schwülen Gluten einer nicht immer die Tiefen der Wahrheit erreichenden Erotik vorzugsweise beherrschten Originals <hi rendition="#g">nur das Liebeslied</hi> vorfinden und von den Möglichkeiten religiös-mystischen Gehalts darin kaum mehr etwas merken. – Von seiner grandiosen Nachbildung der fast übersteigerten metrischen Kunstformen und sprachlichen Klangwirkungen verspricht sich Rückert mit vollem Rechte »eine neue Bereicherung unseres deutschen Formenvorrates«. Soviel zur Übersetzung, mit deren Einfügung in eine von weitesten Kreisen vielgelesene Sammlung der Herausgeber eine alte Schuld abzutragen glaubt, da dieses herrliche Übersetzerkunstwerk deutscher Sprache fast unbegreiflicherweise über nunmehr 82 Jahre im Staube der Bibliotheken verschollen gelegen hat. – – – –</p>
+<p rendition="#et"><hi rendition="#g">Literatur.</hi> Hervorgehoben sei: <hi rendition="#g">H. Oldenberg,</hi> Literatur des alten Indien (Stuttgart 1903), S. 283-286. – L.v. <hi rendition="#g">Schroeder,</hi> Indiens Literatur und Cultur (Leipzig 1887), S. 581-590 (mit Proben aus Rückerts Übersetzung.) – <hi rendition="#g">R. Pischel,</hi> Hofdichter des Lakṣmaṇasena (s. oben) S. 17 ff. (orientiert sehr eingehend über Jayadeva und sein Werk) und dessen Abriß der indischen Literatur in Kultur der Gegenwart, Teil I, Abt. 7 (Leipzig 1906), S. 209. – <hi rendition="#g">Macdonell,</hi> History of Sanskrit Literature (London 1900), S. 344-345. – <hi rendition="#g">Sylvain Lévi,</hi> Le théâtre indien (Paris <pb n="61" facs="#f00056"/> 1890), S. 235-237. – Über die <hi rendition="#g">mystische Deutung</hi> des Gītagovinda handelt am eingehendsten <hi rendition="#g">Christian Lassen,</hi> Gita Govinda, drama lyricum (Bonnae 1836), Prolegomena S. XI ff. – Vgl. dazu die oben zitierte englische Übersetzung von <hi rendition="#g">Edwin Arnold.</hi> – Deutsche Übersetzungen: von F.H.v. <hi rendition="#g">Dalberg</hi> (Erfurt 1802); von<hi rendition="#g"> F. Majer</hi> (Weimar 1802); von <hi rendition="#g">A.W. Riemschneider</hi> 1818. (Diese prosaischen und metrischen Übersetzungen sind deutsche Versionen der ersten englischen Übersetzung von <hi rendition="#g">W. Jones.</hi>) – Eine freie metrische Übersetzung unter dem Titel »Frühlingsliebe« (»leicht übersetzt aus dem indischen Gitagovinda des Dschajadeva«) von <hi rendition="#g">Reinhard Wogen</hi> (Halle 1906.) – Vollständige lateinische Prosaübersetzung von <hi rendition="#g">Christian Lassen</hi> in seiner oben zitierten Ausgabe des Gītagovinda. – Die erste wissenschaftliche Prosaübersetzung des <hi rendition="#g">gan </hi><hi rendition="#g">zen</hi> Gītagovinda in <hi rendition="#g">deutscher</hi> Sprache mit sehr wertvollen Anmerkungen von <hi rendition="#g">Richard Schmidt</hi> befindet sich im Druck und wird demnächst erscheinen (bei Georg Müller, München.) Diese Übersetzung – mit der Rückertschen zusammengenommen – wird es endlich dem interessierten, nicht des Sanskrit kundigen Leser ermöglichen unschwer eine möglichst getreue Vorstellung vom Wesen des Originals zu gewinnen, weshalb schon jetzt darauf hingewiesen sei. – Die Rückertsche Übersetzung ist auch neuerdings abgedruckt in dem schwer zugänglichen Privatdrucke »<hi rendition="#g">Rückert-Nachlese</hi>« von <hi rendition="#g">Leopold Hirschberg</hi> (Weimar 1911), Nr. 457 (Bd. I, S. 346 ff.; natürlich ohne die »Sprachlichen Anmerkungen«.)</p>
+<p rendition="#et">Vgl. den Nachtrag S. 77!</p>
+
+
+<div n="2">
+<note type="editorial">Zu den Gesängen</note>
+
+<head>Zu den Gesängen</head>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>I.</bibl> Die <hi rendition="#g">Rückert</hi>sche Übersetzung beginnt mit der Strophe 26 des Originals, dem eigentlichen Beginn der Handlung des Gedichtes. Das Original hat eine nach unseren Begriffen nicht notwendig zum poetischen Ganzen gehörende Einleitung von 25 Strophen, in deren erster <hi rendition="#g">Nanda,</hi> der Pflegevater des jugendlichen Hirtengottes Kṛṣṇa, zu seiner Tochter <hi rendition="#g">Rādhā</hi> spricht: »Der Himmel ist voller Wolken. Die Wälder sind dunkel von den Tamāla-Bäumen. <pb n="62" facs="#f00057"/> Es ist Nacht. Dieser [Kṛṣṇa] ist furchtsam. Deshalb führe ihn doch ins Haus, o Rādhā!« Diesem kleinen Idyll, einer Andeutung der Exposition des Gedichtes, folgt nicht ohne den üblichen einleitenden Segenspruch ein Hinweis auf Inhalt und Ort der Handlung: »Heil dem heimlichen Liebesspiel der Rādhā und des Mādhava, die sich auf Nanda's Befehl zu der Baumlaube am Ufer der Yamunā begeben haben.« Die Yamunā – heute Jumnā (spr. Dschámnā) genannt – ist ein mächtiger Fluß, der bei der Stadt Allahabad in den Ganges (skr. <hi rendition="#i">Gaṅgā)</hi> mündet. An ihren waldigen Ufern spielt sich die Liebesgeschichte des Kṛṣṇa und der Rādhā, der Inhalt unseres Gedichtes, ab. Die weiteren Strophen der Einleitung sind von größtem literarhistorischem und religionswissenschaftlichem Interesse, aber für das poetische Ganze nach unserem Geschmack ohne Belang. Die Einleitung enthält <hi rendition="#g">die zwei ersten Prabandha</hi> oder <hi rendition="#g">Cantica,</hi> Hymnen an Viṣṇu und Kṛṣṇa. –</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 26.</bibl> Rādhā irrt verstört im Walde umher und sucht Kṛṣṇa. Ihre Freundin schildert der Unglücklichen, wie dieser sich mit den Gopī's ergötzt (<hi rendition="#g">Canticum</hi> 3, I, 27-35.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 27.</bibl> Der <hi rendition="#g">Malaya-Wind</hi> ist der Frühlingswind, der von den südlichen Malaya-Bergen im Westen Malabars herweht. Das Gebirge, auch »Sandelgebirge« genannt, ist berühmt wegen seiner vielen wohlriechenden Gewächse (besonders Sandel), deren Duft sich dem Winde mitteilt. – »<hi rendition="#g">Kokila</hi>«, eine Kuckucksart, die indische Nachtigall, der er aber im Gesange wesentlich nachsteht.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 28.</bibl> »<hi rendition="#g">Frau'n der Verreisten</hi>«. Die von den heißblütigen Indern schwer empfundene Trennung in Liebe und Ehe und das Glück der Wiedervereinigung sind zahllos wiederkehrende Gemeinplätze der indischen Lyrik. – »<hi rendition="#g">Bakula</hi>«, die duftende Blüte, des <hi rendition="#g">Keśara</hi> (Mimusops elengi), einer Frühlingspflanze, wie alle folgenden.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 29.</bibl> »<hi rendition="#g">Tamāla</hi>«, der »Dunkelgerindete«, ein Baum mit weißen Blüten. Die Tamāla's werden »der Lust (rabhasa) am Moschusduft ergeben« genannt, der von den unter ihnen weilenden rehartigen Moschustieren (Moschus moschiferus) ausströmt. <pb n="63" facs="#f00058"/> Die Vorliebe des Inders für den Moschusduft, ein sehr geschätztes Parfüm, wird poetisch auf die Bäume übertragen. – <hi rendition="#g">Kiṁśuka,</hi> ein Baum (Butea frondosa) mit roten Blüten. – Wie die Pfeile des Liebesgottes als Blumen gedacht werden, so vergleicht man auch gern seine Nägel mit Blüten.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 31.</bibl> »<hi rendition="#g">Karuṇa</hi>«, ein Baum mit weißen Blüten. <hi rendition="#g">Weiß</hi> ist in Indien die <hi rendition="#g">Farbe des Lachens,</hi> wie bei uns Rot die der Liebe. Daher »<hi rendition="#g">lachen</hi>« die weißblühenden Karuṇas gleichsam, da sie die ganze Natur im Frühlinge ohne Scheu der Liebe und des Lebens sich freuen sehen. – »<hi rendition="#g">Ketakī</hi>«, eine Blume mit duftenden roten Blüten. – »<hi rendition="#g">liebeverwundend</hi>«, wörtlich »Getrennte (Liebende) verwundend«.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 33.</bibl> Der »Āmra« (im Text <hi rendition="#i">cūta</hi>) »empfindet haarsträubenden Liebesschauer«, da er von der Atimuktalatā, einer Schlingpflanze mit weißen Duftblüten, <hi rendition="#g">umarmt</hi> wird. – <hi rendition="#g">Vṛndāvana,</hi> der Wald der Vṛndā = Rādhā, ist der heilige Wald am Ufer der Yamunā; heute der vielbesuchte Wallfahrtsort Vrindaban, vgl. <hi rendition="#g">P. Deussen,</hi> Erinnerungen an Indien (1904), S. 111f. – Die Strophe ist von Rückert mit Recht ihres Inhalts wegen der Str. 32 vorangesetzt.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 32.</bibl> »<hi rendition="#g">Mādhavī</hi>«, eine weißblühende, duftende Schlingpflanze. – »<hi rendition="#g">Mālikā</hi>«, eine duftende Jasminart.</p>
+<p rendition="#et">Str. 34. Wie alle Strophen, in denen der Dichter sich selber nennt, von Rückert weggelassen. Sie lautet in dessen Übersetzung, die er probeweise in den Noten beifügt:</p>
+<lb/>
+<p>»Śrī-Jayadéva's Gesang ist erklungen, zu Hari's Gedächtnisses Hegung.</p>
+<p>Schildernd Wälder im Lenze, dem frohen, und Madana's wechselnde Regung.</p>
+<p>Hari nun spielet im Lenze, dem frohen« usw.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 35.</bibl> »<hi rendition="#g">Malli</hi>«, eine Art Jasmin. – »<hi rendition="#g">Ketakī</hi>« s. Anm. zu 31.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 38-45</bibl> bilden das 4. <hi rendition="#g">Canticum,</hi> in dem die Freundin der Rādhā genauer die Liebesfreuden Hari's mit den Gopī's schildert. – Um die großartige Kunst Rückerts zu beleuchten, seien hier zum Vergleich nach L.v. <hi rendition="#g">Schroeders</hi> Beispiel die drei folgenden Strophen im Urtext mitgeteilt:</p>
+<lb/>
+<p><hi rendition="#i"><pb n="64" facs="#f00059"/> candanacarcitanīlakalevarapītavasavanamālī</hi></p>
+<p><hi rendition="#i">kelicalanmaṇikuṇḍalamaṇḍitagaṇḍayugasmitaśālī</hi></p>
+<p><hi rendition="#i">harir-iha mugdhavadhūnikare</hi></p>
+<p><hi rendition="#i">vilāsini vilasati kelipare</hi> 38</p>
+<lb/>
+<p><hi rendition="#i">pīnapayodharabhārabhareṇa hariṃ parirabhya sa rāgam</hi></p>
+<p><hi rendition="#i">gopavadhūr anugāyati kācid udañcitapañcamarāgam.</hi></p>
+<p><hi rendition="#i">harir iha</hi> etc. 39</p>
+<lb/>
+<p><hi rendition="#i">kāpi vilāsavilolavilocanakhelanajanitamanojam</hi></p>
+<p><hi rendition="#i">dhyāti gopavadhūr adhikaṃ madhusūdanavadanasarojam</hi></p>
+<p><hi rendition="#i">harir iha</hi> etc. 40</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 39.</bibl> »<hi rendition="#g">Die gewirbelte Pañcama-Weise</hi>«, wörtl. »die fünfte Melodie«, eine erotische Weise, die Hari auf der Hirtenflöte spielt.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/1.</ref>Str. 40.</bibl> »<hi rendition="#g">Antlitznymphäe</hi>«, d.h. Antlitzlotus oder Lotusantlitz. Gesicht, Augen und Mund werden gern dem Lotus verglichen.</p>
+<p rendition="#et">Str. 46. »<hi rendition="#g">Allgemeine Wonne</hi>«. Im Sanskrit: »die Wonne aller« oder, um das Maskulinum<hi rendition="#i"> ānanda</hi> auszudrücken: »der Freudenrausch aller«. – Die Str. 45, 47 und 48 vom Übersetzer fortgelassen, da sie den Namen des Dichters oder Religiöses enthalten.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>II.</bibl> Rādhā klagt der Freundin ihr Verlangen nach dem ungetreuen Hari und bittet sie, ihn zu holen. – Der Gesang enthält die <hi rendition="#g">Cantica</hi> 5 und 6 (II, 2-8 und 11-18.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 2.</bibl> Das »<hi rendition="#g">bezaubernde Rohr</hi>« (<hi rendition="#i">mohanavaṃśa</hi> = »Rohr oder Flöte der Betörung«) ist die Hirtenflöte, auf der Govinda-Hari, wie der griechisch-römische <hi rendition="#g">Pan,</hi> spielt. Vgl. Anm. I, 39 und II, 18.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 3.</bibl> »<hi rendition="#g">Puraṃdara's Bogen</hi>«. Puraṃdara »Städtezerstörer«, ein Beiname des Gottes <hi rendition="#g">Indra;</hi> dessen Bogen der <hi rendition="#g">Regenbogen.</hi></p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 4.</bibl> »<hi rendition="#g">bandhujīvisch</hi>« von Bandhujīva, einer – wie der Name sagt – »in Gruppen lebenden« Pflanze mit schnellverblühenden roten Blüten.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 6.</bibl> »<hi rendition="#g">von sandelbemaleter Stirn</hi>«. Mit glänzender <pb n="65" facs="#f00060"/> Sandelsalbe, die aus dem Holze des Sandelbaumes (Sirium myrtifolium) gewonnen wird, bemalt der Inder sich die Stirn in Form bestimmter Schönheitsmale <hi rendition="#i">(tilaka.)</hi> Die so gezierte Stirn übertrifft selbst den Glanz des Mondes, des Inbegriffs alles Schönen in Indien. – »<hi rendition="#g">Pforte des Herzens</hi>«, die Brust.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 7.</bibl> »<hi rendition="#g">Mákara,</hi>« ein Seeungeheuer, vielleicht der Delphin, das Bannertier des Liebesgottes Kāma.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 8.</bibl> »<hi rendition="#g">Kadamba</hi>« (Nauclea kadamba), ein Baum mit heller Rinde, von der der <hi rendition="#g">dunkle</hi> Gott sich abhebt. Er beschwichtet in seinen Verehrern das Grausen vor dem Kaliyuga, dem jetzigen verderbten Zeitalter: eine mystische viṣṇuitische Vorstellung, die im Hintergrunde des schäferlichen Liebesspieles steht (vgl. über die Avatāra-Lehre die allgemeinen Anmerkungen.) Schon in der vorigen Strophe ist der ferne Geliebte der ihm sehnsüchtig nachsinnenden Rādhā in überirdischer Form, als Liebesgott, erschienen.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 15.</bibl> »<hi rendition="#g">Kokila</hi>«, vgl. Anm. I, 27. – »<hi rendition="#g">Sieger anaṅgischer Regeln</hi>«, d.h. der größte Kenner der Regeln der Liebe. [Vgl. des Herausgebers Anm. zu Kālidāsa's Ṛtusaṃhāra IV, 6 (Insel-Bücherei Bd. 282, S. 54.)] »<hi rendition="#g">Anaṅgisch</hi>« von Anaṅga, »Liebe«, »Liebesgott«.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/2.</ref>Str. 18.</bibl> Rādhā sieht den Hari in Gedanken oder erinnert sich seiner, wie er I, 37 geschildert wird. – Die Str. 19, 20, 21 des Originals fehlen aus den bekannten Gründen.</p>
+<lb/>
+<p rendition="#et">III. <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 1.</bibl> Kṛṣṇa-Hari erinnert sich plötzlich mitten im Taumel der »Venus vulgivaga« seiner wahren Liebe, <hi rendition="#g">Rādhā,</hi> und zieht sich von dem weltlichen Minnespiel zurück (<hi rendition="#g">Canticum 7</hi> = III, 3-15.) Eine Hauptstelle für die mystische Bedeutung des Gedichtes.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 2.</bibl> »<hi rendition="#g">Rādhikā</hi>«, eine Koseform von Rādhā, die hier (bei der Rückertschen Auffassung des Textes) kühn einer die Bilder der Weltlust fesselnden Kette oder Spange <hi rendition="#i">(śṛṅkhalā)</hi> verglichen wird. – <hi rendition="#g">Kalindanandinī,</hi> die »Erfreuerin (d.h. Tochter) des Kalinda«, ein Beiname der Yamunā (vgl. Anm. zu Ges. I.) <hi rendition="#g">Kalinda</hi> ist der Name eines Gebirges im Himālaya, an dessen Fuße die Yamunā entspringt.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref> Str. 3.</bibl> »<hi rendition="#g">Harihari!</hi>«, zu deutsch etwa »ach! ach!«, ein Schmerzensausruf, den die Übersetzung beibehalten hat, da er wohl zugleich auf den eigenen Namen des Gottes (»Hari«) anspielt.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 5.</bibl> Ein echt indischer Vergleich: Rādhā's zorngerötete Augen mit den Augenbrauen werden roten Nymphäen oder Lotusblüten verglichen, über denen eine Reihe schwarzer Bienen schwebt.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 11.</bibl> »Was, o Liebesgott, befehdest du mich so scharf, als hieltest du mich, den weichen <hi rendition="#g">Hari,</hi> für den harten <hi rendition="#g">Hara</hi> (den Gott <hi rendition="#g">Śiva</hi>), deinen Feind? Ich bin mit duftendem Sandelstaub gesalbt, nicht wie Śiva mit Totenasche; ich trage ein kühles Lotusfasernband am Herzen, nicht wie Śiva eine Schlange; und am Halse blaue Lotusblüten, nicht wie Śiva den blauen Glanz des Giftes, das er sog, als die Götter das Milchmeer rührten, um das Amṛta, den Unsterblichkeitstrank, den Nektar zu bereiten, wobei als oberster Schaum das Weltgift Hālāhala hervorkam, das Śiva als der mutigste der Götter verschlang, damit es nicht alle andern verdürbe.«</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 12.</bibl> »<hi rendition="#g">Gazellenäugig</hi>«. Die schönen, dunklen Augen der zierlichen Gazellen werden, wie bei uns die des Rehes, oft mit schönen Frauenaugen verglichen, deren Blicke »Liebespfeile« sind.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 13.</bibl> »<hi rendition="#g">Eine Sehn'</hi>«, d.h. Bogensehne. Rückert schreibt »<hi rendition="#g">Senn'</hi>«, wofür die uns geläufigere Form des Wortes eingesetzt wurde.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 14.</bibl> »<hi rendition="#g">Bimba-Lippe</hi>«. Bimba (Momordica monadelpha), eine Pflanze mit herrlichen roten Früchten, deren Farbe unendlich oft mit dem Rot schöner Lippen zusammengebracht wird.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/3.</ref>Str. 15.</bibl> Der Inder denkt sich – wie der Grieche den Eros und der Römer seinen Amor oder Cupido – Kāma mit Bogen und Pfeil ausgerüstet. Als Pfeile des Liebesgottes gelten u.a. die Blüten des<hi rendition="#g"> Āmra</hi>-Baumes (vgl. Anm. I, 33.)</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>IV.</bibl> Die Freundin Rādhā's hat sich, deren Aufforderung (II, 11 ff.) entsprechend, zu dem in Reue und Sehnsucht versunkenen Hari begeben und schildert diesem nun die Liebesnöte seiner Geliebten in den beiden <hi rendition="#g">Cantica</hi> 8 und 9 (IV, 2-9; 11-18.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref> Str. 2.</bibl> Alles Angenehme ist der sehnsuchtskranken Rādhā unangenehm, alles Kühlende brennend, selbst die kühlenden Strahlen des Mondes. Der vom Sandelberge (vgl. Anm. I, 27) wehende duftschwangere Frühlingswind mutet sie giftig an. Der Malaya heißt wegen der vielen dort vorkommenden Giftschlangen auch das <hi rendition="#g">Schlangengebirge,</hi> das nach Rādhā's Meinung den Wind vergiftet hat.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 3.</bibl> »<hi rendition="#g">Tauige Lotosgewebe</hi>«. Die wasserhaltigen Lotosfasern werden zu Netzen verflochten und dann als Kühlmittel auf die Brust gelegt. Vgl. III, 11 mit der Anm.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 4.</bibl> Die »<hi rendition="#g">Geschosse des blumenverschießenden Gottes</hi>« sind, wie schon erwähnt, Blumen. Alle von Rādhā zum Ruhelager gehäuften Blumen sind für sie Liebespfeile des Anaṅga.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 5.</bibl> »<hi rendition="#g">Nymphäe</hi>«, s. Anm. I, 40. – <hi rendition="#g">Rāhu,</hi> der »Ergreifer«, ein Drachendämon, der Sonne und Mond verfolgt, um sie zu verschlingen, woraus nach indischem Glauben die Sonnen- und Mondfinsternisse entstehen. Der Mond, von Rāhu ergriffen, verschüttet das Amṛta, den Nektar (vgl. Anm. III, 11), womit die Götter seine Schale gefüllt hatten, ebenso wie ein bekümmertes Menschenantlitz seine Tränen vergießt.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 6.</bibl> »<hi rendition="#g">Antilopengewürze</hi>«, Moschus. Mit dem Moschussaft der Bisamantilope (vgl. Anm. I, 29) malt Rādhā den Geliebten als Liebesgott mit dessen Attributen, dem Delphin Makara (Anm. II, 7) und den Blumenpfeilen in Gestalt von Cūta-Blüten (vgl. Anm. I, 33.) – »<hi rendition="#g">Schürer der Gluten</hi>« frei des Reimes wegen von Rückert gesetzt für <hi rendition="#i">Asamabāṇa,</hi> den »ungleichpfeiligen« Liebesgott,</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 7.</bibl> »<hi rendition="#g">So wird Feuer statt Nektar im Becher des Mondes mir wallen</hi>«. Wörtlich: »So wird sogar der ›Nektarbehälter‹ <hi rendition="#i">(sudhānidhir),</hi> der Mond, mir Körperqualen verursachen.« Vgl. IV, 2 u. Anm.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 10.</bibl> »<hi rendition="#g">Yama</hi>«, der Todesgott, der Unterwelt. – Der Liebesjäger Kāma nimmt die Gestalt des Todesjägers an und verfolgt als Tiger die Gazelle. »Tigerspiel« <hi rendition="#i">(śārdūlavikrīḍita)</hi> heißt das Sanskritversmaß, in dem im Original diese Strophe verfaßt ist. – Im 5. Verse der Strophe wurde auf Grund des Urtextes<hi rendition="#i"> (tvadviraheṇa)</hi> <pb n="68" facs="#f00063"/> hinter »selbst« das Wörtchen »<hi rendition="#g"> durch</hi>« eingefügt. Im Rückertschen, wohl auf einem Druckversehen beruhenden Text lautet der Vers <hi rendition="#g">metrisch falsch</hi> und <hi rendition="#g">unverständlich:</hi> »doch sie selbst deine Flucht, o Jammer.« (Bei <hi rendition="#g">Hirschfeld</hi> a.a.O. Bd. I, S. 360 so <hi rendition="#g">falsch</hi> abgedruckt!)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 13.</bibl> »<hi rendition="#g">Madana's Lohe</hi>«, die Glut der Liebe, das Feuer der Leidenschaft.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 14.</bibl> Die tränenden Augen Rādhā's werden Wasserlotusblüten verglichen, deren Stengel verwelkt sind.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 15.</bibl> »Hutāśana«, der »Opferverzehrer«, das Feuer.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 16.</bibl> Wörtlich: »Sie läßt mit der Handfläche die Wange nicht los, welche dem jungen, unbeweglichen Monde am Abend gleicht«; d.h.: sie sitzt nachdenklich da, den Kopf in die Hand gestützt. Der Vergleich ihrer Wange mit dem Monde geht auf den bleichen Glanz.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 19.</bibl> »<hi rendition="#g">schwiemet hin</hi>«, wankt, taumelt hin, fallt in Ohnmacht.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 20.</bibl> »<hi rendition="#g">Deines Leibes Amṛt</hi>«, d.h. Nektar für deinen Leib. – »<hi rendition="#g">Indra's Keil</hi>«, der Donnerkeil <hi rendition="#i">(vajra)</hi> – »<hi rendition="#g">Indra's Bruder</hi>« ist <hi rendition="#g">Upendra,</hi> »Neben-Indra«. Rückert liest besser als Lassen: <hi rendition="#i">Upendra vajrād,</hi> worin eine Anspielung liegt auf den Namen des Versmaßes <hi rendition="#i">»upendravajra«</hi> »Neben-Indra-Keil« von <hi rendition="#i">upa</hi> »neben« und <hi rendition="#i">indravajra</hi> »Indra's Keil«, welch letzteres Rückert, nicht ganz genau, dafür eingesetzt hat. (Vgl. Rückerts sprachliche Anmerkungen!)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 21.</bibl> »<hi rendition="#g">Sandel, Mond und Lotus</hi>«. Vgl. V, 2.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/4.</ref>Str. 22.</bibl> Das Versmaß heißt »Neubeblütet« (<hi rendition="#i">puṣpitāgra,</hi> »blühende Spitzen habend«.) – Die Str. 18 und 23 sind von R. weggelassen.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>V.</bibl> Kṛṣṇa schickt die Freundin wieder zurück zu Rādhā und läßt um sie werben. Die Freundin schildert der Rādhā Hari's Schmerz über den Zorn und die Abwesenheit der Geliebten und bittet Rādhā, ihn aufzusuchen. Der Gesang enthält die <hi rendition="#g">Cantica</hi> 10 und 11 (V, 2-6 und 8-15.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 2.</bibl> »<hi rendition="#g">Malayische Lüfte</hi>«, vgl. Anm. I, 27. – Rückert hat <pb n="69" facs="#f00064"/> hier eine große Anmerkung zur Metrik der Str. 2-6. Es handelt sich hier um ein ganz ungewöhnliches Versmaß, das besonders auffallend ist durch die ganz europäisch anmutende, aber im ganzen Orient unbekannte Reimverschränkung a b a b.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 3.</bibl> Vgl. IV, 2 u.a.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 4.</bibl> Das Summen der Bienen ist für das empfängliche Ohr des Inders eine liebliche Musik.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 7.</bibl> »<hi rendition="#g">Busenschale</hi>«, skr. <hi rendition="#i">kucakumbha,</hi> »Brustkrug«; der Vergleich weiblicher Brüste mit Krügen ist dem Inder geläufig.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 9.</bibl> Er bläst auf der Flöte bestimmte verabredete Töne, die den Namen Rādhā's bezeichnen. – Rückert zieht die Lassensche Übersetzung, die<hi rendition="#i"> n</hi>ā<hi rendition="#i">ma-sametam</hi> verbindet, der seinigen vor: »Er bläst die mit (deinem) Namen verbundene Flöte.« Der Sanskritausdruck ist dem Reim zuliebe nicht ganz klar.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 12.</bibl> Die mit gelbem Gewande (I, 38) bekleidete, von Geschmeide umflatterte Brust des Gottes wird – echt indisch! – einer falben, von Kranichen umkreisten Gewitterwolke verglichen, deren Blitz nun die liebeglühende Rādhā werden soll. »Im Sanskrit kann man, wie, wenn man will, im Deutschen auch, die letzten Worte »die heiß im Verlangen gereifte« sowohl auf die Brust des Gottes als auf Rādhā beziehen. Auch das »safranbekleidete« kann im Sanskrit Anrede an Rādhā sein, wodurch dann deren Vergleichung mit dem Blitze noch lebhafter wird. Dazu kann man das Deutsche so umstellen: »Safranbekleidete! Dort die geschmeidete Brust, wie usw.« Diese Note Rückerts gestattet einen tiefen Einblick in das ungewöhnliche Sprachverständnis und die große Sprachbeherrschung dieses Meisters der Übersetzungskunst.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/5.</ref>Str. 17.</bibl> <hi rendition="#g">Cakravāka,</hi> eine Entenart mit klagendem Lockruf der besonders des Nachts zu hören ist und daher den Inder zu dem Glauben führte, der männliche und weibliche Cakravāka riefen klagend einander, weil sie durch den Fluß getrennt die Nacht an entgegengesetzten Ufern zubringen müßten. – Die Str. 4, 15, 16 und 20 des Originals sind vom Übersetzer aus den bekannten Gründen weggelassen.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/6.</ref> VI.</bibl> Rādhā ist infolge von Sehnsucht und Ermattung nicht imstande, zu gehen und der Aufforderung ihrer Freundin nachzukommen. Diese geht daher wiederum zu Hari und schildert Rādhā's Lage im 12. Canticum (VI, 2-9.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/6.</ref>Str. 5.</bibl> »<hi rendition="#g">Im gebärdenden Spiele</hi>«, im Sanskrit <hi rendition="#i">līlā,</hi> »verliebtes Gebärdenspiel«. Eine Art davon besteht darin, daß die einsame Sehnsüchtige sich den abwesenden Liebhaber vorstellt, seine Gebärden nachmacht und sich einbildet, er selber zu sein. Die mystische Deutung liegt hier nahe.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/6.</ref>Str. 10.</bibl> »<hi rendition="#g">Rehgeaugte</hi>«, im Sanskrit <hi rendition="#i">mṛgākṣī,</hi> »Gazellenäugige«, vgl. Anm. III, 12. – Weggelassen sind die Str. 9 und 12 des Originals.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>VII.</bibl> Rädhä klagt über die Verzögerung der Ankunft Hari's und glaubt sich von der Freundin hintergangen (<hi rendition="#g">Canticum</hi> 13 = VII, 3-10.) Als sie dann die Freundin ohne Kṛṣṇa zurückkehren sieht und argwöhnt, er werde durch die Liebe zu einer anderen Schönen zurückgehalten, da ergeht sie sich vor der Freundin in neuen Klagen (<hi rendition="#g">Cantica</hi> 14 und 15 = VII, 13-20 und 22-20.) Sie preist die Schöne glücklich, die nach ihrer Annahme sich jetzt der Umarmungen Hari's freuen darf (<hi rendition="#g">Canticum</hi> 16 = VII, 31-39.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 1.</bibl> Sinn: Der Mond ging jetzt auf. Er trägt schuld an Fall und Fehltritt der auf Nachtbesuch wandelnden Schönen, er macht sie im Zwielicht straucheln, oder auch, er verlockt sie zum Gange; zur Strafe dafür hat er seine Flecken bekommen. Der Mond hängt am Antlitz der Nacht (im Texte: »der Schönen der Himmelsgegend«) wie ein Sandeltropfen, wie ein Sandeltupf, ein mit Sandel gemaltes Stirnzeichen ... Vgl. Anm. II, 6.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 3.</bibl> »<hi rendition="#g">Auch der Herzfreundin Wort ist Betrug</hi>«. Rādhā glaubt sich von ihrer Freundin, weil diese weder Kṛṣṇa mitbringt, noch selber zurückkehrt, betrogen.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 8.</bibl> Vgl. IV, 4 m.d. Anm.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 12.</bibl> Der »<hi rendition="#g">Weltersehnte</hi>«, ein mystischer Name Kṛṣṇa's, im Sanskrit <hi rendition="#i">janārdana,</hi> wörtlich: »Antreiber der Menschen«, »Weltbedränger«. Die indischen Scholiasten erklären im Sinne <pb n="71" facs="#f00066"/> der ersten Bedeutung. Nach Rückert kann man es auch so wenden: »Die Welt durch Sehnsucht bedrängend.«</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 15.</bibl> »<hi rendition="#g">Mond des Gesichtes</hi>« vgl. Anm. II, 6.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 16.</bibl> »<hi rendition="#g">klingende Hüfte</hi>« bezieht sich auf den Schmuck des Hüftgurtes.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 21.</bibl> »<hi rendition="#g">lächelt</hi>« vgl. Anm. I, 31.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 22.</bibl> Sie entzückt und quält sich jetzt mit der Vorstellung, wie ihr Geliebter einer Nebenbuhlerin die Toilette mache, den zerstörten Putz wiederherstellend, geradeso wie er es am Ende des Gedichtes (XII, 18 ff.) mit Rādhā selber macht. – Er malt ihr neu das verwischte Stirnzeichen, damit ihr Antlitz dem Monde mit seinen dunklen Flecken gleiche (vgl. Anm. II, 6.) In diesen Mondflecken erkennt die indische Phantasie eine Moschusgazelle. (vgl. Anm. I, 29.) – »<hi rendition="#g">Muscus</hi>« = Moschus.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 23.</bibl> Die Locken heißen »<hi rendition="#g">Madana's Jagdrevier</hi>« als ein Hauptgegenstand seines Liebesspiels. – <hi rendition="#g">Kuraba,</hi> genauer <hi rendition="#g">Kurbaka,</hi> eine Blume (Barleria purpurea) mit schönen, purpurroten Blüten.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 24.</bibl> Die zurückgebliebene »<hi rendition="#g">Nagelspur</hi>« (vgl. V, 18) stellt an diesem Himmelsgewölbe, das mit Edelsteinen besternt wird, den Mond vor. – Über Nägelmale vgl. des Herausgebers Anmerkung zu Kālidāsa's Ṛtusaṃhāra V, 15 (Insel-Bücherei Bd. 282, S. 55.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 25.</bibl> »<hi rendition="#g">Der Arm, der dem Schnee'e gleicht</hi>«, hier nicht an Weiße, sondern an frischer Kühle (skr. <hi rendition="#i">himaśītala</hi> »schee<hi rendition="#g">kühl</hi>«); vgl. den kühlen Leib IV, 21. – Auch die Lilien hier sind die dunklen Wasserlilien (skr. <hi rendition="#i">nalinī,</hi> Wasserlotus.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 26.</bibl> »<hi rendition="#g">Der festliche Bogen</hi>«, im Sanskrit <hi rendition="#i">toraṇa</hi> »Torbogen«, dann Festbogen, mit Blumengewinden geschmückter Eingang eines Tempels usw.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 27.</bibl> »<hi rendition="#g">Kamala</hi>«, eine Lotusart. – »Yāvaka«, eine Lackfarbe, womit die Füße der Schönen belegt werden »zum Schutze«, da sie sonst zu zart wären.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 28.</bibl> »<hi rendition="#g">Der Bruder vom Pflüger</hi>« (skr. <hi rendition="#i">haladharasodara)</hi> ist Kṛṣṇa. Der <hi rendition="#g">Haladhara</hi> oder »Pflugführer« ist <hi rendition="#g">Balarāma,</hi> auch Baladeva genannt, ein älterer Bruder des Kṛṣṇa.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref> Str. 30.</bibl> Vgl. VII, 3c und 12b. – »Nun soll meine Seele selber hingehen, da du für mich vergebens als Botin gegangen bist.« – Die zwei ersten Verse dieser Strophe können auch als <hi rendition="#g">Zwiegespräch</hi> zwischen Rādhā und der Freundin aufgefaßt werden: (Die Freundin:) »Nicht mitgekommen, Freundin, ist der Lieblose!« – (Rādhā:) »Wenn er falsch ist, was sorgst <hi rendition="#g">du,</hi> o Botin, dich?« – (Die Freundin:) "[Wenn] der Liebling sich reichlich nach Lust ergötzt!« – (Rādhā:) »Was bist du schuld daran?« Bei dieser Auffassung wären diese beiden Verse die einzige Spur wirklichen Dialogs im Gedicht.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 33.</bibl> und <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>34.</bibl> Vgl. IV, 2 und 21.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 36.</bibl> D.h. entweder: das Spottgelächter der Mägde über die Vernachlässigte, von Untreue Verletzte trifft sie nicht; oder: sie kann unbekümmert die schalkhaften Mägde lachen lassen, wie sie unten (XI, 33) lachen.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>Str. 39.</bibl> und <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/7.</ref>41.</bibl> »<hi rendition="#g">Sandelwind</hi>«, »Malaya-Luft«, vgl. Anm. I, 27. – Der Süden, woher der Sandelwind weht, ist für den gegen Sonnenaufgang gewendeten Inder <hi rendition="#g">rechts</hi> (<hi rendition="#i">dakṣiṇa,</hi> woher der Name »Dekhan« für einen Teil Vorderindiens.) – Der »<hi rendition="#g">Fünfpfeilige</hi>«, vgl. das Namensverzeichnis. –»<hi rendition="#g">Yama's Schwester</hi>« die als Flußgöttin personifizierte Yamunā, an deren Ufern das Gedicht spielt. – Für Yama hat der Text <hi rendition="#i">kṛtānta,</hi> »der ein Ende macht«, der »Todesgott«.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/8.</ref>VIII.</bibl> Kṛṣṇa ist endlich am Morgen zu seiner Geliebten gekommen; diese aber macht ihm zornig die bittersten Vorwürfe (<hi rendition="#g">Canticum</hi> 17 = VIII, 2-9.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/8.</ref>Str. 2-6.</bibl> Rādhā (nach der erotischen Kunstsprache eine <hi rendition="#i">khaṇḍitā,</hi> eine vom Geliebten, der einer anderen anhängt, nicht Besuchte, also »<hi rendition="#g">Gekränkte</hi>«) zählt systematisch alle Merkmale auf, an denen sie die nächtliche Untreue des Kṛṣṇa zu erkennen glaubt: das überwachte Auge, schwarze Augenschminke am Munde, Nägelspuren, die Brust vom Fußlack gefärbt (vgl. VII, 27) und endlich die durch Bisse verwundeten Lippen. Über die <hi rendition="#i">khaṇḍitā</hi> vgl. <hi rendition="#g">R. Schmidt,</hi> Beiträge zur indischen Erotik<hi rendition="#sup">2</hi> (Berlin 1911), S. 219ff. – »<hi rendition="#g">Harihari</hi>« vgl. Anm. III, 3.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/8.</ref> Str. 3.</bibl> »Deine Lippen sind nun so dunkelfarbig wie dein Herz und dein ganzer Leib.«</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/8.</ref>Str. 8.</bibl> Die erste Heldentat des Götterkindes Kṛṣṇa war, daß er seine Amme <hi rendition="#g">Pūtanikā</hi> umbrachte, eine riesenhafte Unholdin, die ihn mit ihrer Milch vergiften wollte. – Die Strophen 9-11 des Originals sind weggelassen.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/9.</ref>IX.</bibl> Kṛṣṇa-Hari hat dem unbezwinglichen Zorne der Rādhā weichen müssen und sich zurückgezogen. Da tritt die Freundin an Rādhā heran und macht ihr Vorwürfe, daß sie sich so spröde und eifersüchtig dem demütig flehenden Geliebten gegenüber gezeigt hat (<hi rendition="#g">Canticum</hi> 18 = IX, 2-10.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/9.</ref>Str. 3.</bibl> »<hi rendition="#g">Dattel</hi>«, im Sanskrit <hi rendition="#i">tālaphala,</hi> die Frucht der Fächerpalme (Borassus flabelliformis.) In Ermangelung eines anderen Wortes hat R. »<hi rendition="#g">Dattel</hi>« dafür eingesetzt. – Sinn: Ihre Brust ist fester und wonnevoller als die süße Palmenfrucht, bzw. »Dattel«. – Die Strophen 9 und 11 des Originals sind fortgelassen aus bekannten Gründen.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>X.</bibl> Kṛṣṇa tritt erneut vor Rādhā hin und spricht zu ihr in schwärmerischen Worten von seiner Liebe. Sie möge tun mit ihm, was sie wolle, nur ihre Liebe möge sie ihm wieder zuwenden (<hi rendition="#g">Canticum</hi> 19 = X, 2-15.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>Str. 2.</bibl> »<hi rendition="#g">Cakóra</hi>«, ein rebhuhnartiger Vogel (Perdix rufa), der sich nach indischem Glauben von Mondstrahlen nähren soll. Deshalb werden auch die Augen mit Cakoren verglichen, da sie die Strahlen eines wie der Mond glänzenden Antlitzes aufsaugen.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>Str. 6.</bibl> »<hi rendition="#g">Daß es färbe des Herzens Bleichen</hi>«. Im Sanskrit <hi rendition="#i">rañjayatu tava hṛdayadeśaṃ,</hi> »es möge sich färben lassen, d.h. entzücken die Gegend deines Herzens.«</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>Str. 7.</bibl> »<hi rendition="#g">Nymphäen tötend</hi>«, d.h. besiegend, übertreffend an Zartheit und Frische. – Das Sohlenpaar rötet seine Brust, indem Kṛṣṇa es daransetzt, um es mit rotem Lack zu belegen wie VII, 27.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>Str. 8.</bibl> Die völligste Liebesunterwerfung ist es in indischem Sinne, den kühlenden Fußtritt der Geliebten als Krone auf das Haupt zu nehmen.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref> Str. 11.</bibl> Der »<hi rendition="#g">Mördergott</hi>«, der Liebesgott. Im Text: <hi rendition="#i">Pañcamabāṇacaṇdāla,</hi> der »fünfpfeilige <hi rendition="#i">Caṇ ḍāla</hi> oder Mörder« (eigentlich: Angehöriger der verachtetsten Kaste in Indien.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>Str. 14.</bibl> Die fünf Blumen, die der Liebesgott als Pfeile führt, erhält er von deinem Gesicht, dem er dafür dienstbar ist. Die fünf Blumen: Bandhūka, Madhūka, Lotos, Tila, Jasmin, sind hier so gewählt, wie der Dichter sie zu dem beabsichtigten Vergleiche mit den einzelnen Gesichtsteilen brauchte; anderswo werden andere Blumen genannt. Hier fehlt sogar der sonst dem Gotte vorwiegend zukommende Āmra-Pfeil (vgl. Anm. zu IV, 6 und I, 33.)</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/10.</ref>Str. 15.</bibl> »Du hast bei deiner Herabkunft vom Himmel einen ganzen Chor von Jugendgottheiten zur Begleitung mitgebracht: Trunkenheit, Mondschein, Anmut, Fülle, Liebeslust, Zierde.« – Die Personifikation der Begriffe als Jugendgottheiten ist eine poetische Freiheit Rückerts, die das Original so ausgesprochen nicht enthält. – »<hi rendition="#g">Die Zierd' in krauser Locke</hi>«: im Sanskrit wörtlich: »Deine <hi rendition="#g">Augenbrauen</hi> sind wie liebliche Gemälde.« – Die Strophen 9 und 16 des Textes sind von R. weggelassen.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>XI.</bibl> Nachdem Kṛṣṇa die Rādhā »lange geliebkost«, hat er sie allein gelassen und ist zu seinem »laub'gen Lager« zurückgekehrt. In Rādhā keimt die Liebe zu Kṛṣṇa neu auf, frohgemut legt sie ihren Schmuck an, und die Freundin ermuntert sie wieder, Kṛṣṇa zu folgen (<hi rendition="#g">Canticum</hi> 20 = XI, 2-11.) Rādhā begibt sich zur Laube des Geliebten, und als sie den auf dem Blumenlager ruhenden Hari erblickend zögernd stehen bleibt, spricht die Freundin ihr erneut Mut zu (<hi rendition="#g">Canticum</hi> 21 = XI, 14-20.) Das <hi rendition="#g">Canticum</hi> 22 (XI, 23-33) schildert Rādhā, wie sie versunken in der Betrachtung des Geliebten, am Rande seines Lagers steht.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 2.</bibl> »<hi rendition="#g">Rādhikā</hi>« vgl. Anm. III, 2.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 3.</bibl> »<hi rendition="#g">Gang der Fasanen</hi>«. Im Text <hi rendition="#i">marāla,</hi> erklärt mit <hi rendition="#i">haṃsa,</hi> das man meist mit »Schwan« übersetzt. Nach der indischen Ästhetik, die das Üppige bevorzugt, gehört ein schwanenartiger Gang als Folge übermäßig entwickelter Hüften zu den hervorstechendsten Merkmalen einer indischen Schönheit. »Fasan« <pb n="75" facs="#f00070"/> trifft hier deshalb nicht ganz das Richtige. – Vgl. des Herausgebers Anmerkung zu Kālidāsa's Ṛtusaṃhāra III, 17 (Insel-Bücherei Bd. 282, S. 50f.).</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 7.</bibl> Die Trommel oder Handpauke rühren die Nachtbesucherinnen in allen Sanskritgedichten. Hier im Text steht aber nur als Anspielung auf jene Sitte: »mit klingelnder Lärmtrommel des Gürtels«, d.i. mit dem Schellengeklingel des Gürtels, das jenem Trommelgetön gleiche und es vorstelle.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 11-12.</bibl> »<hi rendition="#g">Tāpiccha</hi>« (sprich etwa: tapítscha), soviel wie Tamāla, ein Baum mit dunklem. Laube. – Die Nacht legt den Nachtbesucherinnen, wie sich selbst, lauter dunklen Schmuck an. Daß jene Furchtsamen sich nicht davor fürchten, dadurch legen sie die Probe ihres Liebesmutes ab. Der schwarze<hi rendition="#g"> Probierstein</hi> wird hell gestreift vom angestrichenen Golde, wie das, Nachtdunkel von den juwelenglänzenden Nachtstreiferinnen. – <hi rendition="#g">Muscus,</hi> Moschus.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 17.</bibl> »<hi rendition="#g">Duftmalaya-Luft</hi>« vgl. Anm. I, 27.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 20.</bibl> »<hi rendition="#g">Lenzkokila</hi>« vgl. Anm. I, 27.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/11.</ref>Str. 32.</bibl> Indischer als die Übersetzung ist das Original, welches sagen will: Rādhā hat ihre Augen bei der Betrachtung des Geliebten so sehr angestrengt, daß diese in Gestalt der hervorbrechenden Tränen gleichsam anfangen zu schwitzen!! – Die Strophen 21, 23, 34, 35, 36 des Originals sind weggelassen.</p>
+<lb/>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/12.</ref>XII.</bibl> Die Freundinnen und Mägde ziehen sich zurück. Die »verlangenvolle« Rādhā wird von Kṛṣṇa mit leidenschaftlichen Worten zum Liebesgenusse eingeladen (<hi rendition="#g">Canticum</hi> 23 = XII, 2-8.) Die folgenden Strophen 10-16 schildern die Vereinigung Kṛṣṇa's und Rādhā's in so glühend-erotischen Farben, daß Rückert sie bis auf zwei Strophen übergangen hat. Das <hi rendition="#g">Canticum</hi> 24 (XII, 18-26), in dem Rādhā den Geliebten bittet, ihren im Liebesrausch zerstörten Schmuck wiederherzustellen, bildet den Abschluß des Gedichts.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/12.</ref>Str. 2.</bibl> Der »<hi rendition="#g">blühende Gegner</hi>« des Lotusfußes Rādhā's ist der wirkliche Lotus des aus Blumen bestehenden Lagers. Vgl. X, 7. – <hi rendition="#g">Rādhikā</hi> vgl. Anm. zu III, 2.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/12.</ref> Str. 3.</bibl> <hi rendition="#g">Den Fuß in die Hand fassen,</hi> um ihn zu reiben zur Benehmung der Müdigkeit. – Deine mutigen Reisebegleiter, die Spangen, sollen neben mir ruhen.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/12.</ref>Str. 5.</bibl> Der »<hi rendition="#g">Gemütegeborne</hi>«, der im Gemüte geborene Gott der Liebe.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/12.</ref>Str. 18</bibl>ff. geben einen Einblick in die mit vieler Kunst verbundenen Toilettengeheimnisse einer indischen Schönen. – »<hi rendition="#g">Madana's Opfergefäße«.</hi> Am Feste des Kāma werden für die Besiegung der Weit durch den Liebesgott glückverheißende, wassergefüllte und mit dunklen Mango-Zweigen bedeckte Opferkrüge aufgestellt, denen hier Rādhā ihren Busen treffend vergleicht. (Vgl. Anm. V, 7 und zum Sinn auch Str. III, 13.) – »<hi rendition="#g">Muscusmal</hi>« vgl. Anm. IV, 6.</p>
+<p rendition="#et"><bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Gitagovinda/12.</ref>Str. 23.</bibl> »<hi rendition="#g">Banner</hi>«, Rückert schreibt »<hi rendition="#g">Panner</hi>«.</p>
+<p rendition="#et">Str. 26. Der <hi rendition="#g">Gelbgewand'ge</hi> ist Kṛṣṇa. – Vom 12. Gesange des Originals sind die Strophen 9, 11, 12, 14, 15, 16 und 27-30 wegen ihres teils religiösen, teils zu erotischen Inhaltes von Rückert weg gelassen.</p>
+<lb/>
+<p rendition="#et"><hi rendition="#g">Nachtrag</hi> zu Seite 62: Ein Neudruck des Rückertschen Gītagovinda schon bei <hi rendition="#g">H. Jolowicz,</hi> Polyglotte der orientalischen Poesie, Leipzig 1853, S. 210-228 (nicht ganz fehlerfrei, aber mit Berichtigung von Str. IV, 10; vgl. des Herausgebers Anm. dazu!.) – Eine schon wegen des gewählten eintönigen Versmaßes nicht gerade glückliche Übersetzung des Gītagovinda im Auszuge gibt <hi rendition="#g">E. Wollheim da Fonseca</hi> bei <hi rendition="#g">A. Wolff,</hi> Die Klassiker aller Zeiten und Nationen, Bd. IV, 1 (Indien), Berlin 1873, S. 150-156. – Die hier nachgetragene Literatur wurde dem Herausgeber erst kurz vor Abschluß der Korrektur zugänglich.</p>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"> <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen#N2198</ref>1</bibl> Vgl. <hi rendition="#g">R. Pischel,</hi> Die Hofdichter des Lakṣmaṇasena (Abh. der Göttinger Ges. d. Wiss., phil.-hist. Klasse, Bd. 39, S. 17ff.). Diese Darstellung folgt mehrfach der berühmten Arbeit Pischels.</note>
+<lb/>
+<note place="end" n="2"> <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen#N2199</ref>2</bibl> <hi rendition="#g">Sylvain Lévi,</hi> Le Théâtre indien, Paris 1890, S. 235.</note>
+<lb/>
+<note place="end" n="3"> <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen#N2200</ref>3</bibl> <hi rendition="#g">H. Oldenberg,</hi> Die Literatur des alten Indien, Stuttgart 1903, S. 283. Die Schreibung der Eigennamen ist hier geändert worden.</note>
+<lb/>
+<note place="end" n="4"> <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen#N2201</ref>4</bibl> <hi rendition="#g">H. Oldenberg,</hi> a.a.O. S. 285.</note>
+<lb/>
+<note place="end" n="5"> <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen#N2202</ref>5</bibl> <hi rendition="#g">Edwin Arnold,</hi> The Indian Song of Songs. From the Sanskrit of the Gīta Govinda of Jayadeva, London 1875; diese Übersetzung erlebte viele Neuauflagen.</note>
+<lb/>
+<note place="end" n="6"> <bibl><ref>/Philosophie/M/Jayadeva/Gitagovinda, ein Singspiel von Jayadeva/Anmerkungen#N2203</ref>6</bibl> <hi rendition="#g">Th. Benfey</hi> in seinem Artikel »Indien« in<hi rendition="#g"> Ersch</hi> u. <hi rendition="#g">Grubers</hi> Allgem. Encyclopaedie der Wissenschaften und Künste, S. 287.</note>
+
+</div>
+
+</div>
+
+<div n="1">
+<note type="editorial">Nachwort</note>
+
+<head><pb n="77" facs="#f00072"/> Nachwort</head>
+<p>Im Jahre 1837 erschien in der Zeitschrift für die Kunde des Morgenlandes, Band I (S. 129-173) »Gita-Gowinda aus dem Sanscrit übersetzt von Friedrich Rückert«, versehen mit einem Vorwort, einem Namensverzeichnis, mit Anmerkungen unter dem Text und außerdem noch mit (»nur für den Sprachgelehrtert bestimmten«) »Sprachlichen Anmerkungen zu Gita-Gowinda« (a.a.O. S, 286-296.) Rückert benutzte bei seiner Übersetzung die große kritische, mit lateinischer Übersetzung versehene Gītagovinda-Ausgabe von Lassen (Bonn 1836); daneben noch eine indische Ausgabe. – Die Rückertsche Übersetzung wurde unter den notwendigen Änderungen der Orthographie und Schreibweise indischer Wörter abgedruckt. Anstatt des Rückertschen Vorwortes wurde vom Herausgeber im allgemeinen Teile der Anmerkungen eine über die wichtigsten Probleme des Gītagovinda orientierende Einleitung hinzugefügt. Das Verzeichnis der Namen Kṛṣṇas usw. wurde unter Streichung aller nicht in der Übersetzung vorkommenden Namen in gekürzter Form beibehalten. Die für den Leser der Übersetzung bestimmten Anmerkungen wurden neu bearbeitet und an vielen Stellen erweitert, an anderen gekürzt; so wurden die metrischen Bemerkungen Rückerts bis auf eine (gekürzte) gestrichen.</p>
+<p rendition="#et">Bei der Bearbeitung wurde vom Herausgeber außer der Ausgabe von Lassen noch die mit sehr guten indischen Kommentaren versehene Gītagovinda-Ausgabe<pb n="78" facs="#f00073"/> von Telang und Paṇsikar (Bombay 1912) zu Rate gezogen. Wegen der durchgehenden Zählung der Strophen sind in den Anmerkungen jedesmal die einzelnen Cantica <hi rendition="#i">(prabandha)</hi> hervorgehoben worden.</p>
+<p rendition="#et">Herr Professor Dr. Richard Schmidt hatte die Güte, dem Herausgeber bei der vorliegenden Arbeit seine wertvolle Unterstützung angedeihen zu lassen und eine Korrektur mit zu lesen, wofür ihm der herzlichste Dank gesagt sei.</p>
+<lb/>
+<p rendition="#right"><hi rendition="#g">Herman Kreyenborg</hi></p>
+
+</div>
+
+</body></text></TEI>

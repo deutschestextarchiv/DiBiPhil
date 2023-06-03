@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sämtliche Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Platon: Sämtliche Werke. Berlin: Lambert Schneider, [1940].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sämtliche Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Verlag Lambert Schneider</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1940</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden etwa zwischen 399 und 393 v. Chr. Erstdruck (in lateinischer Übersetzung durch Marsilio Ficino) in: Opera, Florenz o. J. (ca. 1482/84). Erstdruck des griechischen Originals in: Hapanta ta tu Platônos, herausgegeben von M. Musoros, Venedig 1513. Erste deutsche Übersetzung durch J. S. Müller in: Tu Theiu Platônos Dialogoi Hex, Hamburg 1736. Der Text folgt der Übersetzung durch Ludwig von Georgii von 1860.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Laches</note>
+
+<pb n="149" facs="#f0001"/><pb n="171" facs="#f0002"/><head>Platon</head>
+<head>Laches</head>
+<head><hi rendition="#i">(Lachês)</hi></head>
+<pb n="171" facs="#f0003"/> <pb n="173" facs="#f0004"/><lb/>
+<head>Lysimachos · Melesias · Nikias · Laches · Die Söhne des Lysimachos und des Melesias · Sokrates</head>
+<p><hi rendition="#i">Lysimachos:</hi> Ihr habt nun, mein Nikias und Laches, dem Waffenkampfe des Mannes zugesehen; weshalb wir aber, ich und Melesias hier, euch gebeten haben, ihn mit uns anzusehen, das haben wir euch noch nicht gesagt, wollen es aber jetzt <hi rendition="#i">erkären</hi>. Denn wir sind überzeugt, daß wir uns gegen euch ganz freimütig aussprechen dürfen. Es fehlt nämlich nicht an solchen, welche über diese Übungen lachen und, wenn sie jemand um ihre Ansicht fragt, nicht sagen, was sie denken, sondern, der Ansicht des Fragenden sich anbequemend, ihrer eigenen Meinung zuwider sich ganz anders aussprechen. Von euch aber sind wir überzeugt, daß ihr nicht nur Sachverständige seid, sondern auch als solche eure Meinung unumwunden aussprechen werdet, und darum haben wir euch zu der Beratung beigezogen, deren Gegenstand wir euch mitzuteilen im Begriffe sind. Die Sache nun, über welche ich zuvörderst so viele Worte mache, ist folgende:</p>
+<p>Dies hier sind unsere beiden Söhne; dieser da gehört dem Melesias und führt den Namen seines Großvaters Thukydides; jener ist der meinige; auch er trägt den Namen seines Großvaters, meines Vaters: denn wir nennen ihn Aristeides. Wir haben nun beschlossen, diesen, soviel es uns möglich ist, besondere Fürsorge zuzuwenden und es nicht zu machen wie die meisten Väter, welche ihre Söhne, nachdem sie zu Jünglingen erwachsen, tun lassen, was ihnen beliebt, vielmehr nun erst recht damit anzufangen, ihnen, soviel wir imstande sind, unsere ganze Fürsorge zu widmen. Wir wissen nun, daß auch <hi rendition="#i">ihr</hi> Söhne habt, und sind der Überzeugung, daß ihr, so gut als nur irgend andere Väter, nichts versäumt habt, um ihnen eine möglichst gute Erziehung zu sichern. Solltet ihr aber etwa eure Aufmerksamkeit noch nicht ernstlich darauf gerichtet haben, so möchten wir euch erinnern, es nicht außer Acht zu lassen, und euch <pb n="173" facs="#f0005"/> auffordern, in der Fürsorge für unsere Söhne gemeinschaftliche Sache mit uns zu machen.</p>
+<p>Weshalb wir aber das beschlossen haben, lieber Nikias und Laches, das sollt ihr vernehmen, wenn ich auch ein wenig umständlicher sein muß. Wir speisen nämlich, ich und Melesias hier, zusammen, und unsere Söhne speisen bei uns. Nun, wie ich gleich anfangs sagte, wir wollen uns ganz offen gegen euch aussprechen. Jeder von uns beiden weiß den Jünglingen zwar von seinem Vater viele rühmliche Taten zu erzählen, wie sie solche im Krieg und wie sie sie im Frieden vollbracht haben, als Lenker der Angelegenheiten der Bundesgenossen wie der unserer Stadt; eigene Taten aber weiß keiner von uns beiden namhaft zu machen. Darüber schämen wir uns nun ebenso vor ihnen, als wir es unseren Vätern zum Vorwurf machen, daß sie uns, nachdem wir Jünglinge geworden waren, in vornehmem Müßiggang hinleben ließen, während sie ihre Tätigkeit fremden Angelegenheiten widmeten. Auch stellen wir unseren jungen Leutchen eben dieses als Beispiel vor Augen, indem wir ihnen sagen, daß, wenn sie sich selbst vernachlässigen und uns nicht Folge leisten würden, sie auch unberühmt bleiben werden, während sie, wenn sie Sorge für sich trügen, gar wohl sich der Namen, welche sie führen, würdig machen könnten. Sie nun erklären sich bereit, uns Folge zu leisten; wir aber richten unser Auge nun darauf, was sie wohl lernen oder womit sie sich beschäftigen müssen, um recht tüchtige Männer zu werden. Da hat uns nun jemand auch auf diesen Unterrichtszweig hingewiesen, indem er meinte, daß es einem jungen Manne wohl anstehe, in Waffenrüstung fechten zu lernen. Auch hat er uns den Mann, dessen Kunstvorstellung ihr eben mit angesehen habt, sehr gerühmt und uns sodann aufgefordert, sie auch mitanzusehen. Wir hielten es demnach für zweckmäßig, nicht nur selbst als Zuschauer des Mannes herzukommen, sondern auch euch zunächst als Mitzuschauer mitzunehmen, zugleich aber auch, um eures Beirats und, wenn es euch genehm ist, eurer Teilnahme an der unseren Söhnen zu widmenden Fürsorge uns zu versichern. Dieses ist es, was wir euch mitteilen wollten. Nun also wäre es eure Sache, euren Beirat zu geben sowohl hinsichtlich dieses Unterrichtszweigs, ob ihr seine Erlernung für zweckmäßig haltet oder nicht, als auch hinsichtlich <pb n="174" facs="#f0006"/> anderer Lehrgegenstände oder Beschäftigungen, welche ihr etwa einem jungen Manne zu empfehlen wüßtet, sowie hinsichtlich eurer Beteiligung dabei euch auszusprechen, wie ihr es halten wollet.</p>
+<p><hi rendition="#i">Nikias:</hi> Ich meinerseits, Lysimachos und Melesias, kann eure Gesinnung nur billigen und bin bereit teilzunehmen, glaube auch das gleiche von unserem Laches.</p>
+<p><hi rendition="#i">Laches:</hi> Und ganz mit recht, Nikias. Denn was Lysimachos eben von seinem und des Melesias Vater gesagt hat, scheint mit sehr richtig bemerkt zu sein, sowohl in bezug auf jene als auf uns selbst und alle diejenigen, die ihre Tätigkeit den Staatsgeschäften widmen, daß es ihnen mit ihren Kindern wie mit ihren übrigen Angelegenheiten geradeso geht, wie er sagt, nämlich daß diese hintangesetzt und sorglos behandelt werden. Das also, Lysimachos, ist ganz gut von dir gesagt. Wundern aber muß ich mich, daß du hinsichtlich der Erziehung der jungen Leutchen unseren Beirat in Anspruch nimmst, den des Sokrates da aber nicht, während er doch fürs erste dem gleichen Gemeindebezirke mit dir angehört, sodann überall da zu finden ist, wo solche Gegenstände besprochen werden wie die von dir gestellte Frage nach einer den Jünglingen wohl anstehenden Übung und Beschäftigung.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Wie sagst du, Laches? Hat denn dieser Sokrates je einmal solchen Fragen seine Aufmerksamkeit gewidmet?</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings, Lysimachos.</p>
+<p><hi rendition="#i">Nikias:</hi> Das hätte ich dir ebensogut als Laches sagen können. Denn nur neulich erst hat er mir selbst für meinen Sohn einen Mann als Lehrer in der Musik verschafft, den Dämon, einen Schüler des Agathokles, einen Mann, welcher nicht nur in der Musik sehr fein gebildet ist, sondern dessen Umgang auch in anderen Beziehungen für junge Leute dieses Alters von größtem Wert ist.</p>
+<p><hi rendition="#i">Lysimachos:</hi> O Sokrates, Nikias und Laches! Ich und meine Altersgenossen, wir kennen die jüngeren Leute nicht mehr, indem wir des Alters halber meistens zu Hause bleiben. Weißt indessen auch du, Sohn des Sophroniskos, deinem Gemeindegenossen einen guten Rat zu geben, so mußt du ihn ja geben. Es ist nicht anders als billig von dir; denn du bist uns ja schon vom Vater her wirklich befreundet. Denn wir, ich und dein <pb n="175" facs="#f0007"/> Vater, waren jeder Zeit vertraute Freunde, und bis zu seinem Tode ist er auch niemals in einen Streit mit mir geraten. Doch wahrend wir hier so reden, kommt mir eben auch eine Erinnerung. Die Jünglinge da, wenn sie zu Hause mit einander sich besprechen, gedenken sie eines Sokrates nicht selten und rühmen ihn überaus. Allein ich habe sie noch niemals gefragt, ob sie den Sohn des Sophroniskos meinen. – Wohlan, ihr Kinder, sagt mir, ist das der Sokrates, von dem ihr allemal redet?</p>
+<p><hi rendition="#i">Die Söhne:</hi> Allerdings, Vater, der ist's.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Vortrefflich, Sokrates, bei der Hera, daß du so deinem Vater, dem besten der Männer, Ehre machst, und besonders, daß nun die gegenseitige Gemeinschaft, welche zwischen uns und dir besteht, erhalten bleiben wird.</p>
+<p><hi rendition="#i">Laches:</hi> Laß den Mann ja nicht los, Lysimachos! Auch ich habe schon Gelegenheit gehabt, mit eigenen Augen zu sehen, wie er nicht nur seinem Vater, sondern auch dem Vaterland Ehre macht. Nach der Niederlage bei Delion war er mein Begleiter auf dem Rückzug, und ich versichere dich, hätten die anderen sich halten mögen wie er, unsere Stadt hätte damals ihre Ehre behauptet und keinen so empfindlichen Stoß erlitten.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Fürwahr, Sokrates, ein großes Lob, welches dir von Männern gespendet wird, deren Stimme auch in dem, was sie da zu deinem Lobe vorbringen, alles Vertrauen verdient! Sei überzeugt, daß ich mich freue zu hören, in welchem Ansehen du stehst, und glaube nur, daß ich zu denen gehöre, welche dir am meisten gewogen sind! Freilich hättest du uns auch schon früher von selbst besuchen und wie billig uns als deine Angehörigen betrachten sollen. Indessen versäume es nur jetzt von heute an, nachdem wir unsere Bekanntschaft erneuert haben, nicht weiter, sondern halte dich zu uns und mache dich mit uns und diesen jungen Leuten näher bekannt, damit unsere Freundschaft auch unter euch fortlebe! Das wirst du nun schon tun, und wir werden dich gelegentlich auch wieder daran erinnern. – Was sagt ihr aber nun zu dem, wovon wir ausgegangen sind? Was dünkt euch? Ist der Unterricht im Kampf mit Waffen ein für die Jünglinge passender Lehrgegenstand oder nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Lieber Lysimachos, ich will es gern versuchen, hierüber, wenn ich es vermag, meinen Beirat zu geben, sowie <pb n="176" facs="#f0008"/> auch alles, wozu du mich aufforderst, sonst zu tun. Indessen scheint es mir nicht anders als schicklich zu sein, daß ich, der Jüngere und Unerfahrenere, erst anhöre, was diese sagen, und von ihnen lerne, und wenn ich nun noch etwas anderes, als was von diesen gesagt wird, vorzubringen weiß, dann erst dich und sie zu belehren und zu überzeugen suche. Nun denn, Nikias, warum nimmt nicht einer von euch beiden das Wort!</p>
+<p><hi rendition="#i">Nikias:</hi> Dem steht ja nichts im Wege, Sokrates. In der Tat glaube ich, daß es für die jungen Leute in vielen Beziehungen nur nützlich sein kann, auch in diesem Unterrichtszweige sich auszubilden. Denn schon das ist gut, daß sie, wenn sie überflüssige Zeit haben, sich nicht mit solchen Dingen unterhalten, mit welchen sonst junge Leute sich gern Unterhaltung machen, sondern mit einer Beschäftigung, durch welche der Körper notwendig mehr gekräftigt wird – denn diese ist um nichts schlechter als die gymnastischen Übungen, noch erfordert sie geringere Anstrengung –, und zugleich steht diese Übung nächst der Reitkunst einem freien Mann vorzugsweise wohl an. Denn für den Wettkampf, in welchem wir als Kämpfer auftreten, und für die Fälle, in welchen wir den Wettkampf zu bestehen haben, werden nur diejenigen kunstgerecht eingeübt, welche sich in diesen für den Krieg bestimmten Werkzeugen üben. Sodann wird diese Kunst auch in der Schlacht selbst von Nutzen sein, wenn man mit vielen anderen in Reih und Glied fechten muß. Den größten Nutzen jedoch wird sie gewähren, wenn die Reihen sich auflösen und es nun gilt, Mann gegen Mann, entweder bei der Verfolgung einen anzugreifen, der sich wehrt, oder auch auf der Flucht gegen den Angreifenden sich zu wehren. Einer, der jene Kunst versteht, hat wohl als einzelner gegen einzelne, vielleicht nicht einmal gegen mehrere etwas zu fürchten, sondern dürfte damit überall im Vorteil sein. Sodann wird durch diese Übung auch noch die Lust geweckt, eine andere edle Kunst sich anzueignen. Denn jeder, der den Kampf in Waffen erlernt hat, dürfte wohl Lust bekommen, auch die damit zusammenhängende Kunst der Taktik zu erlernen, und hat er es so weit gebracht und hierin ein Gebiet für seinen Ehrgeiz gefunden, so wird er wohl sein Streben auf alles richten, was zur Feldherrnkunst gehört. Und so zeigt es sich schon deutlich, daß die damit zusammenhängenden Kenntnisse und <pb n="177" facs="#f0009"/> Beschäftigungen, für welche diese Kenntnis der Anfang sein dürfte, sämtlich edler Art und in hohem Grade eines Mannes zu erlernen und zu betreiben würdig sind. Hierzu fügen wir noch einen nicht unbedeutenden Zusatz, daß nämlich diese Wissenschaft jeden Mann im Kriege um vieles mutiger und tapferer machen dürfte, als er sonst ist. Auch das wollen wir nicht verschmähen zu sagen, wenn es auch vielleicht manchem minder bedeutend zu sein scheint, daß sie auch einem Manne mehr Anstand verleihen dürfte da, wo es gilt, größeren Anstand zu zeigen, und wo er zugleich durch seine anständige Haltung den Feinden furchtbarer erscheinen wird. Ich also, Lysimachos, bin, wie gesagt, der Meinung, daß die Jünglinge dies nur erlernen sollen; und warum ich dieser Meinung bin, habe ich dargelegt. Hat nun Laches etwas hiergegen zu sagen, so möchte ich es nun auch selbst gern von ihm hören.</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings, Nikias, ist es bedenklich, von irgendwelcher Kenntnis zu sagen, daß man sie nicht zu erlernen brauche. Denn es scheint gut zu sein, alles zu wissen, und so muß man gewiß auch diese Waffenübung, wenn sie eine Kenntnis ist, wofür die Lehrenden sie ausgeben und wie auch Nikias sie nennt, erlernen. Wenn sie aber keine Kenntnis ist, wenn die, welche sie zu lehren verheißen, täuschen, oder wenn sie nun zwar wirklich eine Kenntnis ist, die aber der Mühe nicht lohnt, – wozu sollte man sie denn doch erlernen? Wenn ich aber so von ihr rede, habe ich dabei das im Auge, daß meines Erachtens, wenn wirklich etwas daran wäre, das den Lakedaimoniern nicht entgangen wäre, welche sich ja im Leben um nichts anderes kümmern, als dasjenige zu erforschen und einzuüben, dessen Erlernung und Einübung etwa ihnen im Kriege Vorteile vor anderen gewähren könnte. Wenn es aber auch ihnen entging, so wäre doch gewiß jenen Lehrern dieser Kenntnis eben das nicht entgangen, daß jene unter den Hellenen auf solche Dinge den meisten Fleiß verwenden, und daß derjenige, welcher bei ihnen darin Ehre genießen würde, auch bei den anderen die größten Summen verdienen könnte, so wie ein Tragödiendichter, der bei uns Ehre genießt. Denn sicher, wer eine gute Tragödie dichten zu können glaubt, der wird nicht draußen in den andern Städten um Attika herumziehen, um sie da aufzuführen, sondern er verfügt sich geraden<pb n="178" facs="#f00010"/> Weges hierher und führt sie bei uns auf. Ganz natürlich! Diese Waffenkämpfer aber betrachten, wie ich sehe, Lakedaimon als ein unnahbares Heiligtum, das sie nicht einmal mit der Fußspitze betreten: sondern sie gehen um dasselbe im Kreise herum und zeigen ihre Kunst lieber bei allen anderen, und am liebsten bei denen, welche wohl selbst zugeben, daß es ihnen im Kriegswesen viele zuvortun.</p>
+<p>Zudem, Lysimachos, habe ich diese Leute schon sehr häufig im richtigen Kriege beobachtet und weiß daher, was an ihnen ist. Man kann dieses indessen auch daraus abnehmen, daß von diesen Waffenkünstlern, wie wenn sie es darauf anlegten, sich noch niemals einer im Kriege berühmt gemacht hat. Während sonst in allen Gebieten die, welche einen Namen erlangen, aus der Mitte der jedesmal Sachverständigen hervorgehen, haben diese, wie es scheint, verglichen mit anderen hierin wenig Glück gehabt. So habe ich auch diesen Stesileos, dem ihr mit mir zugesehen habt, wie er vor einer so großen Volksmenge eine Probe seiner Kunst gegeben und in gar hohen Worten von sich selbst geredet hat, bei einer anderen Gelegenheit besser gesehen, wo er, allerdings nicht mit Willen, zeigte, was in Wahrheit an ihm ist. Als nämlich einmal das Schiff, auf welchem er fuhr, ein Frachtschiff angriff, kämpfte er mit einem Sichelspieß, einer Waffe, die ebenso auffiel, als er selbst auffällig war unter den anderen. Gibt's nun auch sonst Merkwürdiges von dem Manne nichts zu erzählen, so verdient doch der Ausgang Erwähnung, welchen der Einfall mit der Sichel an dem Speer nahm: Indem er nämlich focht, verwickelte er sich damit irgendwo im Takelwerk des Schiffes und sah sich festgehalten. Stesileos nun zog daran, in der Absicht, sie loszumachen, konnte es jedoch nicht. Das eine Schiff fuhr nun an dem andern vorbei. Eine Weile lief er, am Spieß sich festhaltend, im Schiff nebenher. Als aber jenes Schiff an dem unsrigen vorüber war und ihn, der sich noch am Spieße hielt, nachzog, ließ er den Spieß allmählich durch die Hand gleiten, bis er nur noch das äußerste Ende des Schaftes in der Hand hatte. Da erhob sich Lachen und Klatschen von der Mannschaft des Frachtschiffes über seine Stellung, und als nun einer einen Stein auf das Verdeck ihm gerade vor die Füße warf und er den Spieß fahren ließ, da vermochten auch die Leute auf <pb n="179" facs="#f00011"/> dem Dreiruderer das Lachen nicht mehr zurückzuhalten, wie sie jenen Sichelspieß so an dem Frachtschiffe hängen sahen. – Mag nun immerhin etwas an jener Kunst sein, wie Nikias behauptet, – dieses ist die Erfahrung, die ich von ihr gemacht habe.</p>
+<p>Wie ich also gleich anfangs sagte, wenn sie eine Kenntnis ist und doch nur so geringe Vorteile gewährt, oder gar wenn sie überhaupt keine Kenntnis ist und die Leute sie nur dafür ausgeben, so verdient sie nicht, daß man sie zu erlernen sucht. Denn ich glaube, daß einer, der feige ist, wenn er der Meinung wäre, sich darauf zu verstehen, dadurch nur kecker werden und um so mehr offenbaren würde, was für ein Mensch er war, während ein Tapferer, auf welchen die Augen der Menschen gerichtet sind, in diesem Fall, wenn er auch nur einen kleinen Fehler machen sollte, sehr übel beurteilt werden würde. Denn eine solche Wissenschaft sich beimessen erweckt dermaßen den Neid, daß, wer diese Wissenschaft zu besitzen behauptet, wenn er nicht in ganz bewundernswürdigem Grade vor anderen durch Tapferkeit sich auszeichnet, es wohl schwerlich vermeiden kann, sich lächerlich zu machen. Diese Bewandtnis, Lysimachos, hat es meines Erachtens mit dem Bemühen um diese Kenntnis. Indessen dürfen wir, wie ich dir schon anfangs sagte, den Sokrates nicht beiseite lassen, sondern müssen ihn bitten, auch seinen Beirat zu geben, was er von der vorliegenden Sache denkt.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Ich bitte dich also, Sokrates! Überdies bedarf, wie mir scheint, unsere Beratung noch eines Schiedsrichters. Hätten diese beiden sich geeinigt, so wäre dieses Bedürfnis in minderem Grade vorhanden; nun aber – denn, wie du selbst siehst, hat Laches gerade das Gegenteil von Nikias behauptet – da wird es gut sein, auch dich zu hören, welchem der beiden Männer du deine Stimme gibst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie doch, Lysimachos? Du wirst also das annehmen, was die Mehrheit unter uns billigt?</p>
+<p><hi rendition="#i">Lysimachos:</hi> Wie konnte man es denn auch anders machen, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Würdest du, Melesias, es auch so machen? Würdest auch du, wenn du eine Beratung pflegen wolltest über die gymnastischen Übungen, welche dein Sohn vornehmen sollte, <pb n="180" facs="#f00012"/> wohl den mehreren unter uns Glauben schenken, oder dem, welcher selbst unter der Leitung eines tüchtigen Ringmeisters seine Bildung und seine Übungen gemacht hat?</p>
+<p><hi rendition="#i">Melesias:</hi> Natürlich doch diesem, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dem also würdest du mehr Glauben schenken als uns allen vieren?</p>
+<p><hi rendition="#i">Melesias:</hi> Ohne Zweifel.</p>
+<p><hi rendition="#i">Sokrates:</hi> Denn nach der Erkenntnis, meine ich, muß man seine Entscheidung treffen, nicht nach der Menge der Stimmen, wenn die Entscheidung die richtige sein soll.</p>
+<p><hi rendition="#i">Melesias:</hi> Wie sollte man nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> So müssen wir denn auch jetzt vorerst darüber Untersuchung anstellen, ob einer von uns über das, was den Gegenstand unserer Beratung ausmacht, technisch gebildet ist oder nicht. Ist dieses nun der Fall, so müssen wir ihm, selbst wenn es nur ein einziger ist. Glauben schenken, die anderen aber beiseitelassen; wenn aber nicht, so müssen wir uns nach einem anderen umsehen. Oder meint ihr, du sowohl als Lysimachos, es handle sich jetzt nur um eine Kleinigkeit und nicht vielmehr um dasjenige Gut, welches von allem, was euch gehört, in der Tat das wichtigste ist? Denn was aus den Söhnen wird, ob sie rechtschaffene Leute oder das Gegenteil werden, das wird für das Wohl des ganzen Vaterhauses vom größten Einfluß sein.</p>
+<p><hi rendition="#i">Melesias:</hi> Sehr wahr!</p>
+<p><hi rendition="#i">Sokrates:</hi> Man muß daher hierauf alle Sorgfalt verwenden.</p>
+<p><hi rendition="#i">Melesias:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie müssen wir nun wohl zu Werke gehen, wenn wir meiner vorigen Bemerkung zufolge untersuchen wollen, wer von uns im Kämpfen die meiste Kunstfertigkeit besitzt? Wird es nicht derjenige sein, der es gelernt und betrieben hat, und der darin tüchtige Lehrer gehabt hat?</p>
+<p><hi rendition="#i">Melesias:</hi> Ich denke wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wird es sich aber nicht zuvor noch darum fragen, was dasjenige ist, worinnen wir Lehrer suchen?</p>
+<p><hi rendition="#i">Melesias:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Sokrates</hi>. Vielleicht wird die Sache folgendermaßen deutlicher: Wie mir scheint, haben wir uns von Anfang an noch nicht darüber verständigt, was das sei, worüber wir Beratung und Untersuchung <pb n="181" facs="#f00013"/> anstellen, wer voll uns die meiste Kunstfertigkeit darin besitze und Lehrer darin gehabt habe, und wer nicht.</p>
+<p><hi rendition="#i">Nikias:</hi> Ich meine doch, Sokrates, wir untersuchen die Frage, ob die jungen Leute das Kämpfen in Waffen erlernen sollen oder nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Allerdings, Nikias; dennoch, wenn jemand hinsichtlich eines Mittels für seine Augen Erwägung anstellt, ob er es auflegen soll oder nicht, – um was meinst du da, daß es sich bei dieser Beratung handle, um das Heilmittel oder um die Augen?</p>
+<p><hi rendition="#i">Nikias:</hi> Um die Augen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, wenn er erwägt, ob einem Pferd ein Zügel angelegt werden soll oder nicht, und wann, – dann handelt es sich bei der Beratung wohl um das Pferd und nicht um den Zügel?</p>
+<p><hi rendition="#i">Nikias:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Mit einem Wort also, wenn jemand um eines andern willen etwas in Erwägung zieht, so ist der eigentliche Gegenstand seiner Beratung eben jenes, um dessen willen er die Erwägung anstellt, und nicht das, was er um des anderen willen untersucht.</p>
+<p><hi rendition="#i">Nikias:</hi> Notwendig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es muß also der Ratgeber erwägen, ob er in der Behandlung dessen, um dessen willen wir die Erwägung anstellen, wenn wir sie anstellen, kunstverständig sei.</p>
+<p><hi rendition="#i">Nikias:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Geben wir nun nicht zu, daß wir über einen Lehrgegenstand jetzt eine Untersuchung anstellen um der Seele der jungen Leute willen?</p>
+<p><hi rendition="#i">Nikias:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ob also von uns einer in Behandlung der Seele kunstverständig und fähig ist, diese gut zu behandeln, und welcher von uns tüchtige Lehrer darin gehabt hat, das müssen wir untersuchen.</p>
+<p><hi rendition="#i">Laches:</hi> Wie aber, Sokrates, hast du niemals gefunden, daß Leute ohne Lehrer in manchen Dingen kunstverständiger geworden sind als mit Lehrern?</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohl, Laches, nur würdest du ihnen nicht glauben wollen, wenn sie versichern würden, Meister ihrer Kunst <pb n="182" facs="#f00014"/> zu sein, – wofern sie dir nicht irgend die eine und andere gut vollbrachte Leistung in dieser aufzuweisen hätten.</p>
+<p><hi rendition="#i">Laches:</hi> Da hast du recht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und da nun Lysimachos und Melesias uns, mein Laches und Nikias, zur Mitberatung über ihre beiden Söhne aufgerufen haben, getrieben von dem Wunsche, ihren Seelen die möglichst beste Bildung zu geben, so kommt es auch uns zu, wenn wir Lehrer gehabt zu haben behaupten, ihnen zu zeigen, wer sie gewesen sind, daß sie wirklich nicht nur vorerst selbst tüchtige Männer waren, sondern sodann auch dafür bekannt sind, vieler Jünglinge Seelen gebildet und so auch uns gelehrt zu haben. Oder aber würde einer von uns versichern, selbst keinen Lehrer gehabt zu haben, so müßte er wenigstens selbst seine eigenen Leistungen namhaft machen und zeigen können, welche Athener oder Fremde, Sklaven oder Freie durch ihn anerkanntermaßen zu tüchtigen Leuten gebildet worden sind. Ist aber weder das eine noch das andere bei uns der Fall, so müssen wir sie anweisen, andere aufzusuchen, und uns nicht der Gefahr aussetzen, die Söhne befreundeter Männer zu verderben und uns dadurch von ihren nächsten Angehörigen die schwerste Anklage zuzuziehen. Ich nun, Lysimachos und Melesias, erkläre zuerst meinerseits, daß ich einen Lehrer hierin nicht gehabt habe. Von Jugend auf schon ist mir zwar dieser Gegenstand eine Lieblingsaufgabe; aber ich habe die Mittel nicht, um den Sophisten ihren Lohn zu bezahlen, die sich dafür ausgegeben haben, allein imstande zu sein, einen wackern und tüchtigen Menschen aus mir zu machen; andererseits aber diese Kunst selbst zu erfinden bin ich noch jetzt nicht imstande. Nicht wundern aber sollte es mich, wenn Nikias oder Laches sie erfunden oder erlernt hätten; denn teils sind sie an Mitteln vermögender als ich, so daß sie sie wohl von andern erlernt, teils zugleich an Jahren älter, so daß sie sie auch wohl bereits erfunden haben könnten. In der Tat scheinen sie mir imstande zu sein, einen Menschen zu bilden. Denn nimmer hätten sie sich so zuversichtlich über die einem jungen Menschen ersprießlichen oder nachteiligen Beschäftigungen ausgesprochen, wenn sie sich nicht zutrauen würden, diese zur Genüge zu verstehen. Ich schenke ihnen nun zwar auch allen Glauben; das aber wundert mich doch, daß beide hierin unter einander verschiedener <pb n="183" facs="#f00015"/> Meinung sind. Daher stelle ich deiner Bitte, Lysimachos, eine andere entgegen: Wie Laches vorhin dich aufforderte, mich nicht loszulassen, sondern zu fragen, so fordere ich jetzt dich auf, den Laches und Nikias ja nicht loszulassen, sondern zu fragen, indem du sprichst: »Sokrates versichert, daß er nichts von der Sache verstehe, auch nicht geschickt genug sei, um zu entscheiden, welcher von euch beiden recht habe; denn in diesen Dingen sei er weder Erfinder noch eines anderen Schüler gewesen. Ihr aber, Laches und Nikias, sagt uns doch jeder von euch, wer der außerordentliche Mann ist, dessen Unterricht über Erziehung der jungen Leute ihr genossen habt, und ob ihr die Sache versteht, weil ihr sie von jemand erlernt, oder weil ihr es selbst gefunden habt, und wenn weil ihr's erlernt habt, welchen Lehrer jeder von euch gehabt hat und welches dessen andere Kunstgenossen sind, damit wir, wenn ihr der Staatsgeschäfte wegen keine Zeit habt, uns an sie wenden und durch Geschenke oder Bitten oder beides sie überreden, unseren und euern Kindern ihre Fürsorge zu widmen, auf daß sie nicht als ungeratene Söhne ihren Voreltern Schande machen. Seid ihr aber darin selbst Erfinder gewesen, so führt ein Beispiel an, welche Jünglinge ihr durch die Fürsorge, die ihr ihnen gewidmet habt, aus ungeratenen Menschen zu wackeren und tüchtigen Leuten gemacht habt. Denn wenn ihr jetzt erst euern Versuch machen wollt im Erziehen, so müßt ihr doch in Betracht nehmen, daß ihr das Wagstück nicht an einem Karer macht, sondern an euren Söhnen und den Kindern eurer Freunde, und daß es euch nicht gar am Ende ergehe, wie es im Sprichwort heißt, von der Töpferkunst, die mit dem Fasse anfängt. Sprechet also: welcher von jenen Fällen, behauptet ihr, daß bei euch vorhanden sei und zutreffe oder nicht?« Darüber, Lysimachos, mußt du dich bei ihnen erkundigen und die Männer ja nicht loslassen.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Sokrates scheint mir in der Tat gut zu sprechen, ihr Männer. Ob ihr nun geneigt seid, über diese Gegenstände euch fragen zu lassen und Rede zu stehen, müßt ihr, Nikias und Laches, selbst wissen. Denn mir und dem Melesias da kann es offenbar nur erwünscht sein, wenn ihr das, was Sokrates fragt, alles durchsprechen wolltet. Denn gleich anfangs habe ich ja gesagt, daß wir deswegen euch zu gemeinschaftlicher Beratung <pb n="184" facs="#f00016"/> eingeladen hätten, weil wir überzeugt sind, daß diese Fragen eure Aufmerksamkeit wahrscheinlich schon aus anderen Gründen in Anspruch genommen haben, zumal aber, weil ihr Söhne habt, welche wie die unsrigen nun bald in einem Alter stehen, in welchem sie der Erziehung bedürfen. Daher, wenn es euch nicht zuwider ist, so sagt es und stellt mit Sokrates eine gemeinschaftliche Untersuchung an, der Art, daß ihr einander gegenseitig Rede und Antwort gebt! Denn auch das ist von diesem gut bemerkt, daß unsere Beratung das Wichtigste unserer Interessen betrifft. Wohlan, so sehet zu, ob ihr es für zweckmäßig haltet, so zu verfahren!</p>
+<p><hi rendition="#i">Nikias:</hi> O Lysimachos, wie ich sehe, kennst du wahrhaftig den Sokrates nur von seinem Vater her, und dein ganzer Verkehr mit ihm beschränkte sich auf seine Knabenzeit, wenn er da etwa einmal im Gefolge seines Vater unter seinen Gemeindegenossen in einem Tempel oder bei einer anderen Versammlung der Gemeindegenossen dir in die Nähe gekommen ist. Seitdem er aber älter geworden, bist du offenbar mit dem Manne nicht mehr zusammengetroffen.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Wieso doch, Nikias?</p>
+<p><hi rendition="#i">Nikias:</hi> Du scheinst mir ja gar nicht zu wissen, daß, wer einmal mit dem Sokrates auch nur sozusagen gesprächlich verwandt geworden und auf eine Unterredung mit ihm eingegangen ist, unvermeidlich, wenn er auch beim Beginn der Unterredung von etwas ganz anderem ausgegangen ist, von ihm so lange im Gespräch herumgeführt und nicht eher in Ruhe gelassen wird, bis er in die Falle gegangen ist, wo er dann über sich selbst Rede stehen muß, wie er jetzt lebe und wie er sein vergangenes Leben zugebracht habe, und daß ihn, wenn er einmal hineingegangen ist, Sokrates nicht eher losläßt, bis er das alles recht gründlich auf die Probe gestellt hat. Ich nun bin mit ihm näher bekannt und weiß, daß man sich das von ihm unumgänglich gefallen lassen muß; auch weiß ich ganz gut, daß ich selbst es mir werde gefallen lassen. Denn es macht mir Freude, Lysimachos, mich mit dem Manne einzulassen, und ich halte es für gar nicht schlimm, sich so an die Fehler, welche man gemacht hat oder noch macht, erinnern zu lassen, glaube vielmehr, daß derjenige für sein künftiges Leben notwendig klüger werden muß, der sich dem nicht entzieht, sondern nach <pb n="185" facs="#f00017"/> dem Ausspruche Solons Neigung und Willen hat zu lernen, solange er lebt, und sich nicht einbildet, daß der Verstand mit dem Alter schon von selbst komme. Mir also ist es weder ungeübt noch aber auch unbeliebt, mich von Sokrates auf die Probe stellen zu lassen; vielmehr habe ich es eigentlich schon längst gewußt, daß, wenn Sokrates dabei ist, nicht von unseren jungen Leuten die Rede sein würde, sondern von uns selbst. Also, wie gesagt, ich meinesteils habe nichts dagegen, uns mit Sokrates, wie er es wünscht, zu unterhalten. Sieh nun aber zu, was Laches davon hält!</p>
+<p><hi rendition="#i">Laches:</hi> Mein Verhalten, Nikias, zu solchen Reden ist einfach, oder, wenn du willst, nicht einfach, sondern zweifach. Denn gar wohl könnte mich einer bald für einen Redenfreund, bald wieder für einen Redenfeind halten. Denn wenn ich einen Mann über die Tugend oder irgend eine Weisheit sprechen höre, der in Wahrheit ein Mann und dessen wert ist, was er spricht, dann freue ich mich über die Maßen, wenn ich den Redenden und seine Reden zusammen betrachte, daß beide so zusammenpassen und stimmen. Und ein solcher scheint mir erst recht ein Liebling der Musen zu sein, der nicht die Lyra oder sonst Werkzeuge heiteren Spiels zur schönsten Tonart gestimmt hat, sondern in Wahrheit das Leben, indem er selbst in seinem Wandel die Reden zusammenlautend mit den Werken gestimmt hat, recht eigentlich in dorischer Tonart, nicht in ionischer, ich denke auch nicht in phrygischer oder lydischer, sondern in jener, welche allein der echte hellenische Wohllaut ist. Ein solcher nun macht, daß ich mich freue, wenn er sich vernehmen läßt, und daß ich jedem ein Redenfreund zu sein scheine. So begierig nehme ich das von ihm Gesprochene an! Wer aber das Gegenteil hiervon tut, der verdrießt mich, und nur um so mehr, je besser er zu sprechen scheint, und er macht, daß ich umgekehrt als ein Redenfeind erscheine. Von des Sokrates Reden indessen habe ich keine Kenntnis; sondern zuvörderst mußte ich, wie es scheint, seine Taten erproben, und da habe ich ihn als einen Mann erfunden, welchem edle Reden und jeglicher Freimut wohl anstehen sollten. Besitzt er nun auch dieses, so gehe ich gern Hand in Hand mit dem Manne, und es soll mir Vergnügen machen, von einem solchen geprüft zu werden, nicht aber irgend Verdruß, von ihm zu lernen. <pb n="186" facs="#f00018"/> Vielmehr auch ich stimme dem Solon bei, indem ich nur eines noch beifüge, nämlich alternd wünsche ich vieles gelehrt zu werden, nur aber von wackeren Männern. Denn darin muß er mir beistimmen, daß auch der Lehrer ein guter sein muß, damit ich nicht, wenn ich mit Unlust lerne, ungelehrig erscheine. Ob aber der Lehrende jünger sei, oder noch keinen Namen habe, oder ihm sonst etwas der Art anhafte, darum kümmere ich mich nicht. Dich also, Sokrates, fordere ich auf, mich zu lehren und zurechtzuweisen, wie du willst, und auch zu erlernen, was ich meinerseits weiß. So bist du bei mir angeschrieben seit jenem Tage, an welchem du die Gefahr mit mir geteilt und eine Probe deiner Tüchtigkeit gegeben hast, wie sie der geben muß, der sie in rechter Weise geben will. Rede also, was dir lieb ist, ohne irgend dabei unser Alter in Rechnung zu nehmen!</p>
+<p><hi rendition="#i">Sokrates:</hi> Euch, wie es scheint, dürfen wir nicht anklagen, daß ihr nicht bereit wäret, gemeinschaftlich zu beraten und zu untersuchen.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Es kommt also nur auf uns an, Sokrates; denn dich rechne ich für einen von uns. So sieh nun an meiner Statt zu, was wir zum Besten unserer jungen Leutchen von diesen da erkunden müssen, und beratschlage dich mit ihnen zusammen im Gespräch! Denn mir entgeht schon alters halber gar manches, wonach ich zu fragen gedachte, und wiederum, was ich gehört habe. Wenn aber noch andere Reden dazwischen kommen, kann ich mich gar nicht mehr entsinnen. Ihr also besprecht und erläutert unter euch selbst das, was wir vorhin aufgestellt haben! Ich aber will zuhören und, nachdem ich zugehört, sofort mit unserem Melesias dasjenige tun, was euch als gut erscheint.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wir müssen, Nikias und Laches, wohl dem Lysimachos und Melesias Folge leisten. Und zwar ist es nun vielleicht nicht gerade verfehlt, wenn wir eine Prüfung unter uns selbst über das anstellen, was zu untersuchen wir uns eben vorgenommen haben, nämlich welche Lehrer wir in jenem Bildungszweige gehabt, oder welche andere wir schon besser gemacht haben. Doch meine ich, folgende Untersuchung führt zu demselben Ziel und dürfte fast noch etwas gründlicher zu Werke gehen: Wenn wir nämlich von irgend etwas wissen, daß sein Besitz ein anderes, dem derselbe zukommt, besser<pb n="187" facs="#f00019"/> mache, und wir außerdem noch imstande sind, ihm zu diesem Besitze zu helfen, so müssen wir doch offenbar dasjenige kennen, über dessen leichteste und beste Erwerbung wir jemand unseren Beirat geben sollen. Vielleicht nun versteht ihr mich nicht, was ich meine; ihr werdet es indessen auf folgende Weise leichter verstehen: Wenn wir wissen, daß der Besitz des Gesichtes die Augen, welche es besitzen, besser macht, und wenn wir außerdem noch imstande sind, den Augen zum Besitze desselben zu verhelfen, so müssen wir offenbar wissen, was das Gesicht selbst ist, über dessen leichteste und beste Erwerbung wir jemand unseren Beirat geben sollen. Denn wenn wir nicht einmal so viel wüßten, was Gesicht ist oder was Gehör ist, so würden wir wohl kaum als Ratgeber und Ärzte für die Augen oder die Ohren auftreten und etwas Erhebliches über die Art und Weise vorbringen können, auf welche einer Gehör und Gesicht am besten erlange.</p>
+<p><hi rendition="#i">Laches:</hi> Du hast ganz recht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, Laches, auch uns haben diese beiden zu gemeinschaftlicher Beratung darüber aufgefordert, auf welche Weise die Seelen ihrer Söhne in den Besitz der Tugend gelangen und diese sie besser machen könne?</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gehört nun dazu nicht notwendig wenigstens das, daß wir wissen, was die Tugend ist? Denn wenn wir ja so ganz und gar nichts davon wüßten, was die Tugend eigentlich ist, wie könnten wir da doch irgend jemandes Ratgeber darüber werden, auf welchem Wege er sie am besten erlangen könne?</p>
+<p><hi rendition="#i">Laches:</hi> Nicht wohl, wie mir dünkt, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wir behaupten also, Laches, zu wissen, was sie sei?</p>
+<p><hi rendition="#i">Laches:</hi> Das behaupten wir freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, was wir wissen, davon können wir doch auch aussprechen, was es ist?</p>
+<p><hi rendition="#i">Laches:</hi> Wie sollten wir nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Sofort, mein Bester, wollen wir doch nicht sogleich von der ganzen Tugend handeln – denn das mochte leicht eine allzugroße Aufgabe sein –; sondern laß uns zuvörderst von einem Teile von ihr sehen, ob es bei uns zum Wissen davon reicht; augenscheinlich wird uns so die Untersuchung sehr erleichtert werden.</p>
+<p><hi rendition="#i"><pb n="188" facs="#f00020"/> Laches:</hi> Wir wollen es so machen, Sokrates, wie du es wünschest.</p>
+<p><hi rendition="#i">Sokrates:</hi> Welchen unter den Teilen der Tugend nun wollen wir auswählen? Offenbar doch denjenigen, auf welchen der Unterricht in den Waffen abzuzwecken scheint; Und das ist nach der Meinung der Menge doch die Tapferkeit? Nicht wahr?</p>
+<p><hi rendition="#i">Laches:</hi> In der Tat ist das so die Meinung.</p>
+<p><hi rendition="#i">Sokrates:</hi> Demnach müssen wir also zuvörderst versuchen auszusprechen, was die Tapferkeit sei. Nach diesem haben wir dann zu untersuchen, auf welche Weise die jungen Leute in ihren Besitz gelangen können, soweit es nämlich möglich ist, durch Übung und Unterricht in ihren Besitz zu kommen. – Wohlan, versuche es einmal, wie ich sage, auszusprechen, was die Tapferkeit ist!</p>
+<p><hi rendition="#i">Laches:</hi> Beim Zeus, Sokrates, das auszusprechen ist nicht schwierig: Wenn einer entschlossen ist, in Reih und Glied standzuhalten, die Feinde abzuwehren und nicht zu Hieben, der wird, wie du wohl weißt, ein Tapferer sein.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gut gesagt, Laches; indessen bin ich wohl selbst schuld, weil ich mich nicht deutlich genug ausgedrückt habe, daß du nicht das, was ich fragen wollte, sondern etwas anderes beantwortet hast.</p>
+<p><hi rendition="#i">Laches:</hi> Wie meinst du das, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich will es dir erklären, wenn ich's vermag. Tapfer ist allerdings auch der, welchen du anführst, der nämlich in Reih und Glied standhaltend gegen die Feinde kämpft.</p>
+<p><hi rendition="#i">Laches:</hi> Das behaupte ich allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gewiß auch ich. Aber auf der anderen Seite, was ist nun der, welcher fliehend mit den Feinden kämpft, also nicht standhaltend?</p>
+<p><hi rendition="#i">Laches:</hi> Wie doch fliehend?</p>
+<p><hi rendition="#i">Sokrates:</hi> So, wie es von den Skythen gesagt wird, daß sie nicht minder fliehend als verfolgend kämpfen, und wie auch Homeros, wo er die Rosse des Aineias lobt, von ihnen sagt:</p>
+<lb/>
+<p> <hi rendition="#i">Dort ansprengend und dort</hi></p>
+<lb/>
+<p>verstehen sie</p>
+
+
+<p> <hi rendition="#i">zu verfolgen und auch zu entfliehen.</hi></p>
+<lb/>
+<pb n="189" facs="#f00021"/> <p>Und auch den Aineias selbst rühmt er in dieser Beziehung wegen seiner Kenntnis der Furcht und sagt, er sei</p>
+<lb/>
+<p> <hi rendition="#i">Gebieter der Furcht.</hi></p>
+<lb/>
+<p><hi rendition="#i">Laches:</hi> Und ganz richtig, Sokrates; denn er sprach da von Streitwagen, und du sprichst von den Reitern der Skythen. Denn ihre Reiterei kämpft auf diese Art, dagegen das schwere Fußvolk der Hellenen so, wie ich sage.</p>
+<p><hi rendition="#i">Sokrates:</hi> Doch wohl, Laches, mit Ausnahme des der Lakedaimonier. Denn von den Lakedaimoniern sagt man, bei Plataiai, als sie auf die Schildträger gestoßen seien, haben sie nicht standhalten und mit ihnen kämpfen wollen, sondern seien geflohen; nachdem sich aber die Reihen der Perser aufgelöst haben, haben sie sich umgewandt und wie Reiter gekämpft, und so haben sie dort die Schlacht gewonnen.</p>
+<p><hi rendition="#i">Laches:</hi> Ganz richtig, was du sagst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das ist es also, warum ich vorhin sagte, ich sei schuld daran, daß du nicht recht geantwortet hast, weil ich nicht recht gefragt habe. Denn nicht die nur wollte ich von dir erkunden, welche in dem schwerbewaffneten Fußvolk die Tapferen sind, sondern auch die unter der Reiterei und in jeglicher Gattung des Heeres, und auch nicht nur die, welche im Kriege, sondern auch die, welche in den Gefahren zur See tapfer sind, auch alle, welche in Krankheiten, und alle, welche in Armut oder auch in Staatsgeschäften tapfer sind, und dann wieder nicht nur die, welche unter Schmerzen oder Befürchtungen tapfer, sondern auch gegen Begierden oder Lüste zum Kampfe stark sind, und zwar indem sie standhalten oder sich umwenden, – denn es gibt doch welche, Laches, die auch in solchen Beziehungen tapfer sind.</p>
+<p><hi rendition="#i">Laches:</hi> Ganz gewiß, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, tapfer sind diese alle? Aber die einen besitzen die Tapferkeit in der Lust, andere in Schmerzen, einige bei Begierden, andere bei Befürchtungen, während dagegen andere, wie ich meine, in allen diesen Umständen nur Feigheit haben.</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was nun jedes von diesen beiden ist, das habe ich gefragt. Versuche es also noch einmal, zu bestimmen, was das <pb n="190" facs="#f00022"/> in allen diesen Umständen gleichartige Wesen der Tapferkeit sei! Oder verstehst du noch nicht, was ich meine?</p>
+<p><hi rendition="#i">Laches:</hi> Noch nicht ganz.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, ich meine es so, wie wenn ich Sagte, was wohl die Geschwindigkeit sei, welche uns etwa eigen ist im Laufen und im Zitherspielen und im Sprechen und im Lernen und in vielem andern – und wir besitzen sie ja fast in allem, wovon man nur reden kann, sei es in den Verrichtungen der Hände oder der Beine oder des Mundes und der Stimme oder des geistigen Lebens –, oder meinst du nicht auch also?</p>
+<p><hi rendition="#i">Laches:</hi> Ganz so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn somit jemand mich fragen würde: »Sokrates, was sagst du, daß das sei, was du in allen Fällen mit dem Namen ›Geschwindigkeit‹ bezeichnest?« – so würde ich ihmerwidern, daß ich dasjenige Vermögen, welches in kurzer Zeit vieles bewirkt, ›Geschwindigkeit‹ nenne sowohl bei der Stimme als im Laufen und in allem übrigen.</p>
+<p><hi rendition="#i">Laches:</hi> Und da würdest du dich ganz richtig aus drücken.</p>
+<p><hi rendition="#i">Sokrates:</hi> Versuche denn auch du, Laches, es von der Tapferkeit zu sagen, was für eine in Lust und in Schmerz und in allen den von uns eben genannten Fällen immer eine und dieselbe seiende Kraft es ist, die man sonach Tapferkeit nennt!</p>
+<p><hi rendition="#i">Laches:</hi> Nun, so scheint sie mir eine gewisse Beharrlichkeit der Seele zu sein, wenn ich also von der Tapferkeit, was sie in allen Fällen ihrem Wesen nach ist, angeben soll.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das sollst du allerdings, wenn wir anders die gestellte Frage uns selbst beantworten wollen. So viel indessen wird einleuchten, daß dir, denke ich, nicht jede Beharrlichkeit Tapferkeit zu sein scheint. Ich schließe dies hieraus: Soviel ich nämlich ziemlich gewiß weiß, Laches, bist du überzeugt, daß die Tapferkeit unter die besonders schönen Gegenstände gehöre.</p>
+<p><hi rendition="#i">Laches:</hi> Ja unter die schönsten, mußt du wohl wissen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, die mit Klugheit verbundene Beharrlichkeit ist etwas Schönes und Gutes?</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie aber die mit Unklugheit verbundene? Ist sie nicht im Gegensatz zu jener schädlich und verderblich?</p>
+<p><hi rendition="#i">Laches:</hi> Ja.</p>
+<p><hi rendition="#i"><pb n="191" facs="#f00023"/> Sokrates:</hi> Wirst du nun behaupten, daß etwas schön sei, was verderblich und schädlich ist?</p>
+<p><hi rendition="#i">Laches:</hi> Gewiß mit Recht nicht, Sokrates!</p>
+<p><hi rendition="#i">Sokrates:</hi> Du wirst also nicht zugeben, daß eine solche Alt von Beharrlichkeit Tapferkeit sei, da sie ja nicht schön ist, die Tapferkeit aber etwas Schönes ist.</p>
+<p><hi rendition="#i">Laches:</hi> Ganz wahr!</p>
+<p><hi rendition="#i">Sokrates:</hi> Die kluge Beharrlichkeit also wird wohl nach deiner Behauptung Tapferkeit sein.</p>
+<p><hi rendition="#i">Laches:</hi> Es scheint so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wir wollen nun sehen, in welcher Beziehung diese Tapferkeit klug ist, oder ob sie es in allen Beziehungen, sowohl großen als kleinen, ist? Zum Beispiel, wenn einer in kluger Verwendung seines Geldes beharrlich ist, da er weiß, daß er durch diese Verwendung gewinne, – würdest du diesen tapfer nennen?</p>
+<p><hi rendition="#i">Laches:</hi> Nein, beim Zeus!</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie aber, wenn ein Arzt, der seinen Sohn oder einen anderen an der Lungenkrankheit zu behandeln hat und nun gebeten wird, ihm zu essen und zu trinken zu geben, sich mit Beharrlichkeit nicht erbitten ließe?</p>
+<p><hi rendition="#i">Laches:</hi> Auch diese Art in keinerlei Weise.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber ein Mann, der im Kriege beharrlich und zu kämpfen entschlossen ist, weil er mit Klugheit berechnet, indem er weiß, daß ihm andere helfen werden, seine Gegner aber weniger und schlechter sind als seine Mitkämpfer, außerdem auch, daß er noch das bessere Terrain hat, – würdest du wohl behaupten, daß dieser, der mit solcher Klugheit und solchen Hilfsmitteln sich beharrlich zeigt, der Tapferere sei, oder der, welcher in dem entgegenstehenden Heere noch entschlossen ist, standzuhalten und auszuharren?</p>
+<p><hi rendition="#i">Laches:</hi> Der im entgegenstehenden Heere, wie mir dünkt, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und doch ist seine Beharrlichkeit unklüger als die des anderen.</p>
+<p><hi rendition="#i">Laches:</hi> Das ist wahr.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und einen, der in einem Reitergefecht mit dem Verständnis der Reitkunst ausharrt, wirst du doch für weniger tapfer erklären als den, der es ohne dieses Verständnis tut?</p>
+<p><hi rendition="#i"><pb n="192" facs="#f00024"/> Laches:</hi> Ich denke wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und ebenso den, der im Besitze der Kunst, die Schleuder oder den Bogen zu handhaben, oder irgend einer anderen Kunst ausharrt?</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und so von denjenigen, welche entschlossen in einen Wasserbehälter hinabsteigen und untertauchen und in diesem Werke oder in irgend einem anderen dieser Art, ohne desselben mächtig zu sein, ausharren, wirst du doch behaupten, sie seien tapferer als die, welche desselben mächtig sind?</p>
+<p><hi rendition="#i">Laches:</hi> Was sollte man doch anderes behaupten können, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wohl, wenn man einmal dieser Meinung ist.</p>
+<p><hi rendition="#i">Laches:</hi> Nun, ich bin der Meinung.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und doch, Laches, wagen sich und beharren diese auf weit unklugere Art als die, welche es mit Kunst vollbringen.</p>
+<p><hi rendition="#i">Laches:</hi> Offenbar.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist uns nun aber nicht die unkluge Kühnheit und Beharrlichkeit im vorhergehenden als schimpflich und schädlich erschienen?</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die Tapferkeit aber, wurde ja doch von uns zugestanden, sei etwas Schönes?</p>
+<p><hi rendition="#i">Laches:</hi> Das wurde zugestanden.</p>
+<p><hi rendition="#i">Sokrates:</hi> Eben jetzt aber behaupten wir, daß jenes Schimpfliche, die unkluge Beharrlichkeit, Tapferkeit sei.</p>
+<p><hi rendition="#i">Laches:</hi> So scheint es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dünkt dir nun, daß wir damit recht haben?</p>
+<p><hi rendition="#i">Laches:</hi> Nein, beim Zeus, Sokrates, mir nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht also dorisch, wie du sagst, sind wir, ich und du, Laches, gestimmt; denn unsere Taten und Reden lauten nicht zusammen. Denn der Tat nach, könnte, wie mir scheint, schon jemand sagen, wenn er jetzt unser Gespräch mit angehört hätte, haben wir zwar etwas von der Tapferkeit, den Worten nach aber, denke ich, nicht.</p>
+<p><hi rendition="#i">Laches:</hi> Sehr wahr bemerkt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wieso? Und scheint es dir dabei nun gut um uns zu stehen?</p>
+<p><hi rendition="#i"><pb n="193" facs="#f00025"/> Laches:</hi> Nein, ganz und gar nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Meinst du nun nicht, wir sollten unser Wort wenigstens insoweit zur Geltung bringen?</p>
+<p><hi rendition="#i">Laches:</hi> Welches Wort doch und inwieweit?</p>
+<p><hi rendition="#i">Sokrates:</hi> Jenes Wort, das uns ausharren heißt. Willst du nun, so wollen auch wir bei unserer Untersuchung standhalten und ausharren, damit nicht noch die Tapferkeit selbst über uns lacht, daß wir sie nicht gerade auf tapfere Weise aufsuchen, wenn nämlich doch vielleicht Tapferkeit Beharrlichkeit ist.</p>
+<p><hi rendition="#i">Laches:</hi> Ich bin ganz bereit, Sokrates, nicht vorher davon abzustehen, ob ich gleich solche Reden ganz ungewohnt bin. Aber es hat mich jetzt ein gewisser Ehrgeiz auf das Gesagte erfaßt, und ich bin in Wahrheit ganz ärgerlich, daß ich so gar nicht imstande bin, meine Gedanken auszusprechen. Denn in Gedanken meine ich, schon den Begriff von der Tapferkeit zu haben; aber ich weiß nicht, wie sie mir soeben entschwunden ist, so daß ich sie mit Worten nicht fassen und sagen kann, was sie ist.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist es nun, mein Lieber, nicht Pflicht eines guten Jägers, nachzusetzen und nicht abzulassen?</p>
+<p><hi rendition="#i">Laches:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Meinst du nun nicht, wir sollen auch den Nikias zu unserem Jagen herbeirufen, ob er wohl besser zu hellen weiß als wir?</p>
+<p><hi rendition="#i">Laches:</hi> Ich habe nichts dagegen; warum auch nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohlan denn, Nikias, komm, befreundeten Männern, die vom Sturm der Rede umgetrieben werden und sich nicht zu helfen wissen, beizustehen, wenn du irgend bei Kräften bist! Du siehst ja, wie hilflos unsere Umstände sind. Sprich du einmal, was du glaubst, daß die Tapferkeit sei, erlöse uns aus unserer Hilflosigkeit und begründe selbst mit deinem Worte, was du davon denkst!</p>
+<p><hi rendition="#i">Nikias:</hi> Nun ja, schon lange will es mir scheinen, Sokrates, daß ihr den Begriff der Tapferkeit nicht recht bestimmt. Denn ihr macht von dem, was ich dich sonst schon richtig sagen hörte, keine Anwendung.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was meinst du damit, Nikias?</p>
+<p><hi rendition="#i">Nikias:</hi> Ich habe dich schon wiederholt sagen hören, jeder <pb n="194" facs="#f00026"/> von uns sei darin tugendhaft, worin er weise sei, darin aber schlecht, worin er unwissend sei.</p>
+<p><hi rendition="#i">Sokrates:</hi> Beim Zeus, was du sagst, ist richtig, Nikias.</p>
+<p><hi rendition="#i">Nikias:</hi> Also wenn der Tapfere tugendhaft ist, ist er offenbar auch weise.</p>
+<p><hi rendition="#i">Sokrates:</hi> Hast du's gehört, Laches?</p>
+<p><hi rendition="#i">Laches:</hi> Wohl; nur verstehe ich noch nicht recht, was er meint.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, ich glaube es zu verstehen; wie mir dünkt, meint der Mann, die Tapferkeit sei eine Art Weisheit?</p>
+<p><hi rendition="#i">Laches:</hi> Was für eine Weisheit, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Willst du ihn darüber nicht selbst fragen?</p>
+<p><hi rendition="#i">Laches:</hi> Jawohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohlan denn, Nikias, sag ihm, was für eine Weisheit nach deiner Erklärung doch die Tapferkeit sein soll! Doch wohl nicht die des Flötenblasens?</p>
+<p><hi rendition="#i">Nikias:</hi> Mitnichten.</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch nicht die des Zitherspiels?</p>
+<p><hi rendition="#i">Nikias:</hi> Nicht doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also was denn für eine Wissenschaft und wovon?</p>
+<p><hi rendition="#i">Laches:</hi> Die Fragen, die du machst, sind ganz recht, und er möge nur sagen, was für eine er meint, daß sie sei.</p>
+<p><hi rendition="#i">Nikias:</hi> Keine andere, Laches, als die Wissenschaft dessen, was man fürchten muß und wagen kann sowohl im Krieg als in allen anderen Fällen.</p>
+<p><hi rendition="#i">Laches:</hi> Wie seltsam ist doch, was er sagt, Sokrates!</p>
+<p><hi rendition="#i">Sokrates:</hi> In welcher Hinsicht meinst du das, Laches?</p>
+<p><hi rendition="#i">Laches:</hi> In welcher Hinsicht? Die Tapferkeit ist doch etwas anderes als die Weisheit.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das eben meint Nikias nicht.</p>
+<p><hi rendition="#i">Laches:</hi> Freilich nicht, beim Zeus; aber er faselt auch nur.</p>
+<p><hi rendition="#i">Sokrates:</hi> So laß uns ihn belehren, aber nicht schmähen!</p>
+<p><hi rendition="#i">Nikias:</hi> Nicht so, Sokrates; sondern ich glaube, Laches wünscht nur, daß auch ich als einen Mann mich ausweise, der nichts zu sagen weiß, weil er eben selbst sich als einen solchen ausgewiesen hat.</p>
+<p><hi rendition="#i">Laches:</hi> Sehr wohl, Nikias, und ich will es auch nachzuweisen versuchen; denn deine Behauptung ist nichts. So gleich <pb n="195" facs="#f00027"/> bei Krankheiten, erkennen da nicht die Ärzte das Gefährliche? Oder nennst du die Ärzte überhaupt tapfer?</p>
+<p><hi rendition="#i">Nikias:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Laches:</hi> Auch wohl die Landleute nicht, denke ich. Und doch sind diese es, die das beim Landbau Gefährliche erkennen, und so auch die anderen Gewerbsleute alle erkennen das, was beim Betrieb ihrer Künste sowohl zu fürchten als zu wagen ist, und doch sind sie deshalb noch um nichts eher tapfer.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was hältst du von dem, was Laches da sagt, Nikias? Es scheint doch etwas zu besagen.</p>
+<p><hi rendition="#i">Nikias:</hi> Es ist freilich etwas, was er sagt, nur eben nichts Wahres.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wieso?</p>
+<p><hi rendition="#i">Nikias:</hi> Weil er meint, die Ärzte wissen in betreff der Kranken mehr, als zu sagen, was ihnen gesund und ungesund ist. Sie wissen aber gerade nur so viel. Ob aber einer dieses, das Gesundsein, mehr zu fürchten habe als das Kranksein, glaubst du, Laches, das wissen die Ärzte? Oder glaubst du nicht, daß es für manche besser wäre, von ihrer Krankheit nicht aufzukommen, als wieder aufzukommen? Sage mir denn das: behauptest du, daß es für alle besser sei, zu leben, und nicht für manche besser, zu sterben?</p>
+<p><hi rendition="#i">Laches:</hi> Das glaube ich schon.</p>
+<p><hi rendition="#i">Nikias:</hi> Meinst du nun, denen, welchen es frommt zu sterben, sei das gleiche furchtbar wie denen, welchen es frommt zu leben?</p>
+<p><hi rendition="#i">Laches:</hi> Doch nicht.</p>
+<p><hi rendition="#i">Nikias:</hi> Und nun dieses zu erkennen, willst du also den Ärzten oder irgend einem anderen Gewerbsmanne zumessen, nur dem nicht, der sich auf das Gefährliche und Ungefährliche versteht, und den ich den Tapferen nenne?</p>
+<p><hi rendition="#i">Sokrates:</hi> Verstehst du wohl, Laches, was er sagt?</p>
+<p><hi rendition="#i">Laches:</hi> Wohl, nämlich daß er die Wahrsager die Tapferen nennt. Denn wer könnte sonst wissen, für wen es besser sei zu leben oder zu sterben? Nun doch, Nikias, gibst du wohl zu, ein Wahrsager zu sein oder weder ein Wahrsager noch tapfer?</p>
+<p><hi rendition="#i">Nikias:</hi> Was doch? Meinst du jetzt, dem Wahrsager komme es zu, zu erkennen, was zu fürchten und was zu wagen sei?</p>
+<p><hi rendition="#i">Laches:</hi> Freilich, wem sonst denn?</p>
+<p><hi rendition="#i"><pb n="196" facs="#f00028"/> Nikias:</hi> Dem vielmehr, mein Bester, dem ich es zuschreibe. Denn der Wahrsager braucht ja nur die Zeichen von dem zu kennen, was eintreffen wird, ob einen Tod oder Krankheit oder Vermögensverlust treffen werde, ob Sieg oder Niederlage entweder im Krieg oder in irgend einem andern Kampfe. Was einem aber besser sei von diesen Zufällen zu erleiden oder nicht zu erleiden, warum soll das einem Wahrsager eher zukommen zu beurteilen als irgend wem sonst?</p>
+<p><hi rendition="#i">Laches:</hi> In der Tat, Sokrates, den verstehe ich nicht, was er sagen will. Denn weder den Wahrsager noch den Arzt noch irgend jemand anders bezeichnet er klar als den, welchen er den Tapferen nennt, es sei denn, daß er am Ende sagt, es sei ein Gott. Wie mir vorkommt, will Nikias nur nicht aufrichtig gestehen, daß seine Behauptung nichts sei; sondern er windet sich dahin und dorthin, nur um seine Ratlosigkeit zu verbergen. Allein das hätten auch wir vorhin, ich und du, ebenso tun und ebenso uns winden können, wenn wir den Schein hätten vermeiden wollen, daß wir uns selbst widersprechen. Würden wir nun unsere Reden vor Gericht halten, so hätte es irgend einen Sinn, so zu handeln; nun aber – was kann denn einer bei unterer Unterhaltung für einen Grund haben, sich vergeblich mit leeren Worten so zu zieren?</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch meines Erachtens, Laches, ist dazu kein Grund vorhanden. Aber wir wollen sehen, ob nicht Nikias doch glaubt, es sei wirklich etwas an seiner Behauptung, und nicht bloß Redens halber so spricht. Wir wollen ihn also bestimmter fragen, was er meint, und wenn es sich zeigt, daß an seiner Behauptung etwas ist, werden wir es ihm einräumen; wo nicht, so werden wir ihn belehren.</p>
+<p><hi rendition="#i">Laches:</hi> Beliebt es dir, Sokrates, zu fragen, so frage du ihn; ich habe wohl schon genug gefragt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dem steht ja nichts im Wege; denn das Befragen wird gemeinschaftlich sein für mich und dich.</p>
+<p><hi rendition="#i">Laches:</hi> Sehr wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sage mir denn, Nikias, oder vielmehr<hi rendition="#i"> uns</hi> – denn ich und Laches reden jetzt gemeinschaftlich –: Du behauptest, die Tapferkeit sei die Wissenschaft dessen, was zu fürchten und was zu wagen ist?</p>
+<p><hi rendition="#i">Nikias:</hi> Jawohl.</p>
+<p><hi rendition="#i"><pb n="197" facs="#f00029"/> Sokrates:</hi> Dieses aber sei nicht jedermanns Sache zu kennen, da ja weder der Arzt noch der Wahrsager es kennt noch auch tapfer sein soll, wenn er nicht jene Wissenschaft dazu erlangt. Hast du nicht so gesagt?</p>
+<p><hi rendition="#i">Nikias:</hi> Ja, so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also in der Tat nicht jedes Schwein, wie es im Sprichwort heißt, würde es wissen noch auch tapfer sein.</p>
+<p><hi rendition="#i">Nikias:</hi> Nicht, wie mir scheint.</p>
+<p><hi rendition="#i">Sokrates:</hi> Offenbar also, Nikias, glaubst du auch nicht ein/ mal, daß das krommyonische Schwein tapfer gewesen sei. Das aber sage ich nicht scherzweise, sondern ich denke, daß, wer jenes behauptet, unmöglich bei einem Tier Tapferkeit annehmen oder einräumen kann, irgend ein Tier sei so weise, daß man sagen könnte, das, was wenige Menschen wissen, weil es so schwer zu kennen ist, wisse ein Löwe oder Panther oder irgend ein Eber; sondern wer die Tapferkeit so bestimmt, wie du sie bestimmst, der muß notwendig sagen, daß Löwe und Hirsch, Stier und Affe hinsichtlich der Tapferkeit gleichgeartet seien.</p>
+<p><hi rendition="#i">Laches:</hi> Bei den Göttern, Sokrates, brav gesagt! Und das, Nikias, beantworte uns nun wahrheitsgemäß, ob du behauptest, daß diese Tiere weiser als wir sind, von denen wir alle zugeben, daß sie tapfer seien, oder ob du im Gegensatz zu aller Welt es wagst, auch diese nicht tapfer zu nennen?</p>
+<p><hi rendition="#i">Nikias:</hi> Gewiß, Laches, nenne ich weder ein Tier noch sonst ein Wesen tapfer, welches das Furchtbare nur aus Unkenntnis nicht fürchtet, sondern eben furchtlos und dumm. Oder meinst du, ich nenne auch alle Kinder tapfer, welche aus Unkenntnis nichts fürchten? Sondern ich meine, furchtlos und tapfer sei nicht das gleiche. Ich glaube indessen, daß Tapferkeit und Vorsicht nur bei sehr wenigen sich findet, Kühnheit aber und Verwegenheit und Furchtlosigkeit, mit Unvorsichtigkeit gepaart, bei sehr vielen sowohl unter Männern als Frauen, Kindern und Tieren. Das also, was du und die meisten tapfer nennen, nenne ich nur kühn, tapfer aber jene kluge Art, wovon ich rede.</p>
+<p><hi rendition="#i">Laches:</hi> Schau nur, Sokrates, wie schön er mit seiner Rede sich wieder zu zieren meint: die, welche alle Welt einstimmig für tapfer erklärt, sucht et dieses Vorzugs zu berauben!</p>
+<p><hi rendition="#i"><pb n="198" facs="#f00030"/> Nikias:</hi> Mitnichten, Laches; sei nur ruhig, denn dich erkläre ich ebenso gut für weise als den Lamachos, sofern ihr nämlich tapfer seid, und so noch viele andere Athener.</p>
+<p><hi rendition="#i">Laches:</hi> Darauf will ich nichts sagen, ob ich wohl zu antworten wüßte, damit du nicht sagst, ich sei ein echter Aixoneer.</p>
+<p><hi rendition="#i">Sokrates:</hi> Daß du ja nicht antwortest, Laches! Denn wie mir scheint, hast du noch nicht bemerkt, daß dieser seine Weisheit von unserem Freunde Dämon überkommen hat; Dämon aber ist mit dem Prodikos nahe befreundet, welcher unter den Sophisten sich wohl auf solche Wortbestimmungen am besten versteht.</p>
+<p><hi rendition="#i">Laches:</hi> Und für einen Sophisten, Sokrates ziemt es sich auch viel eher, mit solchen Dingen sich breit zu machen, als für einen Mann, welchem der Staat sich anvertraut.</p>
+<p><hi rendition="#i">Sokrates:</hi> Doch ziemt es sich, du Glücklicher, für den, in dessen Hand das Größte gegeben ist, auch die größte Klugheit zu besitzen. Nikias aber scheint mir schon einer näheren Untersuchung darüber wert zu sein, was er eigentlich bei der Bestimmung im Auge hat, welche er von jenem Worte, der Tapferkeit, gibt.</p>
+<p><hi rendition="#i">Laches:</hi> So erwäge es nur selbst, Sokrates!</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich will das tun, mein Bester; indessen glaube Ja nicht, daß ich dich der Gemeinschaft unserer Besprechung entbinden werde: sondern merke nur auf und erwäge auch du, was geredet wird!</p>
+<p><hi rendition="#i">Laches:</hi> So sei es denn, wenn es nötig scheint!</p>
+<p><hi rendition="#i">Sokrates:</hi> So scheint es auch. Du aber, Nikias, sag uns noch einmal von Anfang an: du weißt doch, daß wir bei den Anfängen unserer Besprechung die Tapferkeit als einen Teil der Tugend betrachteten?</p>
+<p><hi rendition="#i">Nikias:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, auch du in deiner Antwort hast sie als einen Teil aufgefaßt neben anderen Teilen, welche zusammen Tugend genannt werden?</p>
+<p><hi rendition="#i">Nikias:</hi> Wie sollte ich nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Meinst du nun auch dieselben wie ich; Ich nenne nämlich neben der Tapferkeit noch die Besonnenheit und Gerechtigkeit und anderes dergleichen. Du nicht auch?</p>
+<p><hi rendition="#i"><pb n="199" facs="#f00031"/> Nikias:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun halt! Darüber nämlich sind wir zwar einverstanden; dagegen über das zu Fürchtende und zu Wagende müssen wir untersuchen, ob du nicht darunter etwas ganz anderes verstehst als wir. Was wir nun darunter verstehen, wollen wir dir sagen; bist du sodann damit nicht einverstanden, so wirst du uns belehren. Unter dem zu Fürchtenden also verstehen wir dasjenige, was Furcht einflößt, unter dem zu Wagenden dasjenige, was keine Furcht einflößt. Furcht aber flößen nicht die vergangenen, auch nicht die gegenwärtigen Übel ein, sondern die, welche erwartet werden. Denn Furcht ist Erwartung eines zukünftigen Übels. Oder bist du nicht auch dieser Ansicht, Laches?</p>
+<p><hi rendition="#i">Laches:</hi> Durchaus, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Du hörst hiermit unsere Ansicht, Nikias. Wir behaupten nämlich, zu fürchten seien die künftigen Übel, zu wagen dasjenige Zukünftige, was weder übel noch gut ist. Bist du nun hierüber dieser oder einer anderen Meinung?</p>
+<p><hi rendition="#i">Nikias:</hi> Ebenwohl dieser.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und das Wissen hiervon nun benennst du Tapferkeit?</p>
+<p><hi rendition="#i">Nikias:</hi> Ganz so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun wollen wir noch den dritten Punkt untersuchen, ob du darüber mit uns gleiche Ansichten hast.</p>
+<p><hi rendition="#i">Nikias:</hi> Und der wäre?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich will ihn darlegen. Laches und ich sind nämlich der Meinung, daß die Wissenschaft, was für Gegenstände sie auch habe, nicht eine andere sei, je nachdem sie das Geschehene, wie es geschehen ist, betrifft, und wieder eine andere, wenn sie das Geschehene, wie es geschieht, betrifft, endlich eine andere, wenn sie davon handelt, wie das noch nicht Geschehene am besten geschehen könnte und geschehen werde, sondern daß sie immer eine und dieselbe sei. Zum Beispiel hinsichtlich des Gesunden für alle Zeiten gibt es keine andere Wissenschaft als die an sich eine Heilkunst, welche nun sowohl auf das, was geschieht, als das, was geschehen ist, und das, was geschehen wird, wie es geschehen wird, ihr Augenmerk richtet. Und wiederum ganz ebenso verhält es sich mit dem Landbau hinsichtlich dessen, was aus der Erde wächst. <pb n="200" facs="#f00032"/> Und hinsichtlich des Krieges könnt ihr ja selbst am besten bezeugen, daß die Feldherrnkunst es am besten versteht, nicht nur für anderes, sondern besonders für das Zukünftige Vorsorge zu treffen, und gar nicht der Meinung ist, der Wahrsagekunst dienen zu müssen, sondern ihr befehlen zu können, weil sie das, was den Krieg betrifft, sowohl was geschieht als geschehen wird, besser verstehe. Auch das Gesetz gebietet es so, daß nicht der Wahrsager dem Feldherrn befehle, sondern der Feldherr dem Wahrsager. Wollen wir dies behaupten, Laches?</p>
+<p><hi rendition="#i">Laches:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie nun, Nikias? Gibst du uns zu, daß hinsichtlich derselben Gegenstände eine und dieselbe Wissenschaft sowohl das Werdende als das Seiende und das Gewesene begreife?</p>
+<p><hi rendition="#i">Nikias:</hi> Wohl, denn wirklich bin ich auch dieser Ansicht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun, mein Bester, die Tapferkeit also ist das Wissen des zu Fürchtenden und des zu Wagenden, wie du sagst. Nicht wahr?</p>
+<p><hi rendition="#i">Nikias:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Über das zu Fürchtende und das zu Wagende aber sind wir dahin einverstanden, daß das eine das zukünftige Gute, das andere das zukünftige Übel sei?</p>
+<p><hi rendition="#i">Nikias:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber auch, daß es nur ein und dasselbe Wissen von denselben Gegenständen gebe, sie mögen nun zukünftig sein oder wie immer sich verhalten.</p>
+<p><hi rendition="#i">Nikias:</hi> So ist's.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht also nur ein Wissen des zu Fürchtenden und des zu Wagenden ist die Tapferkeit; denn nicht nur die zukünftigen Güter oder Übel begreift sie, sondern auch das, was geschieht und was geschehen ist und was wie immer sich verhalte, ganz so wie die übrigen Wissenschaften.</p>
+<p><hi rendition="#i">Nikias:</hi> Es scheint so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Deine Antwort, Nikias, befaßte also nur ungefähr den dritten Teil der Tapferkeit, und doch wollte unsere Frage wissen, was die ganze Tapferkeit sei. Und jetzt ist gar, wie es scheint, nach deiner Erklärung die Tapferkeit nicht nur das Wissen des zu Fürchtenden und zu Wagenden; sondern wie <pb n="201" facs="#f00033"/> diese Erklärung jetzt lautet, würde die Tapferkeit so ziemlich das Wissen von sämtlichen und wie immer sich verhaltenden Gütern und Übeln sein. So doch wirst du deine Meinung, Nikias, oder wie sonst etwa näher bestimmt wissen?</p>
+<p><hi rendition="#i">Nikias:</hi> Ich denke wohl, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Meinst du aber nun, du göttlicher Mann, daß einem da noch etwas von der Tugend fehle, wenn er also von sämtlichen Gütern und von der Art, wie sie entstehen, entstehen werden und entstanden sind, ein allumfassendes Wissen hat, und ebenso von sämtlichen Übeln? Und glaubst du, daß der noch der Besonnenheit oder Gerechtigkeit und der Frömmigkeit bedürftig sei, welchem es für sich allein schon zukommt, vor Göttern und Menschen sich in bezug auf das, was zu fürchten und nicht zu fürchten ist, in acht zu nehmen und das Gute sich zu verschaffen, indem er sich aufrichtige Weise gegen diese zu benehmen weiß?</p>
+<p><hi rendition="#i">Nikias:</hi> Was du sagst, Sokrates, scheint mir nicht ganz grundlos.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht also, Nikias, ein Teil der Tugend würde das, was du jetzt dafür erklärt hast, sein, sondern die ganze Tugend.</p>
+<p><hi rendition="#i">Nikias:</hi> Es scheint so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wir haben doch gesagt, die Tapferkeit sei nur ein Teil der Tugend.</p>
+<p><hi rendition="#i">Nikias:</hi> Das haben wir freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das, was du jetzt dafür erklärt hast, ist das aber sichtbar nicht.</p>
+<p><hi rendition="#i">Nikias:</hi> Nicht, wie es scheint.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also haben wir nicht gefunden, was die Tapferkeit ist.</p>
+<p><hi rendition="#i">Nikias:</hi> Offenbar nicht.</p>
+<p><hi rendition="#i">Laches:</hi> Und doch, lieber Nikias, habe ich gewiß geglaubt, du werdest es finden, da du die Antworten, die ich dem Sokrates gab, so verächtlich angesehen hast. Ich habe ganz sicher gehofft, du werdest es vermöge deiner Weisheit vom Dämon her ausfindig machen.</p>
+<p><hi rendition="#i">Nikias:</hi> Es ist doch recht schön von dir, Laches, daß du dir so gar nichts daraus machst, eben als ein Mann erfunden worden zu sein, der von der Tapferkeit nichts weiß, sondern daß du nur darauf siehst, ob ich nun gewiß als ein Zweiter dieser <pb n="202" facs="#f00034"/> Art erfunden werde; und jetzt kann dir natürlich gar nichts mehr daran liegen, daß du so wenig als ich von dem weißt, wovon doch jeder, der eine Geltung anspricht, ein Verständnis haben sollte. Wahrlich, du scheinst mir doch recht menschlich zu handeln, so gar nicht auf sich selbst, sondern nur auf andere zu sehen! Indessen meine ich doch, daß der Gegenstand unserer Untersuchung von mir jetzt ganz ordentlich besprochen wurde; und wenn etwas noch ungenügend besprochen wäre, wird es noch in der Folge mit Hilfe des Dämon und anderer berichtigt werden, des Dämon, über welchen du, und zwar ohne ihn jemals gesehen zu haben, meinst lachen zu dürfen. Und dann, wenn ich es einmal werde recht begründet haben, will ich auch dich ohne Mißgunst belehren. Denn du scheinst mir der Belehrung noch gar sehr zu bedürfen.</p>
+<p><hi rendition="#i">Laches:</hi> Du freilich, Nikias, bist ein weiser Mann. Dessenungeachtet möchte ich dem Lysimachos und Melesias da den Rat geben, dich und mich, was die Ausbildung ihrer jungen Leute betrifft, beiseite zu lassen, unsern Sokrates aber, wie ich gleich anfangs sagte, ja nicht loszulassen. Wenn meine eigenen Söhne schon das Alter dazu hätten, würde ich es ebenso machen.</p>
+<p><hi rendition="#i">Nikias:</hi> Das gebe ich dir nun ebenfalls zu, daß sie, wenn anders Sokrates geneigt ist, der Jungen sich anzunehmen, keinen andern suchen sollen, wie denn auch ich den Nikeratos am liebsten ihm anvertrauen würde, wenn er ihn wollte. Aber, wenn ich gegen ihn etwas davon erwähne, empfiehlt er mir jedesmal andere: selbst will er nicht. So sieh denn zu, Lysimachos, ob Sokrates dir eher willfahre!</p>
+<p><hi rendition="#i">Lysimachos:</hi> Recht wenigstens, Nikias, wäre es, da auch ich geneigt sein dürfte, ihm vieles zuliebe zu tun, wozu ich mich nicht eben vielen anderen erbieten würde. Was sagst du nun hierzu, Sokrates? Wirst du uns willfahren und das deinige dazu beitragen, daß diese Jünglinge möglichst tugendhaft werden?</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, es wäre schlimm von mir, Lysimachos, wenn ich nicht dazu beitragen wollte, daß jemand so tugendhaft als möglich werde. Indessen mich gerade zu diesem Geschäft aufzufordern wäre zwar recht, wenn ich in unseren vorhin geführten Gesprächen mich als einen Wissenden, diese <pb n="203" facs="#f00035"/> beiden aber sich als Nichtwissende ausgewiesen hätten. Nun aber waren wir ja zuletzt in gleichem Maße ratlos. Wie könnte man da einem von uns einen Vorzug einräumen? Ich selbst denke, in der Tat keinem. – Und nun, da die Sache einmal so steht, so erwägt, ob euch der Rat, den ich gebe, gefällt: Wir müssen, wie ich nämlich behaupte, ihr Männer, – unser Wort bleibt ja doch unter uns – alle gemeinschaftlich den besten Lehrer vor allem für uns selbst suchen, denn wir brauchen ihn, und dann auch für unsere jungen Leute, ohne dabei an Geld oder sonst anderem zu sparen. Es bei uns selbst aber beim alten zu lassen, das rate ich nicht. Und wenn uns nun jemand auslachen will, daß wir alte Leute noch zur Schule gehen wollen, so, denke ich, müssen wir uns auf Homeros berufen, welcher sagt:</p>
+<lb/>
+<p> <hi rendition="#i">Nimmer ist gut schamhaftige Art dem dürftigen Manne.</hi></p>
+<lb/>
+<p>Wenn daher auch jemand etwas darüber sagt, so lassen wir ihn gehen, indem wir unsere Sorge gemeinschaftlich nur uns selbst und unseren jungen Leuten widmen.</p>
+<p><hi rendition="#i">Lysimachos:</hi> Meinen Beifall, Sokrates, hat das ganz, was du sagst, und ich bin gewillt, je älter ich bin, um so eifriger mit unseren Jungen zu lernen. Aber tue mir das und besuche mich morgen früh zu Hause, und ja gewiß, damit wir eben hierüber uns weiter beratschlagen! Für heute müssen wir auseinandergehen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich will es tun, Lysimachos; morgen werde ich zu dir kommen, so Gott will.</p>
+<pb n="204" facs="#f00036"/> 
+</body></text></TEI>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Indische Liebeslyrik</title>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Indische Liebeslyrik. In deutscher Sprache nachgebildet von Friedrich Rückert.
+      Eingeleitet, hrsg. u. erläutert von Helmuth von Glasenapp, Baden-Baden: Bühler,
+      1948.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Indische Liebeslyrik</title>
+      <editor><persName ref="http://d-nb.info/gnd/95215">
+        <forename>Helmuth</forename>
+        <nameLink>von</nameLink>
+        <surname>Glasenapp</surname>
+      </persName>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Bühler</name>
+      </publisher><pubPlace>Baden-Baden</pubPlace>
+      <date type="publication">1948</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Überliefertes Epos, das häufig fälschlicherweise Kalidasa zugeschrieben wird. Hier in der Übersetzung von Friedrich Rückert.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+
+<note type="editorial">König Nala's Frühlings-Hofhalt</note>
+
+<head><pb n="57" facs="#f0001"/>König Nala's Frühlings-Hofhalt</head>
+
+<p rendition="#c"><hi rendition="#smaller"><hi rendition="#i">(Aus dem »Nalodaja«.)</hi></hi></p>
+<lb/>
+<p rendition="#c">1.</p>
+<p>So ward nun einzige Lust zuteil</p>
+<p>In seinem Hause Nala dem Erkämpfer</p>
+<p>Des einzigen geliebten Weibs,</p>
+<p>Dem herrlichen Feindübermutesdämpfer.</p>
+<lb/>
+<p rendition="#c">2.</p>
+<p>Als ein Kraftmeer strahlt der König,</p>
+<p>Und sie schimmert wonnefeucht;</p>
+<p>Und der Frühling kranichtönig</p>
+<p>Zieht nun auf mit Lustgeleucht.</p>
+<lb/>
+<p rendition="#c">3.</p>
+<p>Die wie vor Scham am Grund sich barg,</p>
+<p>Die Wasserlilie richtet auf der Morgen</p>
+<p>Mit reisährblanker Strahlenhand,</p>
+<p>Darum sind nun die Bienen ohne Sorgen.</p>
+<lb/>
+<p rendition="#c">4.</p>
+<p>Das Gefilde vom Krächzen der Kraniche tönt,</p>
+<p>Da bekrönt sich mit Grün der Geranienstrauch;</p>
+<p>Das Gewässer, von reinen Nymphäen verschönt,</p>
+<p>Zu bezaubern, o wen denn vermag es nicht auch?</p>
+<lb/>
+<p rendition="#c"><pb n="58" facs="#f0002"/> 5.</p>
+<p>Aus Winterschnee-Eismassen brach</p>
+<p>Hervor die übermächtige Macht der Sonne;</p>
+<p>Vor ihr und vor'm Glutschlangenpfeil</p>
+<p>Des Kama flieht der Held ins Haus der Wonne.</p>
+<lb/>
+<p rendition="#c">6.</p>
+<p>Von Kamas Nadel, die das Herz</p>
+<p>Der Welt durchbohrt, brach auf die Tschampakblüte;</p>
+<p>Sie hegte solche Pein, wie hegt</p>
+<p>Getrennter Gatten sehnendes Gemüte.</p>
+<lb/>
+<p rendition="#c">7.</p>
+<p>Am dünn und hochbelaubten Zweig</p>
+<p>Quoll die Palasablüte blutgerötet,</p>
+<p>Dem Fleische gleich des Wandrers, den</p>
+<p>Voll Gier der schnöde Dämon Kama tötet.</p>
+<lb/>
+<p rendition="#c">8.</p>
+<p>Brunstschrei heben, von des Lenzes Kraft durchgoren,</p>
+<p>Jetzt die mächtigen Elefanten;</p>
+<p>Ihre Zähne, Mondessicheln gleich, durchbohren</p>
+<p>Jeden jetzt vom Wein verbannten.</p>
+<lb/>
+<p rendition="#c">9.</p>
+<p>Wer einem holden Weibe nun</p>
+<p>Schmerzbringend, seine eigne Lust verstöret,</p>
+<p>Verzweifelt wenn wie Vorwürf' er</p>
+<p>Im Blütenstrauch die Bienen summen höret.</p>
+<lb/>
+<p rendition="#c"><pb n="59" facs="#f0003"/> 10.</p>
+<p>Nun zu Kamas Kampfplatz schmückt sich</p>
+<p>Das Gefild, wo Kranich tönt;</p>
+<p>Seiner hohen Herrschaft bückt sich</p>
+<p>Alles was nach Liebe stöhnt.</p>
+<lb/>
+<p rendition="#c">11.</p>
+<p>»Vom Frühling angeregt, wie kann</p>
+<p>Ein Mann, der liebt, nun leben fern vom Weibe?«</p>
+<p>Denkt eine Schön' und nippet Wein;</p>
+<p>Was tut man nicht, daß man den Gram vertreibe!</p>
+<lb/>
+<p rendition="#c">12.</p>
+<p>Wo den Liebsten nun die Schöne</p>
+<p>Spröde weidet, horch, ihr grollt</p>
+<p>Kokila, der seine Töne</p>
+<p>Liebeszornig gurgelnd rollt.</p>
+<lb/>
+<p rendition="#c">13.</p>
+<p>Der kühle Mond strahlt Glanz und Reif,</p>
+<p>Das Lied des Kokila macht Amras reifen.</p>
+<p>Trägt nicht der Pfau im Tanz den Schweif?</p>
+<p>Und läßt er rings nicht seine Rufe schweifen?</p>
+<lb/>
+<p rendition="#c">14.</p>
+<p>Wer trägt zur Zeit, wo Mangos blühn,</p>
+<p>Der Trennung Schmerz? und welches Weib gedenket</p>
+<p>Beim lieben Freund des Wörtleins nun,</p>
+<p>Das an mit <hi rendition="#i">Ha</hi> hebt und mit <hi rendition="#i">der</hi> sich senket?</p>
+<lb/>
+<p rendition="#c"><pb n="60" facs="#f0004"/> 15.</p>
+<p>In Kamas Dienste schwärmt von Baum</p>
+<p>Zu Baum ein Schwarm liebschwärmerischer Immen,</p>
+<p>Nippt Süßes und gibt süßen Ton,</p>
+<p>Davon des Lenzes Süßen frisch erglimmen.</p>
+<lb/>
+<p rendition="#c">16.</p>
+<p>Zu seinem stolzen Herzgespiel</p>
+<p>Sucht nun den Weg ein Liebender, verwirrt</p>
+<p>Vom Frühlingshimmel, der umwölkt</p>
+<p>Vom regen Bienenschwarmgewimmel schwirrt.</p>
+<lb/>
+<p rendition="#c">17.</p>
+<p>Wer irgend nun gehet vom Hause der Braut,</p>
+<p>Und hat nicht ein stilles Verlangen gestillt;</p>
+<p>Es wird ihm, von grauser Umnachtung umgraut,</p>
+<p>Begegnen ein Gegner, der Tod, der ihm gilt.</p>
+<lb/>
+<p rendition="#c">18.</p>
+<p>Die Törin, die statt zu dem Freunde zu gehn,</p>
+<p>Nun schmollend beim Flechten von Kränzen verweilt,</p>
+<p>Wird, von ihm geschieden, bestrafet sich sehn,</p>
+<p>Mit Reueverstummung vom Himmel ereilt.</p>
+<lb/>
+<p rendition="#c">19.</p>
+<p>»Weit schaust du mit blühenden Augen im Raum,</p>
+<p>O Baum auf der Höh', den kein Kummer befiel!</p>
+<p>Erblickst du den Liebsten, so sag' ihm, o Baum:</p>
+<p>Hier spielet im blühenden Lenz dein Gespiel.«</p>
+<lb/>
+<p rendition="#c"><pb n="61" facs="#f0005"/> 20.</p>
+<p>So zum Baume tretend sprach sie,</p>
+<p>Der zurück ihr gab kein Wort;</p>
+<p>Nur der Liebe Schlange stach sie,</p>
+<p>Nicht den Liebsten fand sie dort.</p>
+<lb/>
+<p rendition="#c">21.</p>
+<p>Welch reizend Weib erträgt den Gott,</p>
+<p>Der Blumenpfeile schießt und wohnt in Herzen?</p>
+<p>Am Tage, wo den Frühling fühlt</p>
+<p>Die Bien' und summet ihre Liebesschmerzen!</p>
+<lb/>
+<p rendition="#c">22.</p>
+<p>Er, dessen Feinde Toren sind,</p>
+<p>Fürst Nala, frauenliebeslustgegattet,</p>
+<p>Vom Liebesgott gekettet, geht</p>
+<p>Zum Garten, von Mandaren überschattet.</p>
+<lb/>
+<p rendition="#c">23.</p>
+<p>Ihm, dem ruhmreich hochgewichtigen,</p>
+<p>Lacht die Gattin mild und rein,</p>
+<p>Ihm, dem mondgleich-angesichtigen</p>
+<p>Im gleichparadiesigen Hain.</p>
+<lb/>
+<p rendition="#c">24.</p>
+<p>»O kehr hieher den hellen Blick!«</p>
+<p>So ruft den gartenwallenden Frau'ngestalten</p>
+<p>Je Freund und Freund, den spangenreich</p>
+<p>Geschmückten, deren Fülle schwoll in Falten.</p>
+<lb/>
+<p rendition="#c"><pb n="62" facs="#f0006"/> 25.</p>
+<p>Dort die gekränkte Stolze will</p>
+<p>Nicht gehn in blütenbaumbewachsnen Gründen;</p>
+<p>Jedoch für reiche Blumenspend'</p>
+<p>Empfängt der Freund Vergebung seiner Sünden.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Eine Vermittlerin spricht:</hi></p>
+<lb/>
+<p rendition="#c">26.</p>
+<p>»Gepriesene Schönheit, o Kind, dir sei kund,</p>
+<p>Wie zehrend dein leichterer Zorn auf ihm liegt.</p>
+<p>Soll hier sein verbleichender blühender Mund</p>
+<p>Verhauchen den Geist, dir zu Füßen geschmiegt?</p>
+<lb/>
+<p rendition="#c">27.</p>
+<p>O komm, eh des Frühlings fröhliche Frucht</p>
+<p>Die Frische verlieret, o komme du jetzt</p>
+<p>Zum Garten, und Köstliches kost' auf der Flucht!</p>
+<p>Im Lenze zuletzt sich zu letzen, verletzt.«</p>
+<lb/>
+<p rendition="#c">28.</p>
+<p>Der listigen Lockerin lauschte mit Lust,</p>
+<p>Die Stirn von gelöstem Gelocke geschwärzt,</p>
+<p>Das Mädchen, und suchte mit klopfender Brust</p>
+<p>Den Freund, der nun fröhlich im Grünen sie herzt.</p>
+<lb/>
+<p rendition="#c">29.</p>
+<p>»Am Rand des Weihers still und hell,</p>
+<p>Mit Blütensaugern und mit ruhenden Kran'chen,</p>
+<p>Was soll dein Stolz?« – so zog ein Freund</p>
+<p>Die Liebste nach mit Schmeichelwörtchen manchen.</p>
+<lb/>
+<p rendition="#c"><pb n="63" facs="#f0007"/> 30.</p>
+<p>Am Baume stand ein andres Weib</p>
+<p>Und wollte pflücken seine roten Blüten;</p>
+<p>Die roten Blüten wurden blaß,</p>
+<p>Als ihres Lächelns weiße Lichter sprühten.</p>
+<lb/>
+<p rendition="#c">31.</p>
+<p>Zum Bassin tritt eine Schlanke,</p>
+<p>Das des Baumes Fuß benetzt;</p>
+<p>Selbst wie eine Schlingblütranke</p>
+<p>Schlingt sie um den Baum sich jetzt.</p>
+<lb/>
+<p rendition="#c">32.</p>
+<p>Vom Wuchs der Rankgewächs' umrankt,</p>
+<p>Ward lange nicht vom Freund erkannt die Schöne,</p>
+<p>Bis sie verriet der Freundinnen</p>
+<p>Gelächter und der Bienen Lustgetöne.</p>
+<lb/>
+<p rendition="#c">33.</p>
+<p>Zur Heilung ihres kranken Aug's,</p>
+<p>Das Blütenstaub getrübt im Aufwärtsblicken,</p>
+<p>Stellt eine nah vor'm Freund sich hin,</p>
+<p>Mit Antlitzstreifung schlau ihn zu bestricken.</p>
+<lb/>
+<p rendition="#c">34.</p>
+<p>Zwar schuldbewußt, weiß jener sich</p>
+<p>Der Unschuld Schein durch Redekunst zu geben;</p>
+<p>Und sie, die Gute, zürnet ihm</p>
+<p>Nicht länger, den sie liebt als wie ihr Leben.</p>
+<lb/>
+<p rendition="#c"><pb n="64" facs="#f0008"/> 35.</p>
+<p>Ein andrer macht von Schuld sich frei,</p>
+<p>Da er in Staunen wandelt das Erbosen</p>
+<p>Der Schönen, wie er so gewandt</p>
+<p>Den Frühlingswald beschreibt ohn' anzustoßen.</p>
+<lb/>
+<p rendition="#c">36.</p>
+<p>Von der stolzen Glanzgeschmückten,</p>
+<p>Die er ewig lieben muß,</p>
+<p>Wird zuteil dem Hingebückten</p>
+<p>Auf das Haupt der Tritt vom Fuß.</p>
+<lb/>
+<p rendition="#c">37.</p>
+<p>Fraun, die schönstes Haus bewohnen,</p>
+<p>Lockt es nun zur Flur hinaus,</p>
+<p>Wo hoch in Tamalakronen</p>
+<p>Weht Malajalüftesaus.</p>
+<lb/>
+<p rendition="#c">38.</p>
+<p>Die Männer frohlustwandelnd so</p>
+<p>Mit jenen durch des Haines Blütenprangen,</p>
+<p>Nun mit den Schönen kamen sie</p>
+<p>Zum lotosüberblühten Teich gegangen.</p>
+<lb/>
+<p rendition="#c">39.</p>
+<p>»Was gehst du hin zum Teich, o du</p>
+<p>Mein Himmelshulden-Nektarmeer-Gestade!«</p>
+<p>Rief Nala, der verliebte Fürst,</p>
+<p>Und folgt zum Teiche Damajantis Pfade.</p>
+<lb/>
+<p rendition="#c"><pb n="65" facs="#f0009"/> 40.</p>
+<p>Des Edlen Sinn gefangen nahm</p>
+<p>Der reine Glanz am ungetrübten Weiher,</p>
+<p>Dazu die laute Wasserschar,</p>
+<p>Schwan, Möwe, Kranich, Pelikan und Reiher.</p>
+<lb/>
+<p rendition="#c">41.</p>
+<p>»Was ist da für Gefahr am Rand</p>
+<p>Der schmalen leicht bewegten Flut zu kosen?</p>
+<p>Was zittern scheue Kinder so,</p>
+<p>Zu nah'n dem Wasser hier, dem walfischlosen?«</p>
+<lb/>
+<p rendition="#c">42.</p>
+<p>Weggeflogen ist die Biene</p>
+<p>Vom Nymphäen-Düftestaub,</p>
+<p>Weil sie blühende Frauenmiene</p>
+<p>Lüstern macht nach süßerem Raub.</p>
+<lb/>
+<p rendition="#c">43.</p>
+<p>Vom Nalafrauenchorgeleit,</p>
+<p>Dem lusterglühten, spielend umgewendet,</p>
+<p>Hat mancher stille Lotosbusch</p>
+<p>Verstörtes Bienensummen ausgesendet.</p>
+<lb/>
+<p rendition="#c">44.</p>
+<p>Eingetaucht im Flutenglanze,</p>
+<p>Überfallt die zarten Frau'n</p>
+<p>Vor des Sees vom Lotostanze</p>
+<p>Angeregter Well' ein Graun.</p>
+<lb/>
+<p rendition="#c"><pb n="66" facs="#f00010"/> 45.</p>
+<p>Alsdann aus schaumbekrönter Flut,</p>
+<p>Wie Göttinnen aus sternbekränztem Himmel,</p>
+<p>Aus kranichlautdurchtönter Flut</p>
+<p>Ans Ufer stieg das weibliche Gewimmel.</p>
+<lb/>
+<p rendition="#c">46.</p>
+<p>In der Reize Fülle schwankend.</p>
+<p>Alle Bienen lockend nach,</p>
+<p>Hell wie Abendsonne wankend,</p>
+<p>Suchen sie das Wohngemach.</p>
+<lb/>
+<p rendition="#c">47.</p>
+<p>»Gib Lieb', eh' Liebe stirbt mit mir!</p>
+<p>Krank macht mich Lieb' am Leben und am Leibe!«</p>
+<p>So trat ins liebgeweihte Haus,</p>
+<p>Ins himmelgleiche, Nala mit dem Weibe.</p>
+<lb/>
+<p rendition="#c">48.</p>
+<p>Die Sonne war zum Abendrot</p>
+<p>Gelangt, dem Lotos war sein Glanz entwichen;</p>
+<p>Zur Diebin ward sie offenbar</p>
+<p>An ihm, den ihre Strahlenhand beschlichen.</p>
+<lb/>
+<p rendition="#c">49.</p>
+<p>All von wannen, all von wannen</p>
+<p>Wonn'ges Sonngefunkel wich,</p>
+<p>All von dannen, all von dannen</p>
+<p>Dehnte düstres Dunkel sich.</p>
+<lb/>
+<p rendition="#c"><pb n="67" facs="#f00011"/> 50.</p>
+<p>Nun hat den Sonnenuntergang</p>
+<p>Gebracht der Abend, Vogelsang verbreitend,</p>
+<p>Den Himmel wie ein Baldachin</p>
+<p>Bestirnend, und den Herden Ruh bereitend.</p>
+<lb/>
+<p rendition="#c">51.</p>
+<p>Nun erglänzt die Luft vom Strahle</p>
+<p>Dessen, der dem Meer entsteigt,</p>
+<p>Und sich gleich der Silberschale</p>
+<p>Zum Spendopfer Kama's zeigt.</p>
+<lb/>
+<p rendition="#c">52.</p>
+<p>Ihn, der mit dunklen Flecken schmückt</p>
+<p>Sein Antlitz – welches Weib, vom Freund getrennet,</p>
+<p>Vermag ihn anzusehn, den Mond,</p>
+<p>Der Nacht für Nacht verliebte Wandrer brennet?</p>
+<lb/>
+<p rendition="#c">53.</p>
+<p>Nun die Welt mit Glanz bedeckend,</p>
+<p>Träufelnd nachtgekühlten Tau,</p>
+<p>Weiße Wasserlilien weckend,</p>
+<p>Wacht der Mondschein auf der Au.</p>
+<lb/>
+<p rendition="#c">54.</p>
+<p>Wie mit Kunst die Männer werben</p>
+<p>Flehentlich um Frauengunst,</p>
+<p>Durch Erniedrungen erwerben</p>
+<p>Sie Erwidrungen der Brunst.</p>
+<lb/>
+<p rendition="#c"><pb n="68" facs="#f00012"/> 55.</p>
+<p>Die in Liebesflammen ächzten,</p>
+<p>Alle nun mit Scherzetausch,</p>
+<p>Wie nach Amrit Götter lechzten,</p>
+<p>Lechzen sie nach Trank und Rausch.</p>
+<lb/>
+<p rendition="#c">56.</p>
+<p>Spröde weich, die Weichen machte</p>
+<p>Spröde das genoßne Naß;</p>
+<p>Neuen Liebesglanz entfachte</p>
+<p>Den verwirrten Scharen das.</p>
+<lb/>
+<p rendition="#c">57.</p>
+<p>Vom süßen bien'umschwärmten Saft,</p>
+<p>Der Kraft hat jeden Liebanstoß zu glätten,</p>
+<p>Genetzt nun und geletzt entrafft</p>
+<p>Die eil'ge Schar sich zu gewölbten Betten.</p>
+<lb/>
+<p rendition="#c">58.</p>
+<p>Lose Freundeshände lösen</p>
+<p>Unter mancher Nagelspur,</p>
+<p>Lässiges Frau'ngewand und blößen</p>
+<p>Lustvollschwellende Lendenflur.</p>
+<lb/>
+<p rendition="#c">59.</p>
+<p>Den Schönen, deren Schönheitsruhm</p>
+<p>Im meerumschäumten Erdenrund erschollen,</p>
+<p>Den jungen Frau'n und Jünglingen</p>
+<p>Ist volle Lust bei Kama's Fest entquollen.</p>
+<lb/>
+<p rendition="#c"><pb n="69" facs="#f00013"/> 60.</p>
+<p>Als wie im Tanz, mit Wonneausruf,</p>
+<p>Schwoll hier die Fülle lustbewegter Glieder;</p>
+<p>Auf Freundesbrust klang Frauenspang'</p>
+<p>Und floß des Haar's gelöster Perlstrang nieder.</p>
+<lb/>
+<p rendition="#c">61.</p>
+<p>Aber ihr, der falschelosen,</p>
+<p>Sich in Wonne wiegenden,</p>
+<p>Weihte Nala minn'ges Kosen,</p>
+<p>Ihr, der Sri-besiegenden.</p>
+<lb/>
+<p rendition="#c">62.</p>
+<p>Sie, ohne Sorgen, ohne Trug,</p>
+<p>Begehrte sittig Nala's Lustbegehren;</p>
+<p>Er, ihrem Willen willig, war</p>
+<p>Bestrebt ihr hohes Freudenspiel zu mehren.</p>
+<lb/>
+<p rendition="#c">63.</p>
+<p>So lebte, bis die Kali-Macht</p>
+<p>Ihn traf mit unheilschweren Truggewalten,</p>
+<p>Der König froh in Glückes Kraft</p>
+<p>Der reichen Schätze seines Reichs zu walten.</p>
+<lb/>
+<p rendition="#c">64.</p>
+<p>Hoher Herrschaft Hort und Hüter,</p>
+<p>Durch der Gattin Wahl beglückt,</p>
+<p>Thront er wie der Gott der Güter,</p>
+<p>Wie Kuwera, glanzgeschmückt.</p>
+
+</body></text></TEI>

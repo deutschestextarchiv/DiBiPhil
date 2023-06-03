@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winckelmanns Werke in einem Band</title>
+        <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Winckelmanns Werke in einem Band. Herausgegeben von Helmut Holtzhauer, Berlin und
+      Weimar: Aufbau, 1969 (Bibliothek Deutscher Klassiker).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Winckelmanns Werke in einem Band</title>
+      <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Aufbau-Verlag</name>
+      </publisher><pubPlace>Berlin, Weimar</pubPlace>
+      <date type="publication">1969</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Bibliothek der schönen Wissenschaften und freien Künste (Leipzig), 1759.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Beschreibung des Torso im Belvedere zu Rom</note>
+
+
+
+<head>Johann Joachim Winckelmann</head>
+<head>Beschreibung des Torso im Belvedere zu Rom</head>
+
+<p><pb n="56" facs="#f0001"/>
+Ich teile hier eine Beschreibung des berühmten Torso im Belvedere mit, welcher insgemein der Torso vom Michelangelo genannt wird, weil dieser Künstler dieses Stück besonders hochgeschätzt und viel nach demselben studiert hat. Es ist eine verstümmelte Statue eines sitzenden Herkules, wie bekannt ist, und der Meister desselben ist Apollonius, des Nestors Sohn, von Athen. Diese Beschreibung geht nur auf das Ideal der Statue, sonderlich da sie idealisch ist, und ist ein Stück von einer ähnlichen Abbildung mehrerer Statuen.</p>
+<p rendition="#et">Die erste Arbeit, an welche ich mich in Rom machte, war, die Statuen im Belvedere, nämlich den Apollo, den Laokoon, den sogenannten Antinous und diesen Torso, als das Vollkommenste der [bis auf uns gelangten] alten Bildhauerei, zu beschreiben. Die Vorstellung einer jeden Statue sollte zwei Teile haben: der erste in Absicht des Ideals, der andere nach der Kunst, und meine Meinung war, die Werke selbst von dem besten Künstler zeichnen und stechen zu lassen. Diese Unternehmung aber ging über mein Vermögen und würde auf dem Vorschub freigebiger Liebhaber beruhen; es ist daher dieser Entwurf, über welchen ich viel und lange gedacht habe, ungeendigt geblieben, und gegenwärtige Beschreibung selbst möchte noch die letzte Hand nötig haben.</p>
+<p rendition="#et">Man sehe sie an als eine Probe von dem, was über ein so vollkommenes Werk der Kunst zu denken und zu sagen wäre, und als eine Anzeige von Untersuchung in der Kunst. Denn es ist nicht genug, zu sagen, daß etwas schön ist: man <pb n="56" facs="#f0002"/>
+soll auch wissen, in welchem Grade und warum es schön sei. Dieses wissen die Antiquare in Rom nicht, wie mir diejenigen Zeugnis geben werden, die von ihnen geführt sind, und sehr wenige Künstler sind zur Einsicht des Hohen und Erhabenen in den Werken der Alten gelangt. Es wäre zu wünschen, daß sich jemand fände, dem die Umstände günstig sind, welcher eine Beschreibung der besten Statuen, wie sie zum Unterrichte junger Künstler und reisender Liebhaber unentbehrlich wäre, unternehmen und nach Würdigkeit ausführen könnte.</p>
+<p rendition="#et">Ich führe dich jetzt zu dem so viel gerühmten und niemals genug gepriesenen Sturze eines Herkules, zu einem Werke, welches das vollkommenste in seiner Art und unter die höchsten Hervorbringungen der Kunst zu zählen ist, von denen, welche bis auf unsere Zeiten gekommen sind. Wie aber werde ich dir denselben beschreiben, da er der schönsten und der bedeutendsten Teile der Natur beraubt ist! So wie von einer prächtigen Eiche, welche umgehauen und von Zweigen und Ästen entblößt worden, nur der Stamm allein übriggeblieben ist, ebenso gemißhandelt und verstümmelt sitzt das Bild des Helden; Kopf, Arme und Beine und das Oberste der Brust fehlen.</p>
+<p rendition="#et">Der erste Anblick wird dir vielleicht nichts als einen verunstalteten Stein entdecken; vermagst du aber in die Geheimnisse der Kunst einzudringen, so wirst du ein Wunder derselben erblicken, wenn du dieses Werk mit einem ruhigen Auge betrachtest. Alsdann wird dir Herkules wie mitten in allen seinen Unternehmungen erscheinen, und der Held und der Gott werden in diesem Stücke zugleich sichtbar werden.</p>
+<p rendition="#et">Da, wo die Dichter aufgehört haben, hat der Künstler angefangen. Jene schwiegen, sobald der Held unter die Götter aufgenommen und mit der Göttin der ewigen Jugend ist vermählt worden, dieser aber zeigt uns denselben in einer vergötterten Gestalt und mit einem gleichsam unsterblichen Leibe, welcher dennoch Stärke und Leichtigkeit zu den großen Unternehmungen, die er vollbracht, behalten hat.</p>
+<p rendition="#et"><pb n="57" facs="#f0003"/>
+Ich sehe in den mächtigen Umrissen dieses Leibes die unüberwundene Kraft des Besiegers der gewaltigen Riesen, die sich wider die Götter empörten und in den phlegräischen Feldern von ihm erlegt wurden, und zu gleicher Zeit stellen mir die sanften Züge dieser Umrisse, die das Gebäude des Leibes leicht gelenksam machen, die geschwinden Wendungen desselben in dem Kampfe mit dem Achelous vor, der mit allen vielförmigen Verwandlungen seinen Händen nicht entgehen konnte.</p>
+<p rendition="#et">In jedem Teile des Körpers offenbart sich, wie in einem Gemälde, der ganze Held in einer besonderen Tat, und man sieht, so wie die richtigen Absichten in dem vernünftigen Baue eines Palastes, hier den Gebrauch, zu welcher Tat ein jedes Teil gedient hat.</p>
+<p rendition="#et">Ich kann das wenige, was von der Schulter noch zu sehen ist, nicht betrachten, ohne mich zu erinnern, daß auf ihrer ausgebreiteten Stärke, wie auf zwei Gebirgen, die ganze Last der himmlischen Kreise geruht hat. Mit was für einer Großheit wächst die Brust an, und wie prächtig ist die anhebende Rundung ihres Gewölbes! Eine solche Brust muß diejenige gewesen sein, auf welcher der Riese Antäus und der dreileibige Geryon erdrückt wurden. Keine Brust eines drei- und viermal gekrönten olympischen Siegers, keine Brust eines spartanischen Kriegers, von Helden geboren, muß sich so prächtig und erhoben gezeigt haben.</p>
+<p rendition="#et">Fragt diejenigen, die das Schönste in der Natur der Sterblichen kennen, ob sie eine Seite gesehen haben, die mit der linken Seite zu vergleichen ist. Die Wirkung und Gegenwirkung ihrer Muskeln ist mit einem weislichen Maße von abwechselnder Regung und schneller Kraft wunderwürdig abgewogen, und der Leib mußte durch dieselbe zu allem, was er hat vollbringen wollen, tüchtig gemacht werden. So wie in einer anhebenden Bewegung des Meeres die zuvor stille Fläche in einer nebligen Unruhe mit spielenden Wellen anwächst, wo eine von der anderen verschlungen und aus derselben wiederum hervorgewälzt wird, ebenso sanft aufgeschwellt <pb n="58" facs="#f0004"/>
+und schwebend gezogen fließt hier eine Muskel in die andere, und eine dritte, die sich zwischen ihnen erhebt und ihre Bewegung zu verstärken scheint, verliert sich in jene, und unser Blick wird gleichsam mit verschlungen.</p>
+<p rendition="#et">Hier möchte ich stillestehen, um unseren Betrachtungen Raum zu geben, der Vorstellung ein immerwährendes Bild von dieser Seite einzudrücken, allein die hohen Schönheiten sind hier in einer unzertrennlichen Mitteilung. Was für ein Begriff erwächst zugleich hierher aus den Hüften, deren Festigkeit andeuten kann, daß der Held niemals gewankt und nie sich beugen müssen!</p>
+<p rendition="#et">In diesem Augenblicke durchfährt mein Geist die entlegensten Gegenden der Welt, durch welche Herkules gezogen ist, und ich werde bis an die Grenzen seiner Mühseligkeiten und bis an die Denkmale und Säulen, wo sein Fuß ruhte, geführt durch den Anblick der Schenkel von unerschöpflicher Kraft und von einer den Gottheiten eigenen Länge, die den Held durch hundert Länder und Völker bis zur Unsterblichkeit getragen haben. Ich fing an, diese entfernten Züge zu überdenken, da mein Geist zurückgerufen wird durch einen Blick auf seinen Rücken. Ich wurde entzückt, da ich diesen Körper von hinten ansah, so wie ein Mensch, der nach Bewunderung des prächtigen Portals an einem Tempel auf die Höhe desselben geführt würde, wo ihn das Gewölbe desselben, welches er nicht übersehen kann, von neuem in Erstaunen setzt.</p>
+<p rendition="#et">Ich sehe hier den vornehmsten Bau der Gebeine dieses Leibes, den Ursprung der Muskeln und den Grund ihrer Lage und Bewegung, und dieses alles zeigt sich wie eine von der Höhe der Berge entdeckte Landschaft, über welche die Natur den mannigfaltigen Reichtum ihrer Schönheiten ausgegossen. So wie die lustigen Höhen derselben sich mit einem sanften Abhange in gesenkte Täler verlieren, die hier sich schmälern und dort erweitern, so mannigfaltig, prächtig und schön erheben sich hier schwellende Hügel von Muskeln, um welche sich oft unmerkliche Tiefen, gleich dem Strome des <pb n="59" facs="#f0005"/>
+Mäanders, krümmen, die weniger dem Gesichte als dem Gefühle offenbar werden.</p>
+<p rendition="#et">Scheint es unbegreiflich, außer dem Haupte, in einem anderen Teil des Körpers eine denkende Kraft zu zeigen, so lernt hier, wie die Hand eines schöpferischen Meisters die Materie geistig zu machen vermögend ist. Mich deucht, es bilde mir der Rücken, welcher durch hohe Betrachtungen gekrümmt scheint, ein Haupt, das mit einer frohen Erinnerung seiner erstaunenden Taten beschäftigt ist, und indem sich so ein Haupt voll von Majestät und Weisheit vor meinen Augen erhebt, so fangen sich an in meinen Gedanken die übrigen mangelhaften Glieder zu bilden: es sammelt sich ein Ausfluß aus dem Gegenwärtigen und wirkt gleichsam eine plötzliche Ergänzung.</p>
+<p rendition="#et">Die Macht der Schulter deutet mir an, wie stark die Arme gewesen, die den Löwen auf dem Gebirge Cithäron erwürgt, und mein Auge sucht sich diejenigen zu bilden, die den Cerberus gebunden und weggeführt haben. Seine Schenkel und das erhaltene Knie geben mir einen Begriff von den Beinen, die niemals ermüdet sind und den Hirsch mit Füßen von Erz verfolgt und erreicht haben.</p>
+<p rendition="#et">Durch eine geheime Kunst aber wird der Geist durch alle Taten seiner Stärke bis zur Vollkommenheit seiner Seele geführt, und in diesem Sturze ist ein Denkmal derselben, welches ihm kein Dichter, die nur die Stärke seiner Arme besingen, errichtet: der Künstler hat sie übertroffen. Sein Bild des Helden gibt keinem Gedanken von Gewalttätigkeit und von ausgelassener Liebe Platz. In der Ruhe und Stille des Körpers offenbart sich der gesetzte große Geist, der Mann, welcher sich aus Liebe zur Gerechtigkeit den größten Gefährlichkeiten ausgesetzt, der den Ländern Sicherheit und den Einwohnern Ruhe geschafft.</p>
+<p rendition="#et">Diese vorzügliche und edle Form einer so vollkommenen Natur ist gleichsam in die Unsterblichkeit eingehüllt, und die Gestalt ist bloß wie ein Gefäß derselben; ein höherer Geist scheint den Raum der sterblichen Teile eingenommen <pb n="60" facs="#f0006"/>
+und sich an die Stelle derselben ausgebreitet zu haben. Es ist nicht mehr der Körper, welcher annoch wider Ungeheuer und Friedensstörer zu streiten hat, es ist derjenige, der auf dem Berge Öta von den Schlacken der Menschlichkeit gereinigt worden, die sich von dem Ursprunge der Ähnlichkeit des Vaters der Götter abgesondert.</p>
+<p rendition="#et">So vollkommen hat weder der geliebte Hyllus noch die zärtliche Iole den Herkules gesehen; so lag er in den Armen der Hebe, der ewigen Jugend, und zog in sich einen unaufhörlichen Einfluß derselben. Von keiner sterblichen Speise und groben Teilen ist sein Leib ernährt; ihn erhält die Speise der Götter, und er scheint nur zu genießen, nicht zu nehmen, und völlig, ohne angefüllt zu sein.</p>
+<p rendition="#et">Oh, möchte ich dieses Bild in der Größe und Schönheit sehen, in welcher es sich dem Verstande des Künstlers geoffenbart hat, um nur allein von dem Überreste sagen zu können, was er gedacht hat und wie ich denken sollte! Mein großes Glück nach dem seinigen würde sein, dieses Werk würdig zu beschreiben. Voller Betrübnis aber bleibe ich stehen, und so wie Psyche anfing, die Liebe zu beweinen, nachdem sie dieselbe kennengelernt, bejammere ich den unersetzlichen Schaden dieses Herkules, nachdem ich zur Einsicht der Schönheit desselben gelangt bin.</p>
+<p rendition="#et">Die Kunst weint zugleich mit mir, denn das Werk, welches sie den größten Erfindungen des Witzes und Nachdenkens entgegensetzen und durch welches sie noch jetzt ihr Haupt wie in ihren goldenen Zeiten zu der größten Höhe menschlicher Achtung erheben könnte, dieses Werk, welches vielleicht das letzte ist, an welches sie ihre äußersten Kräfte gewendet hat, muß sie halb vernichtet und grausam gemißhandelt sehen. Wem wird hier nicht der Verlust so vieler hundert anderer Meisterstücke derselben zu Gemüte geführt! Aber die Kunst, welche uns weiter unterrichten will, ruft uns von diesen traurigen Überlegungen zurück und zeigt uns, wie viel noch aus dem Übriggebliebenen zu lernen ist und mit was für einem Auge es der Künstler ansehen müsse.</p>
+<pb n="61" facs="#f0007"/>
+
+</body></text></TEI>

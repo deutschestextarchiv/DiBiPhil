@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kandid oder die beste Welt</title>
+        <author><persName ref="http://d-nb.info/gnd/27813">Voltaire</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Kandid oder die beste Welt. Von Voltaire. Deutsch mit Einleitung und Anmerkungen von
+      A. Ellissen. Leipzig: Otto Wigand, 1844.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Kandid oder die beste Welt</title>
+      <author><persName ref="http://d-nb.info/gnd/27813">Voltaire</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/88790"><forename>Adolf</forename><surname>Ellissen</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Otto Wigand</name>
+      </publisher><pubPlace>Leipzig</pubPlace>
+      <date type="publication">1844</date>
+      <date type="firstPublication">1844</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Es handelt sich um den Artikel »Bien« (Vom Guten) aus Voltaires »Dictionnaire philosophique portatif« (Philosophisches Taschenwörterbuch), zuerst Genf/London 1764. Der Text folgt der Übersetzung von A. Ellissen von 1844.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Ueber das Gute und das Böse in der physischen und in der moralischen Welt</note>
+
+
+<head>Voltaire</head>
+<head>Ueber das Gute und das Böse in der physischen und in der moralischen Welt</head>
+<head><hi rendition="#i">(Bien)</hi></head>
+<pb n="17" facs="#f0001"/>
+<p rendition="#et">Wir stehen hier bei einer der schwierigsten und wichtigsten Fragen. Sie umfaßt das ganze menschliche Leben. Weit wichtiger wär' es freilich, ein Heilmittel gegen unsere Uebel zu finden, allein es giebt keine, und wir sind leider auf das traurige Geschäft angewiesen, ihrem Ursprunge nachzuforschen. Ueber diesen Ursprung hat man seit <hi rendition="#i">Zoroaster</hi> und allem Anschein nach seit noch längerer Zeit <pb n="17" facs="#f0002"/> gestritten. Um diesen Mischmasch von Gutem und Bösem zu erklären, ersann man zwei Grundwesen, <hi rendition="#i">Oromazes</hi>, den Urheber des Lichts, und <hi rendition="#i">Arimanes</hi>, den Urheber der Finsterniß; ferner die Büchse der <hi rendition="#i">Pandora</hi>, die beiden Fässer des <hi rendition="#i">Zeus, Eva's</hi> verbotenen Apfelbiß und so manche andere Systeme der Art. Der berühmte <hi rendition="#i">Bayle</hi>, unser erster Dialektiker, dabei aber nicht eben unser größter Philosoph, hat hinlänglich dargethan, wie schwer es den Christen, die nur <hi rendition="#i">einen</hi> und zwar <hi rendition="#i">einen guten und gerechten Gott</hi> verehren, werden muß, die Einwürfe der <hi rendition="#i">Manichäer</hi>, die zwei Götter, einen guten und einen bösen, annahmen, genügend zu widerlegen.</p>
+<p rendition="#et">So alt das System der <hi rendition="#i">Manichäer</hi> auch sein mag, so ist es darum doch seinem Wesen nach um nichts vernünftiger. Man müßte mathematische Lehrsätze construirt haben, um den Satz zu wagen: »Es giebt zwei nothwendige, höchste Wesen, beide unendlich und eins so mächtig, wie das andere, die sich einander bekriegt und sich endlich dahin vereinigt haben, daß über diesen kleinen Planeten das eine die Schätze seiner Güte, das andere den Schlund seiner Bosheit ausgießen soll.« Vergebens suchen sie durch diese Hypothese die Ursache des Guten und des Bösen zu erklären. Eher erreicht diesen Zweck noch die Fabel des<hi rendition="#i"> Prometheus</hi>. Allein jede Hypothese, die uns dazu dient, über etwas Rede zu stehen, und die nicht überdies auf bestimmten Grundprincipien beruht, ist verwerflich.</p>
+<p rendition="#et">Abgesehen von der <hi rendition="#i">Offenbarung</hi>, in Folge deren man Alles <hi rendition="#i">glauben</hi> muß, erklären die christlichen Lehrer den Ursprung des Guten und des Bösen nicht besser, als die Anhänger <hi rendition="#i">Zoroaster's</hi>.</p>
+<p rendition="#et">Sobald sie sagen, Gott ist ein zärtlicher Vater, ein gerechter Herrscher; sobald sie mit jener Liebe und Güte, <pb n="18" facs="#f0003"/> mit dieser ihnen bekannten Gerechtigkeit nach menschlichem Maßstabe den Begriff der Unendlichkeit verbinden wollen, gerathen sie in die entsetzlichsten Widersprüche. Wie konnte dieser Herrscher mit der unendlichen Fülle der Gerechtigkeit nach unsern Begriffen, dieser Vater voll unendlicher Zärtlichkeit für seine Kinder, wie konnte dies unendlich mächtige Wesen Geschöpfe nach seinem Bilde ins Dasein rufen, um sie einen Augenblick darauf von einem bösartigen Wesen in Versuchung führen, um sie in der Versuchung unterliegen, um sie, die er doch unsterblich geschaffen, sterben zu lassen, um endlich ihre Nachkommenschaft mit Elend und Verbrechen zu überhäufen? Wir reden hier nicht von einem andern Widerspruch, der unserer schwachen Vernunft noch empörender erscheint. Wie kann Gott, der doch später das Menschengeschlecht durch den Tod seines einzigen Sohnes erlöst, oder der vielmehr, selbst zum Menschen geworden, für die Menschen stirbt, wie kann er, sag' ich, eben jenes Menschengeschlecht, für das er gestorben, fast ohne Ausnahme dem Schrecken ewiger Qualen preisgeben? Gewiß, betrachten wir dies System nur aus philosophischem Gesichtspunkte (ohne Beihülfe des Glaubens), so ist kaum etwas Entsetzlicheres und Abscheulicheres denkbar. Es macht Gott entweder zur Bosheit selbst, und zwar zur unendlichen Bosheit, die denkende Wesen geschaffen, um sie ewig unglücklich zu machen, oder zur Ohnmacht und Blödsinnigkeit selbst, die das Unglück ihrer Geschöpfe weder vorher zu sehen, noch zu verhüten vermocht. Wir haben es hier aber nicht mit dem ewigen Unglück zu thun, sondern nur mit dem Guten und Bösen, was wir hienieden erfahren. Kein einziger Lehrer so vieler Kirchen, die über diesen Punkt sämmtlich mit einander im Kampfe liegen, hat niemals einen Weisen zu überzeugen vermocht.</p>
+<p rendition="#et"><pb n="19" facs="#f0004"/> Man begreift nicht, wie <hi rendition="#i">Bayle</hi>, der doch die Waffen der Dialektik mit so großer Kraft und Gewandtheit zu handhaben wußte, sich damit begnügen konnte, einen<hi rendition="#i"> Manichäer</hi>, einen <hi rendition="#i">Calvinisten</hi>, einen <hi rendition="#i">Molinisten</hi> und einen <hi rendition="#i">Socinianer</hi> argumentiren zu lassen. (Man sehe im <hi rendition="#i">Bayle</hi> die Artikel <hi rendition="#i">Manichäer, Marcionisten</hi> und<hi rendition="#i"> Paulicianer</hi>.) Warum läßt er nicht einen vernünftigen Menschen reden? Warum spricht er selbst, <hi rendition="#i">Bayle</hi>, nicht in eigner Person? Er würde sich weit besser über das ausgesprochen haben, was wir jetzt zu erörtern versuchen wollen.</p>
+<p rendition="#et">Ein Vater, der seine Kinder tödtet, ist ein Ungeheuer. Ein König, der seine Unterthanen in die Falle gehen läßt, um einen Vorwand zu haben, sie zu bestrafen, ist ein fluchwürdiger Tyrann. Setzt ihr nun bei Gott dieselbe Güte voraus, die ihr von einem Vater, dieselbe Gerechtigkeit, die ihr von einem König fordert, so ist jeder Ausweg, euern Gott zu rechtfertigen, abgeschnitten; und verleiht ihr ihm <hi rendition="#i">unendliche</hi> Weisheit und Güte, so macht ihr ihn dadurch nur unendlich verhaßt. Ihr erregt den Wunsch, es möge kein Gott vorhanden sein; ihr gebt den Gottesleugner Waffen in die Hände, und dieser wird immer berechtigt sein, euch zu sagen: Es ist besser, gar keine Gottheit anzunehmen, als ihr gerade ein solches Verhalten aufzubürden, wie ihr es bei den Menschen strafen würdet.</p>
+<p rendition="#et">Laßt uns also vor Allem einräumen: Es ziemt uns nicht, Gott menschliche Attribute beizulegen, es ziemt uns nicht, Gott nach unserm Bilde zu schaffen. Menschliche Gerechtigkeit, menschliche Güte, menschliche Weisheit, das Alles läßt sich unmöglich auf ihn übertragen. Mag man immerhin diesen Eigenschaften eine unendliche Ausdehnung geben wollen, immer bleiben es nur <hi rendition="#i">menschliche Eigenschaften</hi>,<pb n="20" facs="#f0005"/> deren Grenzen wir erweitern. Es ist nicht anders, als wollten wir Gott unendliche Dichtigkeit, unendliche Bewegung, unendliche Ründung, unendliche Theilbarkeit beilegen. Diese Attribute können einmal nicht die seinen sein.</p>
+<p rendition="#et">Die Philosophie lehrt uns, daß diese Welt ihre Einrichtung von einem unbegreiflichen, ewigen, durch seine eigne Natur bestehenden Wesen empfangen haben muß; aber, wie gesagt, die Natur giebt uns keine Auskunft über die Attribute dieser Natur. Wir wissen, was es <hi rendition="#i">nicht</hi> ist, nicht aber, was es ist.</p>
+<p rendition="#et">Für Gott giebt es nichts Gutes oder Böses, weder physisches noch moralisches.</p>
+<p rendition="#et">Was ist das physische Uebel? Das größte aller Uebel ist unstreitig der Tod. Wir wollen jetzt sehen, ob der Mensch möglicher Weise unsterblich hätte sein können.</p>
+<p rendition="#et">Sollte ein Körper, wie der unsrige, unauflöslich und unvergänglich sein, so dürfte er nicht aus Theilen bestehen; er dürfte nicht geboren werden, dürfte keine Nahrung zu sich nehmen können, dürfte keines Wachsthums und keiner Veränderung fähig sein. Man prüfe alle diese Fragen, die jeder Leser willkürlich ausdehnen kann, und man wird inne werden, daß der Satz, der Mensch könne unsterblich sein, einen Widerspruch enthält.</p>
+<p rendition="#et">Wäre unser organischer Körper unsterblich, so würde der der Thiere es auch sein. Nun liegt aber am Tage, daß alsdann der Erdball so viele Geschöpfe gar bald nicht mehr würde ernähren können. Diese unsterblichen Wesen, die nur vermittelst der Erneuerung ihres Körpers durch die Nahrung fortleben, würden also aus Mangel an Stoff zu dieser Erneuerung umkommen. Das Alles ist ein Gewebe von Widersprüchen. Es ließe sich noch weit mehr <pb n="21" facs="#f0006"/> hierüber sagen; allein jeder richtig denkende Leser sieht ein, daß der Tod für alles Geborne unerläßlich war, daß er weder ein Irrthum Gottes, noch ein Uebel, noch eine Ungerechtigkeit, noch eine Züchtigung des Menschen sein kann.</p>
+<p rendition="#et">Geboren um zu sterben, kann der Mensch so wenig den Schmerzen, als dem Tode entgehen. Sollte eine organische, mit Gefühl begabte Substanz nie Schmerz empfinden, so müßten sich erst alle Naturgesetze ändern; so dürfte die Materie nicht mehr theilbar sein, es dürfte weder Schwere, noch Bewegung, noch Kraft mehr geben, ein Felsblock müßte auf ein Thier fallen können, ohne es zu zerschmettern, es dürfte weder durch das Wasser erstickt, noch durchs Feuer verbrannt werden können. Ein für den Schmerz fühlloser Mensch wäre also ein eben so contradictorischer Begriff, als ein unsterblicher Mensch.</p>
+<p rendition="#et">Das Gefühl des Schmerzes war nothwendig, um uns das Gesetz der Selbsterhaltung einzuschärfen und uns so viel angenehme Empfindungen zu verschaffen, als die allgemeinen Gesetze, denen Alles unterworfen ist, gestatten.</p>
+<p rendition="#et">Empfänden wir keinen Schmerz, so würden wir uns alle Augenblicke verwunden, ohne es zu fühlen. Ohne den Anfang des Schmerzes würden wir keine Verrichtung des Lebens vollziehen, wir würden es keinem Andern mittheilen, wir würden kein Vergnügen kennen. Der Hunger ist ein beginnender Schmerz, der uns veranlaßt, Nahrung zu uns zu nehmen; die Langeweile ein Schmerz, der uns zwingt, uns zu beschäftigen; die Liebe ein Bedürfniß, das schmerzlich wird, wenn wir es nicht befriedigen. Kurz, jeder Wunsch ist ein Bedürfniß, ein beginnender Schmerz. Der Schmerz ist also die erste Triebfeder aller thierischen Handlungen. Jedes gefühlbegabte Thier muß dem Schmerz <pb n="22" facs="#f0007"/> unterworfen sein, wenn die Materie theilbar ist. Der Schmerz war demnach so nothwendig wie der Tod. Er kann also weder ein Irrthum der Vorsehung, noch eine Bosheit, noch eine Strafe sein. Hätten wir nur die Thiere leiden sehen, so würden wir die Natur nicht anklagen. Wären wir, selbst gefühllos, Zeugen des langsamen und schmerzhaften Todes der Tauben, auf die ein Sperber herabschießt, um nach seiner Bequemlichkeit ihre Eingeweide zu verzehren, und damit nichts Andres zu thun, als was wir selbst thun, so würde es uns nicht einfallen, darüber zu murren. Mit welchem Rechte aber sollen unsere Körper vor dem der Thiere etwas voraus haben und nicht wie diese zerrissen werden können? Etwa weil wir ihnen an Einsicht überlegen sind? Was hat aber hier die Einsicht mit einer theilbaren Materie zu schaffen? Müssen oder können einige Begriffe mehr oder weniger in einem Hirnschädel hindern, daß das Feuer uns verbrennt und daß ein Felsen uns zerschmettert?</p>
+<p rendition="#et">Das moralische Uebel, worüber man so viele Bände geschrieben, fällt im Grunde mit dem physischen völlig zusammen. Dies moralische Uebel ist weiter nichts als ein schmerzhaftes Gefühl, das ein organisches Wesen dem andern verursacht. Räuberei, Beschimpfung etc. können nur für ein Uebel gelten, insofern sie ein solches verursachen. Da wir nun aber sicherlich Gott nichts Böses zufügen können, so zeigt uns die Vernunft (abgesehen vom Glauben, der ganz etwas Anderes ist) auf das sonnenklarste, daß es in Beziehung auf das höchste Wesen kein moralisches Uebel geben kann.</p>
+<p rendition="#et">Da das größte aller physischen Uebel der <hi rendition="#i">Tod</hi> ist, so ist jedenfalls das größte moralische Uebel der<hi rendition="#i"> Krieg</hi>. Er zieht alle Verbrechen nach sich: Schmähungen und Verleumdungen in den Kriegserklärungen, Treubruch in den <pb n="23" facs="#f0008"/> Verträgen, Raub und Verheerung, Schmerz und Tod in allen Gestalten.</p>
+<p rendition="#et">Das Alles ist ein physisches Uebel für den Menschen, in Beziehung auf Gott aber sicher so wenig ein moralisches Uebel, wie die Wuth der Hunde, die sich untereinander herumbeißen. Es ist ein eben so falscher, als schwacher Gemeinplatz, zu sagen, nur die Menschen erwürgten einander. Die Wölfe, Hunde, Katzen, Hähne, Wachteln etc. liegen unter sich, unter ihrer eigenen Gattung im Kampfe; die Buschspinnen fressen einander auf; fast bei allen Thieren schlagen sich die Männchen um den Besitz der Weibchen. Dieser Krieg ist die Folge der Naturgesetze, der im Blute liegenden Dispositionen; Alles steht im Zusammenhange mit einander, Alles ist nothwendig.</p>
+<p rendition="#et">Die Natur gab dem Menschen, Eins ins Andere gerechnet, ungefähr <hi rendition="#i">22</hi> Lebensjahre, das will sagen: von <hi rendition="#i">1000</hi> Kindern, die in einem Monat geboren werden, sterben die einen in der Wiege, andere leben bis zum<hi rendition="#i"> 30</hi>., wieder andere bis zum <hi rendition="#i">50</hi>., einige bis zum <hi rendition="#i">80</hi>. Jahre, so daß sich, wenn man nun die Durchschnittsrechnung macht, für jeden etwa <hi rendition="#i">22</hi> Jahre ergeben.</p>
+<p rendition="#et">Was ist nun wohl Gott daran gelegen, ob man im Kriege fällt oder an einem hitzigen Fieber stirbt? Der Krieg rafft weniger Menschen hinweg als die Blattern. Die Plage des Kriegs ist vorübergehend, die der Blattern dagegen herrscht beständig auf der ganzen Erde; und alle Plagen sind so combinirt, daß jene Durchschnittssumme von <hi rendition="#i">22</hi> Lebensjahren im Allgemeinen als stehend gelten kann.</p>
+<p rendition="#et">Der Mensch beleidigt Gott, indem er seinen Nächsten tödtet, sprecht ihr. Wenn das ist, so sind die Regierer der Nationen entsetzliche Verbrecher; denn aus erbärmlichem Eigennutz, um nichtswürdiger Interessen willen, die sie <pb n="24" facs="#f0009"/> lieber aufgeben sollten, liefern sie eine unsägliche Menge von Ihresgleichen an die Schlachtbank und rufen obendrein Gott dabei an. Allein wie sollten sie (philosophisch gesprochen) Gott dadurch beleidigen? Wie die Tiger und Krokodile ihn beleidigen. Offenbar ist es nicht Gott, den sie quälen, sondern ihr Nächster. Nur dem Menschen gegenüber kann der Mensch schuldig sein. Ein Straßenräuber kann Gott nicht bestehlen. Was liegt dem ewigen Wesen daran, ob eine Handvoll gelben Metalls in Hieronymus' oder Bonaventura's Händen ist? Wir haben nothwendige Wünsche, nothwendige Leidenschaften, nothwendige Gesetze, um sie zu unterdrücken; und während wir uns auf unserm Ameisenhaufen um einen Strohhalm zanken, geht das Universum seinen Gang nach ewigen und unwandelbaren Gesetzen, denen auch das Atom, was wir Erde nennen, unter worfen ist.</p>
+
+</body></text></TEI>

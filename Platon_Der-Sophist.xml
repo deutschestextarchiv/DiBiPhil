@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sämtliche Werke</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Platon: Sämtliche Werke. Berlin: Lambert Schneider, [1940].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sämtliche Werke</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Verlag Lambert Schneider</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1940</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden etwa nach 365 v. Chr. Erstdruck (in lateinischer Übersetzung durch Marsilio Ficino) in: Opere, Florenz o. J. (ca. 1482/84). Erstdruck des griechischen Originals in: Hapanta ta tu Platônos, herausgegeben von M. Musoros, Venedig 1513. Erste deutsche Übersetzung durch Johann Friedrich Kleuker in: Werke, 4. Band, Lemgo 1786. Der Text folgt der Übersetzung durch Friedrich Daniel Ernst Schleiermacher von 1807.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Der Sophist</note>
+
+<head><pb n="662" facs="#f0001"/> Platon</head>
+<head>Der Sophist</head>
+<head><hi rendition="#i">(Sophistês)</hi></head>
+<pb n="663" facs="#f0002"/> <pb n="665" facs="#f0003"/><lb/>
+<head>Theodoros · Sokrates · Fremder aus Elea · Theaitetos</head>
+<p><hi rendition="#i">Theodoros:</hi> Der gestrigen Verabredung gemäß, o Sokrates, Stellen wir selbst uns gebührend ein und bringen auch hier noch einen Fremdling mit, seiner Abkunft nach aus Elea, und einen Freund derer, die sich zum Parmenides und Zenon halten, einen gar philosophischen Mann.</p>
+<p><hi rendition="#i">Sokrates:</hi> Solltest du etwa, Theodoros, dir unbewußt nicht einen Fremdling, sondern einen Gott mitbringen nach der Rede des Homeros, welcher ja sagt, daß sowohl andere Götter solche Menschen, die an Recht und Scham festhalten, als auch besonders der gastliche Gott, zu geleiten pflegen, um den Übermut und die Frömmigkeit der Menschen zu beschauen: Vielleicht also begleitet auch dich auf dieselbe Art dieser, einer der Höheren, um uns, die wir noch so gering sind im Reden, heimzusuchen und zu überführen, ein überführender Gott?</p>
+<p><hi rendition="#i">Theodoros:</hi> Nicht ist dieses die Weise des Fremdlings, o Sokrates; sondern bescheidener ist er als die, welche sich auf das Streiten gelegt haben. Und es dünkt mich der Mann ein Gott zwar keineswegs zu sein, göttlich aber gewiß; denn alle Philosophen möchte ich so benennen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und mit Recht, o Freund. Nur mag wohl dieses Geschlecht, daß ich es heraussage, nicht viel leichter zu erkennen sein als das der Götter. Denn in gar mancherlei Gestalten erscheinen, wegen der Unwissenheit der andern, diese Männer, die nicht angeblichen, sondern wahrhaften Philosophen, und durchgehen, die Gebiete der Menschen betrachtend, von oben her der Niedern Leben, und einigen scheinen sie gar nichts wert zu sein, anderen über alles zu schätzen, und sie werden bald für Staatsmänner angesehen, bald für Sophisten; ja bisweilen sind sie einigen schon vorgekommen als gänzlich Verwirrte. Von unserm Fremdling nun möchte ich gern vernehmen, wenn es auch ihm gelegen wäre, was doch die Leute dortigen Ortes hiervon hielten und sagten.</p>
+<p><hi rendition="#i">Theodoros:</hi> Wovon denn?</p>
+<p><hi rendition="#i"><pb n="665" facs="#f0004"/> Sokrates:</hi> Vom Sophisten, Staatsmann, Philosophen.</p>
+<p><hi rendition="#i">Theodoros:</hi> Was doch eigentlich? Und was für Ungewißheit hast du hierüber, daß dir dies zu fragen eingefallen ist?</p>
+<p><hi rendition="#i">Sokrates:</hi> Diese, ob sie dies alles für einerlei hielten oder für zweierlei, oder ob sie, so wie die drei Wörter, so auch drei Gattungen unterscheidend, nach der Zahl der Namen mit jedem auch einen besonderen Begriff verknüpften?</p>
+<p><hi rendition="#i">Theodoros:</hi> Er wird ja, wie ich meine, kein Bedenken haben, dies durchzugehen. Oder was, o Fremdling, wollen wir sagen; fremder: Eben dies, Theodoros. Denn weder habe ich ein Bedenken, noch ist es schwer zu sagen, daß sie es ja wohl für dreierlei hielten. Einzeln aber genau zu bestimmen, was jedes ist, das ist kein kleines noch leichtes Geschäft.</p>
+<p><hi rendition="#i">Theodoros:</hi> Recht glücklich, o Sokrates, hast du einen Gegenstand ergriffen, der dem ganz verwandt ist, worüber wir schon, ehe wir hierhergingen, diesen befragten. Er aber hat dasselbe, was jetzt gegen dich, auch vorher gegen uns vorgeschützt. Denn genug darüber gehört zu haben bekennt er, und auch, daß es ihm nicht entfallen ist.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also, o Fremdling, bescheide uns ja nicht abschlägig, indem wir eben die erste Gunst von dir erbitten! Sondern nur dies sage uns zuvor, ob du gewohnt bist, lieber für dich allein in fortlaufender Rede sprechend dasjenige durchzuführen, was du jemandem darstellen willst, oder in Fragen; welcher Art und Weise ich einst den Parmenides sich bedienen und treffliche Sachen durchführen hörte in meinem Beisein, da ich noch ein junger Mensch, er aber schon ziemlich bei Jahren war.</p>
+<p><hi rendition="#i">Fremder:</hi> Mit einem, o Sokrates, der ohne Verdruß und lenksam mitzusprechen weiß, lieber leichter so gesprächsweise; wenn aber das nicht, dann allein.</p>
+<p><hi rendition="#i">Sokrates:</hi> Demnach nun steht dir frei, von den Anwesenden welchen du willst auszuwählen; denn alle werden dir willig folgen. Nimmst du aber meinen Rat an, so wirst du einen von den Jünglingen wählen, etwa hier den Theaitetos, oder welcher von den andern nach deinem Sinne sein mag.</p>
+<p><hi rendition="#i">Fremder:</hi> O Sokrates, eine gewisse Scham ergreift mich doch, daß ich, jetzt zum ersten Male unter euch, nicht soll kurzes Gespräch Wort um Wort mit euch führen, sondern mich ausbreitend <pb n="666" facs="#f0005"/> eine zusammenhängende Rede durchführen, geschehe es nun allein oder mit einem andern, als ob ich mich vor euch zeigen wollte. Denn das Aufgegebene ist in der Tat nicht so kurz, als einer, wenn es so gefragt ist, erwarten könnte; sondern es bedarf einer gar langen Auseinandersetzung. Auf der andern Seite aber dir und diesen nicht gefällig zu sein, zumal nach dem, was du gesagt, scheint mir ungastlich zu sein und ungesittet. Denn daß Theaitetos der Gesprächsgenosse sei, ist mir auf alle Weise genehm, sowohl infolge dessen, was ich schon selbst vorher mit ihm gesprochen habe, als auch, weil du ihn jetzt dazu empfiehlst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wirst du so aber auch, wie Sokrates sagte, <hi rendition="#i">allen</hi> gefällig sein, o Fremdling?</p>
+<p><hi rendition="#i">Fremder:</hi> Hierüber scheint nichts mehr zu sagen nötig, Theaitetos, und an dich soll von nun an, wie es scheint, meine Rede ergehen. Wenn es dich aber auf die Länge anstrengt und dir beschwerlich wird, so gib die Schuld davon nicht mir, sondern diesen deinen Freunden!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich hoffe ja, daß ich jetzt gerade nicht so ermüden werde. Sollte mir aber dergleichen begegnen, so wollen wir auch diesen Sokrates dazunehmen, der dem Sokrates dem Namen, mir dem Alter nach gleich ist und mein Übungsgenosse und dem daher mancherlei mühsam mit mir zu bestehen nicht ungewohnt ist.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlgesprochen, und hierüber magst du selbst mit dir zu Rate gehn im Verfolg unserer Rede. Jetzt aber mußt du gemeinschaftlich mit mir zur Untersuchung schreiten, zuerst beginnend, wie mich dünkt, vom Sophisten zu suchen und durch die Rede aufzuhellen, was er wohl ist. Denn jetzt haben ich und du von ihm nur erst den Namen gemein; die Sache aber, der wir ihn beilegen, mag vielleicht jeder von uns bei sich selbst besonders vorstellen. Immer aber muß man in allen Dingen über die Sache lieber durch Erklärungen sich verständigen als nur über den Namen ohne Erklärung. Der ganze Stamm aber, den wir jetzt vorhaben zu suchen, ist wohl nicht eben vor andern leicht zu ergreifen: wohin er gehört, der Sophist. Was aber Großes wohl gelingen soll, darüber sind alle von jeher einig, daß man es zuvor an Kleinem und Leichterem üben müsse, ehe als an dem Größten selbst. So auch jetzt, o Theaitetos, <pb n="667" facs="#f0006"/> rate ich wenigstens uns beiden, – weil wir die Art des Sophisten für mühsam und schwer einzufangen halten, zuvor an etwas anderem. Leichterem das Verfahren zu versuchen, wenn du nicht etwa anderswoher einen anderen, leichteren Weg anzugeben hast.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Den habe ich nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Sollen wir uns also etwas ganz Geringes holen und daran versuchen, ein Vorbild aufzustellen für das Größere?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Was sollen wir also vornehmen leicht zu Erkennendes und Kleines, dennoch aber nicht kürzerer Erklärung Bedürfendes als das Größere? Etwa der Angelfischer: ist der nicht etwas allen Bekanntes und viel Mühe auf ihn zu wenden gar nicht wert?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist er.</p>
+<p><hi rendition="#i">Fremder:</hi> Ein Verfahren aber soll er uns, hoffe ich, zeigen und eine Erklärung gar nicht unangemessen für das, was wir wollen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das wäre ja vortrefflich.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan denn, laß uns so mit ihm beginnen: Sage mir, wollen wir ihn als einen Künstler setzen oder als einen Kunstlosen, dem aber irgend ein anderes Vermögen zukommt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs doch als einen Kunstlosen.</p>
+<p><hi rendition="#i">Fremder:</hi> Für alle Künste aber gibt es etwa zwei Begriffe.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Der Ackerbau nämlich und jegliche Bemühung um einen sterblichen Körper, und wiederum, was sich auf das Zusammengefügte und Gestaltete bezieht, was wir Gerätschaft nennen, dann die nachahmende Kunst, alles dieses kann mit Recht durch eine Benennung bezeichnet werden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie und durch welche?</p>
+<p><hi rendition="#i">Sokrates:</hi> Wo nur immer jemand, was zuvor nicht war, hernach zum Dasein bringt, sagt man, daß der Bringende es mache, das Gebrachte aber gemacht werde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Was wir nun eben angeführt haben, hatte sämtlich hierin seine Kraft.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Hierin allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> So könnte man demnach dies alles zusammenfassend die <hi rendition="#i">hervorbringende Kunst</hi> nennen.</p>
+<p><hi rendition="#i"><pb n="668" facs="#f0007"/> Theaitetos:</hi> So sei es.</p>
+<p><hi rendition="#i">Fremder:</hi> Alle Arten des Erlernens aber auf der andern Seite und der Erkenntnis, alles Geldverdienen ferner und Kämpfen und Jagen, da keine davon etwas verfertigt, sondern nur das bereits Vorhandene und Gewordene teils durch Worte und Taten in ihre Gewalt bringt, teils es denen, welche es in ihre Gewalt bringen, nicht vergönnt: so könnte deshalb am besten eine Kunst, welche man die <hi rendition="#i">erwerbende Kunst</hi> nennte, alle diese Abteilungen beschreiben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, das ginge wohl.</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn nun alle Künste zur erwerbenden oder hervorbringenden gehören, unter welche, o Theaitetos, wollen wir den Angelfischer setzen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unter die erwerbende offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Gibt es aber von der erwerbenden nicht zwei Gattungen, deren eine jegliches auf beiden Seiten gutwillige Umsetzen ist durch Geschenk sowohl als Kauf oder Miete; das übrige insgesamt aber, jegliche Bezwingung, geschehe sie nun wörtlich oder tätlich, in sich Schließende hieße die bezwingende.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Es ist deutlich aus dem Gesagten.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber? Sollen wir die bezwingende nicht wieder in zwei zerschneiden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf welche Art?</p>
+<p><hi rendition="#i">Fremder:</hi> Indem wir nämlich alles Offenbare als Kampf setzen, das Heimliche in ihr aber insgesamt als Nachstellung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gut.</p>
+<p><hi rendition="#i">Fremder:</hi> Die Nachstellung nun wäre es unvernünftig nicht wieder in zwei zu teilen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sage, wie?</p>
+<p><hi rendition="#i">Fremder:</hi> Die eine für das Leblose absondernd, die andere für das Belebte.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Warum sollte man nicht, wenn es doch beides gibt?</p>
+<p><hi rendition="#i">Fremder:</hi> Wie gäbe es das nicht? Und die des Leblosen, welche bis auf einige Teile der Taucherkunst und andere dergleichen kleinere unbenannt ist, müssen wir liegen lassen, die des Belebten aber, welche nun die Nachstellung gegen Tiere ist, die Tiernachstellung oder die Jagd nennen.</p>
+<p><hi rendition="#i"><pb n="669" facs="#f0008"/> Theaitetos:</hi> So sei es.</p>
+<p><hi rendition="#i">Fremder:</hi> Von der Jagd aber könnte man nicht eine zwiefache Art mit Recht anführen? Eine, welche, auf die Gattung der Landtiere gehend, in viele Arten und Namen geteilt ist, die Landjagd; die andere, ganz auf die schwimmenden Tiere gehend, die Jagd im Flüssigen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Von den schwimmenden Tieren aber sehen wir ein befiedertes Geschlecht und ein im Wasser lebendes?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Und die gesamte Jagd auf das befiederte Geschlecht heißt doch wohl die Vogeljagd?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So heißt sie allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Und die auf das im Wasser Lebende insgemein die Fischerei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Möchten wir nicht auch diese Jagd wiederum in zwei große Teile teilen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> In was für welche?</p>
+<p><hi rendition="#i">Fremder:</hi> Inwiefern der eine durch Gehege allein den Fang vollbringt, der andere durch Verwundung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das? Und wonach trennen sich beide?</p>
+<p><hi rendition="#i">Fremder:</hi> Die einen, weil alles, was etwas, um es zurückzuhalten, umgibt, wohl ein Gehege heißen muß.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Reusen also und Schlingen und Hamen und Grundnetze und dergleichen, soll man das anders als Gehege nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nicht anders.</p>
+<p><hi rendition="#i">Fremder:</hi> Netzfang also würden wir diesen Teil der Jagd nennen, oder so ungefähr.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Der aber mit Haken und Harpunen durch Verwundung geschieht, den würden wir von jenem unterscheidend jetzt mit einem Worte die Wundfischerei nennen müssen. Oder wie, Theaitetos, könnte man sie besser benennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Laß es sein mit dem Namen; denn auch dieser ist gut genug.</p>
+<p><hi rendition="#i">Fremder:</hi> Die nächtliche Art Wundfischerei nun, die beim <pb n="670" facs="#f0009"/> Scheine des Feuers getrieben wird, heißt bei denen, die ihr obliegen, schon der Fackelfang.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Die aber bei Tage, mit Haken an der Spitze und mit Harpunen, heißt im allgemeinen die Hakenfischerei.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So heißt sie.</p>
+<p><hi rendition="#i">Fremder:</hi> Was nun bei dieser zur Wundfischerei gehörigen Hakenfischerei von oben nach unten geschieht, das wird, weil man sich der Harpunen vornehmlich auf diese Art bedient, die Harpunenfischerei genannt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So nennen sie einige.</p>
+<p><hi rendition="#i">Fremder:</hi> Das übrige ist nun nur noch eine Art.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für eine?</p>
+<p><hi rendition="#i">Fremder:</hi> Die durch den ganz entgegengesetzten Zug mit dem Angelhaken getrieben wird und die Fische nicht gleichviel an welchem Teile des Leibes trifft wie mit der Harpune, sondern allemal am Kopf und Munde und den gefangenen Fisch dann mittelst Rute und Rohr von unten heraufzieht. Und wie sollen wir sagen, Theaitetos, daß diese müsse genannt werden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Mich dünkt, was wir uns eben vorgesetzt hatten zu finden, nun wirklich vollbracht zu sein.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun also sind wir, du und ich, von der Angelfischerei nicht nur über den Namen einig, sondern haben auch die Erklärung über die Sache selbst zur Genüge erlangt. Denn von der gesamten Kunst war die eine Hälfte die erwerbende, von der erwerbenden die bezwingende, von der bezwingenden die nachstellende, von der nachstellenden die jagende, von der jagenden die im Flüssigen jagende, von der im Flüssigen jagenden war der ganze untere Abschnitt die Fischerei, von dieser ein Teil die verwundende, von der verwundenden die Hakenfischerei, und von dieser hat uns die Art vermittelst einer von unten nach oben gezogenen und den Fisch daran hängenden Wunde den der Tat selbst nachgebildeten Namen der Angelfischerei erhalten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise ist dies nun hinreichend aufgehellt.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan denn, wollen wir nach eben diesem Muster wie hier auch versuchen aufzufinden, was der Sophist wohl ist?</p>
+<p><hi rendition="#i"><pb n="671" facs="#f00010"/> Theaitetos:</hi> Allerdings freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Jenes war also doch die erste Frage, ob wir den Angelfischer sollten als einen Unwissenden oder als eine Kunst besitzend ansehen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> So auch jetzt, Theaitetos, wollen wir diesen als einen Unwissenden setzen oder auf alle Weise doch als einen wirklich klugen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs als unwissend, denn ich verstehe, was du meinst, daß auf alle Weise von der letzten Art sein muß, wer diesen Namen führt.</p>
+<p><hi rendition="#i">Fremder:</hi> Also als im Besitz einer Kunst müssen wir ihn auf alle Weise setzen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Aber was für einer wohl?</p>
+<p><hi rendition="#i">Fremder:</hi> Ist etwa gar, bei den Göttern, uns unbewußt der Mann mit dem andern verwandt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wer mit wem?</p>
+<p><hi rendition="#i">Fremder:</hi> Der Angelfischer mit dem Sophisten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Jäger scheinen sie mir ganz bestimmt beide zu sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> In welcher Jagd der eine? Denn von dem andern haben wir es gesagt.</p>
+<p><hi rendition="#i">Fremder:</hi> Haben wir nicht eben die gesamte Jagd in zwei Teile geteilt, den einen für die Schwimmenden abschneidend, den andern für die Gehenden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und sind von dem einen durchgegangen, was sich auf die im Wasser Schwimmenden bezog, die Landjagd aber haben wir ungespaltet gelassen und nur erwähnt, sie wäre sehr vielartig?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So geschah es.</p>
+<p><hi rendition="#i">Fremder:</hi> Bis hierher nun sind der Sophist und der Angelfischer von der erwerbenden Kunst aus mit einander gegangen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So scheinen sie wenigstens.</p>
+<p><hi rendition="#i">Fremder:</hi> Sie trennen sich aber bei der Tiernachstellung, der eine nach dem Meere und den Strömen und Seen hin, um den dort befindlichen Tieren nachzustellen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Der andere aber aufs Land und zu ganz anderen <pb n="672" facs="#f00011"/> Strömen, nämlich des Reichtums und der Jugend, daß ich so sage, üppigen Wiesen, um der hier befindlichen Geschöpfe sich zu bemächtigen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Fremder:</hi> Von der Landjagd gibt es zwei ganz große Teile.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches sind die beiden?</p>
+<p><hi rendition="#i">Fremder:</hi> Die der zahmen und die der wilden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gibt es denn eine Jagd auf zahme Tiere?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn anders der Mensch ein zahmes Tier ist! Setze aber, was dir gefallt: entweder, daß es gar keine zahmen Tiere gebe, oder daß es deren zwar gebe, der Mensch aber ein wildes sei; oder du magst auch den Menschen zwar ein zahmes nennen, aber nicht glauben, daß es eine Nachstellung auf den Menschen gebe; was du hiervon am liebsten möchtest behauptet haben, darüber erkläre dich nur!</p>
+<p><hi rendition="#i">Theaitetos:</hi> So halte ich denn uns für ein zahmes Tier, o Fremdling, und sage auch, daß es eine Nachstellung auf Menschen gebe.</p>
+<p><hi rendition="#i">Fremder:</hi> Zwiefach, sagen wir nun auch wieder, sei die zahme Jagd.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Weshalb sagen wir das?</p>
+<p><hi rendition="#i">Fremder:</hi> Die Räuberei, die Sklavenfangerei, die Tyrannei und die gesamte Kriegskunst, dies sämtlich bestimmen wir als die gewaltsame Nachstellung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Schön.</p>
+<p><hi rendition="#i">Fremder:</hi> Die sachwalterische aber und die volksrednerische und die umgängliche, insgesamt als eins, wollen wir eine Kunst, die überredende, nennen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Von der Überredungskunst aber setzen wir zwei Gattungen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für welche?</p>
+<p><hi rendition="#i">Fremder:</hi> Eine die unter Einzelnen, die andere die öffentlich getriebene.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Beide Arten gibt es allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Von der nicht öffentlichen nun ist wiederum die eine die <hi rendition="#i">lohnfordernde</hi>, die andere die <hi rendition="#i">geschenkbringende</hi>.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das verstehe ich nicht.</p>
+<p><hi rendition="#i"><pb n="673" facs="#f00012"/> Fremder:</hi> So scheinst du auf die Nachstellung der Liebenden wohl noch nie gemerkt zu haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Wie sieden Gefangenen noch Geschenke dazu geben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du hast ganz recht.</p>
+<p><hi rendition="#i">Fremder:</hi> Diese Art sei also die der Liebeskunst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz wohl.</p>
+<p><hi rendition="#i">Fremder:</hi> Von der lohnfordernden aber gibt es zunächst eine Art, welche immer lieblich redend und, die Lust überall als Lockspeise brauchend, als einzigen Lohn Nahrung fordert, welche wir, glaube ich, als die einschmeichelnde alle für eine ergötzliche Kunst erklären würden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie denn anders?</p>
+<p><hi rendition="#i">Fremder:</hi> Die andere aber, welche um der Tugend willen Umgang zu pflegen verheißt und sich Geld zum Lohne reichen läßt, – lohnt es nicht, daß wir diese Art mit einem andern Namen benennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremde:</hi> Aber mit welchem wohl? Das versuche zu sagen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Es ist klar. Denn den Sophisten haben wir, dünkt mich, gefunden. Ich wenigstens glaube, indem ich ihn für dieses erkläre, ihn mit dem schicklichsten Namen zu benennen.</p>
+<p><hi rendition="#i">Fremder:</hi> Nach dieser jetzigen Rede also, o Theaitetos, wäre die von der nachstellend bezwingenden aneignenden Kunst, und zwar von der Tiernachstellung zu Lande auf Menschen, nämlich der nicht öffentlichen Überredungskunst lohnforderndem, für Geld sich verkaufendem, scheinbar belehrendem Teil auf reiche angesehene Jünglinge angestellte Jagd, wie diese Rede uns ausgegangen ist, die sophistische Kunst zu nennen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch so laß uns aber noch zusehen: Denn nicht einer geringen Kunst ist teilhaftig, was wir jetzt suchen, sondern einer gar mannigfaltigen. Denn auch aus dem Vorhergesagten ergibt sich ein Schein, als sei es nicht das, was wir jetzt sagen, sondern noch eine andere Gattung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Von der erwerbenden Kunst gab es doch zwei Arten: indem sie sowohl einen nachstellenden Teil hat als einen umsetzenden.</p>
+<p><hi rendition="#i"><pb n="674" facs="#f00013"/> Theaitetos:</hi> So war es.</p>
+<p><hi rendition="#i">Fremder:</hi> Dem Umsatz wollen wir nun wieder zwei Arten geben: die eine das Schenken, die andere das Kaufen oder den Handel.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das soll gelten.</p>
+<p><hi rendition="#i">Fremder:</hi> Weiter wollen wir sagen, daß auch der Handel in zwei Teile zerfalle.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie?</p>
+<p><hi rendition="#i">Fremder:</hi> Absondernd den Eigenhandel der Selbstverfertiger von dem Zwischenhandel derer, welche fremde Arbeit umtauschen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sehr wohl.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber? Was von dem Zwischenhandel städtischer Verkauf ist, gewiß fast die Hälfte desselben, nennt man das nicht Kleinhandel?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Den Handel aber, welcher von einer Stadt zur andern durch Kaufund Verkauf getrieben wird, nennt man den nicht Großhandel?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und haben wir etwa nicht bemerkt, daß dieses Großhandels einer Teil das, wovon der Leib sich nährt und Gebrauch macht, der andere das, wovon die Seele sich nährt und Gebrauch macht, im Verkauf gegen Geld umsetzt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du dies?</p>
+<p><hi rendition="#i">Fremder:</hi> So ist uns wohl das unbekannt von der Seele, denn das andre verstehen wir doch.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Die gesamte Tonkunst wollen wir also sagen, indem sie von einer Stadt zur andern, hier eingekauft und dort hingeführt und verkauft wird, und die Malerei und die Taschenspielerei und vieles andere der Seele Angehörige, was teils der Ergötzung, teils auch ernstlicher Beschäftigung wegen eingeführt und verkauft wird, verschafft denen, die es einführen und verkaufen, mit nicht minderem Recht den Namen eines Kaufmannes, als der Handel mit Getreide oder Wein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du hast ganz recht.</p>
+<p><hi rendition="#i">Fremder:</hi> Willst du also nicht auch den, welcher Kenntnisse <pb n="675" facs="#f00014"/> zusammenkauft und sie von einer Stadt zur andern wieder umsetzt gegen Geld, mit demselben Namen benennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Von diesem Seelengroßhandel nun könnte man mit Recht den einen Teil die Schaustellung heißen; dem andern aber, obgleich nicht minder lächerlich als das Vorige, muß man dennoch als einem Handel mit Kenntnissen einen dem Geschäft verschwisterten Namen beilegen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Von diesem Kenntnisverkauf nun wollen wir den Teil, der die Kenntnis der andern Künste betrifft, mit einem, den aber auf die Tugend sich beziehenden mit einem andern Namen benennen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Der Name Kunstverkauf möchte für jenes übrige wohl angemessen sein; diesem aber versuche du, den Namen zu geben!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Und welchen Namen könnte man, ohne fehlzugehen, der Sache geben, außer wenn man sagt, sie sei das eben jetzt von uns Gesuchte, das sophistische Geschlecht?</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht anders. Wohlan also, laß uns das Ganze zusammenstellen und sagen, es sei als der erwerbenden Kunst umsetzenden kaufmännischen Zweiges, und zwar des Zwischenhandels mit Seelengütern, Reden und Kenntnisse über die Tugend verkaufender Teil zum zweitenmal nun erschienen die sophistische Kunst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vortrefflich.</p>
+<p><hi rendition="#i">Fremder:</hi> Drittens denke ich aber auch, wenn jemand, in der Stadt selbst sich gänzlich niederlassend, Kenntnisse über eben diese Gegenstände teils einkaufend, teils auch selbst zuschnitzend, wiederum verkaufte und davon zu leben sich vorsetzte, so würdest du ihn mit keinem andern Namen nennen als dem eben jetzt genannten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte ich auch?</p>
+<p><hi rendition="#i">Fremder:</hi> So würdest du also auch der erwerbenden Kunst umsetzenden kaufmännischen Zweiges, Kleinhandel und Selbstverkauf, beides, sobald es nur in diesen Gegenständen zur kenntnisverkaufenden Art gehört, allemal, wie es scheint, Sophistik nennen.</p>
+<p><hi rendition="#i"><pb n="676" facs="#f00015"/> Theaitetos:</hi> Notwendig; denn wo die Rede hingeht, muß ich folgen.</p>
+<p><hi rendition="#i">Fremder:</hi> Laß uns denn noch sehen, ob etwa auch diesem noch die jetzt verfolgte Art gleicht!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wem denn?</p>
+<p><hi rendition="#i">Fremder:</hi> Ein Teil der erwerbenden Kunst war uns doch die Kampfgeschicklichkeit?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht uneben wäre es nun, diese auch wieder zwiefach zu teilen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf welche Weise?</p>
+<p><hi rendition="#i">Fremder:</hi> Der eine sei Wettkampf, der andere Gefecht.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gut.</p>
+<p><hi rendition="#i">Fremder:</hi> In welchem Gefechte nun Leib gegen Leib steht, dem dürften wir natürlich und schicklich einen solchen Namen geben, daß wir es etwa das Gewalttätige nennten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> In welchem aber Wort gegen Wort, o Theaitetos, wie sollte man das anders nennen als Streit?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar nicht anders.</p>
+<p><hi rendition="#i">Fremder:</hi> Was aber unter den Streit gehört, ist wieder zwiefach zu setzen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Inwiefern?</p>
+<p><hi rendition="#i">Fremder:</hi> Sofern er nämlich mit langen Reden gegen lange über das Recht und Unrecht öffentlich geführt wird, ist er der Rechtsstreit.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Den in Fragen und Antworten zerschnittenen aber unter Einzelnen, sind wir den anders zu nennen gewohnt als Wortwechsel?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nicht anders.</p>
+<p><hi rendition="#i">Fremder:</hi> Was nun wortwechselnd im Handel und Wandel gestritten wird durcheinander und kunstlos, dies muß man zwar als die eine Art setzen, da die Erklärung es als ein Verschiedenes anerkennt; aber einen Namen hat es weder von den Früheren erhalten, noch verdient es einen durch uns zu erlangen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß nicht. Auch ist es gar zu sehr ins kleine und vielfach geteilt.</p>
+<p><hi rendition="#i">Fremder:</hi> Den kunstgerechten Wortwechsel aber, sowohl über <pb n="677" facs="#f00016"/> Recht und Unrecht als über andere Dinge, sind wir nicht gewohnt, ihn das Streitgespräch zu nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie auch anders?</p>
+<p><hi rendition="#i">Fremder:</hi> Das Streitgespräch aber ist teils geldverzehrend, teils geldbringend.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> So laß uns also den Beinamen, mit dem wir beides bezeichnen müssen, zu bestimmen versuchen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das ist nötig.</p>
+<p><hi rendition="#i">Fremder:</hi> Mir scheint das Streitgespräch, das aus reiner Lust an solcher Verhandlung mit Vernachlässigung eignet Angelegenheiten geschieht, in Hinsicht auf den Vortrag aber von den meisten Hörern nicht mit Vergnügen angehört wird, nach meiner Meinung nicht anders als das Geschwätzige genannt werden zu können.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So pflegt man es ja zu nennen.</p>
+<p><hi rendition="#i">Fremder:</hi> Wer aber im Gegenteil aus dem Streitgespräch mit Einzelnen Geld erwirbt, diesen versuche du deinerseits mir zu nennen !</p>
+<p><hi rendition="#i">Theaitetos:</hi> Und was sollte man wohl, ohne fehlzugehn, anders sagen, als daß schon wiederum herauskomme jener wunderbare, von uns nun schon zum viertenmal eingeholte Sophist?</p>
+<p><hi rendition="#i">Fremder:</hi> So wäre also nichts anderes als die geldbringende Art der streitsprecherischen Kunst, welche von dem Wortwechsel, also der streitenden, fechtenden, kampfgeschickten und so erwerbenden Kunst ein Teil ist, wie die Rede uns jetzt gezeigt hat, der Sophist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Siehst du also, wie richtig das gesagt ist, daß dies gar ein schlaues Tier ist und, wie man sagt, nicht mit einer Hand zu fangen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Also müssen wir beide dazu nehmen.<hi rendition="#i"> Fremder:</hi> Das müssen wir, und zwar aus allen Kräften, tun, indem wir auch noch dieser Spur von ihm nachgehn: Sage mir nämlich, wir haben doch gewisse von knechtischen Diensten gebrauchte Ausdrücke?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar viele; aber nach welchen von diesen vielen fragst du?</p>
+<p><hi rendition="#i"><pb n="678" facs="#f00017"/> Fremder:</hi> Solche meine ich wie durchseihen, durch sieben, ausschwingen und verlesen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie werde ich die nicht kennen! <hi rendition="#i">Fremder:</hi> Und außer diesen kennen wir noch krämpeln, spinnen, schlagen mit der Weberlade und tausend ähnliche Verrichtungen in anderen Gewerben. Nicht wahr?</p>
+<p><hi rendition="#i">Theaitetos:</hi> aber um was doch an ihnen allen deutlich zu machen, hast du diese als Beispiele aufgestellt und danach gefragt?</p>
+<p><hi rendition="#i">Fremder:</hi> Aussonderndes ist doch das Angeführte insgesamt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> So laß uns ihm auch nach meiner Weise als einer Kunst zu diesem Behuf in allen Dingen einen Namen erteilen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Und wie sollen wir sie nennen?</p>
+<p><hi rendition="#i">Fremder:</hi> Die Aussonderungskunst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So soll es sein.</p>
+<p><hi rendition="#i">Fremder:</hi> Sieh nun zu, ob wir auch von dieser wiederum zwei Arten erblicken können?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Zu schnell für mich trägst du mir die Untersuchung auf.</p>
+<p><hi rendition="#i">Fremder:</hi> Von den genannten Aussonderungen war doch die eine ein Ausscheiden des Schlechteren vom Besseren, die andere ein Ausscheiden des Ähnlichen vom Ähnlichen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nun es gesagt wird, kommt es mir auch wohl ebenso vor.</p>
+<p><hi rendition="#i">Fremder:</hi> Von der einen nun weiß ich keinen üblichen Namen; von jener Aussonderung aber, welche das Bessere zurückläßt und das Schlechtere wegwirft, weiß ich einen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sage: welchen?</p>
+<p><hi rendition="#i">Fremder:</hi> Eine jede solche Aussonderung wird, soviel ich verstehe, von jedermann eine Reinigung genannt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das ist richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und sollte nicht jeder sehn, daß auch das Reinigen ein zwiefaches ist?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Bei Muße vielleicht; jetzt sehe ich wenigstens es noch nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Die vielen Arten der Reinigungen der Körper sollten wir unter einem Namen zusammenfassen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für welche und unter welchem Namen?</p>
+<p><hi rendition="#i"><pb n="679" facs="#f00018"/> Fremder:</hi> Zuerst die der Lebendigen, wie sie innerlich von der Kunst der Leibesübungen und der Heilkunst durch richtige Aussonderung gereiniget werden, und dann auch von außen, was – geringfügig zu sagen – die Badekunst leistet. Dann auch die der unbelebten Körper, welchen die Walkerkunst und die gesamte Putz- und Glättkunst ihre kleinen Dienste leistet unter vielen lächerlichen Namen, wenn man sie alle nennen wollte.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß nicht wenig.</p>
+<p><hi rendition="#i">Fremder:</hi> Freilich wohl, o Theaitetos. Allein dem erklärenden Verfahren liegt nicht mehr noch minder an der Kunst der Badegerätschaften zum Beispiel als an der der Arzneibereitung, wenn auch jene uns nur geringen, diese aber großen Nutzen gewährt durch ihre Reinigung. Denn indem sie nur, um Einsicht zu erwerben, das Verwandte und Nichtverwandte in den Künsten zu entdecken sucht, ehrt sie alle gleichermaßen, und der Ähnlichkeit gemäß hält sie keine vor der andern für lächerlich. Für höher und würdiger aber wird sie den, welcher die nachstellende Kunst als Feldherrnkunst äußert, nicht halten als den, der sie als Kammerjägerei ausübt, sondern meistens nur für großsprecherischer. So auch jetzt bei dem, was du fragtest, mit welchem Namen wir diese sämtlichen Verrichtungen, welchen obliegt, einen (sei es belebten oder unbelebten) Körper zu reinigen, benennen sollen, wird ihr nichts daran gelegen sein, welcher ihnen etwa als der zierlichste könnte beigelegt werden; er halte nur, die Reinigung der Seele ausgenommen, alles zusammen verbunden, was sonst irgend etwas reinigt. Denn das Reinigen an der Seele sollte eben jetzt von allem andern abgesondert werden, wenn wir anders verstehen, was unser Verfahren wollte.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wohl, ich habe es begriffen und gebe zu zwei Arten der Reinigung, von denen die eine für die Seele ist, abgesondert von der für den Leib.</p>
+<p><hi rendition="#i">Fremder:</hi> Sehr schön. So höre nun mein nächstes und versuche, auch das eben Gesagte entzweizuschneiden!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie du mich führen willst, will ich versuchen, dir nachzuschneiden.</p>
+<p><hi rendition="#i">Fremder:</hi> Bösartigkeit ist uns doch etwas anderes als Tugend in der Seele?</p>
+<p><hi rendition="#i"><pb n="680" facs="#f00019"/> Theaitetos:</hi> Wie sollte sie nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Und Reinigung war uns doch, das andere zurücklassen, wo es aber irgend etwas Untaugliches gibt, dies herauswerfen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das war die Sache.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch bei der Seele, wo wir eine Hinwegräumung der Schlechtigkeit antreffen, werden wir, wenn wir das Reinigung nennen, wohlgesprochen haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Zwei Arten von Schlechtigkeit in der Seele sind aber anzuführen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für welche?</p>
+<p><hi rendition="#i">Fremder:</hi> Die eine wohnt ihr ein wie dem Leibe die Krankheit, die andere wie die Häßlichkeit.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das habe ich nicht verstanden.</p>
+<p><hi rendition="#i">Fremder:</hi> Vielleicht hältst du Krankheit und Aufruhr nicht für einerlei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auch darauf weiß ich noch nicht, was ich antworten soll.</p>
+<p><hi rendition="#i">Fremder:</hi> Siehst du Aufruhr für etwas anderes an, als für einen in dem von Natur Verwandten durch irgend ein Verderben entstandenen Zwist?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Für nichts anderes.</p>
+<p><hi rendition="#i">Fremder:</hi> Und Häßlichkeit für etwas anderes als für die überall, wo es auch sei, widerliche Gattung der Ungemessenheit?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs für etwas anderes.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun? Merken wir nicht, daß in der Seele das Urteil mit den Begierden, das Gemüt mit den Lüsten, die Vernunft mit der Unlust und dies alles unter sich bei untauglichen Menschen im Streite liegt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr, gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Und verwandt ist doch notwendig dies alles unter sich?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte es nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn wir also die Bösartigkeit Aufruhr und Krankheit der Seele nennen, werden wir uns richtig ausdrücken?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vollkommen richtig, gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber, wenn etwas, dem Bewegung zukommt <pb n="681" facs="#f00020"/> und das ein vorgesetztes Ziel zu erreichen versucht, bei jedem Anlauf daran vorbeigeht und es verfehlt, – sollen wir sagen, daß dem dieses aus Wohlgemessenheit beider gegen einander oder aus Ungemessenheit widerfahre?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar aus Ungemessenheit.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber überall irrt jede Seele, das wissen wir, nur unfreiwillig.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Das Irren ist ja doch nichts anderes als einer nach Wahrheit ausgehenden, bei der Einsicht aber vorbeikommenden Seele Vorbeidenken.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Eine unverständige Seele also ist als eine häßliche und ungemessene zu setzen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So scheint es.</p>
+<p><hi rendition="#i">Fremder:</hi> Es gibt also, wie sich zeigt, diese zwei Gattungen des Schlechten in ihr: die eine, gemeinhin Bösartigkeit genannt, ist offenbar ihre Krankheit.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Die andere nennen sie Unverstand; daß sie aber allein eine Schlechtigkeit in der Seele sei, wollen sie nicht eingestehen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar muß man einräumen, was ich, als du es vorher sagtest, noch bezweifelte, daß es zwei Arten der Schlechtigkeit in der Seele gibt, und daß Feigheit, Unbändigkeit, Ungerechtigkeit insgesamt für Krankheit in uns zu halten ist, die oftmaligen und mannigfaltigen Erscheinungen des Unverstandes aber als Häßlichkeit zu setzen.</p>
+<p><hi rendition="#i">Fremder:</hi> Für den Leib gibt es doch dieser zwei Zustände wegen zwei gewisse Künste? Theaitetos: Welche sind diese?</p>
+<p><hi rendition="#i">Fremder:</hi> Für die Häßlichkeit die Gymnastik, für die Krankheit die Heilkunst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> So ist auch wohl für Üppigkeit, Ungerechtigkeit und Feigheit unter allen Künsten die angemessenste die bändigende Kunst der Rechtsverwaltung?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wahrscheinlich ist es, wenigstens menschlichem Urteil nach.</p>
+<p><hi rendition="#i"><pb n="682" facs="#f00021"/> Fremder:</hi> Wie aber für den sämtlichen Unverstand: könnte man wohl eine andere richtiger nennen als die belehrende?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keine.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan denn! Erwäge, ob wir sagen sollen, daß es nur eine Art der Belehrung gebe oder mehrere und vornehmlich zwei wichtigste?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich erwäge.</p>
+<p><hi rendition="#i">Fremder:</hi> Und ich denke, so werden wir es am schnellsten finden...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn wir den Unverstand betrachten, ob er selbst etwa einen Einschnitt in der Mitte hat. Denn wenn er zwiefach ist, wird offenbar die Belehrung auch zwei Teile haben müssen, für jede Art von jenem einen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie also? Zeigt sich dir etwa schon was wir jetzt suchen?</p>
+<p><hi rendition="#i">Fremder:</hi> Ich glaube eine sehr große und bedeutende Art des Unverstandes abgesondert zu sehen, welche allen andern Teilen desselben das Gleichgewicht hält.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für eine?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn man zu wissen glaubt, was man nicht weiß; woraus wohl alles, was unserer Seele mißlingt, allen entstehn mag.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und diese Art des Unverstandes, denke ich, wird allein Torheit genannt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun sollen wir den hiervon uns befreienden Teil der Belehrung benennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich denke wenigstens, o Fremdling, daß das übrige nur Lehren im Sinne der Handwerker ist, dieses aber, hier wenigstens unter uns, eigentlich Unterweisung (Bildung) genannt wird.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch wohl bei allen Hellenen, o Theaitetos. Aber wir müssen noch nachsehen, ob nun schon alles unteilbar ist, oder ob es noch eine Einteilung gibt, welche genannt zu werden verdient.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So laß uns denn zusehn!</p>
+<p><hi rendition="#i">Fremder:</hi> Mir scheint auch dies noch wie gespalten zu sein.</p>
+<p><hi rendition="#i"><pb n="683" facs="#f00022"/> Theaitetos:</hi> Wie denn?</p>
+<p><hi rendition="#i">Fremder:</hi> Es scheint in der Belehrung durch Reden<hi rendition="#i"> ein</hi> Weg rauher zu sein, der andere glatter.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches soll jeder von beiden sein?</p>
+<p><hi rendition="#i">Fremder:</hi> Der eine ist die altväterliche Weise, wie sie mit ihren Söhnen sonst umgingen, viele auch noch jetzt mit ihnen umgehn, wenn sie in etwas fehlgreifen, bald sie heftig anlassend, bald wieder ihnen sanftmütiger zusprechend; das Ganze aber nennt man am füglichsten das Ermahnen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich verstehe.</p>
+<p><hi rendition="#i">Fremder:</hi> Der andere aber, da viele, die es sich recht überlegt haben, zu glauben scheinen, daß alle Torheit unwillkürlich wäre, und daß keiner darin, worin er schon stark zu sein glaubte, noch etwas würde lernen wollen, und daß nach vieler Arbeit die ermahnende Art der Unterweisung doch nicht viel ausrichten würde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Woran sie auch wohl ganz recht glaubten.</p>
+<p><hi rendition="#i">Fremder:</hi> So schicken sie sich denn zur Vertilgung dieser Meinung auf eine andere Weise an.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf welche doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Sie fragen sie aus in dem, worüber einer etwas Rechtes zu sagen glaubt, der doch nichts sagt. Dabei forschen sie der unsicher Schwanken den Meinungen leichtlich aus, welche sie dann in der Rede zusammenbringen und neben einander stellen, wobei sie durch diese Zusammenstellung selbst zeigen, daß sie eine der andern zugleich über dieselben Gegenstände in denselben Beziehungen, nach demselben Sinne widerspreche. Jene nun, wenn sie dies wahrnehmen, werden unwillig gegen sich und milder gegen die andern und auf diese Weise ihrer hohen und hartnäckigen Vorstellungen von sich selbst entledigt, welches die erfreulichste aller Erledigungen ist für den, der es mit anhört, und dem, welchem sie begegnet, die zuverlässigste. Denn, lieber Sohn, so, wie die Ärzte des Leibes der Meinung sind, der Leib könne die ihm beigebrachte Nahrung nicht eher nutzen, bis jemand die Hindernisse in ihm selbst weggeschafft habe, denken die Reinigenden ebenso dasselbe von der Seele, daß sie nicht eher von den ihr beigebrachten Kenntnissen Vorteil haben könne, bis durch prüfende Zurechtweisung einer den Zurechtweisenden zur Scham bringt, die <pb n="684" facs="#f00023"/> den Kenntnissen im Wege stehenden Meinungen ihm benimmt und ihn rein darstellt, so daß er nur das, was er wirklich weiß, zu wissen glaubt, mehr aber nicht.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Die vorzüglichste wenigstens und weiseste Gemütsbeschaffenheit ist diese.</p>
+<p><hi rendition="#i">Fremder:</hi> Deshalb nun, Theaitetos, müssen wir auch sagen, daß die prüfende Zurechtweisung die herrlichste und vortrefflichste aller Reinigungen ist, und müssen den Ungeprüften, wenn er auch der Großkönig wäre, für höchst unrein halten, und daß er ungebildet und häßlich gerade da ist, wo der, der wahrhaft glückselig sein will, am reinsten und schönsten sein muß.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun? Die diese Kunst ausüben, wie sollen wir die nennen? Denn ich fürchte mich noch, sie Sophisten zu nennen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Damit wir ihnen nicht zu große Ehre erweisen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Aber das eben Gesagte gleicht doch einem solchen ziemlich.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch dem Hunde der Wolf, das Wildeste dem Zahmsten. Der Vorsichtige aber muß sich am meisten mit den Ähnlichkeiten in acht nehmen; denn es ist eine gar zu gefährliche Art. Dennoch mögen sie es sein. Denn um kleiner Bestimmungen willen, denke ich, wird sich der Streit nicht entspinnen, wenn man sie nur recht in acht nimmt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nein, sollte man denken.</p>
+<p><hi rendition="#i">Fremder:</hi> So sei denn ein Teil der sondernden Kunst die reinigende, von der reinigenden werde der Teil für die Seele abgesondert, von diesem die Belehrung und von der Belehrung die Unterweisung, und von der Unterweisung, werde gesagt, sei die auf leere Scheinweisheit gerichtete Prüfung nach der jetzt nebenbei erschienenen Erklärung nichts anders als die edle und vornehme Sophistik.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gesagt werde dies zwar; aber ich bin nun schon ganz bedenklich, weil er uns als so vieles erschienen ist, was man denn nun, wenn man es ernsthaft meint und behauptet, sagen soll, daß der Sophist in Wahrheit sei.</p>
+<p><hi rendition="#i">Fremder:</hi> Mit Recht bist du bedenklich. Aber auch jenem, <pb n="685" facs="#f00024"/> muß man glauben, sei es nun schon ganz bedenklich, wohinaus er wohl unserer Untersuchung entkommen wolle. Denn richtig ist das Sprichwort: <hi rendition="#i">Vielen ist nicht leicht auszuweichen;</hi> jetzt also müssen wir ihm erst am meisten zusetzen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du hast recht.</p>
+<p><hi rendition="#i">Fremder:</hi> Zuerst laß uns etwas stillstehn und ausruhen, und laß uns bei uns selbst zusammenrechnen, indem wir ausruhen, als wie vielerlei uns der Sophist erschienen ist: Ich glaube, zuerst wurde er gefunden als reicher Jünglinge wohlbelohnter Nachsteller.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Zweitens war er ein Großhändler für die Seele vorzüglich mit Kenntnissen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und zeigte er sich nicht drittens als ein Krämer mit eben diesen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, und viertens war er uns doch ein Eigenhändler mit Kenntnissen.</p>
+<p><hi rendition="#i">Fremder:</hi> Richtig erinnert. Das fünfte will ich versuchen anzuführen: Aus der Kampfgeschicklichkeit wurde er nämlich als ein Kunstfechter im Streitgespräch abgesondert.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das war er.</p>
+<p><hi rendition="#i">Fremder:</hi> Das sechste war freilich zweifelhaft; doch haben wir es ihm eingeräumt und sagen, er sei der, der von Meinungen reinigt, welche in der Seele den Kenntnissen im Wege stehn.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise.</p>
+<p><hi rendition="#i">Fremder:</hi> Merkst du nun nicht, daß, wenn einer als vieler Dinge kundig sich zeigt und doch nur mit dem Namen einer Kunst benannt wird, dies nicht eine gesunde Vorstellung sein kann, sondern daß offenbar der, dem dies mit einer Kunst begegnet, dasjenige an ihr nicht zu entdecken weiß, worauf alle jene verschiedenen Kenntnisse abzwecken, weshalb er auch mit vielen Namen statt eines den, der sie besitzt, benennt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Hiermit mag es wohl diese Bewandtnis eigentlich haben.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht also soll uns dies bei unserer Untersuchung aus Trägheit begegnen; sondern laß uns zuerst etwas von dem über den Sophisten Gesagten wieder aufnehmen: denn eines hat mir eingeleuchtet als ganz vorzüglich ihn bezeichnend.</p>
+<p><hi rendition="#i"><pb n="686" facs="#f00025"/> Theaitetos:</hi> Welches denn?</p>
+<p><hi rendition="#i">Fremder:</hi> Wir sagten doch, er sei ein Künstler im Streitgespräch.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht auch, daß er eben hierin ein Lehrer werde für andere?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> So laß uns denn sehen, worin denn solche Leute sich rühmen, andere streitbar zu machen im Gespräch! Unsere Untersuchung gehe aber von Anfang an so: Zuerst über göttliche Dinge, wie sie den meisten verborgen sind, setzen sie sie doch in Stand sich zu streiten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gesagt wird das ja von ihnen.</p>
+<p><hi rendition="#i">Fremder:</hi> Und was offenbar ist auf der Erde und am Himmel, auch darüber?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber auch in geselligen Versammlungen, wenn vom Werden und Sein im allgemeinen gesprochen wird, wissen wir doch, daß sie selbst gewaltig sind im Widersprechen, und daß sie auch die andern tüchtig machen in dem, was sie selbst sind.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise.</p>
+<p><hi rendition="#i">Fremder:</hi> Und über Gesetze und alle Staatsangelegenheiten versprechen sie nicht, sie streitbar zu machen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Niemand würde ja wohl, daß ich es gerade heraussage, mit ihnen reden, wenn sie dies nicht versprächen.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wiederum in allen und jeden einzelnen Künsten, wie man jedem Meister darin widersprechen muß, das liegt öffentlich bekanntgemacht und niedergeschrieben da für jeden, der es lernen will.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du meinst wohl die Sachen des Protagoras über das Ringen und die andern Künste?</p>
+<p><hi rendition="#i">Fremder:</hi> Und Ähnliches, o Trefflicher, von vielen andern. Aber scheint nun nicht diese Kunst des Widerspruchs im allgemeinen über alles hinreichendes Geschick zu besitzen zum Streit?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Man sieht ja fast nicht, daß sie etwas übrigließe.</p>
+<p><hi rendition="#i">Fremder:</hi> Du aber, Kind, bei den Göttern, hältst du das für möglich? Denn vielleicht seht ihr Jüngeren hierin schärfer und wir stumpfer!</p>
+<p><hi rendition="#i"><pb n="687" facs="#f00026"/> Theaitetos:</hi> Was doch, und worin meinst du? Denn ich verstehe noch nicht, was du jetzt fragst.</p>
+<p><hi rendition="#i">Fremder:</hi> Ob es wohl möglich ist, daß irgend ein Mensch alles weiß?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Glückselig, o Fremdling, wäre dann unser Geschlecht!</p>
+<p><hi rendition="#i">Fremder:</hi> Wie könnte also wohl je im Widerspruch gegen den Kundigen ein selbst Unkundiger etwas Gesundes vorbringen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf keine Weise.</p>
+<p><hi rendition="#i">Fremder:</hi> Was wäre also eigentlich das Geheimnis in diesem sophistischen Kunststück?</p>
+<p><hi rendition="#i">Theaitetos:</hi> In welchem doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Auf welche Weise sie wohl imstande sind, den Jünglingen die Meinung beizubringen, daß in allen Dingen unter allen sie die Kundigsten wären? Denn offenbar, wenn sie weder bündig widersprächen, noch jenen es zu tun schienen, oder auch, wenn sie es schienen, aber wegen dieses Streitens um nichts mehr für weise gehalten würden, dann könnten sie, wie du vorher sagtest, warten, bis ihnen jemand Geld gäbe, um eben hierin ihr Schüler zu werden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß, sie könnten warten.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun aber werden sie es doch?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Also haben sie, denke ich, den Schein, dessen kundig zu sein, worüber sie sich streiten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten sie nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Sie tun das aber über alles. Sagen wir so?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Jawohl.</p>
+<p><hi rendition="#i">Fremder:</hi> In allen Dingen also scheinen sie ihren Schülern weise zu sein?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Ohne es doch zu sein; denn das hatte sich als unmöglich gezeigt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte es auch nicht unmöglich sein?</p>
+<p><hi rendition="#i">Fremder:</hi> Im Besitze einer scheinbaren Erkenntnis also von allen Dingen, nicht aber der Wahrheit zeigt sich uns der Sophist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise, und das jetzt von ihm Gesagte scheint unter allem das Richtigste zu sein.</p>
+<p><hi rendition="#i"><pb n="688" facs="#f00027"/> Fremder:</hi> Laß uns nur ein noch anschaulicheres Beispiel hierzu vorzeichnen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für eines?</p>
+<p><hi rendition="#i">Fremder:</hi> Dieses: Suche aber ja, wohl achtzugeben und zu antworten!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was nur?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn jemand weder das Sprechen noch das Widersprechen behauptet zu verstehen, wohl aber durch eine Kunst alle Dinge insgesamt zu machen und hervorzubringen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du »alle«?</p>
+<p><hi rendition="#i">Fremder:</hi> Also gleich den Anfang des Gesagten verstehst du uns nicht. Wie es scheint nämlich, weißt du nicht das »alle insgesamt«?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Ich meine eben dich und mich unter dem »alle insgesamt«, und außer uns noch alle Tiere und Pflanzen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn jemand dich und mich und alles, was lebt und wächst, machen zu wollen behauptete.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für ein Machen soll das doch sein? Du meinst doch wohl nicht die Landleute irgend, denn du sagtest ja, jener brächte auch die Tiere hervor.</p>
+<p><hi rendition="#i">Fremder:</hi> Das sage ich, und dazu noch Meer und Erde und Himmel und Götter und alles insgesamt. Und wenn er in der Geschwindigkeit dies alles verfertigt hat, gibt er es für ein geringes Geld weg.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du meinst irgend einen Scherz.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Wenn einer sagt er wisse alles und wolle dies auch andern um ein weniges in weniger Zeit lehren, soll man das nicht für Scherz halten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich wohl.</p>
+<p><hi rendition="#i">Fremder:</hi> Und kennst du vom Scherz eine kunstreichere und anmutigere Art als die nachahmende?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs. Denn gar vieles hast du hiermit ausgesprochen, alles zusammenfassend in eine und wohl die reichhaltigste Gattung.</p>
+<p><hi rendition="#i">Fremder:</hi> Von dem nun, welcher verheißt imstande zu sein, durch eine Kunst alles zu machen, wissen wir doch, daß er durch Verfertigung gleichnamiger Nachbildungen des Wirklichen <pb n="689" facs="#f00028"/> vermittelst der Malerkunst imstande sein wird, unnachdenkliche junge Knaben, wenn er ihnen von fern das Gemalte vorzeigt, zu täuschen, als ob er, was er nur machen wollte, vollkommen geschickt wäre, auch wirklich und in der Tat hervorzubringen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun aber? Können wir nicht erwarten, daß es auch in Worten eine andere ähnliche Kunst gebe, vermöge deren es möglich wäre, Jünglinge und solche, die noch in weiter Ferne von dem wahren Wesen der Dinge stehen, durch die Ohren mit Worten zu bezaubern, indem man gesprochene Schattenbilder von allem vorzeigt, so daß man sie glauben macht, es sei etwas Wahres gesagt, und der, welcher es sagt, sei der Weiseste unter allen in allen Dingen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte es nicht eine andere solche Kunst geben?</p>
+<p><hi rendition="#i">Fremder:</hi> Werden aber nicht die meisten, o Theaitetos, von denen, welche dies einst hörten, wenn ihnen hinlängliche Zeit darüber vergangen ist und sie bei reiferem Alter in der Nähe mit den Dingen zusammentreffen, so daß sie durch unmittelbare Einwirkungen gezwungen werden, sich offenkundig in Berührung mit den Dingen zu setzen, alsdann notwendig alle ihre damals entstandenen Vorstellungen umwandeln, so daß ihnen das Kleine groß und das Schwere leicht erscheint und überall alle jene Trugbilder aus Worten zerstört werden, wenn die Dinge selbst in der Wirksamkeit herbeikommen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Soweit ich in meinen Jahren es beurteilen kann, gewiß. Aber auch ich glaube noch von den weiter entfernt Stehenden einer zu sein.</p>
+<p><hi rendition="#i">Fremder:</hi> Darum werden auch wir alle suchen, wie wir es auch jetzt schon tun, dich auch ohne jene Einwirkungen so nahe als möglich hinzuzubringen. Wegen des Sophisten aber sage mir dieses: ob so viel schon gewiß ist, daß er als ein Nachahmer des Wirklichen zu den Zauberern gehört, oder ob wir noch zweifelhaft sind, daß er nicht etwa doch von allem, worin er zu widersprechen geschickt ist, davon auch die Erkenntnis in der Tat besitzen möchte?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir wohl, o Fremdling? Vielmehr ist das ja gewiß aus dem Gesagten, daß er von denen einer ist, welche sich eine Art des Scherzes zugeeignet.</p>
+<p><hi rendition="#i"><pb n="690" facs="#f00029"/> Fremder:</hi> Als einen Zauberer und Nachbildner müssen wir ihn also setzen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir nicht!</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan also! Denn jetzt ist es unsere Sache, von dem Wilde nicht mehr abzulassen. Auch haben wir ihm fast das, was unter dem Jagdzeug für Reden ein wahres Fangnetz ist, glücklich umgeworfen, so daß er dem wenigstens nicht mehr entkommen wird.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welchem doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Daß er vom Geschlecht der Taschenspieler einer ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auch mir scheint dies gar sehr von ihm.</p>
+<p><hi rendition="#i">Fremder:</hi> Ich schlage daher vor, aufs schnellste die nachbildnerische Kunst zu teilen, und wenn uns gleich, wie wir hineingestiegen, der Sophist standhält, ihn dann zu fangen nach den Vorschriften des königlichen Gesetzes und diesem dann den Fang überreichend vorzulegen, – wenn er sich aber wieder in Teile der nachahmenden Kunst versteckt, ihm nachsetzend immer wieder den Teil, der ihn aufgenommen hat, abzuteilen, bis er gefangen ist. Auf alle Weise soll weder er noch irgend ein anderes Geschlecht sich jemals rühmen, dem Verfahren derer entkommen zu sein, welche so verstehen, das Einzelne und das Allgemeine zu behandeln.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wohlgesprochen! So müssen wir dies nun machen.</p>
+<p><hi rendition="#i">Fremder:</hi> Nach der bisherigen Weise der Einteilung glaube ich nun auch wieder zwei Arten der Nachahmungskunst zu sehen; in welcher von beiden sich uns aber die gesuchte Gestalt befinde, das halte ich mich noch nicht imstande zu bestimmen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So sage nur zuvor und teile uns ab, wel che zwei Teile du meinst!</p>
+<p><hi rendition="#i">Fremder:</hi> Die eine, welche ich in ihr sehe, ist die ebenbildnerische Kunst (Kunst der Ebenbilder). Diese besteht eigentlich darin, wenn jemand nach des Urbildes Verhältnissen in Länge, Breite und Tiefe, dann auch jeglichem seine angemessene Farbe gebend, die Entstehung einer Nachahmung bewirkt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie aber? Suchen nicht alle etwas Nachahmenden eben dieses zu tun?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenigstens diejenigen nicht, welche von jenen großen <pb n="691" facs="#f00030"/> Werken eines bilden oder malen. Denn wenn diese die wahren Verhältnisse des Schönen wiedergeben wollten, so weißt du wohl, würde das Obere kleiner als recht und das Untere größer erscheinen, weil das eine aus der Ferne, das andere aus der Nähe von uns gesehn würde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Lassen also nicht die Künstler das Wahre gut sein und suchen nicht die wirklich bestehenden Verhältnisse, sondern die, welche als schön erscheinen werden, in ihren Nachbildern hervorzubringen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich wohl.</p>
+<p><hi rendition="#i">Fremder:</hi> Ist es also nicht billig, das eine, da es doch ähnlich ist, ein Ebenbild zu nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und der hiermit beschäftigte Teil der nachahmenden Kunst ist, wie wir auch vorher sagten, die ebenbildnerische zu nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist er zu nennen.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber weiter? Was nur dem Schönen zu gleichen scheint, weil es gerade vom gehörigen Orte aus betrachtet wird, was aber, wenn es jemand genau betrachten könnte, dem gar nicht gleichen würde, dem es zu gleichen behauptet, – wie wollen wir das nennen? Nicht eben, weil es zu gleichen scheint und doch nicht gleicht, ein Trugbild?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und sehr bedeutend ist dieser Teil sowohl in der Malerei als in der gesamten bildenden Kunst?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte er nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Und die ein Trugbild, nicht ein Ebenbild hervorbringende Kunst, werden wir die nicht am richtigsten die trugbildnerische nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Bei weitem am richtigsten.</p>
+<p><hi rendition="#i">Fremder:</hi> Diese beiden Arten nun, meinte ich, gäbe es von der bildermachenden Kunst: die ebenbildnerische und die trugbildnerische.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Was ich aber damals noch unentschieden ließ, in welche von beiden der Sophist zu setzen sei, das kann ich auch jetzt noch nicht bestimmt sehen. Aber der Mann ist eben wahrlich <pb n="692" facs="#f00031"/> rätselhaft und schwer zu erkennen; denn auch jetzt ist er gar schön und schlau in einen höchst schwierig zu erforschenden Begriff hineingeschlüpft.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das scheint er.</p>
+<p><hi rendition="#i">Fremder:</hi> Bejahest du das aus eigener Einsicht, oder hat dich nur gleichsam die Welle der Rede, wie du es schon gewohnt bist, mit fortgerissen, so schnell beizustimmen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso, und weshalb fragst du das?</p>
+<p><hi rendition="#i">Fremder:</hi> In Wahrheit, du Guter, wir befinden uns in einer höchst schwierigen Untersuchung. Denn dieses Erscheinen und Scheinen, ohne zu sein, und dies Sagen zwar, aber nicht Wahres sagen, – alles dies ist immer voll Bedenklichkeiten gewesen schon ehedem und auch jetzt. Denn auf welche Weise man sagen soll, es gebe wirklich ein falsch Reden oder Meinen, ohne doch schon, indem man es nur ausspricht, auf alle Weise in Widersprüchen befangen zu sein, – dies, o Theaitetos, ist schwer zu begreifen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Diese Rede untersteht sich ja vorauszusetzen, das Nichtseiende sei. Denn sonst gäbe es auf keine Weise Falsches wirklich. Parmenides der Große aber, o Sohn, hat uns als Kindern von Anfang an und bis zu Ende dieses eingeschärft, indem er immer in Prosa sowohl als in seinen Gedichten so sprach:</p>
+<lb/>
+<p> <hi rendition="#i">Nimmer vermochtest du ja zu verstehn,</hi> sagt er,<hi rendition="#i"> Nichtseiendes seie,</hi></p>
+<p><hi rendition="#i"> Sondern von solcherlei Weg halt fern die erforschende Seele.</hi></p>
+<lb/>
+<p>So wird es von ihm bezeugt; vor allem aber muß es gewiß die Rede selbst zeigen bei gehöriger Prüfung. Dies also laß uns zuerst betrachten, wenn es dir nichts verschlägt!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Mir, glaube nur, sei alles genehm, wie du willst, und wie die Rede sich am besten durchführen läßt, so gehe du bei der Untersuchung, und führe auch mich desselben Weges!</p>
+<p><hi rendition="#i">Fremder:</hi> Das soll geschehen. Sage mir also: Das auf keine Weise Seiende, das unterstehen wir uns ja doch irgend auszusprechen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Warum denn nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht meine ich Streitens wegen oder zum Scherz, sondern wenn einer von den Zuhörern ernsthaft überlegend <pb n="693" facs="#f00032"/> zeigen sollte, wo man dieses Wort »das Nichtseiende« anzubringen hat, glauben wir, daß er selbst wissen würde, wozu und wobei er es zu gebrauchen habe, und es dem Fragenden würde zeigen können?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Schweres fragst du, und was, geradeheraus gesagt, für einen wie mich ganz und gar unbeantwortlich ist.</p>
+<p><hi rendition="#i">Fremder:</hi> So viel also ist doch gewiß, daß irgend einem Seienden das Nichtseiende nicht kann beigelegt werden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie ginge das wohl?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn also nicht dem Seienden, würde es auch, wer es dem Etwas beilegte, nicht richtig beilegen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Das ist uns doch auch deutlich, daß wir dieses Wort »Etwas« jedesmal von einem Seienden sagen. Denn allein es zu sagen, gleichsam nackt und von allem Seienden entblößt, ist unmöglich. Nicht wahr?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unmöglich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und gibst du wohl mit Hinsicht hierauf zu, daß, wer »Etwas« sagt, wenigstens ein Etwas sagt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Denn das »Etwas«, wirst du sagen, ist das Zeichen für eines, das »ein Paar« für die Zweiheit, das »einige« dagegen für viele.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es.</p>
+<p><hi rendition="#i">Fremder:</hi> Wer daher nicht einmal Etwas sagt, muß ganz notwendig, wie es scheint, ganz und gar nichts sagen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz notwendig freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Dürfen wir nun etwa auch das nicht einmal zugeben, daß ein solcher zwar rede, er sage aber eben nichts, sondern müßten sogar leugnen, daß der überhaupt rede, der sich unterfängt, das Nichtseiende auszusprechen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Dann hätte doch alle Not mit dieser Sache ein Ende.</p>
+<p><hi rendition="#i">Fremder:</hi> Noch tue nicht groß! Denn es ist noch eine Not hierin zurück, und zwar leicht die erste und größte: denn sie betrifft den ersten Anfang der Sache selbst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du? Sprich und halte nichts zurück!</p>
+<p><hi rendition="#i">Fremder:</hi> Einem Seienden könnte wohl ein anderes Seiendes zukommen.</p>
+<p><hi rendition="#i"><pb n="694" facs="#f00033"/> Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Wollen wir aber auch zugeben, es sei möglich, daß dem Nichtseienden irgend Seiendes zukäme?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir?</p>
+<p><hi rendition="#i">Fremder:</hi> Alle Zahl insgesamt setzen wir doch als seiend?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wenn anders irgend etwas als seiend zu setzen ist.</p>
+<p><hi rendition="#i">Fremder:</hi> So dürfen wir denn nicht wagen, weder eine Mehrheit von Zahl noch auch die Einheit dem Nichtseienden beizulegen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich täten wir nicht recht daran, wie es scheint, dies zu wagen, nach dem, was unsere Rede aussagt.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie könnte nun wohl jemand ohne Zahl das Nichtseiende nur mit dem Munde aussprechen oder auch nur in seinen Gedanken auffassen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Woher das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn wir »Nichtseiende« sagen, legen wir da nicht eine Mehrheit der Zahl hinein?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wenn wir »Nichtseiendes« sagen, dann wiederum die Einheit?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wir sagen doch, es sei weder recht noch billig, daß man suche. Seiendes mit dem Nichtseienden zusammenzufügen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du sprichst vollkommen wahr.</p>
+<p><hi rendition="#i">Fremder:</hi> Siehst du also, wie ganz unmöglich es ist, richtig das Nichtseiende auszusprechen oder etwas davon zu sagen oder es auch nur an und für sich zu denken; sondern wie es etwas Undenkbares ist und Unbeschreibliches und Unaussprechliches und Unerklärliches?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Habe ich mich aber etwa eben geirrt, als ich sagte, ich wolle nur die größte Schwierigkeit in dieser Sache vortragen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso? Ist noch eine andere, größere anzuführen?</p>
+<p><hi rendition="#i">Fremder:</hi> Wie doch, du Wunderbarer? Merkst du denn nicht eben an dem Gesagten, daß auch den Gegner das Nichtseiende in Not bringt, so daß, wie auch jemand versuche, es zu widerlegen, <pb n="695" facs="#f00034"/> er gezwungen wird, ihm selbst Widersprechendes davon zu sagen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das? Sage es mir noch deutlicher?</p>
+<p><hi rendition="#i">Fremder:</hi> Es braucht gar nicht, daß man es noch deutlicher an mir sehe! Denn ich, der ich festsetzte, das Nichtseiende dürfe weder an der Einheit noch Vielheit teilhaben, habe es doch vorher und jetzt geradezu eins genannt. Denn ich sage: das Nichtseiende. Merkst du was?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Ja noch ganz vor kurzem wiederum sagte ich, es sei ein Unaussprechliches und Unbeschreibliches und Unerklärliches. Folgst du?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich folge. Wie sollte ich nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Indem ich ihm also das Sein zu verknüpfen suchte, sagte ich dem Vorigen Widersprechendes.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Und zugleich, indem ich ihm dieses zuschrieb, sprach ich davon als von einem?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und auch, indem ich es ein Unerklärliches nannte und Unbeschreibliches und Unaussprechliches, richtete ich doch meine Rede so ein, als ob es eins wäre?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wir behaupteten doch, wer richtig reden solle, müsse es weder als eins noch als vieles bestimmen, noch es überhaupt auch nur nennen; denn schon durch die bloße Angabe würde er es als eins angeben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Was soll man nun schon von mir sagen? Denn schon von lange her und auch jetzt fände man mich überwunden in der Widerlegung des Nichtseienden. Daher laß uns nicht länger an meiner Rede, wie ich auch schon sagte, den richtigen Ausdruck suchen über das Nichtseiende: sondern komm, an dir wollen wir ihn nun betrachten!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du?</p>
+<p><hi rendition="#i">Fremder:</hi> Komm her, und wacker, wie Jünglinge sind, strenge dich an, was du kannst, und versuche, ohne weder Sein noch Einheit noch Mehrheit der Zahl dem Nichtseienden beizulegen, nach der richtigen Regel etwas davon auszusagen!</p>
+<p><hi rendition="#i"><pb n="696" facs="#f00035"/> Theaitetos:</hi> Gar große und ungereimte Dreistigkeit müßte mich führen zu dieser Unternehmung, wenn ich, wissend, wie es dir damit ergangen ist, sie selbst unternähme!</p>
+<p><hi rendition="#i">Fremder:</hi> Willst du also, so wollen wir dich und mich gehn lassen; aber bis wir auf einen treffen, der dieses leisten kann, bis dahin wollen wir gestehen, daß höchst listigerweise der Sophist in einen höchst schwierigen Ort entschlüpft ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das zeigt sich gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Also wenn wir behaupten, er besitze eine trugbildnerische Kunst, so wird er uns gar leicht bei diesem Gebrauch der Worte fassen und die Rede zum Gegenteil herumdrehen, indem er uns fragt, wenn wir ihn einen Bildmacher nennen, was wir denn überall unter einem Bilde meinen. Wir müssen also zusehn, o Theaitetos, was man wohl dem jungen Manne auf die Frage antworten soll.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbarwerden wir ihm anführen die Bilder im Wasser und in den Spiegeln, und dann die gemalten und die geformten und was für andere es noch gibt.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun sieht man recht, Theaitetos, daß du noch keinen Sophisten gesehen hast.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Du wirst glauben, er blinzle oder er habe ganz und gar keine Augen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn du ihm eine solche Antwort gibst und ihm von Spiegeln und Schnitzwerken sagst, wird er dich auslachen mit deiner Rede, wenn du redest, als sähe er, und wird sich anstellen, als wisse er weder von Wasser noch Spiegeln etwas, noch überhaupt vom Gesicht, und wird dich immer nur aus den Erklärungen fragen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was nur?</p>
+<p><hi rendition="#i">Fremder:</hi> Das Allgemeine in dem allen, was du eben, da du von vielen sprachst, mit einem Namen bezeichnen wolltest, indem du zu allen »Bild« sagtest, was doch eins ist. So sprich nun und verteidige dich, ohne vor dem Manne irgend zurückzuweichen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was sollten wir also anders sagen, daß ein Bild sei, o Fremdling, als das einem Wahren ähnlich gemachte andere solche?</p>
+<p><hi rendition="#i"><pb n="697" facs="#f00036"/> Fremder:</hi> Ein anderes solches Wahres meinst du, oder worauf ziehst du das »solches«?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs doch ein Wahres, sondern ein Scheinbares gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Und meinst du unter dem Wahren das wirklich Seiende?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So meine ich es.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Unter dem Nichtwahren meinst du also das Gegenteil des Wahren?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was sonst?</p>
+<p><hi rendition="#i">Fremder:</hi> Also für nichtseiend erklärst du das Scheinbare, wenn du es doch als das Nichtwahre beschreibst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Aber es ist ja doch!</p>
+<p><hi rendition="#i">Fremder:</hi> Wie? Doch gewiß nicht wahr, meinst du?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das freilich nicht. Aber Bild ist es doch wirklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Ohne also zu sein und wirklich zu sein, ist es doch das, was wir eines Seienden Bild nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> In einer solchen Verflechtung scheint freilich das Nichtseiende mit dem Seienden verflochten zu sein, die ganz ungereimt ist.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie sollte sie auch nicht ungereimt sein? Und du siehst nun doch, wie durch dieses Schnellwechseln der vielköpfige Sophist uns genötigt hat, dem Nichtseienden wider Willen zuzugestehen, daß es irgendwie sei.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das sehe ich nur zu gut.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun weiter? Als was können wir endlich seine Kunst bestimmen, um mit uns selbst einig zu werden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso und aus welcher Besorgnis sagst du dies?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn wir nun sagen, er täusche mit Trugbildern und seine Kunst sei eine täuschende, sagen wir dann, unsere Seele stelle Falsches vor vermittelst seiner Kunst? Oder was sagen wir?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Dieses; denn was sollten wir anderes sagen?</p>
+<p><hi rendition="#i">Fremder:</hi> Falsche Vorstellung ist aber, die das Entgegengesetzte von dem, was ist, vorstellt? Oder wie?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, das Entgegengesetzte.</p>
+<p><hi rendition="#i">Fremder:</hi> Also sagst du, die falsche Vorstellung stelle Nichtseiendes vor?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Notwendig.</p>
+<p><hi rendition="#i"><pb n="698" facs="#f00037"/> Fremder:</hi> Etwa, daß das Nichtseiende nicht sei, stellt sie vor, oder daß das auf keine Weise Seiende doch irgendwie sei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Notwendig doch wohl, daß das Nichtseiende irgendwie sei, wenn sich doch einer auch nur im geringsten täuschen soll.</p>
+<p><hi rendition="#i">Fremder:</hi> Kann er nicht auch vorstellen, daß das auf alle Weise Seiende keineswegs sei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch das also ist falsch?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auch das.</p>
+<p><hi rendition="#i">Fremder:</hi> Und dies beides ist, glaube ich, auf gleiche Weise für eine falsche Rede zu halten, welche sagt, das Seiende sei nicht, und welche sagt, das Nichtseiende sei. Theaitetos: Wie könnte eine solche wohl auch anders sein!</p>
+<p><hi rendition="#i">Fremder:</hi> Wohl schwerlich! Aber dies wird der Sophist nicht zugeben. Und wie könnte auch wohl jemand bei gesunden Sinnen es einräumen, wenn das schon als unaussprechlich, unbeschreiblich, unerklärlich und undenkbar vorher ist zugestanden worden, wovon vor diesem die Rede war? Wir verstehen doch, Theaitetos, was er meint?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir nicht verstehen, daß er sagen wird, wir behaupten das Gegenteil von dem Vorigen, wenn wir wagten zu sagen. Falsches sei in Vorstellungen und Reden? Denn wir würden dadurch gar vielfältig genötigt, mit dem Nichtseienden das Seiende zu verknüpfen, nachdem wir nur eben eingestanden, dies sei das Allerunmöglichste.</p>
+<p><hi rendition="#i">Fremder:</hi> Richtig erinnert. Aber nun ist Zeit zu beratschlagen, was zu machen ist mit dem Sophisten. Denn wie die Einwendungen und die Schwierigkeiten, wenn wir ihn aufspüren wollen, indem wir ihn in die Kunst der Betrüger und Zauberer setzen, uns leicht und zahlreich zuströmen, das siehst du.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wir haben nur einen kleinen Teil davon durchgenommen, da sie geradezu unendlich sind.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So würde es denn, wie es scheint, unmöglich sein, den Sophisten zu fangen, wenn sich dies so verhält.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie also? Wollen wir also weichlich sein und von ihm ablassen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nein, sage ich, das sollen wir nicht, solange wir <pb n="699" facs="#f00038"/> noch imstande sind, den Mann auch nur im mindesten zu fassen.</p>
+<p><hi rendition="#i">Fremder:</hi> Wirst du also Nachsicht haben und dich, wie du jetzt sagtest, begnügen, wenn wir irgendwie auch nur ein weniges von einem so starken Satze abreißen können?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte ich das nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> So erbitte ich mir nun weiter auch noch dieses von dir...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was!</p>
+<p><hi rendition="#i">Fremder:</hi> Daß du mich nicht für einen ansehest, der seinem Vater Gewalt tut!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Warum das?</p>
+<p><hi rendition="#i">Fremder:</hi> Weil wir den Satz des Vaters Parmenides notwendig, wenn wir uns verteidigen wollen, prüfen und erzwingen müssen, daß sowohl das Nichtseiende in gewisser Hinsicht ist, als auch das Seiende wiederum irgendwie nicht ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Es leuchtet ein, daß dies in unsern Reden durchgefochten werden muß.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie sollte das nicht einleuchten, sogar, wie man zu sagen pflegt, dem Blinden; Denn wenn jenes nicht widerlegt und dies nicht zugestanden wird, so wird im Leben niemand imstande sein, von falschen Reden und Vorstellungen zu reden, es sei nun von Schatten und Ebenbildern und Nachahmungen und Truggestalten selbst oder von den sich damit beschäftigenden Künsten, ohne sich lächerlich zu machen, indem er genötigt ist, sich selbst zu widersprechen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vollkommen wahr.</p>
+<p><hi rendition="#i">Fremder:</hi> Darum nun müssen wir wagen, jenen väterlichen Satz anzugreifen, oder wir müssen die Sache gänzlich unterlassen, wenn uns irgend eine Bedenklichkeit hiervon abhält.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Uns soll doch nichts davon irgend abhalten.</p>
+<p><hi rendition="#i">Fremder:</hi> So will ich denn drittens noch eine Kleinigkeit von dir erbitten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sage nur!</p>
+<p><hi rendition="#i">Fremder:</hi> Ich sagte doch nur eben, daß ich von dieser Widerlegung schon immer habe ablassen müssen, und so auch jetzt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das sagtest du.</p>
+<p><hi rendition="#i">Fremder:</hi> Dies macht mir nun eben bange, was ich gesagt, <pb n="700" facs="#f00039"/> daß ich dir nicht etwa ganz wild vorkomme, wenn ich auf der Stelle umwende von unten nach oben. Denn deinetwegen wollen wir noch einmal daran gehen, den Satz zu widerlegen, wenn es uns anders gelingt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Mir wirst du nicht scheinen, irgend Unrecht zu begehen, wenn du noch einmal zu diesem Beweise und dieser Widerlegung schreitest: deshalb also gehe nur dreist zu!</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan, womit soll man nun diese gewagte Rede beginnen? Mich dünkt, Kind, diesen Weg müssen wir ganz notwendig einschlagen...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welchen doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Was wir jetzt glauben, ganz sicher zu haben, das laß uns zuerst nachsehn, ob wir nicht daran irre sind und es uns nur leichtsinnigerweise zugestehen, wir hätten es aufs genaueste überlegt!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sage nur deutlicher, was du meinst!</p>
+<p><hi rendition="#i">Fremder:</hi> Etwas obenhin scheint Parmenides mit uns umgegangen zu sein und wohl alle, die jemals an eine Sonderung der Dinge sich gewagt haben, um zu bestimmen, welcherlei und wievielerlei sie sind.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Weshalb?</p>
+<p><hi rendition="#i">Fremder:</hi> Jeder, scheint es, hat uns sein Geschichtchen erzählt wie Kindern. Der eine, dreierlei wäre das Seiende, bisweilen einiges davon miteinander im Streit, dann wieder alles Freund, da es dann Hochzeiten gibt und Zeugungen und Auferziehungen des Erzeugten. Ein anderer beschreibt es zwiefach, feucht und trocken, oder warm und kalt, und bringt beides zusammen und stattet es aus. Unser eleatisches Volk aber vom Xenophanes und noch früherher trägt seine Geschichte so vor, als ob das, was wir <hi rendition="#i">alles</hi> nennen, nur <hi rendition="#i">eins</hi> wäre. Gewisse ionische und sizilische Musen aber haben späterhin gemerkt, es wäre sicherer, beides zusammenflechtend zu sagen, das Seiende sei <hi rendition="#i">vieles</hi> und auch <hi rendition="#i">eins</hi> und werde durch Feindschaft und Freundschaft zusammengehalten. Denn sondernd mische es sich immer, sagen die strengeren Musen; die weicheren aber lassen nach, daß sich dies immer so verhalten solle, und sagen, abwechselnd sei das Ganze bisweilen<hi rendition="#i"> eines</hi> und durch Aphrodite befreundet, dann wieder <hi rendition="#i">vieles</hi> und sich selbst feindselig erregt durch den Streit. Ob nun an dem allen einer von ihnen <pb n="701" facs="#f00040"/> etwas Wahres gesagt hat oder nicht, das ist schwierig, und es ist wohl auch frevelhaft, so hochberühmten Männern des Altertums Vorwürfe zu machen; so viel aber kann man doch, ohne sich irgend zu vergehen, behaupten...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Daß sie uns andere allzusehr übersehen und geringschätzig behandelt haben. Denn ohne danach zu fragen, ob wir ihnen folgen in ihren Reden oder zurückbleiben, bringen sie jeder das Seinige zu Ende.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn einer von ihnen spricht und behauptet, es sei oder sei geworden oder werde vieles oder zwei oder eines, und Warmes mit Kaltem vermischt, oder wenn er anderwärtsher Trennungen und Verbindungen annimmt, – verstehst denn du, Theaitetos, bei den Göttern, jemals etwas hiervon, was sie meinen? Ich wenigstens, als ich jünger war, glaubte auch das, was uns jetzt so schwierig ist, das Nichtseiende, wenn jemand davon sprach, genau zu verstehen; jetzt aber siehst du, in welcher Not wir damit sind.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich sehe es. fremder: Vielleicht aber begegnet uns in unserer Seele dasselbe nicht weniger auch mit dem Seienden, daß wir von diesem glauben, es hätte damit keine Not und wir verständen, was jemand davon sagt, von jenem aber nicht, da wir uns doch gegen beides ganz gleich verhalten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vielleicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Und von dem übrigen vorher Erwähnten soll uns dasselbe gelten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Das vielerlei andere nun wollen wir in der Folge erwägen, wenn du meinst; wegen des Größten aber und Hauptsächlichsten müssen wir jetzt zusehn.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches meinst du? Oder willst du offenbar, wir sollen zuerst das Seiende erforschen, wie es doch die, welche davon reden, eigentlich darzustellen meinen?</p>
+<p><hi rendition="#i">Fremder:</hi> Beim rechten Ort, o Theaitetos, hast du es ergriffen. Ich meine nämlich, wir müssen dieses Verfahren anwenden, sie, als ob sie selbst zugegen wären, so auszufragen: »Wohlan alle, die ihr sagt, alles sei Warmes und Kaltes oder zwei andere <pb n="702" facs="#f00041"/> der gleichen, was sagt ihr doch nun eigentlich von diesen beiden aus, wenn ihr sagt, daß sie beide und jedes von beiden sind? Was sollen wir uns unter diesem eurem Sein denken? Sollen wir es setzen als ein drittes außer jenen beiden, und also das Ganze als drei und nicht mehr als zwei nach euch setzen? Denn nennt ihr eines von diesen beiden das Seiende, so sagt ihr nicht mehr, daß beide auf gleiche Weise sind, und so wäre auf beiderlei Weise nur eins und nicht zwei.«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> »Ihr wollt aber doch beide das Seiende nennen?«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vielleicht.</p>
+<p><hi rendition="#i">Fremder:</hi> »Aber, ihr Lieben,« wollen wir dann sagen, »auch so würdet ihr ganz deutlich sagen, daß die zwei eins sind«.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig gesprochen.</p>
+<p><hi rendition="#i">Fremder:</hi> »Da nun wir keinen Rat wissen, so macht doch ihr selbst uns recht anschaulich, was ihr doch andeuten wollt, wenn ihr Seiendes sagt! Denn offenbar wißt ihr doch dies schon lange; wir aber glaubten es vorher zwar zu wissen, jetzt aber stehen wir ratlos. Lehret uns also zuerst dieses, damit wir uns nicht einbilden zu verstehen, was ihr sagt, indes uns ganz das Gegenteil hiervon widerfährt!« Wenn wir so sprechen und das von diesen sowohl als von allen andern fordern, welche sagen, das All sei mehr als eins, – werden wir dann wohl großes Unrecht begehen, Kind?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß gar nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun? Sollen wir von denen, welche das <hi rendition="#i">All</hi> als <hi rendition="#i">eins</hi> angeben, etwa nicht nach Vermögen erforschen, was sie wohl sagen von dem Seienden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Dies also mögen sie uns beantworten: »Ihr sagt, es sei nur eins?« – »Das sagen wir,« werden sie sagen. – Nicht wahr?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> »Und wie? Seiendes nennt ihr etwas?«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> »Dasselbe was <hi rendition="#i">eins</hi>? Und ihr bedient euch für dasselbe zweier Benennungen, oder wie?«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was sollen sie nun wohl hierauf, o Fremdling, antworten?</p>
+<p><hi rendition="#i"><pb n="703" facs="#f00042"/> Fremder:</hi> Offenbar, o Theaitetos, ist es dem von dieser Voraussetzung Ausgehenden gar nicht leicht, auf das jetzt Gefragte und auf jegliches andere irgend zu antworten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Zugestehen, es gebe zwei Namen, wenn man nichts gesetzt hat als eins, ist doch ganz lächerlich.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte es nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Ja, überhaupt es sich gefallen zu lassen, wenn man sagt, es gebe einen Namen, das hätte ja doch keinen Sinn.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Weshalb?</p>
+<p><hi rendition="#i">Fremder:</hi> Denn setzt er zuerst den Namen als ein von der Sache Verschiedenes, so nennt er doch zwei.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Setzt er aber den Namen als einerlei mit ihr, so wird er entweder genötigt sein, zu sagen, er sei Name von nichts, oder wenn er sagen will, er sei Name von etwas, so wird herauskommen, der Name sei des Namens Name und sonst keines andern.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es.</p>
+<p><hi rendition="#i">Fremder:</hi> Und auch das Eins, welches dann nur des Einen Eins ist, auch dieses sei wiederum nur eines Namens Eins.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Notwendig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Das Ganze sei verschieden von dem seienden Einen, werden sie sagen, oder einerlei damit?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten sie nicht letzteres jetzt und immer sagen?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn es nun ganz ist, wie ja auch Parmenides sagt:</p>
+<lb/>
+<p><hi rendition="#i">Ähnlich um überallher der schönstgerundeten Kugel</hi></p>
+<p><hi rendition="#i">Gleich von der Mitte heraus sich verbreitend; denn größer nach hierhin,</hi></p>
+<p><hi rendition="#i">Kleiner nach dorthin sein; das darf er sich nimmer vergönnen,</hi></p>
+<lb/>
+<p>so hat das Seiende als ein solches ja Mitte und Enden, und wenn es dies hat, hat es ja wohl ganz notwendige Teile. Oder wie?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Allein dem Geteilten kann zwar in Beziehung auf die Gesamtheit seiner Teile die Einheit zukommen, und nichts steht im Wege, daß es auf diese Art als ein Ganzes und All auch Eins sei.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Woher auch?</p>
+<p><hi rendition="#i"><pb n="704" facs="#f00043"/> Fremder:</hi> Aber ist es nicht unmöglich, daß dieses, dem dies alles zukommt, das Eins selbst sei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Vollkommen unteilbar muß doch wohl das wahre Eins nach der richtigen Erklärung angenommen werden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das muß es freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Ein solches aber aus vielen Teilen Bestehendes stimmt nicht mit dieser Erklärung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich verstehe.</p>
+<p><hi rendition="#i">Fremder:</hi> Soll nun das Seiende, so daß ihm nur die Eigenschaft des Eins zukomme, Eins und ein Ganzes sein, oder sollen wir ganz und gar nicht sagen, daß das Seiende ein Ganzes sei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Eine schwere Wahl legst du mir vor.</p>
+<p><hi rendition="#i">Fremder:</hi> Ganz richtig bemerkt. Denn wenn das Seiende nur die Eigenschaft hat, auf gewisse Weise Eins zu sein, so zeigt es sich ja als nicht dasselbe seiend mit dem Eins, und so wird doch das Alles mehr sein als Eins.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn aber dagegen das Seiende nicht, weil ihm nur die Eigenschaft von jenem zukäme. Ganzes ist, das Ganze selbst aber an sich auch ist, so wird ja das Seiende sich selbst fehlen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wenn es diesem zufolge sich selbst fehlt, so wird ja das Seiende nicht seiend sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wiederum wird Alles mehr als Eins, wenn das Seiende und das Ganze abgesondert jedes sein eigenes Wesen bekommen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Ist hingegen das Ganze selbst ganz und gar nicht, so begegnet dem Seienden nicht nur das nämliche wie vorher, sondern außerdem, daß es nicht ist, kann es auch nicht einmal geworden sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Warum nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Das Gewordene ist immer ein Ganzes geworden. So daß weder ein Sein noch ein Werden als seiend anzunehmen ist, wenn man das Ganze nicht unter das Seiende setzt.</p>
+<p><hi rendition="#i"><pb n="705" facs="#f00044"/> Theaitetos:</hi> Auf alle Weise scheint sich dies so zu verhalten.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber auch überall nicht irgendwie groß darf das Nichtganze sein. Denn ist es irgendwie groß, so ist es doch, wie groß es auch sei, so groß notwendig ganz.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und es wird sich zeigen, wie ebenso jedes tausend andern nicht zu beseitigenden Schwierigkeiten ausgesetzt ist für den, welcher sagt, das Seiende sei nur Zwei oder nur Eins.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das offenbart sich schon durch das jetzt zum Vorschein Kommende: Denn an jedes knüpft sich immer ein anderes und bringt größere und schwierigere Irrung in jedes vorher Gesagte hinein.</p>
+<p><hi rendition="#i">Fremder:</hi> Die nun, welche sich so genau einlassen über das Seiende und Nichtseiende, haben wir ganz zwar noch gar nicht durchgenommen. Doch es sei schon genug. Aber die sich anders erklären, müssen wir nun auch in Betrachtung ziehen, um an allen zu sehen, daß es um nichts leichter ist, das Wesen des Seienden zu erklären als das des Nichtseienden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So laß uns denn auch an diese gehn!</p>
+<p><hi rendition="#i">Fremder:</hi> Zwischen diesen scheint mir nun ein wahrer Riesenkrieg zu sein wegen ihrer Uneinigkeit unter einander über das Sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Die einen ziehn alles aus dem Himmel und dem Unsichtbaren auf die Erde herab, mit ihren Händen buchstäblich Felsen und Eichen umklammernd. Denn an dergleichen alles halten sie sich und behaupten, das allein sei, woran man sich stoßen und was man betasten könne, indem sie Körper und Sein für einerlei erklären; und wenn von den andern einer sagt, es sei auch etwas, was keinen Leib habe, achten sie darauf ganz und gar nicht und wollen nichts anderes hören.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, arge Leute sind das, von denen du sprichst; denn ich bin auch schon auf mehrere solche getroffen.</p>
+<p><hi rendition="#i">Fremder:</hi> Daher auch die gegen sie Streitenden sich gar vorvorsichtig von oben herab aus dem Unsichtbaren verteidigen und behaupten, gewisse gedenkbare unkörperliche Ideen wären das wahre Sein; jener ihre Körper aber und was sie das Wahre nennen, stoßen sie ganz klein in ihren Reden und schreiben ihnen statt des Seins nur ein bewegliches Werden zu. <pb n="706" facs="#f00045"/> Zwischen ihnen aber, o Theaitetos, ist hierüber ein unermeßliches Schlachtgetümmel immerwährend.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Laß uns also von beiden Teilen nach einan der Erklärung fordern über das Sein, welches sie annehmen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollen wir das aber machen?</p>
+<p><hi rendition="#i">Fremder:</hi> Von denen, die es in Ideen setzen, ist es leichter, denn sie sind zahmer; von denen aber, die mit Gewalt alles in das Körperliche ziehen, ist es schwerer, vielleicht wohl gar unmöglich. Aber so, glaube ich, müssen wir es mit ihnen machen...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie?</p>
+<p><hi rendition="#i">Fremder:</hi> Am liebsten, wenn es möglich wäre, sie in der Tat besser machen; wenn aber dies nicht angeht, dann wenigstens in unserer Rede, indem wir voraussetzen, daß sie uns ehrlicher, als sie jetzt wohl zu tun pflegen, antworten. Denn was von Besseren eingestanden wird, ist ja wohl mehr wert, als was von Schlechteren eingestanden wird. Und wir kümmern uns ja nicht um sie, sondern suchen nur das Wahre.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> So laß denn sie, die Bessergewordenen, dir antworten und dolmetsche uns, was sie sagen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das soll geschehen.</p>
+<p><hi rendition="#i">Fremder:</hi> Mögen sie denn sagen, ob sie annehmen, es gebe sterbliches Lebendiges?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten sie das nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Und ob sie eingestehen, dies sei ein beseelter Leib?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Setzen sie also die Seele unter das Seiende?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Nehmen sie nicht an, eine Seele sei gerecht, die andere ungerecht, und die eine vernünftig, die andere unvernünftig?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht auch, daß jede durch Anwesenheit der Gerechtigkeit eine solche werde und durch Anwesenheit des Gegenteils eine entgegengesetzte?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, auch das geben sie zu.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber daß, was bei einem anwesend sein kann und <pb n="707" facs="#f00046"/> abwesend, doch auf alle Weise etwas sei, werden sie wohl auch sagen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sie sagen es also.</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn also Gerechtigkeit und Vernünftigkeit und die übrige Tugend und so auch die Seele, in welcher dies alles einwohnt, wirklich ist, – behaupten sie denn etwa, daß irgend von dem allen etwas sichtbar sei und greiflich oder alles unsichtbar?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nichts ist wohl von dem allen sichtbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Sagen sie, daß etwas hiervon einen Leib habe?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das werden sie wohl nicht mehr ganz auf einerlei Weise beantworten, sondern die Seele selbst schiene ihnen einen Leib zu besitzen; von der Vernünftigkeit aber und wonach du sonst fragtest, werden sie sich wohl der Kühnheit schämen, sowohl zu behaupten, daß alles dieses gar nicht sei, als auch darauf zu bestehen, daß es ganz leiblich sei.</p>
+<p><hi rendition="#i">Fremder:</hi> Offenbar, Theaitetos, sind uns ja die Männer besser geworden. Denn auch nicht eins von allem diesen würden die echten Ausgesäeten und Erdgeborenen unter ihnen scheuen, sondern darauf beharren, daß, was sie nicht imstande sind, in den Händen zu zerdrücken, auch ganz und gar nichts ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Recht so denken sie, wie du sagst.</p>
+<p><hi rendition="#i">Fremder:</hi> Laß sie uns also nochmals fragen; denn wenn sie auch nur ein weniges von dem Seienden als unkörperlich zugeben wollen, das reicht schon hin. Denn was nun diesem zugleich und auch jenem, was Körper hat, eignet, worauf sie ja eben sehen, indem sie sagen, beides sei, – das müssen sie dann angeben. Vielleicht nun würden sie dabei verlegen sein; und wenn ihnen dergleichen begegnete, so sieh zu, ob sie wohl, wenn wir es ihnen vorhielten, annehmen und eingestehen würden, das Seiende sei etwa folgender Art...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was denn? Sprich, und wir wollen gleich sehn.</p>
+<p><hi rendition="#i">Fremder:</hi> Ich sage also, was nur irgend ein Vermö genbesitzt, es sei nun ein anderes zu irgend etwas zu machen oder wenn auch nur das mindeste von dem allergeringsten zu leiden, und wäre es auch nur ein einziges Mal, – das alles sei wirklich. Ich setze nämlich als Erklärung fest, um das Seiende zu bestimmen, daß es nichts anderes ist als Vermögen, Kraft.</p>
+<p><hi rendition="#i"><pb n="708" facs="#f00047"/> Theaitetos:</hi> Nun, da sie selbst vorderhand nichts Besseres als dieses zu sagen haben, so nehmen sie dieses an.</p>
+<p><hi rendition="#i">Fremder:</hi> Schön. Denn in der Folge wird es sich vielleicht uns ebensogut als ihnen anders zeigen. Mit ihnen bleibe uns also nun dieses gemeinschaftlich festgestellt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Es bleibt.</p>
+<p><hi rendition="#i">Fremder:</hi> Und nun laß uns zu den andern gehen, den Freunden der Ideen: Du aber dolmetsche uns auch das Ihrige!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das soll geschehen.</p>
+<p><hi rendition="#i">Fremder:</hi> »Also das Werden und Sein nehmt ihr getrennt voneinander an. Nicht wahr?«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> »Und mit dem Leibe hätten wir durch die Wahrnehmung Gemeinschaft an dem Werden, durch den Gedanken aber mit der Seele an dem wahrhaften Sein, welches, wie ihr sagt, sich immer auf gleiche Weise verhält; das Werden aber verhält sich immer anders«.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das sagen wir allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> »Aber dieses ›Gemeinschafthaben‹, ihr Allerbesten, was sollen wir doch sagen, daß ihr damit an beiden eigentlich meint? Nicht das eben von uns Gesagte?«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches denn?</p>
+<p><hi rendition="#i">Fremder:</hi> »Ein Leiden oder eine Einwirkung, aus irgend einer Kraft in dem, was mit einander zusammentrifft, entstehend.« Vielleicht aber, o Theaitetos, kannst du ihre Antwort hierauf nicht recht vernehmen, ich aber vielleicht aus alter Bekanntschaft.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie erklären sie sich also?</p>
+<p><hi rendition="#i">Fremder:</hi> Sie räumen uns das nicht ein, was wir eben vorher zu den Erdgeborenen über das Sein gesagt haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches?</p>
+<p><hi rendition="#i">Fremder:</hi> »Wir setzen das als eine hinreichende Erklärung des Seienden, wenn einem auch nur im geringsten ein Vermögen beiwohnte, zu leiden oder zu tun?«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Hierauf nun erwidern sie dieses: daß dem Werden allerdings das Vermögen eigne, zu leiden und zu tun; dem Sein aber, behaupten sie, sei keines von diesen beiden Vermögen angemessen.</p>
+<p><hi rendition="#i"><pb n="709" facs="#f00048"/> Theaitetos:</hi> Haben sie damit recht?</p>
+<p><hi rendition="#i">Fremder:</hi> Worauf wir jedoch entgegnen müssen, daß wir noch bestimmter von ihnen zu erfahren wünschen, ob sie darüber mit uns einig sind, daß die Seele erkenne und das Sein erkannt werde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das bejahen sie doch gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> »Und wie das Erkennen oder Erkanntwerden, nennt ihr das ein Tun oder ein Leiden oder beides? Oder das eine ein Tun und das andere ein Leiden; Oder meint ihr, keines habe mit keinem von beiden irgend etwas zu schaffen?« Gewiß doch keines mit keinem; denn sonst widersprächen sie dem Vorigen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich verstehe.</p>
+<p><hi rendition="#i">Fremder:</hi> Dieses nämlich: wenn das Erkennen ein Tun ist, so folgt notwendig, daß das Erkannte leidet, daß also nach dieser Erklärung das Sein, welches von der Erkenntnis erkannt wird, wiefern erkannt, insofern auch bewegt wird vermöge des Leidens, welches doch, wie wir sagen, dem Ruhenden nicht begegnen kann.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder: A</hi>ber wie, beim Zeus? Sollen wir uns leichtlich überreden lassen, daß in der Tat Bewegung und Leben und Seele und Vernunft dem wahrhaft Seienden gar nicht eigne? Daß es weder lebe noch denke, sondern der hehren und heiligen Vernunft entbehrend unbeweglich stehe?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Eine arge Behauptung, o Fremdling, würden wir da einräumen!</p>
+<p><hi rendition="#i">Fremder:</hi> Oder sollen wir bejahen, daß es Vernunft habe, aber leugnen, daß es Leben habe?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie denn nur?</p>
+<p><hi rendition="#i">Fremder:</hi> Oder sollen wir sagen, dies beides wohne ihm zwar ein, nur wollen wir behaupten, in einer Seele habe es dieses nicht?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Aber auf welche andere Weise sollte es dies wohl haben können?</p>
+<p><hi rendition="#i">Fremder:</hi> Also wollen wir sagen, es habe Vernunft und Seele und Leben, nur daß es, obwohl belebt, ganz unbewegt dastehe?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Dies alles scheint mir ganz unvernünftig zu sein.</p>
+<p><hi rendition="#i">Fremder:</hi> Daß also Bewegtes und Bewegung als seiend müßte eingeräumt werden?</p>
+<p><hi rendition="#i"><pb n="710" facs="#f00049"/> Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Denn es folgt ja, o Theaitetos, daß, wenn alles unbewegt ist, niemand irgend von etwas könne Verstand haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Allein wenn wir wiederum einräumten, daß alles bewegt und verändert werde, so würden wir durch diese Behauptung gleichfalls ebendasselbe aus dem Seienden ausschließen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Das »auf gleiche Weise« und »ebenso« und »in derselben Beziehung« dünkt dich denn das ohne Ruhe stattfinden zu können?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Fremder:</hi> Und siehst du etwa, daß ohne dieses von irgend etwas eine Erkenntnis sein oder entstehen kann?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz und gar nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Und gegen den ist doch auf alle Weise zu streiten, der Wissenschaft, Einsicht und Verstand beiseiteschafft und dann noch irgendworüber etwas behaupten will.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Und der Philosoph also, der gerade dies am höchsten schätzt, ist, wie es scheint, deshalb auf alle Weise genötigt, weder von denen, welche das All es sei nun als Eins oder als viele Ideen setzen, es als ruhend anzunehmen, noch auch wiederum auf die, welche das Seiende durchaus bewegen, auch nur im mindesten zu hören, sondern, wie die Kinder zu begehren pflegen, muß er beides von dem Seienden und All, daß es unbewegt und daß es bewegt sei, sagen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vollkommen wahr.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun? Kommt es dir nicht vor, als ob wir das Seiende jetzt recht ordentlich mit unserer Erklärung umfaßt hätten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> O weh, Theaitetos! Wie sehe ich, daß wir nun nichts mehr davon verstehen werden als nur, daß es keine Auskunft gibt bei dieser Untersuchung!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso, und was hast du nur schon wieder?</p>
+<p><hi rendition="#i">Fremder:</hi> Du Glücklicher, siehst du nicht ein, daß wir nun <pb n="711" facs="#f00050"/> eben in der größten Unwissenheit darüber sind und uns nur einbilden, etwas gesagt zu haben?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich bilde mir es noch ein. Und wie es uns unbewußt wieder so um uns stehen sollte, begreife ich gar nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Sieh nur genauer zu, ob, nachdem wir dies alles zugestanden, wir mit Recht eben das könnten gefragt werden, was wir vorher die fragten, welche sagten, das All sei Warmes und Kaltes.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Erinnere mich doch, was?</p>
+<p><hi rendition="#i">Fremder:</hi> Gern, und ich will dies so zu tun suchen, daß ich dich frage wie damals jene, damit wir zugleich etwas weiterkommen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gut.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohl denn: hältst du Bewegung und Ruhe nicht für einander ganz entgegengesetzt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie könnte ich anders?</p>
+<p><hi rendition="#i">Fremder:</hi> Aber du sagst doch, daß beide und jede gleichseht sind?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das sage ich freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Meinst du nun, daß beide und jede bewegt werden, wenn du einräumst, daß sie sind?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Fremder:</hi> Sondern daß sie ruhen, willst du andeuten, wenn du sagst, daß sie beide sind?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie doch das?</p>
+<p><hi rendition="#i">Fremder:</hi> Also setzest du doch das Seiende in deiner Seele als ein Drittes außer diesen, indem du, Ruhe und Bewegung als von jenem umschlossen zusammenfassend und auf ihre Gemeinschaft in dem Sein Rücksicht nehmend, beiden das Sein beilegst?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wir mögen wohl in der Tat das Seiende als ein Drittes andeuten, indem wir sagen, daß Bewegung und Ruhe sind.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht also Bewegung und Ruhe zusammengenommen ist das Seiende, sondern ein von diesen Verschiedenes.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So scheint es.</p>
+<p><hi rendition="#i">Fremder:</hi> Also vermöge seiner eigenen Natur wird das Seiende weder ruhen noch sich bewegen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Schwerlich.</p>
+<p><hi rendition="#i"><pb n="712" facs="#f00051"/> Fremder:</hi> Wohin soll also seine Gedanken noch wenden, wer etwas Deutliches darüber bei sich festsetzen will?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wohin wohl auch?</p>
+<p><hi rendition="#i">Fremder:</hi> Nirgendshin wohl so leicht, denke ich. Denn wenn sich etwas nicht bewegt, wie sollte es nicht ruhen? Oder was auf keine Weise ruht, wie sollte sich das nicht bewegen? Das Seiende hat sich uns aber jetzt außerhalb beider gezeigt: ist das nun wohl möglich?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß das Allerunmöglichste.</p>
+<p><hi rendition="#i">Fremder:</hi> An folgendes aber müssen wir uns hierbei wohl erinnern...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Woran doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Daß, als wir über das Nichtseiende gefragt wurden, wo man dieses Wort wohl anbringen müßte, wir auch in gänzlicher Verlegenheit befangen waren. Erinnerst du dich dessen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte ich nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Sind wir nun wohl in geringerer Verlegenheit über das Seiende?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Mir, o Fremdling, scheinen wir womöglich in noch größerer.</p>
+<p><hi rendition="#i">Fremder:</hi> Dies liege also hier so unentschieden. Da nun aber das Seiende und das Nichtseiende zu ganz gleichen Teilen gehen in dieser Verlegenheit, so ist doch nun Hoffnung, daß so, wie nur das eine von ihnen sich uns, sei es nun dunkler oder bestimmter, darstellt, auch das andere ebenso sich darstellen werde; und wenn wir keines von beiden sehen sollten, wollen wir wenigstens die Erklärung beider zugleich auf die anständigste Weise, wie wir nur können, weiterbringen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Schön.</p>
+<p><hi rendition="#i">Fremder:</hi> Erklären wir denn, auf welche Weise wir doch jedesmal eine und dieselbe Sache mit vielen Namen benennen!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie was doch? Gib mir ein Beispiel!</p>
+<p><hi rendition="#i">Fremder:</hi> Wir sagen doch von einem Menschen gar vielerlei, indem wir ihn danach benennen, wenn wir ihm Farbe beilegen und Gestalt und Größe, auch Fehler und Tugenden, in welchen Fällen wie in hunderttausend anderen Fällen wir denn nicht nur sagen, daß er ein Mensch ist, sondern auch, daß er gut ist, und unzähliges andere, und ebenso verhält es sich mit allen andern Dingen, daß wir jedes als Eins setzen, und hernach <pb n="713" facs="#f00052"/> doch wieder Vieles davon sagen, mit vielerlei Benennungen erklären durch vielerlei Worte.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wahr gesprochen?</p>
+<p><hi rendition="#i">Fremder:</hi> Wodurch wir nun Jünglingen und schwerköpfigen Alten, denke ich, ein Mahl bereitet haben. Denn das hat ja jeder leicht bei der Hand aufzugreifen, daß es unmöglich ist, daß Vieles Eins und Eines Vieles sei, und sie haben zumal ihre Freude daran, nicht zu leiden, daß man einen Menschen gut nenne, sondern das Gute gut und den Menschen Mensch. Du triffst gewiß oft, denke ich, Theaitetos, solche, die sich auf dergleichen gelegt haben, alte Leute bisweilen, die aus Geistesarmut dergleichen bewundern oder auch selbst meinen, wunder was für Weisheit daran erfunden zu haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Damit wir uns also an alle wenden, die jemals was auch immer über das Sein vorgetragen haben, so sei zu diesen sowohl als zu den übrigen, mit denen wir vorher uns schon unterredeten, noch folgendes frageweise gesprochen...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was also?</p>
+<p><hi rendition="#i">Fremder:</hi> »Ob wir weder das Sein der Ruhe und Bewegung verknüpfen, noch überall irgend eines mit dem andern, sondern als unvermischbar und unfähig, eines an dem andern teilzuhaben, Alles in unsern Reden setzen wollen? Oder ob wir Alles in Eins zusammenbringen als der Gemeinschaft unter sich fähig? Oder einiges zwar, anderes, aber nicht?« Welches hiervon, o Theaitetos, ziehen diese vor, sollen wir sagen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich weiß für sie nichts hierauf zu antworten. Warum willst du also nicht einzeln jedes beantworten und zusehen, was aus jedem folgt?</p>
+<p><hi rendition="#i">Fremder:</hi> Du hast recht. Setzen wir also zuerst, wenn du willst, den Fall, sie sagten: nichts habe irgend ein Vermögen, mit irgend einem zu irgend etwas in Gemeinschaft zu treten. Dann werden also Bewegung und Ruhe nirgendwie am Sein Anteil haben?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Wird dann wohl eine von ihnen sein können, wenn sie mit dem Sein gar keine Gemeinschaft hat?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keine wird sein.</p>
+<p><hi rendition="#i">Fremder:</hi> Plötzlich also gerät durch diese Annahme alles in <pb n="714" facs="#f00053"/> Aufruhr, wie es scheint, sowohl bei denen, die das All bewegen, als bei denen, die es als Eins hinstellen und die den Ideen nach das Seiende als immer auf gleiche Weise sich verhaltend annehmen. Denn sie alle verknüpfen doch das Sein, indem die einen sagen, es sei wirklich bewegt, die andern, es sei wirklich ruhig.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Ebenso auch die, welche das All bald zusammensetzen und bald teilen, es sei nun, daß sie es in das Eine und das Unendliche aus dem Einen, oder daß sie es in endliche Bestandteile teilen und aus diesen zusammensetzen, und gleichviel, sie mögen annehmen, dies geschehe abwechselnd, oder auch, es geschehe immer: auf jede Weise haben sie doch alle unrecht, wenn es keine Vermischung gibt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und weiter müssen die selbst am allerlächerlichsten ihre eigne Rede strafen, welche nicht leiden wollen, daß man irgend etwas von einem andern ihm durch Gemeinschaft Zukommenden benenne.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Sie sind doch überall genötigt, das »Sein« zu gebrauchen und das »Ohne« und das »Andere« und das »An sich« und tausenderlei anderes, dessen sie sich nicht enthalten können, daß sie es nicht in ihren Reden verknüpfen, und sie bedürfen daher nicht, daß jemand sonst sie widerlege; sondern, wie man zu sagen pflegt, von Hause her bringen sie sich ihren Gegner und Widerpart mit, der ihnen von innen her zuraunt wie der närrische Eurykles, und führen ihn überall mit sich herum.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das ist recht ähnlich und wahr!</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber, wenn wir nun alles ließen ein Vermögen haben, sich unter einander zu verbinden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das aber kann ich sogar widerlegen.</p>
+<p><hi rendition="#i">Fremder:</hi> Wieso?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Weil die Bewegung selbst dann auf alle Weise ruhen würde und die Ruhe selbst wiederum sich bewegen, wenn diese beiden zusammenkämen.</p>
+<p><hi rendition="#i">Fremder:</hi> Das ist aber doch aus allen Gründen unmöglich, daß die Bewegung ruhe und die Ruhe sich bewege?</p>
+<p><hi rendition="#i"><pb n="715" facs="#f00054"/> Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Das dritte bleibt uns also allein übrig.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber eines von diesen ist doch notwendig, daß entweder alles, oder nichts, oder einiges zwar, anderes aber nicht sich vermischen könne?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Und zwei Fälle sind doch als unmöglich erfunden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Jeder also, der richtig antworten will, muß den roch übrigen Fall von den dreien annehmen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn nun einiges sich hierzu versteht, anderes nicht, so geht es damit fast wie mit den Buchstaben: Denn auch von diesen lassen sich einige nicht miteinander zusammenstellen, andere aber einigen sich wohl.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das ist sicher.</p>
+<p><hi rendition="#i">Fremder:</hi> Die Selbstlauter aber gehen vorzüglich vor den übrigen wie ein Band durch alle hindurch, so daß es ohne einen von ihnen auch für die übrigen nicht möglich ist, daß einer sich mit einem andern verbinde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz unmöglich.</p>
+<p><hi rendition="#i">Fremder:</hi> Weiß nun jeder, welcher mit welchen in Gemeinschaft treten könne? Oder gehört dazu eine Kunst, wenn man es recht machen will?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Eine Kunst.</p>
+<p><hi rendition="#i">Fremder:</hi> Was für eine?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Die Sprachkunde.</p>
+<p><hi rendition="#i">Fremder:</hi> Und ist es nicht, was die hohen und tiefen Töne betrifft, ebenso? Der, welcher die Kunst besitzt, einzusehn, welche sich mit einander vermischen lassen und welche nicht, ist der Musikalische, wer dies aber nicht versteht, der Unmusikalische?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es.</p>
+<p><hi rendition="#i">Fremder:</hi> Und bei jeder anderen Kunst und unkünstlerischem Verfahren werden wir anderes Ähnliche finden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Da wir nun zugestanden haben, daß auch die Begriffe sich gegen einander auf gleiche Weise in Hinsicht auf <pb n="716" facs="#f00055"/> Mischung verhalten: muß nicht auch mit einer Wissenschaft seine Reden durchführen, wer richtig zeigen will, welche Begriffe mit welchen zusammenstimmen, und welche einander nicht aufnehmen? Und wiederum, ob es solche sie allgemein zusammenhaltende gibt, daß sie imstande sind, sich zu vermischen? Und wiederum in den Trennungen, ob andere durchgängig der Trennung Ursache sind?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte es hierzu nicht einer Wissenschaft bedürfen und vielleicht wohl gar der größten?</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie, Theaitetos, sollen wir diese nen nen? Oder sind wir, beim Zeus, ohne es zu bemerken, in die Wissenschaft freier Menschen hineingeraten und mögen wohl gar beim Suchen nach dem Sophisten zuerst den Philosophen gefunden haben?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Fremder:</hi> Das Trennen nach Gattungen, daß man weder denselben Begriff für einen andern, noch einen andern für denselben halte, – wollen wir nicht sagen, dies gehöre zu der dialektischen Wissenschaft?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, das wollen wir sagen.</p>
+<p><hi rendition="#i">Fremder:</hi> Wer also dieses gehörig zu tun versteht, der wird eine Idee durch viele einzeln von einander gesonderte nach allen Seiten auseinandergebreitet genau bemerken, und viele von einander verschiedene von einer äußerlich umfaßte, und wiederum eine durchgängig nur mit einem aus vielen verknüpfte, und endlich viele gänzlich von einander abgesonderte. Dies heißt dann, der Art nach zu unterscheiden wissen, inwiefern jedes in Gemeinschaft treten kann und inwiefern nicht.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber dies dialektische Geschäft wirst du, hoffe ich, keinem andern anweisen als dem rein und recht Philosophierenden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte man es wohl einem andern anweisen?</p>
+<p><hi rendition="#i">Fremder:</hi> In dieser Gegend herum werden wir also jetzt sowohl als hernach, wenn wir ihn suchen, den Philosophen finden; schwer freilich, auch ihn genau zu erkennen: nur von ganz anderer Art ist die Schwierigkeit des Sophisten und die seinige.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Der eine in die Dunkelheit des Nichtseienden entfliehend, <pb n="717" facs="#f00056"/> mit der er aus unkünstlerischer Übung Bescheid weiß, ist wegen der Dunkelheit des Ortes schwer zu erkennen. Nicht wahr?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So scheint es.</p>
+<p><hi rendition="#i">Fremder:</hi> Der Philosoph hingegen, in vernunftmäßigem Verfahren mit der Idee des Seienden stets beschäftigt, ist wiederum wegen der Helligkeit der Gegend keineswegs leicht zu erblicken. Denn die Geistesaugen der meisten sind nicht imstande, in das Göttliche ausdauernd hineinzuschauen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auch dieses ist nicht minder als jenes einleuchtend, daß es sich so verhalte.</p>
+<p><hi rendition="#i">Fremder:</hi> Diesen nun werden wir hernach wohl noch genauer betrachten, wenn wir noch Lust haben; von dem Sophisten aber dürfen wir offenbar nicht ablassen, bis wir ihn hinlänglich beschaut haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Du hast recht.</p>
+<p><hi rendition="#i">Fremder:</hi> Da wir nun übereingekommen sind, daß einige Begriffe Gemeinschaft mit einander haben wollen, andere nicht und einige wenig, andere viel, andere auch überhaupt nichts hindert, mit allen Gemeinschaft zu haben, – so laß uns nun das Weitere in unserer Rede so nachholen, daß wir nicht etwa an <hi rendition="#i">allen</hi> Begriffen betrachten, damit wir nicht durch die Menge in Verwirrung geraten, sondern an einigen der wichtigsten vorzugsweise: zuerst, was jeder ist, und dann, wie er sich verhält in Hinsicht des Vermögens der Gemeinschaft mit andern; damit, wenn wir auch das Seiende und Nichtseiende nicht mit völliger Deutlichkeit aufzufassen vermögen, es uns wenigstens an einer Erklärung darüber nicht fehle, soweit es die Art der jetzigen Untersuchung zuläßt, wenn es uns etwa möglich wäre, unbeschädigt davonzukommen, indem wir von dem Nichtseienden sagen, es sei wirklich das Nichtseiende.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das müssen wir freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Die wichtigsten unter den Begriffen, welche wir vorher durchgingen, sind doch wohl das Seiende selbst und Ruhe und Bewegung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Bei weitem.</p>
+<p><hi rendition="#i">Fremder:</hi> Und die zwei, sagen wir doch, sind mit einander ganz unvereinbar.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Völlig.</p>
+<p><hi rendition="#i"><pb n="718" facs="#f00057"/> Fremder:</hi> Das Seiende aber ist vereinbar mit beiden. Denn sie sind doch beide?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten sie nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Das wären also drei Begriffe.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Deren doch jeder verschieden ist von den andern beiden, mit sich selbst aber identisch?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es.</p>
+<p><hi rendition="#i">Fremder:</hi> Was haben wir nun aber jetzt wieder gesagt, das Identische und Verschiedene? Sind dies selbst auch zwei von jenen dreien verschiedene, sich aber notwendig immer mit ihnen vermischende Begriffe, und müssen wir also auf fünf und nicht auf drei unsere Aufmerksamkeit richten? Oder haben wir mit diesem Identischen und Verschiedenen nur eines von jenen bezeichnet, ohne es zu wissen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vielleicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber Bewegung und Ruhe sind doch gewiß weder das Identische noch das Verschiedene.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Was wir der Bewegung und der Ruhe gemeinschaftlich beilegen, das kann doch unmöglich eine von ihnen beiden selbst sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Warum nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Die Bewegung wird dann ruhen und die Ruhe hingegen sich bewegen. Denn da alsdann das eine von ihnen, welches du auch wählen wolltest, von beiden gelten müßte, so würde dadurch das andere genötigt sein, sich in den Gegensatz seiner Natur zu verwandeln, weil es ja an diesem Gegensatz Anteil hätte.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun aber haben doch am Identischen und Verschiedenen beide teil.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Also wollen wir nicht sagen, die Bewegung sei etwa das Identische oder Verschiedene, noch auch die Ruhe.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Vielleicht aber ist uns das Seiende und das Identische als eines zu denken?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vielleicht.</p>
+<p><hi rendition="#i"><pb n="719" facs="#f00058"/> Fremder:</hi> Aber wenn Seiendes und identisches nicht verschiedenes bedeuten, so würden wir wiederum, indem wir sagen, daß Bewegung und Ruhe beide sind, beide für identisch als seiend ausgeben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allein das ist ja unmöglich.</p>
+<p><hi rendition="#i">Fremder:</hi> Also ist auch unmöglich, daß Identisches und Seiendes eins sind.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Beinahe.</p>
+<p><hi rendition="#i">Fremder:</hi> Als einen vierten Begriff zu jenen dreien müssen wir also das Identische setzen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie? Sollen wir das Verschiedene als einen fünften setzen? Oder soll man etwa dieses und das Seiende als zwei Namen für einen Begriff denken?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das mag wohl sein.</p>
+<p><hi rendition="#i">Fremder:</hi> Allein ich glaube, du wirst zugeben, daß von dem Seienden einiges an und für sich und einiges nur in Beziehung auf anderes immer so genannt werde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte ich nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Und das Verschiedene immer in Beziehung auf ein anderes. Nicht wahr?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht aber könnte dies so sein, wenn nicht das Seiende und das Verschiedene sich sehr weit von einander entfernten; sondern wenn das Verschiedene ebenfalls an jenen beiden Arten teil hätte wie das Seiende, so gäbe es auch Verschiedenes, was nicht in Beziehung auf ein anderes verschieden wäre. Nun aber ergibt sich doch offenbar, daß, was verschieden ist, dies, was es ist, notwendig in Beziehung auf ein anderes ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Es verhält sich, wie du sagst.</p>
+<p><hi rendition="#i">Fremder:</hi> Als den fünften müssen wir also die Natur des Verschiedenen angeben unter den Begriffen, die wir gewählt haben.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und durch sie alle, müssen wir sagen, gehe sie hindurch, indem jedes einzelne verschieden ist von den übrigen, nicht vermöge seiner Natur, sondern vermöge seines Anteils an der Idee des Verschiedenen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar allerdings.</p>
+<p><hi rendition="#i"><pb n="720" facs="#f00059"/> Fremder:</hi> Folgendes also laß uns behaupten von den fünfen, indem wir das einzelne wiederholen...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Zuerst, daß die Bewegung ganz und gar verschieden ist von der Ruhe. Oder wie sagen wir?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nur so.</p>
+<p><hi rendition="#i">Fremder:</hi> Sie ist also nicht Ruhe?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Fremder:</hi> Sie ist aber doch wegen ihres Anteils am Seienden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, sie ist.</p>
+<p><hi rendition="#i">Fremder:</hi> Wiederum aber ist die Bewegung auch verschieden von dem Identischen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Beinahe.</p>
+<p><hi rendition="#i">Fremder:</hi> Sie ist also nicht das Identische.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nein freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber auch sie war doch gewissermaßen identisch, weil hieran ja alles teil hat.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Daß also die Bewegung identisch sei und auch nicht identisch, muß man gestehen und darüber nicht ungehalten sein. Denn wenn wir sagen, sie ist identisch und sie ist nicht identisch, meinen wir es doch nicht auf gleiche Art; sondern wenn identisch, so sagen wir dies von ihr wegen der Teilnahme am Identischen, wenn aber nicht identisch, dann wegen ihrer Gemeinschaft mit dem Verschiedenen, durch welche von dem Identischen abgesondert sie nicht jenes, sondern ein Verschiedenes wird, so daß sie auch wiederum richtig nicht identisch genannt wird.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn also irgendwie auch die Bewegung selbst Anteil hätte an der Ruhe oder dem Feststehen, so wäre es nichts Wunderliches, sie eine feststehende zu nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig, da wir doch zugeben, daß einige Begriffe sich miteinander vermischen wollen, andere aber nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Hierüber haben wir ja den Beweis schon früher als den jetzigen geführt, als wir zeigten, daß dies natürlich so sein müsse.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Wiederum sagen wir, die Bewegung ist von dem <pb n="721" facs="#f00060"/> Verschiedenen verschieden, wie sie auch ein anderes war als das Identische und als die Ruhe.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Notwendig.</p>
+<p><hi rendition="#i">Fremder:</hi> Nicht verschieden ist sie also doch gewissermaßen auch verschieden nach der vorigen Rede.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun weiter? Sollen wir sagen, sie sei von den dreien verschieden, von dem vierten aber es leugnen, da wir doch zugestanden haben, es wären fünf Begriffe, an welchen und über welche wir die Untersuchung anstellen wollten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten wir? Denn unmöglich können wir doch die Zahl geringer angeben, als sie sich uns eben gezeigt hat.</p>
+<p><hi rendition="#i">Fremder:</hi> Ohne Furcht also wollen wir aussagen und verfechten, die Bewegung sei verschieden von dem Seienden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ohne die mindeste Furcht.</p>
+<p><hi rendition="#i">Fremder:</hi> Ist also nicht ganz deutlich die Bewegung wirklich nicht seiend ebenso wie seiend, inwiefern sie am Seienden Anteil hat?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz deutlich ist ja das.</p>
+<p><hi rendition="#i">Fremder:</hi> Also ist ja notwendig das Nichtseiende sowohl an der Bewegung als in Beziehung auf alle anderen Begriffe. Denn von allen gilt, daß die Natur des Verschiedenen, welche sie verschieden macht von dem Seienden, jedes zu einem Nichtseienden macht, und alles insgesamt können wir also gleichermaßen auf diese Weise mit Recht nichtseiend nennen und auch wiederum seiend und können sagen, daß es sei, weil es Anteil hat am Seienden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So mag es wohl sein.</p>
+<p><hi rendition="#i">Fremder:</hi> An jedem Begriff also ist viel Seiendes, unzählig viel aber Nichtseiendes.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So scheint es.</p>
+<p><hi rendition="#i">Fremder:</hi> Muß man nicht auch von dem Seienden selbst sagen, daß es verschieden ist von dem übrigen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Notwendig.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch das Seiende also ist, wiefern das übrige ist, sofern selbst nicht. Denn indem es jenes nicht ist, ist es selbst Eins; das unzählig viele übrige aber ist es nicht.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Beinahe so verhält es sich wohl.</p>
+<p><hi rendition="#i"><pb n="722" facs="#f00061"/> Fremder:</hi> Auch darüber also ist keine Schwierigkeit zu machen, wenn doch die Begriffe ihrer Natur nach Gemeinschaft mit einander haben. Will aber jemand dies nicht zugeben, der überrede erst unsere vorigen Reden, und dann überrede er uns das Weitere!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das ist nach strengstem Recht gesprochen.</p>
+<p><hi rendition="#i">Fremder:</hi> Laß uns nun auch folgendes sehn...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn wir Nichtseiendes sagen, so meinen wir nicht, wie es scheint, ein Entgegengesetztes des Seienden, sondern nur ein Verschiedenes.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn wir z.B. etwas »nicht groß« nennen, meinst du, daß wir durch dies Wort mehr das Kleine als das Gleiche andeuten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Fremder:</hi> Wir wollen also nicht zugeben, wenn eine Verneinung gebraucht wird, daß dann Entgegengesetztes angedeutet werde, sondern nur so viel, daß das vorgesetzte »Nicht« etwas von den darauffolgenden Wörtern oder vielmehr von den Dingen, deren Namen das nach der Verneinung Ausgesprochene ist. Verschiedenes andeute.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Auch folgendes laß uns ferner bedenken, ob es dir ebenso scheint...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Das Wesen des Verschiedenen scheint mir ebenso ins Kleine zerteilt zu sein wie die Erkenntnis.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Auch jene ist zwar nur eine; aber jeder auf einen andern Gegenstand sich beziehende Teil wird abgesondert und mit einem eignen Namen benannt, daher es so viele Künste und Wissenschaften gibt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Geht es nun nicht auch den Teilen des Verschiedenen, obgleich dies auch eines ist, ebenso?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vielleicht; aber sage doch, inwiefern?</p>
+<p><hi rendition="#i">Fremder:</hi> Ein Teil des Verschiedenen ist doch dem Schönen entgegengesetzt?</p>
+<p><hi rendition="#i"><pb n="723" facs="#f00062"/> Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Ist dieser nun ohne Beinamen, oder hat er einen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Er hat einen. Denn was wir jedesmal das Nichtschöne nennen, das ist von nichts anderem das Verschiedene als von der Natur des Schönen.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan, so sage mir denn folgendes...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Ist uns nicht dadurch, daß wir, was unter eine Gattung des Seienden gebracht ist, einer andern entgegenstellten, das Nichtschöne entstanden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> So allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Also eines Seienden Gegensatz gegen ein anderes, wie es scheint, ist das Nichtschöne.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie nun? Gehört nun wohl nach dieser Erklärung das Schöne mehr unter das Seiende und das Nichtschöne weniger?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Mitnichten.</p>
+<p><hi rendition="#i">Fremder:</hi> Ebensogut also, muß man sagen, ist das Nichtgroße als das Große selbst?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja, ebensogut.</p>
+<p><hi rendition="#i">Fremder:</hi> So ist auch das Nichtgerechte dem Gerechten gleichzusetzen darin, daß das eine nicht weniger ist als das andere?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und von den übrigen ist dasselbe zu sagen, wenn doch die Natur des Verschiedenen oder die Verschiedenheit sich unter dem Seienden gezeigt hat. Denn ist sie, so sind notwendig auch ihre Teile nicht minder als seiend zu setzen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten sie nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Also ist auch der Gegensatz von einem Teile der Verschiedenheit und dem Sein, wenn diese einander gegenübergestellt werden, nicht minder, wenn man es sagen darf, seiend als das Seiende selbst und bedeutet keineswegs das Gegenteil von jenem, sondern nur so viel: ein Verschiedenes von ihm.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie sollen wir nun diesen nennen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar ja ist das Nichtseiende, was wir des Sophisten wegen suchten, eben dieses.</p>
+<p><hi rendition="#i"><pb n="724" facs="#f00063"/> Fremder:</hi> Steht es also, wie du sagtest, keinem von den andern nach in Hinsicht auf das Sei? Und darf man schon herzhaft sagen, daß das Nichtseiende unbestritten seine eigene Natur und Wesen hat; und so, wie das Große groß und das Schöne schön war und das Nichtgroße und Nichtschöne nicht groß und nicht schön, ebenso war und ist auch das Nichtseiende nicht seiend und ist mitzuzählen als ein Begriff unter das viele Seiende? Oder haben wir hiergegen noch irgend einen Zweifel, o Theaitetos?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar keinen.</p>
+<p><hi rendition="#i">Fremder:</hi> Weißt du auch wohl, daß wir dem Parmenides noch über sein Verbot hinaus sind unfolgsam gewesen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Noch weiter, als er es uns zu untersuchen verboten hat, sind wir vorwärts gegangen in der Untersuchung und haben es dargestellt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Er sagt doch:</p>
+<lb/>
+<p> <hi rendition="#i">Nicht vermöchtest du ja zu verstehn, Nichtseiendes seie,</hi></p>
+<p><hi rendition="#i"> Sondern von solcherlei Weg halt fern die erforschende Seele?</hi></p>
+<lb/>
+<p><hi rendition="#i">Theaitetos:</hi> So sagt er allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Wir aber haben nicht nur gezeigt, daß das Nichtseiende ist, sondern auch den Begriff, unter welchen das Nichtseiende gehört, haben wir aufgewiesen. Denn nachdem wir gezeigt, daß die Verschiedenheit ist, und daß sie verteilt ist unter alles Seiende gegen einander, so haben wir von dem jedem Seienden entgegengesetzten Teile derselben zu sagen gewagt, daß eben er in Wahrheit das Nichtseiende sei.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Und auf jeden Fall, glaube ich, haben wir vollkommen richtig erklärt.</p>
+<p><hi rendition="#i">Fremder:</hi> Also sage uns niemand nach, wir hätten das Nichtseiende als das Gegenteil des Seienden dargestellt und dann zu behaupten gewagt, es sei. Denn von einem Gegenteil desselben haben wir ja lange jeder Untersuchung den Abschied gegeben, ob es ist oder nicht ist und erklärbar oder auch ganz und gar unerklärbar. Was wir aber jetzt beschrieben haben, daß das Nichtseiende sei, widerlege uns entweder einer auf überzeugende Art, daß es unrichtig gesagt ist, oder, solange er das nicht vermag, <pb n="725" facs="#f00064"/> sage auch er wie wir, daß die Begriffe sich unter einander vermischen. Und da das Sein und das Verschiedene durch alles und auch durch einander hindurchgehen, so wird nun das Verschiedene als an dem Seienden Anteil habend freilich sein, vermöge dieses Anteils, nicht aber jenes, woran es Anteil hat, sondern ein Verschiedenes; verschieden aber von dem Seienden ist es ja offenbar ganz notwendig das Nichtseiende. Wiederum das Seiende am Verschiedenen Anteil habend ist ja verschieden von allen andern Gattungen, und als von ihnen insgesamt verschieden ist es ja eine jede von ihnen nicht, noch auch alle andern insgesamt, sondern nur es selbst. So daß das Seiende wiederum ganz unbestritten tausend und zehntausenderlei nicht ist und so auch alles andere einzeln und zusammengenommen auf gar vielerlei Weise ist und auf gar vielerlei Weise nicht ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wenn diesen Gegensätzen jemand nicht glauben will, der sehe zu und trage etwas Besseres vor als das jetzt Dargestellte; wenn er aber, nur um wunder was Schwieriges ausgedacht zu haben, seine Freude daran hat, die Rede bald hierhin, bald dorthin zu ziehen, so hat er sich eine Mühe genommen, die nicht sehr der Mühe wert ist, wie unsere jetzige Rede besagt. Denn dies ist weder gar herrlich noch eben schwer zu finden; jenes aber ist ebenso schwer und zugleich auch schön.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches?</p>
+<p><hi rendition="#i">Fremder:</hi> Das vorher Erklärte, nämlich dies beiseite lassend soviel möglich dem Gesagten im einzelnen prüfend nachzugehen, wenn jemand ein in gewissem Sinne Verschiedenes auch wieder als identisch setzt und, was ein Identisches ist, als verschieden, in dem Sinn und in der Beziehung, in welcher er sagt, daß ihm eins von beiden zukomme. Aber von dem Identischen, ganz unbestimmt wie, behaupten, es sei auch verschieden und das Verschiedene identisch und das Große klein und das Ähnliche unähnlich, und so sich freuen, wenn man nur immer Widersprechendes vorbringt in seinen Reden, – das ist teils keine wahre Untersuchung, teils gewiß eine ganz junge von einem, der die Dinge eben erst angerührt hat.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz offenbar.</p>
+<p><hi rendition="#i">Fremder:</hi> Aber auch, o Bester, alles von allem absondern zu <pb n="726" facs="#f00065"/> wollen, schickt sich schon sonst nirgendhin, auf alle Weise aber nur für einen von den Musen verlassenen und ganz unphilosophischen Menschen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Weil es die völligste Vernichtung alles Redens ist, jedes von allem übrigen zu trennen. Denn nur durch gegenseitige Verflechtung der Begriffe kann uns ja eine Rede entstehn.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Überlege nun, wie zu gar rechter Zeit wir jetzt gegen solche gestritten und sie genötigt haben, zuzugeben, daß eines sich mit dem anderen mische!</p>
+<p><hi rendition="#i">Theaitetos:</hi> In welcher Hinsicht denn?</p>
+<p><hi rendition="#i">Fremder:</hi> Weil doch die Rede auch eine von den wirklichen Gattungen ist. Denn ihrer beraubt wären wir, was das Größte ist, auch der Philosophie beraubt: überdies aber müssen wir uns auch jetzt darüber einigen, was eine Rede ist. Wollten wir sie nun ganz ausschließen, daß sie überall nicht sein soll, so vermöchten wir nicht weiter etwas zu sagen. Wir schlössen sie aber aus, wenn wir einräumten, es gäbe gar keine Verknüpfung für nichts mit nichts.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz richtig ist dies wohl; warum wir aber jetzt die Rede erklären müssen, das habe ich noch nicht verstanden.</p>
+<p><hi rendition="#i">Fremder:</hi> Vielleicht, wenn du mir so folgen willst, wirst du es ganz leicht fassen...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Das Nichtseiende hat sich uns doch als einer von den übrigen Begriffen gezeigt, der durch alles Seiende zerstreut ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun laß uns zunächst zusehn, ob es sich wohl mit Vorstellung und Rede verbindet?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Weshalb?</p>
+<p><hi rendition="#i">Fremder:</hi> Verbindet es sich mit diesen nicht, so ist notwendig alles wahr; verbindet es sich, so entsteht ja falsche Vorstellung und Rede. Denn Nichtseiendes vorstellen oder reden, das ist doch das Falsche, was in Gedanken und Reden vorkommen kann.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i"><pb n="727" facs="#f00066"/> Fremder:</hi> Und ist Falsches oder Irrtum, so ist auch Täuschung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und ist Täuschung, dann ist doch gewiß notwendig alles voll Schattengestalten und Abbilder und trüglichen Scheines.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie könnte es anders sein?</p>
+<p><hi rendition="#i">Fremder:</hi> Und der Sophist, sagten wir, hätte sich in diese Gegend zwar geflüchtet, dabei aber gänzlich geleugnet, es gäbe gar keinen Irrtum. Denn das Nichtseiende könne man weder denken noch sagen. Denn am Sein habe das Nichtseiende nirgendwie Anteil.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So war es.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun aber hat sich allerdings gezeigt, es habe Anteil am Seienden. So daß er uns auf dieser Seite vielleicht nicht mehr bestreiten möchte, wohl aber sagen, einige Arten hätten nur Anteil am Nichtseienden, andere nicht, und Rede und Vorstellung gehörten zu denen, die ihn nicht hätten; so daß er die Bildmacherei und Trugbildnerei, worin wir sagen, daß er sich befindet, immer noch bestreitet, daß sie nicht ist, weil nämlich Vorstellung und Rede keine Gemeinschaft hat mit dem Nichtseienden; denn es gebe gar keinen Irrtum, sobald diese Gemeinschaft nicht bestehe. Darum müssen wir nun zuerst Rede und Meinung und Vorstellung recht erforschen, was dieses ist, damit, wenn es sich uns gezeigt, wir auch dessen Gemeinschaft mit dem Nichtseienden ersehen, und wenn wir diese ersehen, den Irrtum als seiend aufzeigen, und wenn wir diesen aufgezeigt, wir den Sophisten darin festbinden, hat er dies anders verwirkt, sonst aber ihn loslassen und in einer andern Gattung aufsuchen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar, o Fremdling, ist doch das wahr, was vom Sophisten anfänglich gesagt worden, daß es ein schwer zu fangendes Geschlecht ist. Denn man sieht ja, welchen Überfluß er hat an Verschanzungen, von denen er eine nach der andern aufwirft, die man dann notwendig erst erobern muß, um zu ihm selbst zu kommen. Denn kaum haben wir uns jetzt durch das Nichtseiende, was er aufgeworfen hatte, daß es nicht wäre, durchgeschlagen, so hat er schon etwas anderes aufgeworfen, und wir müssen nun erst zeigen, daß es Falsches gibt in der Rede und der Vorstellung, und nach diesem vielleicht etwas <pb n="728" facs="#f00067"/> anderes und dann wieder ein anderes nach jenem, und niemals, wie es scheint, wird sich ein Ende zeigen. fremder: Guten Mutes muß man sein, o Theaitetos, wenn man auch immer nur ein weniges vorwärtskommen kann. Denn wer in solchen Fällen schon mutlos wird, was will der anderwärts tun, wo er vielleicht gar nichts ausrichtet oder wohl gar zurückgetrieben wird? Gute Wege hat es, wie man im Sprichwort sagt, daß ein solcher jemals eine Stadt erobern sollte. Nun aber, du Guter, wenn nur, was du sagtest, erst glücklich zu Ende gebracht ist, dann haben wir gewiß die stärkste Mauer eingenommen, und das andere wird schon leichter und geringer sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das ist ein gutes Wort.</p>
+<p><hi rendition="#i">Fremder:</hi> Rede und Vorstellung laß uns also, wie gesagt, jetzt vornehmen, damit wir desto untrüglicher berechnen können, ob das Nichtseiende sie erreicht, oder ob beide in alle Wege wahr sind und keine von ihnen jemals falsch.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Wohlan denn, wie wir uns über die Begriffe und Buchstaben erklärten, ebenso laß uns auch wegen der Worte nachsehen; denn auf diese Art wird sich wohl das jetzt Gesuchte zeigen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Worauf sollen wir eigentlich bei den Worten achthaben?</p>
+<p><hi rendition="#i">Fremder:</hi> Ob alle sich miteinander zusammenfügen oder keines, oder ob einige wollen, andere aber nicht.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar wollen doch einige, andere aber nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Du meinst es vielleicht so, daß die, welche, nacheinander ausgesprochen, auch etwas kundmachen, sich zusammenfügen, die aber in ihrer Zusammenstellung nichts bedeuten, sich nicht fügen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du dies eigentlich?</p>
+<p><hi rendition="#i">Fremder:</hi> So wie ich glaubte, du hättest es dir auch gedacht, als du mir beistimmtest. Es gibt nämlich für uns eine zwiefache Art von Kundmachung des Seienden durch die Stimme.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Das eine sind die Benennungen oder Hauptwörter, das andere die Zeitwörter.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Beschreibe mir beide!</p>
+<p><hi rendition="#i"><pb n="729" facs="#f00068"/> Fremder:</hi> Die Kundmachungen, welche auf Handlungen gehn, nennen wir Zeitwörter.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Die Zeichen aber, die dem, was jene Handlungen verrichtet, durch die Stimme beigelegt werden, sind die Hauptwörter.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und nicht wahr, aus Hauptwörtern allein, hintereinander ausgesprochen, entsteht niemals eine Rede oder ein Satz, und ebensowenig auch aus Zeitwörtern, die ohne Hauptwörter ausgesprochen werden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das habe ich nicht verstanden.</p>
+<p><hi rendition="#i">Fremder:</hi> Offenbar also hast du etwas anderes in Gedanken gehabt, als du mir eben beistimmtest. Denn eben dies wollte ich sagen, daß aus diesen so hintereinander ausgesprochen keine Rede wird.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Wie etwa geht, läuft, schläft und so auch die andern Zeitwörter, welche Handlungen andeuten, und wenn man sie auch alle hintereinander hersagte, brächte man doch keine Rede zustande.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollte man auch?</p>
+<p><hi rendition="#i">Fremder:</hi> Und ebenso wiederum, wenn gesagt wird: Löwe, Hirsch, Pferd und mit was für Benennungen sonst das, was Handlungen verrichtet, benannt zu werden pflegt, – auch aus dieser Folge kann sich nie eine Rede bilden. Denn weder auf diese noch auf jene Weise kann das Ausgesprochene weder eine Handlung noch eine Nichthandlung noch ein Wesen eines Seienden oder Nichtseienden darstellen, bis jemand mit den Hauptwörtern die Zeitwörter vermischt. Dann aber fügen sie sich, und gleich ihre erste Verknüpfung wird eine Rede oder ein Satz, wohl der erste und kleinste von allen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du nur dieses?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn jemand sagt: »der Mensch lernt«, so nennst du das wohl den kürzesten und einfachsten Satz?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das tue ich.</p>
+<p><hi rendition="#i">Fremder:</hi> Denn hierdurch macht er schon etwas kund über Seiendes oder Werdendes oder Gewordenes oder Künftiges und benennt nicht nur, sondern bestimmt auch etwas, indem <pb n="730" facs="#f00069"/> er die Hauptwörter mit Zeitwörtern verbindet. Darum können wir auch sagen, daß er redet und nicht nur nennt, und wir haben ja auch dieser Verknüpfung eben den Namen Rede beigelegt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie also die Dinge sich teils ineinanderfügen, teils auch nicht, so auch fügen die Zeichen vermittelst der Stimme sich zum Teil nicht; die sich aber fügen, bilden eine Rede.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es auf alle Weise.</p>
+<p><hi rendition="#i">Fremder:</hi> Nur noch folgendes Wenige!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welches?</p>
+<p><hi rendition="#i">Fremder:</hi> Daß eine Rede, wenn sie ist, notwendig eine Rede von etwas sein muß, von nichts aber unmöglich.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So ist es.</p>
+<p><hi rendition="#i">Fremder:</hi> Und auch von einer gewissen Beschaffenheit muß sie sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun laß uns recht aufmerken bei uns selbst!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das wollen wir.</p>
+<p><hi rendition="#i">Fremder:</hi> Ich will dir also eine Rede vortragen, indem ich eine Sache mit einer Handlung durch Hauptwort und Zeitwort verbinde; wovon aber die Rede ist, sollst du mir sagen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das soll geschehen nach Vermögen.</p>
+<p><hi rendition="#i">Fremder:</hi> »Theaitetos sitzt.« Das ist doch nicht eine lange Rede?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nein, sondern sehr mäßig.</p>
+<p><hi rendition="#i">Fremder:</hi> Deine Sache ist also nun zu erklären, wovon sie ist, und was sie beschreibt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar von mir, und mich.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber folgende wiederum?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für eine?</p>
+<p><hi rendition="#i">Fremder:</hi> »Der Theaitetos, mit dem ich jetzt rede, fliegt.«</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auch von dieser würde wohl niemand etwas der es sagen, als sie rede von mir und über mich.</p>
+<p><hi rendition="#i">Fremder:</hi> Und irgend eine Beschaffenheit, sagen wir, habe notwendig jede Rede?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie wollen wir also sagen, daß jede von diesen beschaffen sei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Die eine doch falsch, die andere wahr.</p>
+<p><hi rendition="#i"><pb n="731" facs="#f00070"/> Fremder:</hi> Und die wahre sagt doch das Wirkliche von dir, daß es ist?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und die falsche von dem Wirklichen Verschiedenes?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Also das Nichtwirkliche oder Nichtseiende sagt sie aus als seiend.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Beinahe.</p>
+<p><hi rendition="#i">Fremder:</hi> Nämlich Seiendes, nur verschieden von dem Seienden in bezug auf dich. Denn in bezug auf jedes, sagten wir doch, gebe es viel Seiendes und viel Nichtseiendes.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Offenbar freilich.</p>
+<p><hi rendition="#i">Fremder:</hi> Die letzte Rede nun, welche ich von dir ausgesagt, war nach unserer vorigen Bestimmung darüber, was eine Rede ist, zuvörderst ganz notwendig eine der kürzesten.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So waren wir eben wenigstens darüber einig geworden.</p>
+<p><hi rendition="#i">Fremder:</hi> Dann redete sie doch von etwas.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wenn nicht von dir, dann gewiß von niemand anderem.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Freilich nicht.</p>
+<p><hi rendition="#i">Fremder:</hi> Und redete sie von nichts, so wäre sie ganz und gar keine Rede. Denn wir haben gezeigt, es sei ganz unmöglich, daß, was eine Rede ist, eine Rede von nichts sein sollte.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vollkommen richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Wird also von dir Verschiedenes als identisch ausgesagt und Nichtseiendes als seiend, so wird eine solche aus Zeitwörtern und Hauptwörtern entstehende Zusammenstellung wirklich und wahrhaft eine falsche Rede.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vollkommen wahr.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie steht es mit Gedanken, Meinung oder Vorstellung und Wahrnehmung? Ist nicht schon deutlich, daß auch diese alle in unsern Seelen wahr und falsch vorkommen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> So wirst du es wohl leichter sehen, wenn du zuerst feststellst, was sie sind, und wie sich jedes von den übrigen unterscheidet.</p>
+<p><hi rendition="#i"><pb n="732" facs="#f00071"/> Theaitetos:</hi> Gib es mir nur an!</p>
+<p><hi rendition="#i">Fremder:</hi> Also Gedanken und Rede sind dasselbe, nur daß das innere Gespräch der Seele mit sich selbst, was ohne Stimme vor sich geht, von uns Gedanke genannt worden ist?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Der Ausfluß von jenem aber vermittelst des Lautes durch den Mund heißt Rede.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Und in Reden, wissen wir doch, kommt folgendes vor...</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was denn?</p>
+<p><hi rendition="#i">Fremder:</hi> Bejahung und Verneinung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das wissen wir.</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn dies nun der Seele in Gedanken stillschweigend vorkommt, weißt du es wohl anders zu nennen als Meinung?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie wohl?</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber, wenn jemand nicht aus sich allein, sondern vermittelst der Wahrnehmung ein solches Ergebnis zukommt, wird es möglich sein, es auf eine andere Art richtig zu benennen als Wahrnehmung?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nicht anders.</p>
+<p><hi rendition="#i">Fremder:</hi> Da nun doch die Rede wahr sein konnte und falsch, und davon dem übrigen der Gedanke sich zeigte als das innere Gespräch der Seele mit sich selbst, die Vorstellung aber oder Meinung als Vollendung des Gedankens, und da das, wovon wir sagen, es erscheint uns, die Vereinigung des Sinneneindrucks und der Meinung war, so werden notwendig auch von diesen, da sie der Rede verwandt sind, bisweilen einige falsch sein.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie sollten sie nicht?</p>
+<p><hi rendition="#i">Fremder:</hi> Siehst du nun wohl, daß falsche Vorstellung und Rede sich williger haben finden lassen als nach unserer Erwartung, die uns in Furcht setzte, wir möchten ein unausführbares Werk angreifen, wenn wir sie suchten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das sehe ich.</p>
+<p><hi rendition="#i">Fremder:</hi> Laß uns also auch wegen des übrigen nicht verzagen, sondern, nachdem sich uns dieses gezeigt hat, uns auch unserer vorigen Einteilungen erinnern!</p>
+<p><hi rendition="#i"><pb n="733" facs="#f00072"/> Theaitetos:</hi> Welcher doch?</p>
+<p><hi rendition="#i">Fremder:</hi> Wir trennten in der Bildnerei zwei Arten, die Kunst der Ebenbilder und die der Trugbilder.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und vom Sophisten, sagten wir, wären wir zweifelhaft, in welche von beiden er zu setzen sei.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So war es.</p>
+<p><hi rendition="#i">Fremder:</hi> Und während dieser Verlegenheit goß sich über uns jene noch größere Finsternis aus bei Erscheinung des alles bestreitenden Satzes, daß es kein Ebenbild noch Bild noch Truggestalt über haupt gebe, weil es niemals irgendwo irgendwie Falsches gebe.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig gesagt.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun aber falsche Rede und Vorstellung sich als wirklich gezeigt haben, findet auch statt, daß es Nachbildungen des Seienden gebe, und daß aus diesem Verhältnis eine täuschende Kunst entstehe. Theaitetos: Das findet statt.</p>
+<p><hi rendition="#i">Fremder:</hi> Und daß hierher der Sophist gehöre, war uns doch schon entschieden in dem Vorigen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> So laß uns also noch einmal versuchen, durch Spaltung der vorliegenden Gattung in zwei, immer auf der rechten Seite des Zerschnittenen weiterzugehen, das, in dessen Gemeinschaft sich der Sophist befindet, festhaltend, bis wir endlich nach Absonderung alles dessen, was ihm mit anderen gemeinschaftlich ist, seine eigentümliche Natur übrig behalten, um sie vornehmlich uns selbst darzustellen, dann aber auch denen, welche von Natur diesem Verfahren zunächst verwandt sind.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Damals fingen wir doch an mit Unterscheidung der hervorbringenden Kunst und der erwerbenden?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Und er erschien uns in der Nachstellung, dem Kampf, dann der handelnden und einigen solchen Arten der erwerbenden Kunst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Da nun aber die nachbildende Kunst ihn aufgenommen <pb n="734" facs="#f00073"/> hat, müssen wir zuerst die hervorbringende Kunst selbst in zwei teilen. Denn die Nachbildung ist doch eine Hervorbringung, von Bildern nämlich, sagen wir, nicht aber von den Dingen selbst. Nicht wahr?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise.</p>
+<p><hi rendition="#i">Fremder:</hi> Zuerst also sollen sein zwei Teile der hervorbringenden Kunst.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für welche?</p>
+<p><hi rendition="#i">Fremder:</hi> Ein göttlicher und ein menschlicher.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Noch habe ich es nicht verstanden.</p>
+<p><hi rendition="#i">Fremder:</hi> Hervorbringend, sagten wir doch, wenn wir uns des anfänglich Gesprochenen erinnern, sei jede Kraft, welche dem vorher nicht Seienden Ursache wird, daß es hernach werde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich erinnere mich.</p>
+<p><hi rendition="#i">Fremder:</hi> Alle sterblichen lebendigen Wesen nun und die Gewächse, die auf der Erde aus Samen und Wurzeln erwachsen, und die unbeseelt in der Erde sich findenden schmelzbaren und unschmelzbaren Körper, sollen wir sagen, daß dies alles durch eines andern als Gottes Hervorbringung hernach werde, da es zuvor nicht gewesen? Oder sollen wir uns der gewöhnlichen Lehre und Redensart bedienen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Welcher?</p>
+<p><hi rendition="#i">Fremder:</hi> Daß wir sagen, die Natur erzeuge dies kraft einer von selbst gedankenlos wirkenden Ursache? Oder mit Vernunft und göttlicher, von Gott kommender Erkenntnis?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ich zwar wende mich sonst oft, vielleicht meiner Jugend wegen, von einer dieser Vorstellungen zur andern; nun ich aber auf dich sehe und vermute, du glaubst, daß dies auf eine göttliche Art entstehe, nehme auch ich dasselbe an.</p>
+<p><hi rendition="#i">Fremder:</hi> Sehr gut, o Theaitetos, und gewiß, wenn wir dich für einen von denen hielten, die in Zukunft anders denken werden, so würden wir jetzt gleich unternehmen, in unserer Rede durch dringende Beweise dich zur Einstimmung zu bringen. Da ich aber deine Natur dafür ansehe, daß sie auch ohne unsere Reden selbst sich dahin neigt, wohin du jetzt gezogen zu werden bekennst, so lasse ich es; denn die Zeit wäre verschwendet. Sondern ich setze fest: was man der Natur zuschreibt, das werde durch göttliche Kunst hervorgebracht, was aber hieraus von Menschen zusammengesetzt wird, durch <pb n="735" facs="#f00074"/> menschliche, und nach dieser Erklärung gibt es also zwei Arten der hervorbringenden Kunst, die eine menschlich, die andere göttlich.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Richtig.</p>
+<p><hi rendition="#i">Fremder:</hi> Schneide nun von diesen zweien jede wiederum in zwei Teile!</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wie wenn du damals die gesamte Hervorbringung hättest der Länge nach zerschnitten, und du zerschnittest sie nun der Breite nach.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So sei sie denn zerschnitten!</p>
+<p><hi rendition="#i">Fremder:</hi> Vier Teile derselben entstehen also hieraus überhaupt: zwei menschliche bei uns, zwei göttliche bei den Göttern.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Von dieser anderweitigen Einteilung ist das eine Glied für jeden der beiden vorigen Teile die eigentlich hervorbringende, die beiden übrigbleibenden aber könnten am füglichsten die nachbildenden heißen, und auf diese Weise ist wiederum die gesamte hervorbringende Kunst in zwei Teile geteilt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sage nur noch, wie eigentlich jede!</p>
+<p><hi rendition="#i">Fremder:</hi> Wir und die andern Lebewesen und woraus alles Wachsende besteht, Feuer und Wasser und was hierhin gehört, sind, wie wir wissen, insgesamt Erzeugnisse Gottes, und zwar jedes das Hervorgebrachte selbst. Oder wie?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nicht anders.</p>
+<p><hi rendition="#i">Fremder:</hi> Jegliches von diesen nun begleiten Bilder, welche nicht die Sache selbst sind, aber auch durch göttliche Veranstaltung entstanden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Was für welche?</p>
+<p><hi rendition="#i">Fremder:</hi> Die in den Träumen und auch das, was wir bei Tage natürlichen Schein nennen, wie der Schatten, wenn in das Helle Finsternis eintritt, und der Doppelschein, wenn an glänzenden und glatten Dingen eigentümliches Licht und fremdes zusammenkommend ein Bild hervorbringen, welches einen dem vorigen gewohnten Anblick entgegengesetzten Sinneseindruck gibt.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Dies also seien die zweierlei Werke göttlicher <pb n="736" facs="#f00075"/> Hervorbringung, die Sache selbst und das eine jede begleitende Bild.</p>
+<p><hi rendition="#i">Fremder:</hi> Und unsere Kunst, werden wir nicht sagen, daß sie das Haus selbst durch die Baukunst hervorbringt, durch die Zeichenkunst aber noch ein anderes, gleichsam als einen menschlichen Traum für Wachende Verfertigtes?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Und werden wir nicht so auch in allem andern zweierlei als zwiefache Werke unserer hervorbringenden Kunst anführen: eins, die Sache selbst durch die eigentlich hervorbringende, dann das Bild durch die nachbildende?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Nun habe ich es besser verstanden und setze auf zwiefache Weise zwei Arten der hervorbringenden Kunst, eine göttliche und eine menschliche nach der einen Teilung, und nach der andern eine, durch welche die Sachen selbst, und eine, durch welche etwas denselben Ähnliches entsteht.</p>
+<p><hi rendition="#i">Fremder:</hi> Von der bildnerischen nun wollen wir uns erinnern, daß eine Art sich mit den Ebenbildern, die andere mit den Trugbildern beschäftigen sollte, wenn nämlich das Falsche als wirklich falsch seiend und als auch ein Seiendes von Natur sich zeigen würde.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So war es.</p>
+<p><hi rendition="#i">Fremder:</hi> Nun hat es sich aber gezeigt, weshalb wir denn jetzt unbestritten jene zwei Arten aufzählen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> In der trugbildnerischen nun machen wir wieder zwei Abteilungen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wieso?</p>
+<p><hi rendition="#i">Fremder:</hi> Die eine gebraucht Werkzeuge; in der andern gibt sich der, der das Trugbild macht, selbst zum Werkzeuge her.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Fremder:</hi> Wenn jemand, meine ich, seines eigenen Leibes sich bedienend deine Gestalt oder deine Stimme mittelst der seinigen ganz ähnlich erscheinen macht, so heißt dieser Teil der Trugbildnerei gewöhnlich die Nachahmung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Dieses also wollen wir von dem Ganzen abteilen und die nachahmende Kunst nennen, das übrige aber übergehen, um es uns bequem zu machen, einem andern überlassend, <pb n="737" facs="#f00076"/> es in eins zusammenzufassen und ihm einen schicklichen Namen beizulegen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So sei dieses abgeteilt, das andere beiseite geschoben!</p>
+<p><hi rendition="#i">Fremder:</hi> Auch dieses aber, o Theaitetos, lohnt uns noch als zweifach anzusehen. Sieh zu, weshalb?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sage nur!</p>
+<p><hi rendition="#i">Fremder:</hi> Die Nachahmenden tun dieses teils kennend, was sie nachahmen, teils ohne es zu kennen. Und was für einen größeren Unterschied könnte man wohl setzen als zwischen Unkenntnis und Kenntnis?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Keinen gewiß.</p>
+<p><hi rendition="#i">Fremder:</hi> Das eben Angeführte nun war Nachahmung eines Wissenden. Denn nur, wer deine Gestalt und dich kennt, kann sie nachahmen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Unbedenklich.</p>
+<p><hi rendition="#i">Fremder:</hi> Wie aber die Gestalt der Gerechtigkeit und der gesamten Tugend überhaupt; Gibt es nicht gar viele, die sie eigentlich nicht kennen, sondern sich nur ungefähr vorstellen, sich aber gar sehr darauf legen, das, was sie dafür halten, als ihnen einwohnend erscheinen zu machen, indem sie es soviel nur irgend möglich in Handlungen und Reden nachahmen?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr viele.</p>
+<p><hi rendition="#i">Fremder:</hi> Und verfehlen etwa alle dieses, gerecht zu scheinen, da sie es doch keineswegs sind? Oder nicht vielmehr ganz das Gegenteil?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ganz und gar.</p>
+<p><hi rendition="#i">Fremder:</hi> Diesen Nachahmer also werden wir doch für verschieden erklären müssen von jenem, von dem Wissenden diesen Nichtwissenden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Ja.</p>
+<p><hi rendition="#i">Fremder:</hi> Woher nimmt man also für jeden von ihnen einen schicklichen Namen? Oder ist das nicht offenbar schwer, deshalb, weil in Absicht der Teilung der Gattungen in Arten die früheren einen alten unbewußten Grund hatten, so daß keiner eine solche Einteilung auch nur versuchte, weshalb ich denn mit den Namen notwendig ziemlich in Verlegenheit bin. Dennoch, wenn es auch kühner gesprochen sein sollte, wollen wir der Unterscheidung wegen jene von einer bloßen Vorstellung <pb n="738" facs="#f00077"/> ausgehende Nachahmung die Dünkelnachahmung nennen, die aber von der Erkenntnis ausgehende die kundige Nachahmung.</p>
+<p><hi rendition="#i">Theaitetos:</hi> So sei es.</p>
+<p><hi rendition="#i">Fremder:</hi> Mit jener haben wir es also zu tun. Denn unter den Wissenden war der Sophist nicht, wohl aber unter den Nachahmenden.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gar sehr.</p>
+<p><hi rendition="#i">Fremder:</hi> Den Dünkelnachahmer laß uns also beschauen wie ein Eisen, ob er aus einem Stück ist oder ob er noch irgendwo eine Spur zeigt, daß er aus zweien zusammengeschlagen ist.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das wollen wir tun.</p>
+<p><hi rendition="#i">Fremder:</hi> Und die zeigt er recht sichtlich: Der eine nämlich ist ehrlich und glaubt wirklich, das zu wissen, was er sich vorstellt. Des anderen Benehmen aber, weil er sich so gar sehr in seinen Reden hin und her dreht, zeigt, daß er selbst großen Verdacht und Argwohn hegt, das nicht zu wissen, was zu wissen er sich gegen andere das Ansehn geben will.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Gewiß gibt es deren von beiden Arten, wie du sie beschreibst.</p>
+<p><hi rendition="#i">Fremder:</hi> Wollen wir nun den einen als den einfältigen Nachahmer setzen, den andern als den, der sich verstellt?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Das geht wohl.</p>
+<p><hi rendition="#i">Fremder:</hi> Und gibt es von diesem wieder nur eine Art oder zwei?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Sieh du zu!</p>
+<p><hi rendition="#i">Fremder:</hi> Ich sehe schon, und mir erscheinen allerdings deren zwei: der eine, der öffentlich und in langen Reden vor dem Volke sich zu verstellen versteht; der andere, der unter wenigen und in kurzen Sätzen seinen Mitunterredner zwingt, sich selbst zu widersprechen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Vollkommen richtig gesagt.</p>
+<p><hi rendition="#i">Fremder:</hi> Wer soll nun nach unserer Darlegung der Langredende sein: der Staatsmann oder der Volksredner?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Der Volksredner.</p>
+<p><hi rendition="#i">Fremder:</hi> Und wie wollen wir den anderen nennen, den Weisen oder den Sophisten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Wohl unmöglich den Weisen (<hi rendition="#i">sophon</hi>), da wir ihn ja als nichtwissend gesetzt haben; da er aber ein Nachahmer des Weisen ist, so muß er doch wohl von diesem etwas in seinem <pb n="739" facs="#f00078"/> Beinamen bekommen, und ich verstehe nun wohl: wir müssen eben diesen bezeichnen als jenen auf alle Weise wahrhaft echten Sophisten.</p>
+<p><hi rendition="#i">Fremder:</hi> Wollen wir nun wie vorher seinen Namen feststellen und von Anfang bis zu Ende ineinander Hechten?</p>
+<p><hi rendition="#i">Theaitetos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Fremder:</hi> Also die Nachahmerei in der zum Widerspruch bringenden Kunst des verstellerischen Teiles des Dünkels, welche in der trügerischen Art von der bildnerischen Kunst her nicht als die göttliche, sondern als die menschliche, tausendkünstlerische Seite der Hervorbringung in Reden abgesondert ist: wer von diesem Geschlecht und Blute den wahrhaften Sophisten abstammen läßt, der wird, wie es scheint, das Richtigste sagen.</p>
+<p><hi rendition="#i">Theaitetos:</hi> Auf alle Weise gewiß.</p>
+<pb n="740" facs="#f00079"/>
+
+</body></text></TEI>

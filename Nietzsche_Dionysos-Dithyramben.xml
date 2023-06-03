@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in drei Bänden</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Friedrich Nietzsche: Werke in drei Bänden. Band 2, Herausgegeben von Karl
+      Schlechta. München: Hanser, 1954.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in drei Bänden</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+        <forename>Karl</forename>
+        <surname>Schlechta</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Hanser</name>
+      </publisher><pubPlace>München</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1888. Erstdruck zusammen mit dem ersten Nachdruck von Zarathustra IV, hg. von Peter Gast, Leipzig (C.G. Naumann) 1891.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Dionysos-Dithyramben</note>
+
+
+<head>Friedrich Nietzsche</head>
+<pb n="1237" facs="#f0001"/>
+<head>Dionysos-Dithyramben</head>
+
+
+<div n="1">
+<note type="editorial">[Motto]</note>
+
+<p><hi rendition="#smaller">Indem ich der Menschheit eine unbegrenzte Wohltat erweisen will, gebe ich ihr meine Dithyramben.</hi></p>
+<p><hi rendition="#smaller"> Ich lege sie in die Hände des Dichters der Isoline, des größten und ersten Satyr, der heute lebt – und nicht nur heute...</hi></p>
+<p rendition="#right"><hi rendition="#smaller">Dionysos</hi></p>
+<pb n="1237" facs="#f0002"/> <pb n="1239" facs="#f0003"/>
+</div>
+
+<div n="1">
+<note type="editorial">Nur Narr! Nur Dichter!</note>
+
+<head>Nur Narr! Nur Dichter!</head>
+<p>Bei abgehellter Luft,</p>
+<p>wenn schon des Taus Tröstung</p>
+<p>zur Erde niederquillt,</p>
+<p>unsichtbar, auch ungehört</p>
+<p>– denn zartes Schuhwerk trägt</p>
+<p>der Tröster Tau gleich allen Trostmilden –</p>
+<p>gedenkst du da, gedenkst du, heißes Herz,</p>
+<p>wie einst du durstetest,</p>
+<p>nach himmlischen Tränen und Taugeträufel</p>
+<p>versengt und müde durstetest,</p>
+<p>dieweil auf gelben Graspfaden</p>
+<p>boshaft abendliche Sonnenblicke</p>
+<p>durch schwarze Bäume um dich liefen,</p>
+<p>blendende Sonnen-Glutblicke, schadenfrohe.</p>
+<lb/>
+<p>»Der <hi rendition="#i">Wahrheit</hi> Freier – du?« so höhnten sie –</p>
+<p>»Nein! nur ein Dichter!</p>
+<p>ein Tier, ein listiges, raubendes, schleichendes,</p>
+<p>das lügen muß,</p>
+<p>das wissentlich, willentlich lügen muß,</p>
+<p>nach Beute lüstern,</p>
+<p>bunt verlarvt,</p>
+<p>sich selbst zur Larve,</p>
+<p>sich selbst zur Beute,</p>
+<p><hi rendition="#i">das –</hi> der Wahrheit Freier?...</p>
+<lb/>
+<p>Nur Narr! nur Dichter!</p>
+<p>Nur Buntes redend,</p>
+<p>aus Narrenlarven bunt herausredend,</p>
+<p>herumsteigend auf lügnerischen Wortbrücken,</p>
+<pb n="1239" facs="#f0004"/> <p>auf Lügen-Regenbogen</p>
+<p>zwischen falschen Himmeln</p>
+<p>herumschweifend, herumschleichend –</p>
+<p><hi rendition="#i">nur</hi> Narr! <hi rendition="#i">nur</hi> Dichter!...</p>
+<lb/>
+<p><hi rendition="#i">Das –</hi> der Wahrheit Freier?...</p>
+<p>Nicht still, starr, glatt, kalt,</p>
+<p>zum Bilde worden,</p>
+<p>zur Gottes-Säule,</p>
+<p>nicht aufgestellt vor Tempeln,</p>
+<p>eines Gottes Türwart:</p>
+<p>nein! feindselig solchen Tugend-Standbildern,</p>
+<p>in jeder Wildnis heimischer als in Tempeln,</p>
+<p>voll Katzen-Mutwillens</p>
+<p>durch jedes Fenster springend</p>
+<p>husch! in jeden Zufall,</p>
+<p>jedem Urwalde zuschnüffelnd,</p>
+<p>daß du in Urwäldern</p>
+<p>unter buntzottigen Raubtieren</p>
+<p>sündlich gesund und schön und bunt liefest,</p>
+<p>mit lüsternen Lefzen,</p>
+<p>selig-höhnisch, selig-höllisch, selig-blutgierig,</p>
+<p>raubend, schleichend, <hi rendition="#i">lügend</hi> liefest...</p>
+<lb/>
+<p>Oder dem Adler gleich, der lange,</p>
+<p>lange starr in Abgründe blickt,</p>
+<p>in <hi rendition="#i">seine</hi> Abgründe...</p>
+<p>– o wie sie sich hier hinab,</p>
+<p>hinunter, hinein,</p>
+<p>in immer tiefere Tiefen ringeln! –</p>
+<lb/>
+<p>Dann,</p>
+<p>plötzlich,</p>
+<p>geraden Flugs,</p>
+<p>gezückten Zugs</p>
+<p>auf <hi rendition="#i">Lämmer</hi> stoßen,</p>
+<pb n="1240" facs="#f0005"/> <p>jach hinab, heißhungrig,</p>
+<p>nach Lämmern lüstern,</p>
+<p>gram allen Lamms-Seelen,</p>
+<p>grimmig gram allem, was blickt</p>
+<p>tugendhaft, schafmäßig, krauswollig,</p>
+<p>dumm, mit Lammsmilch-Wohlwollen...</p>
+<lb/>
+<p>Also</p>
+<p>adlerhaft, pantherhaft</p>
+<p>sind des Dichters Sehnsüchte,</p>
+<p>sind <hi rendition="#i">deine</hi> Sehnsüchte unter tausend Larven,</p>
+<p>du Narr! du Dichter!...</p>
+<lb/>
+<p>Der du den Menschen schautest</p>
+<p>so <hi rendition="#i">Gott</hi> als <hi rendition="#i">Schaf</hi> –,</p>
+<p>den Gott <hi rendition="#i">zerreißen</hi> im Menschen</p>
+<p>wie das Schaf im Menschen</p>
+<p>und zerreißend <hi rendition="#i">lachen</hi> –</p>
+<lb/>
+<p><hi rendition="#i">das, das ist deine Seligkeit,</hi></p>
+<p>eines Panthers und Adlers Seligkeit,</p>
+<p>eines Dichters und Narren Seligkeit!«...</p>
+<lb/>
+<p>Bei abgehellter Luft,</p>
+<p>wenn schon des Monds Sichel</p>
+<p>grün zwischen Purpurröten</p>
+<p>und neidisch hinschleicht,</p>
+<p>– dem Tage feind,</p>
+<p>mit jedem Schritte heimlich</p>
+<p>an Rosen-Hängematten</p>
+<p>hinsichelnd, bis sie sinken,</p>
+<p>nachtabwärts blaß hinabsinken:</p>
+<lb/>
+<p>so sank ich selber einstmals</p>
+<p>aus meinem Wahrheits-Wahnsinne,</p>
+<p>aus meinen Tages-Sehnsüchten,</p>
+<pb n="1241" facs="#f0006"/> <p>des Tages müde, krank vom Lichte,</p>
+<p>– sank abwärts, abendwärts, schattenwärts,</p>
+<p>von einer Wahrheit</p>
+<p>verbrannt und durstig</p>
+<p>– gedenkst du noch, gedenkst du, heißes Herz,</p>
+<p>wie da du durstetest? –</p>
+<p><hi rendition="#i">daß ich verbannt sei</hi></p>
+<p><hi rendition="#i">von aller Wahrheit!</hi></p>
+<p><hi rendition="#i">Nur</hi> Narr! <hi rendition="#i">Nur</hi> Dichter!...</p>
+<pb n="1242" facs="#f0007"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Die Wüste wächst: weh dem, der Wüsten birgt..</note>
+
+<head>Die Wüste wächst:</head>
+<head>weh dem, der Wüsten birgt...</head>
+<p>Ha!</p>
+<p>Feierlich!</p>
+<p>ein würdiger Anfang!</p>
+<p>afrikanisch feierlich!</p>
+<p>eines Löwen würdig</p>
+<p>oder eines moralischen Brüllaffen...</p>
+<p>– aber nichts für euch,</p>
+<p>ihr allerliebsten Freundinnen,</p>
+<p>zu deren Füßen mir,</p>
+<p>einem Europäer unter Palmen,</p>
+<p>zu sitzen vergönnt ist. Sela.</p>
+<lb/>
+<p>Wunderbar wahrlich!</p>
+<p>Da sitze ich nun,</p>
+<p>der Wüste nahe und bereits</p>
+<p>so ferne wieder der Wüste,</p>
+<p>auch in nichts noch verwüstet:</p>
+<p>nämlich hinabgeschluckt</p>
+<p>von dieser kleinen Oasis</p>
+<p>– sie sperrte gerade gähnend</p>
+<p>ihr liebliches Maul auf,</p>
+<p>das wohlriechendste aller Mäulchen:</p>
+<p>da fiel ich hinein,</p>
+<p>hinab, hindurch – unter euch,</p>
+<p>ihr allerliebsten Freundinnen! Sela.</p>
+<lb/>
+<p>Heil, Heil jenem Walfische,</p>
+<p>wenn er also es seinem Gaste</p>
+<p>wohlsein ließ! – ihr versteht</p>
+<p>meine gelehrte Anspielung?...</p>
+<lb/>
+<pb n="1243" facs="#f0008"/> <p>Heil seinem Bauche,</p>
+<p>wenn es also</p>
+<p>ein so lieblicher Oasis-Bauch war,</p>
+<p>gleich diesem: was ich aber in Zweifel ziehe.</p>
+<p>Dafür komme ich aus Europa,</p>
+<p>das zweifelsüchtiger ist als alle Eheweibchen.</p>
+<p>Möge Gott es bessern!</p>
+<p>Amen.</p>
+<lb/>
+<p>Da sitze ich nun,</p>
+<p>in dieser kleinsten Oasis,</p>
+<p>einer Dattel gleich,</p>
+<p>braun, durchsüßt, goldschwürig,</p>
+<p>lüstern nach einem runden Mädchen-Maule,</p>
+<p>mehr aber noch nach mädchenhaften</p>
+<p>eiskalten schneeweißen schneidigen</p>
+<p>Beißzähnen: nach denen nämlich</p>
+<p>lechzt das Herz allen heißen Datteln. Sela.</p>
+<lb/>
+<p>Den genannten Südfrüchten</p>
+<p>ähnlich, allzuähnlich</p>
+<p>liege ich hier, von kleinen</p>
+<p>Flügelkäfern</p>
+<p>umtänzelt und umspielt,</p>
+<p>insgleichen von noch kleineren</p>
+<p>törichteren boshafteren</p>
+<p>Wünschen und Einfällen, –</p>
+<p>umlagert von euch,</p>
+<p>ihr stummen, ihr ahnungsvollen</p>
+<p>Mädchen-Katzen</p>
+<p>Dudu und Suleika</p>
+<p>– <hi rendition="#i">umsphinxt,</hi> daß ich in ein Wort</p>
+<p>viel Gefühle stopfe</p>
+<p>(– vergebe mir Gott</p>
+<p>diese Sprachsünde!...)</p>
+<p>– sitze hier, die beste Luft schnüffelnd,</p>
+<pb n="1244" facs="#f0009"/> <p>Paradieses-Luft wahrlich,</p>
+<p>lichte leichte Luft, goldgestreifte,</p>
+<p>so gute Luft nur je</p>
+<p>vom Monde herabfiel,</p>
+<p>sei es aus Zufall</p>
+<p>oder geschah es aus Übermute?</p>
+<p>wie die alten Dichter erzählen.</p>
+<p>Ich Zweifler aber ziehe es in Zweifel,</p>
+<p>dafür komme ich</p>
+<p>aus Europa,</p>
+<p>das zweifelsüchtiger ist als alle Eheweibchen.</p>
+<p>Möge Gott es bessern!</p>
+<p>Amen.</p>
+<lb/>
+<p>Diese schönste Luft atmend,</p>
+<p>mit Nüstern geschwellt gleich Bechern,</p>
+<p>ohne Zukunft, ohne Erinnerungen,</p>
+<p>so sitze ich hier, ihr</p>
+<p>allerliebsten Freundinnen,</p>
+<p>und sehe der Palme zu,</p>
+<p>wie sie, einer Tänzerin gleich,</p>
+<p>sich biegt, und schmiegt und in der Hüfte wiegt</p>
+<p>– man tut es mit, sieht man lange zu...</p>
+<p>einer Tänzerin gleich, die, wie mir scheinen will,</p>
+<p>zu lange schon, gefährlich lange</p>
+<p>immer, immer nur auf <hi rendition="#i">einem</hi> Beinchen stand?</p>
+<p>– da vergaß sie darob, wie mir scheinen will,</p>
+<p>das <hi rendition="#i">andre</hi> Beinchen?</p>
+<p>Vergebens wenigstens</p>
+<p>suchte ich das vermißte</p>
+<p>Zwillings-Kleinod</p>
+<p>– nämlich das andre Beinchen –</p>
+<p>in der heiligen Nähe</p>
+<p>ihres allerliebsten, allerzierlichsten</p>
+<p>Fächer- und Flatter- und Flitter-Röckchens.</p>
+<p>Ja, wenn ihr mir, ihr schönen Freundinnen,</p>
+<pb n="1245" facs="#f00010"/> <p>ganz glauben wollt:</p>
+<p>sie hat es <hi rendition="#i">verloren...</hi></p>
+<p>Hu! Hu! Hu! Hu! Huh!...</p>
+<p>Es ist dahin,</p>
+<p>auf ewig dahin,</p>
+<p>das andre Beinchen!</p>
+<p>O schade um dies liebliche andre Beinchen!</p>
+<p>Wo – mag es wohl weilen und verlassen trauern,</p>
+<p>dieses einsame Beinchen?</p>
+<p>In Furcht vielleicht vor einem</p>
+<p>grimmen gelben blondgelockten</p>
+<p>Löwen-Untiere? oder gar schon</p>
+<p>abgenagt, abgeknappert –</p>
+<p>erbärmlich! wehe! wehe! abgeknabbert! Sela.</p>
+<lb/>
+<p>O weint mir nicht,</p>
+<p>weiche Herzen!</p>
+<p>Weint mir nicht, ihr</p>
+<p>Dattel-Herzen! Milch-Busen!</p>
+<p>Ihr Süßholz-Herz-</p>
+<p>Beutelchen!</p>
+<p>Sei ein Mann, Suleika! Mut! Mut!</p>
+<lb/>
+<p>Weine nicht mehr,</p>
+<p>bleiche Dudu!</p>
+<p>– Oder sollte vielleicht</p>
+<p>etwas Stärkeres, Herz-Stärkendes</p>
+<p>hier am Platze sein?</p>
+<p>ein gesalbter Spruch?</p>
+<p>ein feierlicher Zuspruch?...</p>
+<lb/>
+<p>Ha!</p>
+<p>Herauf, Würde!</p>
+<p>Blase, blase wieder,</p>
+<p>Blasebalg der Tugend!</p>
+<p>Ha!</p>
+<lb/>
+<pb n="1246" facs="#f00011"/> <p>Noch einmal brüllen,</p>
+<p>moralisch brüllen,</p>
+<p>als moralischer Löwe vor den Töchtern der Wüste brüllen!</p>
+<p>– Denn Tugend-Geheul,</p>
+<p>ihr allerliebsten Mädchen,</p>
+<p>ist mehr als alles</p>
+<p>Europäer-Inbrunst, Europäer-Heißhunger!</p>
+<p>Und da stehe ich schon,</p>
+<p>als Europäer,</p>
+<p>ich kann nicht anders, Gott helfe mir!</p>
+<p>Amen!</p>
+<lb/>
+<p>Die Wüste wächst: weh dem, der Wüsten birgt!</p>
+<p>Stein knirscht an Stein, die Wüste schlingt und würgt.</p>
+<p>Der ungeheure Tod blickt glühend braun</p>
+<p>und <hi rendition="#i">kaut</hi> –, sein Leben ist sein Kaun...</p>
+<lb/>
+<p><hi rendition="#i">Vergiß nicht, Mensch, den Wollust ausgeloht:</hi></p>
+<p><hi rendition="#i">du – bist der Stein, die Wüste, bist der Tod...</hi></p>
+<pb n="1247" facs="#f00012"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Letzter Wille</note>
+
+<head>Letzter Wille</head>
+<p>So sterben,</p>
+<p>wie ich ihn einst sterben sah –,</p>
+<p>den Freund, der Blitze und Blicke</p>
+<p>göttlich in meine dunkle Jugend warf:</p>
+<p>– mutwillig und tief,</p>
+<p>in der Schlacht ein Tänzer –,</p>
+<lb/>
+<p>unter Kriegern der Heiterste,</p>
+<p>unter Siegern der Schwerste,</p>
+<p>auf seinem Schicksal ein Schicksal stehend,</p>
+<p>hart, nachdenklich, vordenklich –:</p>
+<lb/>
+<p>erzitternd darob, <hi rendition="#i">daß</hi> er siegte,</p>
+<p>jauchzend darüber, daß er <hi rendition="#i">sterbend</hi> siegte –:</p>
+<lb/>
+<p>befehlend, indem er starb,</p>
+<p>– und er befahl, daß man <hi rendition="#i">vernichte...</hi></p>
+<lb/>
+<p>So sterben,</p>
+<p>wie ich ihn einst sterben sah:</p>
+<p>siegend, <hi rendition="#i">vernichtend...</hi></p>
+<pb n="1248" facs="#f00013"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Zwischen Raubvögeln</note>
+
+<head>Zwischen Raubvögeln</head>
+<p>Wer hier hinab will,</p>
+<p>wie schnell</p>
+<p>schluckt den die Tiefe!</p>
+<p>– Aber du, Zarathustra,</p>
+<p>liebst den Abgrund noch,</p>
+<p>tust der <hi rendition="#i">Tanne</hi> es gleich? –</p>
+<lb/>
+<p>Die schlägt Wurzeln, wo</p>
+<p>der Fels selbst schaudernd</p>
+<p>zur Tiefe blickt –,</p>
+<p>die zögert an Abgründen,</p>
+<p>wo alles rings</p>
+<p>hinunter will:</p>
+<p>zwischen der Ungeduld</p>
+<p>wilden Gerölls, stürzenden Bachs</p>
+<p>geduldig duldend, hart, schweigsam,</p>
+<p>einsam...</p>
+<lb/>
+<p><hi rendition="#i">Einsam!</hi></p>
+<p>Wer wagte es auch,</p>
+<p>hier zu Gast zu sein,</p>
+<p><hi rendition="#i">dir</hi> Gast zu sein?...</p>
+<p>Ein Raubvogel vielleicht,</p>
+<p>der hängt sich wohl</p>
+<p>dem standhaften Dulder</p>
+<p>schadenfroh ins Haar,</p>
+<p>mit irrem Gelächter,</p>
+<p>einem Raubvogel-Gelächter...</p>
+<lb/>
+<p><hi rendition="#i">Wozu</hi> so standhaft?</p>
+<p>– höhnt er grausam:</p>
+<pb n="1249" facs="#f00014"/> <p>man muß Flügel haben, wenn man</p>
+<p>den Abgrund liebt...</p>
+<p>man muß nicht hängen bleiben,</p>
+<p>wie du, Gehängter! –</p>
+<lb/>
+<p>O Zarathustra,</p>
+<p>grausamster Nimrod!</p>
+<p>Jüngst Jünger noch Gottes,</p>
+<p>das Fangnetz aller Tugend,</p>
+<p>der Pfeil des Bösen! –</p>
+<p>Jetzt –</p>
+<p>von dir selber erjagt,</p>
+<p>deine eigene Beute,</p>
+<p>in dich selber eingebohrt...</p>
+<lb/>
+<p>Jetzt –</p>
+<p>einsam mit dir,</p>
+<p>zwiesam im eignen Wissen,</p>
+<p>zwischen hundert Spiegeln</p>
+<p>vor dir selber falsch,</p>
+<p>zwischen hundert Erinnerungen</p>
+<p>ungewiß,</p>
+<p>an jeder Wunde müd,</p>
+<p>an jedem Froste kalt,</p>
+<p>in eignen Stricken gewürgt,</p>
+<p><hi rendition="#i">Selbstkenner!</hi></p>
+<p><hi rendition="#i">Selbsthenker!</hi></p>
+<lb/>
+<p>Was bandest du dich</p>
+<p>mit dem Strick deiner Weisheit?</p>
+<p>Was locktest du dich</p>
+<p>ins Paradies der alten Schlange?</p>
+<p>Was schlichst du dich ein</p>
+<p>in <hi rendition="#i">dich –</hi> in <hi rendition="#i">dich?</hi>...</p>
+<lb/>
+<p>Ein Kranker nun,</p>
+<p>der an Schlangengift krank ist;</p>
+<pb n="1250" facs="#f00015"/> <p>ein Gefangner nun,</p>
+<p>der das härteste Los zog:</p>
+<p>im eignen Schachte</p>
+<p>gebückt arbeitend,</p>
+<p>in dich selber eingehöhlt,</p>
+<p>dich selber angrabend,</p>
+<p>unbehilflich,</p>
+<p>steif,</p>
+<p>ein Leichnam –,</p>
+<p>von hundert Lasten übertürmt,</p>
+<p>von dir überlastet,</p>
+<p>ein <hi rendition="#i">Wissender!</hi></p>
+<p>ein <hi rendition="#i">Selbsterkenner!</hi></p>
+<p>der <hi rendition="#i">weise</hi> Zarathustra!...</p>
+<lb/>
+<p>Du suchtest die schwerste Last:</p>
+<p>da fandest du <hi rendition="#i">dich</hi> –,</p>
+<p>du wirfst dich nicht ab von dir...</p>
+<lb/>
+<p>Lauernd,</p>
+<p>kauernd,</p>
+<p>einer, der schon nicht mehr aufrecht steht!</p>
+<p>Du verwächst mir noch mit deinem Grabe,</p>
+<p><hi rendition="#i">verwachsener</hi> Geist!...</p>
+<lb/>
+<p>Und jüngst noch so stolz,</p>
+<p>auf allen Stelzen deines Stolzes!</p>
+<p>Jüngst noch der Einsiedler ohne Gott,</p>
+<p>der Zweisiedler mit dem Teufel,</p>
+<p>der scharlachne Prinz jedes Übermuts!...</p>
+<lb/>
+<p>Jetzt –</p>
+<p>zwischen zwei Nichtse</p>
+<p>eingekrümmt,</p>
+<p>ein Fragezeichen,</p>
+<p>ein müdes Rätsel –</p>
+<p>ein Rätsel für <hi rendition="#i">Raubvögel...</hi></p>
+<pb n="1251" facs="#f00016"/> <p>– sie werden dich schon »lösen«,</p>
+<p>sie hungern schon nach deiner »Lösung«,</p>
+<p>sie flattern schon um dich, ihr Rätsel,</p>
+<p>um dich, Gehenkter!...</p>
+<p>O Zarathustra!...</p>
+<p><hi rendition="#i">Selbstkenner!...</hi></p>
+<p><hi rendition="#i">Selbsthenker!...</hi></p>
+<pb n="1252" facs="#f00017"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Das Feuerzeichen</note>
+
+<head>Das Feuerzeichen</head>
+<p>Hier, wo zwischen Meeren die Insel wuchs,</p>
+<p>ein Opferstein jäh hinaufgetürmt,</p>
+<p>hier zündet sich unter schwarzem Himmel</p>
+<p>Zarathustra seine Höhenfeuer an, –</p>
+<p>Feuerzeichen für verschlagne Schiffer,</p>
+<p>Fragezeichen für solche, die Antwort haben...</p>
+<lb/>
+<p>Diese Flamme mit weißgrauem Bauche</p>
+<p>– in kalte Fernen züngelt ihre Gier,</p>
+<p>nach immer reineren Höhen biegt sie den Hals –</p>
+<p>eine Schlange gerad aufgerichtet vor Ungeduld:</p>
+<p>dieses Zeichen stellte ich vor mich hin.</p>
+<lb/>
+<p>Meine Seele selber ist diese Flamme:</p>
+<p>unersättlich nach neuen Fernen</p>
+<p>lodert aufwärts, aufwärts ihre stille Glut.</p>
+<p>Was floh Zarathustra vor Tier und Menschen?</p>
+<p>Was entlief er jäh allem festen Lande?</p>
+<p><hi rendition="#i">Sechs</hi> Einsamkeiten kennt er schon –,</p>
+<p>aber das Meer selbst war nicht genug ihm einsam,</p>
+<p>die Insel ließ ihn steigen, auf dem Berg wurde er zur Flamme,</p>
+<p>nach einer <hi rendition="#i">siebenten</hi> Einsamkeit</p>
+<p>wirft er suchend jetzt die Angel über sein Haupt.</p>
+<lb/>
+<p>Verschlagne Schiffer! Trümmer alter Sterne!</p>
+<p>Ihr Meere der Zukunft! Unausgeforschte Himmel!</p>
+<p>nach allem Einsamen werfe ich jetzt die Angel:</p>
+<p>gebt Antwort auf die Ungeduld der Flamme,</p>
+<p>fangt mir, dem Fischer auf hohen Bergen,</p>
+<p>meine siebente, <hi rendition="#i">letzte</hi> Einsamkeit! – –</p>
+<pb n="1253" facs="#f00018"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Die Sonne sinkt</note>
+
+<head>Die Sonne sinkt</head>
+<head>1</head>
+<p>Nicht lange durstest du noch,</p>
+<p>verbranntes Herz!</p>
+<p>Verheißung ist in der Luft,</p>
+<p>aus unbekannten Mündern bläst mich's an,</p>
+<p>– die große Kühle kommt...</p>
+<lb/>
+<p>Meine Sonne stand heiß über mir im Mittage:</p>
+<p>seid mir gegrüßt, daß ihr kommt,</p>
+<p>ihr plötzlichen Winde,</p>
+<p>ihr kühlen Geister des Nachmittags!</p>
+<lb/>
+<p>Die Luft geht fremd und rein.</p>
+<p>Schielt nicht mit schiefem</p>
+<p>Verführerblick</p>
+<p>die Nacht mich an?...</p>
+<p>Bleib stark, mein tapfres Herz!</p>
+<p>Frag nicht: warum? –</p>
+<lb/>
+
+
+<p rend="h4">2</p>
+<p>Tag meines Lebens!</p>
+<p>die Sonne sinkt.</p>
+<p>Schon steht die glatte</p>
+<p>Flut vergüldet.</p>
+<p>Warm atmet der Fels:</p>
+<p>schlief wohl zu Mittag</p>
+<p>das Glück auf ihm seinen Mittagsschlaf? –</p>
+<p>In grünen Lichtern</p>
+<p>spielt Glück noch der braune Abgrund herauf.</p>
+<lb/>
+<pb n="1254" facs="#f00019"/> <p>Tag meines Lebens!</p>
+<p>gen Abend gehts!</p>
+<p>Schon glüht dein Auge</p>
+<p>halbgebrochen,</p>
+<p>schon quillt deines Taus</p>
+<p>Tränengeträufel,</p>
+<p>schon läuft still über weiße Meere</p>
+<p>deiner Liebe Purpur,</p>
+<p>deine letzte zögernde Seligkeit.</p>
+<lb/>
+
+
+<p rend="h4">3</p>
+<p>Heiterkeit, güldene, komm!</p>
+<p>du des Todes</p>
+<p>heimlichster, süßester Vorgenuß!</p>
+<p>– Lief ich zu rasch meines Wegs?</p>
+<p>Jetzt erst, wo der Fuß müde ward,</p>
+<p>holt dein Blick mich noch ein,</p>
+<p>holt dein <hi rendition="#i">Glück</hi> mich noch ein.</p>
+<lb/>
+<p>Rings nur Welle und Spiel.</p>
+<p>Was je schwer war,</p>
+<p>sank in blaue Vergessenheit –</p>
+<p>müßig steht nun mein Kahn.</p>
+<p>Sturm und Fahrt – wie verlernt er das!</p>
+<p>Wunsch und Hoffen ertrank,</p>
+<p>glatt liegt Seele und Meer.</p>
+<lb/>
+<p><hi rendition="#i">Siebente</hi> Einsamkeit!</p>
+<p>Nie empfand ich</p>
+<p>näher mir süße Sicherheit,</p>
+<p>wärmer der Sonne Blick.</p>
+<p>– Glüht nicht das Eis meiner Gipfel noch?</p>
+<p>Silbern, leicht, ein Fisch</p>
+<p>schwimmt nun mein Nachen hinaus.</p>
+<pb n="1255" facs="#f00020"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Klage der Ariadne</note>
+
+<head>Klage der Ariadne</head>
+<p>Wer wärmt mich, wer liebt mich noch?</p>
+<p>Gebt heiße Hände!</p>
+<p>gebt Herzens-Kohlenbecken!</p>
+<p>Hingestreckt, schaudernd,</p>
+<p>Halbtotem gleich, dem man die Füße wärmt,</p>
+<p>geschüttelt ach! von unbekannten Fiebern,</p>
+<p>zitternd vor spitzen eisigen Frostpfeilen,</p>
+<p>von dir gejagt, Gedanke!</p>
+<p>Unnennbarer! Verhüllter, Entsetzlicher!</p>
+<p>Du Jäger hinter Wolken!</p>
+<p>Darniedergeblitzt von dir,</p>
+<p>du höhnisch Auge, das mich aus Dunklem anblickt!</p>
+<p>So liege ich,</p>
+<p>biege mich, winde mich, gequält</p>
+<p>von allen ewigen Martern,</p>
+<p>getroffen</p>
+<p>von dir, grausamster Jäger,</p>
+<p>du unbekannter – <hi rendition="#i">Gott...</hi></p>
+<lb/>
+<p>Triff tiefer!</p>
+<p>Triff einmal noch!</p>
+<p>Zerstich, zerstich dies Herz!</p>
+<p>Was soll dies Martern</p>
+<p>mit zähnestumpfen Pfeilen?</p>
+<p>Was blickst du wieder,</p>
+<p>der Menschen-Qual nicht müde,</p>
+<p>mit schadenfrohen Götter-Blitz-Augen?</p>
+<p>Nicht töten willst du,</p>
+<p>nur martern, martern?</p>
+<p>Wozu – <hi rendition="#i">mich</hi> martern,</p>
+<p>du schadenfroher unbekannter Gott?</p>
+<lb/>
+<pb n="1256" facs="#f00021"/> <p>Haha!</p>
+<p>du schleichst heran</p>
+<p>bei solcher Mitternacht?...</p>
+<p>Was willst du?</p>
+<p>Sprich!</p>
+<p>Du drängst mich, drückst mich,</p>
+<p>Ha! schon viel zu nahe!</p>
+<p>Du hörst mich atmen,</p>
+<p>du behorchst mein Herz,</p>
+<p>du Eifersüchtiger!</p>
+<p>– worauf doch eifersüchtig?</p>
+<p>Weg! Weg!</p>
+<p>wozu die Leiter?</p>
+<p><hi rendition="#i">willst</hi> du <hi rendition="#i">hinein,</hi></p>
+<p>ins Herz, einsteigen,</p>
+<p>in meine heimlichsten</p>
+<p>Gedanken einsteigen?</p>
+<p>Schamloser! Unbekannter! Dieb!</p>
+<p>Was willst du dir erstehlen?</p>
+<p>Was willst du dir erhorchen?</p>
+<p>Was willst du dir erfoltern,</p>
+<p>du Folterer</p>
+<p>du – Henker-Gott!</p>
+<p>Oder soll ich, dem Hunde gleich,</p>
+<p>vor dir mich wälzen?</p>
+<p>Hingebend, begeistert außer mir</p>
+<p>dir Liebe – zuwedeln?</p>
+<lb/>
+<p>Umsonst!</p>
+<p>Stich weiter!</p>
+<p>Grausamster Stachel!</p>
+<p>Kein Hund – dein Wild nur bin ich,</p>
+<p>grausamster Jäger!</p>
+<p>deine stolzeste Gefangne,</p>
+<p>du Räuber hinter Wolken...</p>
+<p>Sprich endlich!</p>
+<pb n="1257" facs="#f00022"/> <p>Du Blitz-Verhüllter! Unbekannter! sprich!</p>
+<p>Was willst du, Wegelagerer, von – <hi rendition="#i">mir</hi>?...</p>
+<lb/>
+<p>Wie?</p>
+<p>Lösegeld?</p>
+<p>Was willst du Lösegelds?</p>
+<p>Verlange viel – das rät mein Stolz!</p>
+<p>und rede kurz – das rät mein andrer Stolz!</p>
+<p>Haha!</p>
+<p><hi rendition="#i">Mich –</hi> willst du? mich?</p>
+<p>mich – ganz?...</p>
+<lb/>
+<p>Haha!</p>
+<p>Und marterst mich, Narr, der du bist,</p>
+<p>zermarterst meinen Stolz?</p>
+<p>Gib <hi rendition="#i">Liebe</hi> mir – wer wärmt mich noch?</p>
+<p>wer liebt mich noch?</p>
+<p>gib heiße Hände,</p>
+<p>gib Herzens-Kohlenbecken,</p>
+<p>gib mir, der Einsamsten,</p>
+<p>die Eis, ach! siebenfaches Eis</p>
+<p>nach Feinden selber,</p>
+<p>nach Feinden schmachten lehrt,</p>
+<p>gib, ja ergib,</p>
+<p>grausamster Feind,</p>
+<p>mir – <hi rendition="#i">dich!...</hi></p>
+<p>Davon!</p>
+<p>Da floh er selber,</p>
+<p>mein einziger Genoß,</p>
+<p>mein großer Feind,</p>
+<p>mein Unbekannter,</p>
+<p>mein Henker-Gott!...</p>
+<lb/>
+<p>Nein!</p>
+<p>komm zurück!</p>
+<p><hi rendition="#i">Mit</hi> allen deinen Martern!</p>
+<pb n="1258" facs="#f00023"/> <p>All meine Tränen laufen</p>
+<p>zu dir den Lauf</p>
+<p>und meine letzte Herzensflamme</p>
+<p>dir glüht sie auf.</p>
+<p>O komm zurück,</p>
+<p>mein unbekannter Gott! mein <hi rendition="#i">Schmerz</hi>!</p>
+<p>mein letztes Glück!...</p>
+<lb/>
+<p rendition="#c">Ein Blitz.</p>
+<p rendition="#c">Dionysos wird in smaragdener Schönheit sichtbar.</p>
+<lb/>
+<p rend="h4">Dionysos:</p>
+<p>Sei klug, Ariadne!...</p>
+<p>Du hast kleine Ohren, du hast meine Ohren:</p>
+<p>steck ein kluges Wort hinein! –</p>
+<p>Muß man sich nicht erst hassen, wenn man sich lieben soll?...</p>
+<p><hi rendition="#i">Ich bin dein Labyrinth...</hi></p>
+<pb n="1259" facs="#f00024"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Ruhm und Ewigkeit</note>
+
+<head>Ruhm und Ewigkeit</head>
+<head>1</head>
+<p>Wie lange sitzest du schon</p>
+<p>auf deinem Mißgeschick?</p>
+<p>Gib acht! du brütest mir noch</p>
+<p>ein Ei,</p>
+<p>ein Basilisken-Ei</p>
+<p>aus deinem langen Jammer aus.</p>
+<lb/>
+<p>Was schleicht Zarathustra entlang dem Berge? –</p>
+<lb/>
+<p>Mißtrauisch, geschwürig, düster,</p>
+<p>ein langer Lauerer –,</p>
+<p>aber plötzlich, ein Blitz,</p>
+<p>hell, furchtbar, ein Schlag</p>
+<p>gen Himmel aus dem Abgrund:</p>
+<p>– dem Berge selber schüttelt sich</p>
+<p>das Eingeweide...</p>
+<lb/>
+<p>Wo Haß und Blitzstrahl</p>
+<p>Eins ward, ein <hi rendition="#i">Fluch</hi> –,</p>
+<p>auf den Bergen haust jetzt Zarathustras Zorn,</p>
+<p>eine Wetterwolke schleicht er seines Wegs.</p>
+<lb/>
+<p>Verkrieche sich, wer eine letzte Decke hat!</p>
+<p>Ins Bett mit euch, ihr Zärtlinge!</p>
+<p>Nun rollen Donner über die Gewölbe,</p>
+<p>nun zittert, was Gebälk und Mauer ist,</p>
+<p>nun zucken Blitze und schwefelgelbe Wahrheiten –</p>
+<p>Zarathustra <hi rendition="#i">flucht</hi>...</p>
+<lb/>
+<p rend="h4"><pb n="1260" facs="#f00025"/> 2</p>
+<p>Diese Münze, mit der</p>
+<p>alle Welt bezahlt,</p>
+<p><hi rendition="#i">Ruhm</hi> –,</p>
+<p>mit Handschuhen fasse ich diese Münze an,</p>
+<p>mit Ekel trete ich sie <hi rendition="#i">unter</hi> mich.</p>
+<lb/>
+<p><hi rendition="#i">Wer</hi> will bezahlt sein?</p>
+<p>Die Käuflichen...</p>
+<p>Wer <hi rendition="#i">feil</hi> steht, greift</p>
+<p>mit fetten Händen</p>
+<p>nach diesem Allerwelts-Blechklingklang Ruhm!</p>
+<lb/>
+<p>– <hi rendition="#i">Willst</hi> du sie kaufen?</p>
+<p>Sie sind alle käuflich.</p>
+<p>Aber biete viel!</p>
+<p>klingle mit vollem Beutel!</p>
+<p>– du <hi rendition="#i">stärkst</hi> sie sonst,</p>
+<p>du stärkst sonst ihre <hi rendition="#i">Tugend</hi>...</p>
+<lb/>
+<p>Sie sind alle tugendhaft.</p>
+<p>Ruhm und Tugend – das reimt sich.</p>
+<p>So lange die Welt lebt,</p>
+<p>zahlt sie Tugend-Geplapper</p>
+<p>mit Ruhm-Geklapper –,</p>
+<p>die Welt <hi rendition="#i">lebt</hi> von diesem Lärm...</p>
+<lb/>
+<p>Vor allen Tugendhaften</p>
+<p>will ich schuldig sein,</p>
+<p>schuldig heißen mit jeder großen Schuld!</p>
+<p>Vor allen Ruhms-Schalltrichtern</p>
+<p>wird mein Ehrgeiz zum Wurm –,</p>
+<p>unter solchen gelüstets mich,</p>
+<p>der <hi rendition="#i">Niedrigste</hi> zu sein...</p>
+<lb/>
+<pb n="1261" facs="#f00026"/> <p>Diese Münze, mit der</p>
+<p>alle Welt bezahlt,</p>
+<p><hi rendition="#i">Ruhm</hi> –,</p>
+<p>mit Handschuhen fasse ich diese Münze an,</p>
+<p>mit Ekel trete ich sie <hi rendition="#i">unter</hi> mich.</p>
+<lb/>
+
+
+<p rend="h4">3</p>
+<p>Still! –</p>
+<p>Von großen Dingen – ich <hi rendition="#i">sehe</hi> Großes! –</p>
+<p>soll man schweigen</p>
+<p>oder groß reden:</p>
+<p>rede groß, meine entzückte Weisheit!</p>
+<lb/>
+<p>Ich sehe hinauf –</p>
+<p>dort rollen Lichtmeere:</p>
+<p>o Nacht, o Schweigen, o totenstiller Lärm!...</p>
+<p>Ich sehe ein Zeichen –,</p>
+<p>aus fernsten Fernen</p>
+<p>sinkt langsam funkelnd ein Sternbild gegen mich...</p>
+<lb/>
+<p rendition="#c">4</p>
+<lb/>
+<p>Höchstes Gestirn des Seins!</p>
+<p>Ewiger Bildwerke Tafel!</p>
+<p><hi rendition="#i">Du</hi> kommst zu mir? –</p>
+<p>Was keiner erschaut hat,</p>
+<p>deine stumme Schönheit –</p>
+<p>wie? sie flieht vor meinen Blicken nicht? –</p>
+<lb/>
+<p>Schild der Notwendigkeit!</p>
+<p>Ewiger Bildwerke Tafel!</p>
+<p>– aber du weißt es ja:</p>
+<p>was alle hassen,</p>
+<p>was allein <hi rendition="#i">ich</hi> liebe:</p>
+<p>– daß <hi rendition="#i">du ewig</hi> bist!</p>
+<pb n="1262" facs="#f00027"/> <p>daß du <hi rendition="#i">notwendig</hi> bist! –</p>
+<p>meine Liebe entzündet</p>
+<p>sich ewig nur an der Notwendigkeit.</p>
+<lb/>
+<p>Schild der Notwendigkeit!</p>
+<p>Höchstes Gestirn des Seins!</p>
+<p>– das kein Wunsch erreicht,</p>
+<p>– das kein Nein befleckt,</p>
+<p>ewiges Ja des Seins,</p>
+<p>ewig bin ich dein Ja:</p>
+<p><hi rendition="#i">denn ich liebe dich, o Ewigkeit! – –</hi></p>
+<pb n="1263" facs="#f00028"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Von der Armut des Reichsten</note>
+
+<head>Von der Armut des Reichsten</head>
+<p>Zehn Jahre dahin –,</p>
+<p>kein Tropfen erreichte mich,</p>
+<p>kein feuchter Wind, kein Tau der Liebe</p>
+<p>– ein <hi rendition="#i">regenloses</hi> Land...</p>
+<p>Nun bitte ich meine Weisheit,</p>
+<p>nicht geizig zu werden in dieser Dürre:</p>
+<p>ströme selber über, träufle selber Tau,</p>
+<p>sei selber Regen der vergilbten Wildnis!</p>
+<lb/>
+<p>Einst hieß ich die Wolken</p>
+<p>fortgehn von meinen Bergen, –</p>
+<p>einst sprach ich »mehr Licht, ihr Dunklen!«</p>
+<p>Heut locke ich sie, daß sie kommen:</p>
+<p>macht Dunkel um mich mit euren Eutern!</p>
+<p>– ich will euch melken,</p>
+<p>ihr Kühe der Höhe!</p>
+<p>Milchwarme Weisheit, süßen Tau der Liebe</p>
+<p>ströme ich über das Land.</p>
+<lb/>
+<p>Fort, fort, ihr Wahrheiten,</p>
+<p>die ihr düster blickt!</p>
+<p>Nicht will ich auf meinen Bergen</p>
+<p>herbe ungeduldige Wahrheiten sehn.</p>
+<p>Vom Lächeln vergüldet</p>
+<p>nahe mir heut die Wahrheit,</p>
+<p>von der Sonne gesüßt, von der Liebe gebräunt, –</p>
+<p>eine <hi rendition="#i">reife</hi> Wahrheit breche ich allein vom Baum.</p>
+<lb/>
+<p>Heut strecke ich die Hand aus</p>
+<p>nach den Locken des Zufalls,</p>
+<pb n="1264" facs="#f00029"/> <p>klug genug, den Zufall</p>
+<p>einem Kinde gleich zu führen, zu überlisten.</p>
+<p>Heut will ich gastfreundlich sein</p>
+<p>gegen Unwillkommnes,</p>
+<p>gegen das Schicksal selbst will ich nicht stachlicht sein,</p>
+<p>– Zarathustra ist kein Igel.</p>
+<lb/>
+<p>Meine Seele,</p>
+<p>unersättlich mit ihrer Zunge,</p>
+<p>an alle guten und schlimmen Dinge hat sie schon geleckt,</p>
+<p>in jede Tiefe tauchte sie hinab.</p>
+<p>Aber immer gleich dem Korke,</p>
+<p>immer schwimmt sie wieder obenauf,</p>
+<p>sie gaukelt wie Öl über braune Meere:</p>
+<p>dieser Seele halber heißt man mich den Glücklichen.</p>
+<lb/>
+<p>Wer sind mir Vater und Mutter?</p>
+<p>Ist nicht mir Vater Prinz Überfluß</p>
+<p>und Mutter das stille Lachen?</p>
+<p>Erzeugte nicht dieser beiden Ehebund</p>
+<p>mich Rätseltier,</p>
+<p>mich Lichtunhold,</p>
+<p>mich Verschwender aller Weisheit, Zarathustra?</p>
+<lb/>
+<p>Krank heute vor Zärtlichkeit,</p>
+<p>ein Tauwind,</p>
+<p>sitzt Zarathustra wartend, wartend auf seinen Bergen, –</p>
+<p>im eignen Safte</p>
+<p>süß geworden und gekocht,</p>
+<p><hi rendition="#i">unterhalb</hi> seines Gipfels,</p>
+<p><hi rendition="#i">unterhalb</hi> seines Eises,</p>
+<p>müde und selig,</p>
+<p>ein Schaffender an seinem, siebenten Tag.</p>
+<lb/>
+<p>– Still</p>
+<p>Eine Wahrheit wandelt über mir</p>
+<p>einer Wolke gleich, –</p>
+<pb n="1265" facs="#f00030"/> <p>mit unsichtbaren Blitzen trifft sie mich.</p>
+<p>Auf breiten langsamen Treppen</p>
+<p>steigt ihr Glück zu mir:</p>
+<p>komm, komm, geliebte Wahrheit!</p>
+<lb/>
+<p>– Still!</p>
+<p><hi rendition="#i">Meine</hi> Wahrheit ists! –</p>
+<p>Aus zögernden Augen,</p>
+<p>aus samtenen Schaudern</p>
+<p>trifft mich ihr Blick,</p>
+<p>lieblich, bös, ein Mädchenblick...</p>
+<p>Sie erriet meines Glückes <hi rendition="#i">Grund,</hi></p>
+<p>sie erriet <hi rendition="#i">mich –</hi> ha! was sinnt sie aus? –</p>
+<p>Purpurn lauert ein Drache</p>
+<p>im Abgrunde ihres Mädchenblicks.</p>
+<lb/>
+<p>– Still! Meine Wahrheit <hi rendition="#i">redet</hi>! –</p>
+<lb/>
+<p>Wehe dir, Zarathustra!</p>
+<lb/>
+<p>Du siehst aus, wie einer,</p>
+<p>der Gold verschluckt hat:</p>
+<p>man wird dir noch den Bauch aufschlitzen!...</p>
+<lb/>
+<p>Zu reich bist du,</p>
+<p>du Verderber vieler!</p>
+<p>Zu viele machst <hi rendition="#i">du</hi> neidisch,</p>
+<p>zu viele machst du arm...</p>
+<p>Mir selber wirft dein Licht Schatten –,</p>
+<p>es fröstelt mich: geh weg, du Reicher,</p>
+<p>geh, Zarathustra, weg aus deiner Sonne!...</p>
+<lb/>
+<p>Du möchtest schenken, wegschenken deinen Überfluß,</p>
+<p>aber du selber bist der Überflüssigste!</p>
+<p>Sei klug, du Reicher!</p>
+<p><hi rendition="#i">Verschenke dich selber erst,</hi> o Zarathustra!</p>
+<pb n="1266" facs="#f00031"/> <p>Zehn Jahre dahin –,</p>
+<p>und kein Tropfen erreichte dich?</p>
+<p>kein feuchter Wind? kein Tau der Liebe?</p>
+<p>Aber wer <hi rendition="#i">sollte</hi> dich auch lieben,</p>
+<p>du Überreicher?</p>
+<p>Dein Glück macht rings trocken,</p>
+<p>macht arm an Liebe</p>
+<p>– ein <hi rendition="#i">regenloses</hi> Land...</p>
+<lb/>
+<p>Niemand dankt dir mehr.</p>
+<p>Du aber dankst jedem,</p>
+<p>der von dir nimmt:</p>
+<p>daran erkenne ich dich,</p>
+<p>du Überreicher,</p>
+<p>du <hi rendition="#i">Ärmster</hi> aller Reichen!</p>
+<lb/>
+<p>Du opferst dich, dich <hi rendition="#i">quält</hi> dein Reichtum –,</p>
+<p>du gibst dich ab,</p>
+<p>du schonst dich nicht, du liebst dich nicht:</p>
+<p>die große Qual zwingt dich allezeit,</p>
+<p>die Qual <hi rendition="#i">übervoller</hi> Scheuern, <hi rendition="#i">übervollen</hi> Herzens –</p>
+<p>aber niemand dankt dir mehr...</p>
+<lb/>
+<p>Du mußt <hi rendition="#i">ärmer</hi> werden,</p>
+<p>weiser Unweiser!</p>
+<p>willst du geliebt sein.</p>
+<p>Man liebt nur die Leidenden,</p>
+<p>man gibt Liebe nur dem Hungernden:</p>
+<p><hi rendition="#i">verschenke dich selbst erst,</hi> o Zarathustra!</p>
+<lb/>
+<p>– Ich bin deine Wahrheit...<pb n="1267" facs="#f00032"/> 
+</p>
+
+</div>
+
+</body></text></TEI>

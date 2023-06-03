@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kandid oder die beste Welt</title>
+        <author><persName ref="http://d-nb.info/gnd/27813">Voltaire</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Kandid oder die beste Welt. Von Voltaire. Deutsch mit Einleitung und Anmerkungen von
+      A. Ellissen. Leipzig: Otto Wigand, 1844.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Kandid oder die beste Welt</title>
+      <author><persName ref="http://d-nb.info/gnd/27813">Voltaire</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/88790"><forename>Adolf</forename><surname>Ellissen</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Otto Wigand</name>
+      </publisher><pubPlace>Leipzig</pubPlace>
+      <date type="publication">1844</date>
+      <date type="firstPublication">1844</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Es handelt sich um den Artikel »Tout est bien« (Alles ist gut) aus Voltaires »Dictionnaire philosophique portatif« (Philosophisches Taschenwörterbuch), zuerst Genf/London 1764. Der Text folgt der Übersetzung von A. Ellissen von 1844.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Ueber den Satz: »Alles ist gut«</note>
+
+<head>Voltaire</head>
+<head>Ueber den Satz: »Alles ist gut.«</head>
+<head><hi rendition="#i">(»Tout est bien.«)</hi></head>
+<p rendition="#et">Ich bitte euch, ihr Herren, mir den Satz: <hi rendition="#i">Alles ist gut</hi>, zu erklären, denn ich verstehe ihn nicht.</p>
+<p rendition="#et">Bedeutet es, Alles ist der Theorie der bewegenden Kräfte gemäß eingerichtet und angeordnet, so verstehe ich das und räume es ein.</p>
+<p rendition="#et">Versteht ihr darunter, daß Jeder sich wohl befindet, daß Jeder zu leben hat, daß Niemand leidet? Ihr wißt, wie falsch das ist.</p>
+<p rendition="#et">Ist eure Ansicht die, daß all das beklagenswerthe Elend, welches auf der Erde lastet, in Beziehung auf Gott <hi rendition="#i">gut</hi> <pb n="25" facs="#f0001"/> ist und daß er sich dessen freut? An eine solche Scheußlichkeit glaube ich nicht und ihr eben so wenig.</p>
+<p rendition="#et">Ich bitte euch, erklärt mir den Satz: <hi rendition="#i">Alles ist gut</hi>. Der superkluge <hi rendition="#i">Platon</hi> ließ Gott gnädigst die freie Wahl zwischen fünf Welten, und zwar aus dem Grunde, weil es, wie er sagt, nur fünf regelmäßige Körper in der Geometrie giebt, nämlich das Tetraedron, den Kubus, das Hexaedron, das Dodekaedron und das Ikosaedron. Allein warum will er der göttlichen Macht so enge Schranken setzen? Warum will er ihr nicht die Kugel gestatten, die noch regelmäßiger ist, und selbst den Kegel, die mehrseitige Pyramide, den Cylinder etc.?</p>
+<p rendition="#et">Gott wählte nach ihm nothwendiger Weise die beste aller möglichen Welten. Dies System wurde von verschiedenen christlichen Philosophen angenommen, obgleich es dem Dogma der Erbsünde zu widerstreiten scheint; denn unser Erdball ist nach jener Katastrophe der bestmögliche Erdball. Er war es vorher; er könnte es mithin noch jetzt sein; viele Leute aber glauben, daß er, weit entfernt der beste zu sein, vielmehr der schlechteste aller denkbaren Erdbälle ist.</p>
+<p rendition="#et"><hi rendition="#i">Leibniz</hi> bekannte sich in seiner <hi rendition="#i">Theodicäe</hi> zu <hi rendition="#i">Platon's</hi> System. Mehr als ein Leser beklagte sich, den Einen so wenig zu verstehen, wie den Andern. Was uns betrifft, so bekennen wir, nachdem wir Beide zu wiederholten Malen durchgelesen, unumwunden, wie wir zu thun pflegen, unsere Unwissenheit; und da das Evangelium uns über diese Frage nichts offenbart hat, verharren wir ohne Gewissensskrupel in unserer Finsterniß.</p>
+<p rendition="#et"><hi rendition="#i"><pb n="26" facs="#f0002"/> Leibniz</hi>, der von Allem redet, läßt sich auch über die Erbsünde vernehmen; und da Jedermann, der ein System hat, Alles in seinen Plan zu bringen weiß, was damit im Widerspruch stehen könnte, so stellte er den Satz auf, daß der Ungehorsam gegen Gott und das daraus hervorgegangene schreckliche Unheil integrirende Theile der besten aller möglichen Welten, nothwendige Ingredienzien jeder möglichen Glückseligkeit seien. »<hi rendition="#i">Calla, calla, señor Don Carlos: todo che se haze es por su ben</hi>«.</p>
+<p rendition="#et">Wie! aus einem Orte des Wohllebens vertrieben werden, aus einem Orte, wo man ewig gelebt haben würde, wenn man nicht unglücklicher Weise einen Apfel gegessen hätte! Wie! im Elend elende und verbrecherische Kinder zeugen, die selbst alle Leiden erdulden und sie wieder auf andere vererben werden! Wie! alle Krankheiten ausstehen, allen Kummer und Verdruß erfahren, eines schmerzhaften Todes sterben und zur Erfrischung Ewigkeiten hindurch in der Hölle braten: das Alles sollte das beste Loos sein, das uns beschieden werden könnte? Das ist doch wahrhaftig nicht allzu <hi rendition="#i">gut</hi> für <hi rendition="#i">uns</hi>, und inwiefern könnte es wohl<hi rendition="#i"> gut</hi> für <hi rendition="#i">Gott</hi> sein?</p>
+<p rendition="#et"><hi rendition="#i">Leibniz</hi> fühlte wohl, daß sich hierauf nichts erwidern lasse: auch schrieb er dicke Bücher, worin er selbst nicht verstand, was er sagte.</p>
+<p rendition="#et">Das Dasein des Uebels mag allenfalls ein <hi rendition="#i">Lucullus</hi> lachend hinwegleugnen wollen, wenn er sich wohl befindet und mit seinen Freunden und seiner Geliebten in seinem Apollosaal eine stattliche Mahlzeit hält. Allein er stecke nur <pb n="27" facs="#f0003"/> den Kopf zum Fenster hinaus, so wird er Unglückliche sehen; er bekomme das Fieber, so ist er es selbst.</p>
+<p rendition="#et">Ich citire nicht gern. Es ist gewöhnlich eine ziemlich mißliche Sache damit; man läßt das, was der citirten Stelle vorhergeht oder darauf folgt, unberücksichtigt und setzt sich tausenderlei Kritteleien aus. Hier kann ich indessen nicht umhin, den Kirchenvater <hi rendition="#i">Lactanz</hi> zu citiren, der im <hi rendition="#i">13</hi>. Kapitel seines Buchs<hi rendition="#i"> vom Zorne Gottes</hi> dem <hi rendition="#i">Epikur</hi> folgende Worte in den Mund legt: »Entweder <hi rendition="#i">will</hi> Gott das Böse aus der Welt entfernen und <hi rendition="#i">kann</hi> es nicht, oder er <hi rendition="#i">kann</hi> es und <hi rendition="#i">will</hi> es nicht, oder er <hi rendition="#i">kann</hi> es nicht und <hi rendition="#i">will</hi> es nicht, oder endlich er <hi rendition="#i">will</hi> es und <hi rendition="#i">kann</hi> es. <hi rendition="#i">Will</hi> er es und<hi rendition="#i"> kann</hi> es nicht, so ist das ein Unvermögen, was dem Wesen Gottes widerspricht; <hi rendition="#i">kann</hi> er es und <hi rendition="#i">will</hi> es nicht, so ist es Bosheit, die seiner Natur nicht minder zuwider läuft; <hi rendition="#i">will</hi> er es nicht und <hi rendition="#i">kann</hi> es auch nicht, so ist es Bosheit und Unvermögen zugleich; <hi rendition="#i">will</hi> er es aber und <hi rendition="#i">kann</hi> es auch (was der einzige von diesen Fällen ist, der dem Wesen der Gottheit entspricht): woher kommt dann das <hi rendition="#i">Böse</hi> auf Erden?«</p>
+<p rendition="#et">Das Argument ist schlagend. Auch beantwortet<hi rendition="#i"> Lactanz</hi> es sehr schlecht, indem er sagt, Gott wolle das Böse, habe uns aber die Weisheit verliehen, vermittelst deren man das Gute erwirbt. Man muß gestehen, daß diese Antwort im Vergleich mit dem Einwurf sehr schwach ist; denn sie setzt voraus, daß Gott die Weisheit nicht anders verleihen konnte, als indem er das Böse ins Dasein rief; und dann mit welcher allerliebsten <hi rendition="#i">Weisheit</hi> sind wir ausgerüstet!</p>
+<p rendition="#et">Der Ursprung des Bösen war von jeher ein Abgrund, dessen Boden Niemand zu sehen bekommen hat. Dies trieb eben so viele alte Philosophen und Gesetzgeber dermaßen in <pb n="28" facs="#f0004"/> die Enge, daß sie ihre Zuflucht zu zwei Grundprincipien, einem <hi rendition="#i">guten</hi> und einem<hi rendition="#i"> bösen</hi>, nahmen. <hi rendition="#i">Typhon</hi> war das böse Princip bei den Aegyptern, <hi rendition="#i">Arimanes</hi> bei den Persern. Die <hi rendition="#i">Manichäer</hi> nahmen bekanntlich diese Theologie an; da aber diese Leute nie, weder mit dem guten, noch mit dem bösen Princip persönlich verkehrten, darf man ihnen nicht aufs Wort glauben.</p>
+<p rendition="#et">Unter den Dummheiten, wovon diese Welt strotzt und die man auch zu den Uebeln derselben rechnen kann, ist es keine der geringsten, zwei allmächtige Wesen anzunehmen, die sich darum schlagen, welches von ihnen in den Angelegenheiten dieser Welt am thätigsten die Hände im Spiel haben soll, und die einen Vertrag schließen, wie die beiden Aerzte im<hi rendition="#i"> Molière</hi>: »Lassen Sie mir das Brechmittel, so lasse ich Ihnen den Aderlaß«.</p>
+<p rendition="#et"><hi rendition="#i">Basilides</hi> behauptete im ersten Jahrhundert der Kirche, sich hierin an die Lehre der <hi rendition="#i">Platoniker</hi> lehnend, Gott habe seinen untergeordnetsten Engeln aufgetragen, unsere Welt zu schaffen, und diese hätten, in Ermangelung hinreichender Geschicklichkeit, ein Machwerk zu Stande gebracht, wie wir es vor uns sehen. Diese theologische Fabel hält nicht Stand vor dem furchtbaren Einwurf, daß es nicht im Wesen eines allmächtigen und allweisen Gottes liegt, ein Weltgebäude von Baumeistern aufführen zu lassen, die nichts von der Sache verstehen.</p>
+<p rendition="#et"><hi rendition="#i">Simon</hi>, der den Einwurf vorausahnte, kömmt ihm durch die Erzählung zuvor, daß der Engel, welcher der Werkstätte vorgestanden, verdammt worden sei, weil er seine Sache so schlecht gemacht; allein das höllische Feuer, <pb n="29" facs="#f0005"/> worin dieser Engel brennt, heilt uns nicht von unsern Uebeln.</p>
+<p rendition="#et">Die Geschichte der <hi rendition="#i">Pandora</hi> bei den Griechen widerlegt den Einwurf eben so wenig. Die Büchse, worin sich alle Uebelbefinden und auf deren Boden die Hoffnung zurückbleibt, ist zwar eine schöne Allegorie; allein diese <hi rendition="#i">Pandora</hi> wurde vom <hi rendition="#i">Hephästos</hi> nur verfertigt, um sich am <hi rendition="#i">Prometheus</hi> zu rächen, der einen Menschen aus Koth gebildet hatte.</p>
+<p rendition="#et">Die <hi rendition="#i">Inder</hi> trafen es nicht besser. Nachdem Gott den Menschen geschaffen, gab er ihm eine Arznei, die ihm eine ewige Gesundheit sicherte. Der Mensch belud seinen Esel damit, der Esel hatte Durst, die Schlange zeigte ihm eine Quelle, und während der Esel trank, nahm die Schlange die Arznei zu sich.</p>
+<p rendition="#et">Die <hi rendition="#i">Syrer</hi> ersannen folgende Fabel. Der Mann und das Weib, die im vierten Himmel erschaffen waren, ließen sich einst gelüsten, statt der Ambrosia, ihrer natürlichen Nahrung, einen Kuchen zu essen. Die Ambrosia hatte sie durch die Haut ausgedünstet, nachdem sie aber von dem Kuchen gegessen, mußten sie zu Stuhle gehen. Der Mann und das Weib baten einen Engel, ihnen zu zeigen, wo das geheime Kabinet sei. »Seht ihr,« sprach der Engel, »jenen kleinen Planeten, ein Punkt, ein Nichts an Größe, dort unten einige sechzig Millionen Meilen von hier, das ist das heimliche Gemach des Weltalls, macht schnell, daß ihr hinkommt.« Sie gingen hin, man ließ sie dort, und seit dieser Zeit war unsre Welt, was sie dermalen ist.</p>
+<p rendition="#et"><pb n="30" facs="#f0006"/> Man kann nun aber immer auch die <hi rendition="#i">Syrer</hi> fragen, warum Gott es zugab, daß der Mensch den Kuchen aß und daß uns daraus eine so unsägliche Menge der schrecklichsten Uebel erwuchs.</p>
+<p rendition="#et">Von jenem vierten Himmel gehe ich schnell zu Lord <hi rendition="#i">Bolingbroke</hi> über, um der Langenweile zu entgehen. Dieser Schriftsteller, unstreitig ein großer und tiefer Geist, gab dem berühmten <hi rendition="#i">Pope</hi> die Grundidee zu seinem Gedicht über den Satz: <hi rendition="#i">Alles ist gut</hi>, die man in der That Wort für Wort in <hi rendition="#i">Bolingbroke's</hi> nachgelassenen Schriften wiederfindet und die Lord<hi rendition="#i"> Shaftesbury</hi> schon früher seinen <hi rendition="#i">Charakteristiken</hi> einverleibt hatte. In dem Kapitel <hi rendition="#i">von den Sittenlehrern bei Shaftesbury</hi> findet man wörtlich Folgendes:</p>
+<p rendition="#et">»Auf jene Klagen über die Mängel der Natur läßt sich Mancherlei erwidern. Wie konnte sie (heißt es) so ohnmächtig und mangelhaft aus den Händen eines vollkommnen Wesens hervorgehen? Allein ich stelle in Abrede, daß sie mangelhaft ist – – Ihre Schönheit ergiebt sich eben aus den Widersprüchen, und die Harmonie des Ganzen entspringt aus einem beständigen Kampf – – <pb n="31" facs="#f0007"/> Jedes Wesen muß dem andern geopfert werden; die Pflanzen den Thieren, die Thiere der Erde - ; und die Gesetze der Centralkraft und der Schwere werden nicht einem armseligen Thiere zu Liebe gestört werden, das binnen Kurzem durch eben diese Gesetze, mögen sie es immerhin während seines Lebens beschützen, wieder zu Staub wird«.</p>
+<p rendition="#et"><hi rendition="#i">Bolingbroke, Shaftesbury</hi> und <hi rendition="#i">Pope</hi>, der ihre Gedanken in das Gold seiner Verse faßte, lösen die Frage nicht befriedigender als die übrigen. Ihr »<hi rendition="#i">Alles ist gut</hi>« will weiter nichts sagen, als das Alles durch unwandelbare Gesetze regiert wird. Allein wer weiß das nicht? Ihr lehrt uns nichts Neues, wenn ihr die Bemerkung, die alle kleine Kinder bereits an den Schuhen abgelaufen haben, wiederholt, daß nämlich die Fliegen dazu da sind, von den Spinnen gefressen zu werden, wie die Spinnen von den Schwalben, die Schwalben von den Spechten, die Spechte von den Adlern, die Adler, um von den Menschen getödtet zu werden, die Menschen, um sich einander zu tödten und von den <pb n="32" facs="#f0008"/> Würmern gefressen zu werden, so wie demnächst noch von den Teufeln, wenigstens von tausenden immer <hi rendition="#i">999</hi>.</p>
+<p rendition="#et">Das ist eine bündige und consequente Ordnung bei den Thieren jeder Gattung; überall herrscht Ordnung. Wenn sich in meiner Blase ein Stein bildet, so geschieht das vermittelst einer ganz bewundernswürdigen Mechanik: steinige Substanzen gehen zu kleinen Theilen in mein Blut über, werden in den Nieren filtrirt, passiren durch die Uriteren, lagern sich in meiner Blase und, vermöge einer ausgezeichneten Newton'schen Attractionskraft, sammeln sie sich dort an. Der Stein bildet sich und wird immer größer. In Folge der schönsten Einrichtung von der Welt stehe ich Schmerzen aus, die zehnmal ärger sind als der Tod. Ein Chirurg, der die vom <hi rendition="#i">Tubalkain</hi> erfundene Kunst vervollkommnet hat, stößt mir ein spitzes und scharfes Eisen in das Perinäum, faßt meinen Stein mit seiner Zange, vermöge eines nothwendigen Mechanismus zerbröckelt er bei seinen Bemühungen, und in Folge des nämlichen Mechanismus sterbe ich unter entsetzlichen Qualen. <hi rendition="#i">Alles das ist gut</hi>; Alles das ist die augenscheinliche Folge unwandelbarer physischer Principe. Das gebe ich zu und wußte es längst so gut, wie Ihr.</p>
+<p rendition="#et">Wären wir gefühllos, so ließe sich gegen diese Physik nichts einwenden. Aber davon ist hier nicht die Rede; wir fragen Euch, ob es keine fühlbaren Uebel giebt, und woher <pb n="33" facs="#f0009"/> sie kommen? »Es giebt keine Uebel,« sagt <hi rendition="#i">Pope</hi> in seiner vierten Epistel über den Satz: <hi rendition="#i">Alles ist gut</hi>; »giebt es besondere Uebel, so machen sie in ihrer Gesammtheit das allgemeine Wohl aus«.</p>
+<p rendition="#et">Ein seltsames allgemeines Wohl, in der That, das aus dem Stein, der Gicht, allen möglichen Verbrechen, allen möglichen Leiden, dem Tode und der Verdammniß bestehen soll.</p>
+<p rendition="#et">Der Fall der Menschen ist das Pflaster, welches wir auf alle jene besondern Krankheiten des Körpers und der Seele legen, die Ihr in ihrer Gesammtheit <hi rendition="#i">allgemeine Gesundheit</hi> nennt. Allein <hi rendition="#i">Shaftesbury</hi> und <hi rendition="#i">Bolingbroke</hi> wagten die Erbsünde zu bestreiten. <hi rendition="#i">Pope</hi> redet nicht davon. Offenbar untergräbt ihr System die christliche Religion in ihren Grundfesten und erklärt doch durchaus nichts.</p>
+<p rendition="#et">Gleichwohl wurde dies System seit einiger Zeit von mehreren Theologen, die gern Widersprüche zugeben, gebilligt. Immerhin! man darf Niemand den Trost mißgönnen, nach bestem Vermögen über die Fluth von Uebeln, die uns überschwemmt, zu philosophiren. Kranken, die man einmal aufgegeben hat, mag man billiger Weise erlauben, zu essen, was sie wollen. Man hat sogar dies System für sehr trostreich erklären wollen. »Gott,« sagte Pope, »sieht mit gleichem Auge den Untergang des Helden und den Tod des Sperlings, die Vernichtung eines Atoms und den Zusammensturz ganzer Sonnensysteme, das Platzen einer Seifenblase und einer Welt«.</p>
+<p rendition="#et"><pb n="34" facs="#f00010"/> Nun, das gesteh' ich, ein herrlicher Trost! Findet Ihr nicht eine beträchtliche Linderung Eures Schmerzes in der Erklärung Lord <hi rendition="#i">Shaftesbury's</hi>, der da sagt, Gott werde seine ewigen Gesetze nicht eines so armseligen Thiers wegen, wie der Mensch sei, stören? Wenigstens muß man gestehen, daß dies armselige Thier wohl berechtigt ist, sein Loos in aller Demuth zu beklagen und, indem es klagt, nachzuforschen, warum diese ewigen Gesetze nicht dem Wohlbefinden jedes Einzelwesens gemäß eingerichtet sind.</p>
+<p rendition="#et">Das System: <hi rendition="#i">Alles ist gut</hi>, stellt den Urheber der ganzen Natur nur als einen mächtigen und böswilligen König hin, der wenig darnach fragt, ob es <hi rendition="#i">4</hi> oder<hi rendition="#i"> 500,000</hi> Menschen das Leben kostet, und ob die übrigen ihr Dasein in Jammer und Elend hinschleppen, wenn er nur seine Zwecke erreicht.</p>
+<p rendition="#et">Weit entfernt also sehr tröstlich zu sein, muß vielmehr die Hypothese von der besten aller möglichen Welten die Philosophen, welche sich dazu bekennen, in Verzweiflung setzen. Die Frage nach dem Ursprunge und Zweck des Guten und des Bösen bleibt ein unentwirrbares Chaos für Jeden, der in gutem Glauben danach forscht. Sie ist eine Uebung des Scharfsinns für Leute, die gern disputiren; sie kommen mir wie Galeerensklaven vor, die mit ihren Ketten spielen. Was das gedankenlose Volk betrifft, so gleicht es so ziemlich den Fischen, die man aus einem Flusse in einen Behälter gebracht hat. Sie haben keine Ahnung davon, daß sie als Fastenspeise verzehrt werden sollen. Auch erfahren wir durch uns selbst nicht das Geringste von den Ursachen unsers Geschicks.</p>
+<p rendition="#et">Fast alle Kapitel der Metaphysik können wir füglich mit jenen beiden Buchstaben beschließen, wodurch die römischen Richter erklären, daß eine Sache ihnen nicht klar sei: <hi rendition="#i"><pb n="35" facs="#f00011"/> N. L., von liquet</hi>. Vor Allem aber wollen wir die Elenden zum Schweigen bringen, die, wie wir unter der Last menschlichen Elends seufzend, dasselbe noch durch die Raserei der Verleumdung vergrößern. Wir wollen ihre fluchwürdigen Betrügereien zu Boden schlagen und im Glauben an die Vorsehung Schutz und Zuflucht suchen.</p>
+<p rendition="#et">Es gab Vernünftler, die behaupten wollten, es liege nicht in der Natur des Wesens aller Wesen, daß die Dinge anders sein könnten, als sie sind. Das ist ein hartes System; ich kenne es nicht genau genug, um mich nur an die Untersuchung desselben zu wagen.</p>
+<pb n="36" facs="#f00012"/> 
+</body></text></TEI>

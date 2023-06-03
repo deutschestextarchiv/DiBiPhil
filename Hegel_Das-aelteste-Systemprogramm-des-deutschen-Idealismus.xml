@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/47739">
+        <forename>Georg Wilhelm Friedrich</forename>
+        <surname>Hegel</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Georg Wilhelm Friedrich Hegel: Werke. Auf der Grundlage der Werke von 1832-1845 neu
+      edierte Ausgabe. Redaktion Eva Moldenhauer und Karl Markus Michel, Frankfurt a. M.: Suhrkamp,
+      1979 (Theorie-Werkausgabe).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/47739">
+        <forename>Georg Wilhelm Friedrich</forename>
+        <surname>Hegel</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/0421X">
+        <forename>Eva</forename>
+        <surname>Moldenhauer</surname>
+      </persName>
+      </editor><editor><persName ref="http://d-nb.info/gnd/4459X">
+        <forename>Karl Markus</forename>
+        <surname>Michel</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition>Auf der Grundlage der Werke von 1832-1845 neu edierte Ausgabe</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Suhrkamp</name>
+      </publisher><pubPlace>Frankfurt a. M.</pubPlace>
+      <date type="publication">1971</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Es handelt sich bei diesem Text um eine fragmentarisch überlieferte Schrift in Hegels Handschrift, die 1917 von F. Rosenzweig in den Sitzungsberichten der Heidelberger Akademie der Wissenschaften veröffentlicht, betitelt und Schelling zugeschrieben worden ist. Nachdem W. Böhm 1926 Hölderlins Autorschaft vertreten hatte, reagierte F. Strauß 1927 mit einem Vermittlungsvorschlag. Erst 1965 trat O. Pöggeler mit der These auf, daß Hegel der Autor dieses Fragments sei. Seitdem geht der Streit zwischen der Hegel-, Hölderlin- und Schellingforschung um die adäquate Zuordnung dieses zweiseitig beschriebenen Papiers.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">[Das älteste Systemprogramm des deutschen Idealismus]</note>
+
+
+<pb n="234" facs="#f0001"/>
+<head>Georg Wilhelm Friedrich Hegel</head>
+<head>[Das älteste Systemprogramm des deutschen Idealismus]</head>
+<p>– <hi rendition="#i">eine Ethik.</hi> Da die ganze Metaphysik künftig in die<hi rendition="#i"> Moral</hi> fällt – wovon Kant mit seinen beiden praktischen Postulaten nur ein <hi rendition="#i">Beispiel</hi> gegeben, nichts <hi rendition="#i">erschöpft</hi> hat –, so wird diese Ethik nichts anderes als ein vollständiges System aller Ideen oder, was dasselbe ist, aller praktischen Postulate sein. Die erste Idee ist natürlich die Vorstellung <hi rendition="#i">von mir selbst</hi> als einem absolut freien Wesen. Mit dem freien, selbstbewußten Wesen tritt zugleich eine ganze <hi rendition="#i">Welt</hi> – aus dem Nichts hervor – die einzig wahre und gedenkbare<hi rendition="#i"> Schöpfung aus Nichts</hi>. – Hier werde ich auf die Felder der Physik herabsteigen; die Frage ist diese: Wie muß eine Welt für ein moralisches Wesen beschaffen sein? Ich möchte unserer langsamen, an Experimenten mühsam schreitenden Physik einmal wieder Flügel geben.</p>
+<p rendition="#et">So, wenn die Philosophie die Ideen, die Erfahrung die Data angibt, können wir endlich die Physik im Großen bekommen, die ich von späteren Zeitaltern erwarte. Es scheint nicht, daß die jetzige Physik einen schöpferischen Geist, wie der unsrige ist oder sein soll, befriedigen könne.</p>
+<p rendition="#et">Von der Natur komme ich aufs <hi rendition="#i">Menschenwerk.</hi> Die Idee der Menschheit voran, will ich zeigen, daß es keine Idee vom <hi rendition="#i">Staat</hi> gibt, weil der Staat etwas <hi rendition="#i">Mechanisches</hi> ist, so wenig als es eine Idee von einer<hi rendition="#i"> Maschine</hi> gibt. Nur was Gegenstand der <hi rendition="#i">Freiheit</hi> ist, heißt <hi rendition="#i">Idee</hi>. Wir müssen also auch über den Staat hinaus! – Denn jeder Staat muß freie Menschen als <pb n="234" facs="#f0002"/> mechanisches Räderwerk behandeln; und das soll er nicht; also soll er <hi rendition="#i">aufhören</hi>. Ihr seht von selbst, daß hier alle die Ideen, vom ewigen Frieden u.s.w. nur <hi rendition="#i">untergeordnete</hi> Ideen einer höheren Idee sind: Zugleich will ich hier die Prinzipien für eine <hi rendition="#i">Geschichte der Menschheit</hi> niederlegen und das ganze elende Menschenwerk von Staat, Verfassung, Regierung, Gesetzgebung bis auf die Haut entblößen. Endlich kommen die Ideen von einer moralischen Welt, Gottheit, Unsterblichkeit, – Umsturz alles Afterglaubens, Verfolgung des Priestertums, das neuerdings Vernunft heuchelt, durch die Vernunft selbst. – Absolute Freiheit aller Geister, die die intellektuelle Welt in sich tragen und weder Gott noch Unsterblichkeit <hi rendition="#i">außer sich</hi> suchen dürfen.</p>
+<p rendition="#et">Zuletzt die Idee, die alle vereinigt, die Idee der<hi rendition="#i"> Schönheit</hi>, das Wort in höherem platonischen Sinne genommen. Ich bin nun überzeugt, daß der höchste Akt der Vernunft, der, indem sie alle Ideen umfaßt, ein ästhetischer Akt ist und daß <hi rendition="#i">Wahrheit und Güte nur in der Schönheit</hi> verschwistert sind. Der Philosoph muß ebensoviel ästhetische Kraft besitzen als der Dichter. Die Menschen ohne ästhetischen Sinn sind unsere Buchstabenphilosophen. Die Philosophie des Geistes ist eine ästhetische Philosophie. Man kann in nichts geistreich sein, selbst über Geschichte kann man nicht geistreich raisonnieren – ohne ästhetischen Sinn. Hier soll offenbar werden, woran es eigentlich den Menschen fehlt, die keine Ideen verstehen – und treuherzig genug gestehen, daß ihnen alles dunkel ist, sobald es über Tabellen und Register hinausgeht.</p>
+<p rendition="#et">Die Poesie bekommt dadurch eine höhere Würde, sie wird am Ende wieder, was sie am Anfang war –<hi rendition="#i"> Lehrerin der Menschheit</hi>; denn es gibt keine Philosophie, keine Geschichte mehr, die Dichtkunst allein wird alle übrigen Wissenschaften und Künste überleben.</p>
+<p rendition="#et">Zu gleicher Zeit hören wir so oft, der große Haufen müsse eine <hi rendition="#i">sinnliche Religion</hi> haben. Nicht nur der große Haufen, auch der Philosoph bedarf ihrer. Monotheismus der Vernunft <pb n="235" facs="#f0003"/> und des Herzens, Polytheismus der Einbildungskraft und der Kunst, dies ist's, was wir bedürfen!</p>
+<p rendition="#et">Zuerst werde ich hier von einer Idee sprechen, die, soviel ich weiß, noch in keines Menschen Sinn gekommen ist – wir müssen eine neue Mythologie haben, diese Mythologie aber muß im Dienste der Ideen stehen, sie muß eine Mythologie der <hi rendition="#i">Vernunft</hi> werden.</p>
+<p rendition="#et">Ehe wir die Ideen ästhetisch, d. h. mythologisch machen, haben sie für das <hi rendition="#i">Volk</hi> kein Interesse; und umgekehrt, ehe die Mythologie vernünftig ist, muß sich der Philosoph ihrer schämen. So müssen endlich Aufgeklärte und Unaufgeklärte sich die Hand reichen, die Mythologie muß philosophisch werden und das Volk vernünftig, und die Philosophie muß mythologisch werden, um die Philosophen sinnlich zu machen. Dann herrscht ewige Einheit unter uns. Nimmer der verachtende Blick, nimmer das blinde Zittern des Volks vor seinen Weisen und Priestern. Dann erst erwartet uns <hi rendition="#i">gleiche</hi> Ausbildung <hi rendition="#i">aller</hi> Kräfte, des Einzelnen sowohl als aller Individuen. Keine Kraft wird mehr unterdrückt werden. Dann herrscht allgemeine Freiheit und Gleichheit der Geister! – Ein höherer Geist, vom Himmel gesandt, muß diese neue Religion unter uns stiften, sie wird das letzte, größte Werk der Menschheit sein.</p>
+<pb n="236" facs="#f0004"/> 
+</body></text></TEI>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">1. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="1">1. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden im 5. Jahrhundert v. Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente</note>
+
+
+<head>Empedokles aus Agrigent</head>
+<head>Fragmente</head>
+<pb n="223" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Aus: Über die Natur</note>
+
+<head>Aus: Über die Natur</head>
+<p rendition="#et">1. Pausanias, Sohn des klugen Anchitos, höre!</p>
+<p rendition="#et">2. Denn engbezirkt sind die [Sinnes]werkzeuge, die über die Glieder [der Menschen] gebreitet sind. Viel Armseliges dringt auf sie ein, das ihr Nachdenken abstumpft. Kaum haben sie einen kleinen Teil des eigenen Lebens überschaut, so fliegen sie davon, vom raschen Geschick <pb n="223" facs="#f0002"/> wie Rauch in die Höhe entführt. So glaubt jeder nur an das, worauf er gerade bei seinen mannigfachen Irrfahrten gestoßen, und doch rühmt sich jeder das Ganze gefunden zu haben. So wenig läßt sich dies für die Menschen sehen oder hören oder mit dem Geiste erfassen. Du wenigstens sollst es aber doch, da Du nun einmal abseits [von der Straße] hierher gekommen bist, erfahren, freilich nicht mehr als sich menschliche Einsicht zu erheben vermag.</p>
+<p rendition="#et">3. ... zu wahren im Innern Deiner stummen Brust.</p>
+<p rendition="#et">4. Wohlan, ihr Götter, lenket dieser [Männer] Wahn ab von meiner Zunge und lasset aus heiligem Munde reinen Quell erfließen! Und dich, Muse, vielgefeierte, weißarmige Jungfrau, fleh' ich an, geleite,<pb n="224" facs="#f0003"/> aus [dem Reiche] der Frömmigkeit den lenksamen Wagen [des Gesanges] führend, soviel davon Eintagsmenschen zu vernehmen erlaubt ist! Dich wenigstens soll kein Ruhmeskranz, wie menschliche Ehrung ihn darbietet, verlocken, ihn vom Boden aufzulegen, um mehr all erlaubt ist mit Dreistigkeit auszusprechen und alsdann auf der Hohe der Weisheit zu thronen! Nein, betrachte jedes Einzelne mit jeglichem Sinne genau, inwiefern es klar liegt, und halte nicht etwa den Blick in weiterem Umfang für vertrauenswürdig als dies im Vergleich zum Gehöre [zulässig ist,] oder [schätze] das brausende Gehör höher als die deutlichen Wahrnehmungen des Gaumens, und stelle nicht etwa [um dieser willen] die Glaubwürdigkeit der übrigen Organe zurück, soweit es nur eben einen Pfad der Erkenntnis gibt, sondern erkenne jedes Einzelne nur soweit es klar liegt!</p>
+<p rendition="#et">5. Doch Niedrigen liegt es nur zu sehr am Herzen, den Starken <pb n="225" facs="#f0004"/> zu mißtrauen. Du aber erkenne, wie es die Offenbarungen aus dem Munde unserer Muse gebieten, nachdem ihre Rede durch Deines Geistes Sieb gedrungen ist.</p>
+<p rendition="#et">6. Denn zuerst vernimm die vierfache Wurzel aller Dinge: Zeus der schimmernde und Here die lebenspendende und Aidoneus und Nestis, die ihren Tränen sterblichen Lebensquell entfließen läßt.</p>
+<p rendition="#et">7. Ungewordne [Elemente].</p>
+<p rendition="#et">8. Doch ich will Dir ein anderes verkünden. Geburt gibt es [eigentlich] bei keinem einzigen von allen sterblichen Dingen und kein Ende in verderblichem Tode. Nur Mischung gibt es vielmehr und Austausch des Gemischten: Geburt ist nur ein dafür bei den Menschen üblicher Name.</p>
+<p rendition="#et">9. Diese freilich behaupten, wenn sich beim Menschen [die Elemente] <pb n="226" facs="#f0005"/> mischen und zum Lichte gelangen oder beim Geschlechte der wilden Tiere oder der Pflanzen oder Vögel, dann finde eine Geburt statt. Und wenn sich die [Elemente] voneinander scheiden, dann [sprechen sie] wiederum von einem unseligen Tode. Dazu haben sie kein Recht; doch spreche auch ich dem Brauche nach.</p>
+<p rendition="#et">10. Rächenden Tod.</p>
+<p rendition="#et">11. Die Toren! Ihr Denken ist freilich nur spannenlang, da sie ja überzeugt sind, ein nicht Vorhandenes könne entstehen oder es könne etwas völlig sterben und ausgetilgt werden.</p>
+<p rendition="#et"><pb n="227" facs="#f0006"/> 12. Denn wie aus dem nirgend Vorhandenen unmöglich etwas entstehen kann, so ist es unausführbar und unerhört, daß das Vorhandene je ausgetilgt werden könne. Denn jedesmal wird es da sein, wo es einer jedesmal hinstellt.</p>
+<p rendition="#et">13. Und beim All gibt es kein Leeres noch Übervolles.</p>
+<p rendition="#et">14. Beim All aber gibt es kein Leeres. Woher soll also etwas hinzukommen?</p>
+<p rendition="#et">15. Kein weiser Mann wird sich dergleichen in seinen Sinnen träumen lassen, solange wir leben, was man so Leben heißt, nur so lange also seien wir vor handen und widerfahre uns Schlimmes und Gutes, dagegen bevor wir Sterbliche [aus den Elementen] zusammengefügt und nachdem wir auseinander gegangen, seien wir rein nichts.</p>
+<p rendition="#et"><pb n="228" facs="#f0007"/> 16. Denn wie [diese beiden Kräfte (Streit und Liebe)] vordem waren, so werden sie auch [fürder] sein, und ich glaube, nimmer wird die unendliche Ewigkeit dieser beiden beraubt sein.</p>
+<p rendition="#et">17. Ein Doppeltes will ich verkünden. Bald wächst nämlich ein einziges Sein aus Mehrerem zusammen, bald scheidet es sich auch wieder, aus Einem Mehreres zu sein. Wie nun der Sterblichen Dinge Entstehung doppelt ist, so ist auch ihre Abnahme doppelt. Denn die Vereinigung aller Dinge zeugt und zerstört die eine, die andere, eben herangewachsen, fliegt wieder auseinander, wenn sich [die Elemente] trennen. Und dieser beständige Wechsel hört nimmer auf: bald vereinigt sich alles zu Einem in Liebe, bald auch trennen sich wieder die einzelnen <pb n="229" facs="#f0008"/> Dinge im Hasse des Streites. Insofern nun so Eines aus Mehrerem zu entstehen pflegt und Mehreres wiederum aus dem Zerfall des Einen entsproßt, insofern findet eine Entstehung statt und ihr Leben bleibt nicht unverändert, sofern aber ihr beständiger Wechsel nimmer aufhört, insofern bleiben sie während des Kreislaufes stets unerschütterte [Götter]. Wohlan vernimm meine Worte! Denn Lernen stärkt Dir den Geist. Wie ich nämlich schon vorher sagte, als ich die Ziele meiner Lehre darlegte, will ich ein Doppeltes verkündigen. Bald wächst nämlich Eines zu einem einzigen Sein aus Mehrerem zusammen, bald scheidet es sich auch wieder, aus Einem Mehreres zu sein: Feuer, Wasser, Erde und der Luft unendliche Höhe, sodann gesondert von diesen [Elementen] der verderbliche Streit, der überall gleich wuchtige, und in ihrer Mitte die Liebe, an Länge und Breite gleich. Sie betrachte mit Deinem<pb n="230" facs="#f0009"/> Geiste [und sitze nicht da mit verwunderten Augen], als welche auch in sterblichen Gliedern wurzelt und Geltung gewinnt. Sie ist es, durch die sie Liebesgedanken hegen und Werke der Eintracht vollenden; daher nennen sie sie auch Wonne oder Aphrodite. Sie ist es auch, die in jenen [Elementen] wirbelt; doch das weiß kein einziger sterblicher Mensch. Du aber vernimm dafür des Beweises untrüglichen Gang! Jene [Elemente] nämlich sind alle gleichstark und gleichgeschlachtet. Jedes von ihnen hat ein verschiedenes Amt, jedes seine besondere Art, abwechselnd aber gewinnen sie die Oberhand im Umlauf der Zeit. Und außer diesen kommt eben nichts hinzu oder davon. Denn wenn sie fort und fort zu Grunde gingen, wären sie nicht mehr. Was sollte denn aber dies Ganze vermehren und woher sollte es kommen? Wie sollte es auch zu Grunde gehen, da nichts leer von diesen [Elementen] ist? Nein, nur diese gibt es, und indem sie durcheinander laufen, entsteht bald dies bald jenes und so immerfort ähnliches bis in alle Ewigkeit.</p>
+<p rendition="#et"><pb n="231" facs="#f00010"/> 18. Liebe.</p>
+<p rendition="#et">19. Klebende Liebe [vom Wasser].</p>
+<p rendition="#et">20. Dieser [Wettstreit der beiden Kräfte] liegt klar vor durch die Magie der menschlichen Glieder hin: bald vereinigen sich unter der Herrschaft der Liebe alle Glieder, welche die Leiblichkeit erlangt haben, auf der Höhe des blühenden Lebens, bald wieder getrennt durch die schlimmen Mächte des Zwistes irren sie einzeln voneinander getrennt am Gestade des Lebens auf und ab. Ebenso ist es mit den Pflanzen den im Wasser hausenden Fischen, den bergbewohnenden Tieren und den Tauchern, die mit ihren Fittichen [über die Wogen] wandeln.</p>
+<p rendition="#et"><pb n="232" facs="#f00011"/> 21. Wohlan, blick auf die weiteren Zeugen dieser meiner früheren Worte falls etwa noch in meiner früheren [Beschreibung] ein Mangel in bezug auf ihre [der Elemente] Gestalt geblieben war: auf die Sonne, überall warm und hell zu schauen; auf alle die unsterblichen [Himmelskörper,] die mit Wärme und strahlendem Glanze getränkt werden, auf das Naß, das dunkel und kühl in allem [sich zeigt], und aus der Erde strömt hervor das Gründende und Feste. Und all [dies] regt sich verschiedengestaltet und zwiespältig im Streite, doch in Liebe eint es sich und sehnt sich zueinander. Denn aus diesen [Elementen] entsproßt alles, was da war, ist und sein wird, Bäume und Männer und Weiber und Tiere, Vögel und wassergenährte Fische und selbst Götter, langlebige, an Ehren reichste. Denn es gibt nur diese [vier Elemente:] durcheinander laufend werden sie zu verschiedengestalteten Dingen; so groß ist der Wechsel, den die gegenseitige Mischung hervorbringt.</p>
+<p rendition="#et"><pb n="233" facs="#f00012"/> 22. Denn alle diese [Elemente], Sonne, Erde, Himmel und Meer, bleiben freundschaftlich verbunden mit ihren Teilen, die weitverschlagen ihnen in der sterblichen Welt entstanden sind. Und ebenso ist alles, was in bezug auf die Mischung fördersamer eingerichtet ist, einander ähnlich und in Liebe verbunden. Feindlich dagegen ist am meisten, was am weitesten voneinander absteht in Ursprung, Mischung und ausgeprägten Gestalten, gänzlich ungewohnt der Verbindung und gar kläglich nach dem Gebot des Streites, dem sie ihren Ursprung verdanken.</p>
+<p rendition="#et">23. Wie wenn Maler bunte Weihetafeln verfertigen, Männer, die infolge ihrer Begabung die Kunst wohl verstehen, und dazu vielfarbige <pb n="234" facs="#f00013"/> Gifte mit ihren Händen ergreifen und harmonisch mischen, von dem einen mehr von dem anderen weniger, woraus sie Gestalten hervorbringen, die allem möglichen gleichen, indem sie bald Bäume schaffen, bald Männer und Weiber, bald Tiere, Vögel und wassergenährte Fische, bald auch Götter, langlebige und an Ehren reichste: so ist auch die Quelle aller sterblichen Dinge, wenigstens der unzähligen, die [uns] deutlich geworden sind, keine andere [als diese (die Elemente)]. Darüber soll Dir kein Trug den Geist berücken! Nein, dies wisse genau! Du hast ja die Stimme der Gottheit vernommen.</p>
+<p rendition="#et">24. Von Gipfel zu Gipfel schreitend nicht nur Einen Weg der Lehre vollenden.</p>
+<p rendition="#et">25. Denn was man [sagen] muß, darf man auch zweimal sagen.</p>
+<p rendition="#et"><pb n="235" facs="#f00014"/> 26. Abwechselnd herrschen [die vier Elemente] im Umschwung des Kreises und vergehen und entstehen in und aus einander in festbestimmtem Wechsel. Denn nur diese [vier Elemente] gibt es: durcheinander laufend werden sie zu Menschen und anderer Tiere Geschlechtern; bald vereinigen sich alle zu einer Ordnung in Liebe, bald auch trennen sich wieder die einzelnen [Elemente] im Hasse des Streites, bis sie, kaum zum All-Einen zusammengewachsen, [wieder] unterliegen. Insofern nun auf diese Weise Eines aus Mehrerem zu entstehen pflegt und Mehreres wiederum aus dem Zerfall des Einen entsproßt, insofern findet eine Entstehung statt, und ihr Leben bleibt nicht unverändert; sofern aber ihre ständige Veränderung nimmer aufhört, insofern bleiben sie während des Kreislaufes stets unerschütterte [Götter].</p>
+<p rendition="#et"><pb n="236" facs="#f00015"/> 27. Dort [im Sphairos] unterscheidet man nicht des Helios schnelle Glieder, noch auch der Erde zottige Kraft oder das Meer. So verwahrt in dem festen Verließ der Harmonie liegt der kugelige Sphairos, froh der ringsum herrschenden Einsamkeit.</p>
+<p rendition="#et">27<hi rendition="#sup">a</hi>. Kein Zwist und kein unziemlicher Streit herrscht in seinen Gliedern.</p>
+<p rendition="#et">28. Aber dieser war von allen Seiten gleich und überall endlos, der kugelige Sphairos, froh der ringsum herrschenden Einsamkeit.</p>
+<p rendition="#et"><pb n="237" facs="#f00016"/> 29. Ihm schwingen sich ja nicht von dem Bücken zwei Zweige nicht Füße, noch hurtige Kniee oder zeugende Glieder, sondern eine Kugel war es und von allen Seiten sich selber gleich.</p>
+<p rendition="#et">30. Doch nachdem der Streit in den Gliedern [des Sphairos] groß gezogen und zu Ehren emporgestiegen war, als die Zeit sich erfüllte, die ihnen [dem Streit und der Liebe] wechselsweise von einem breitversiegelten Eidvertrage aus festgezogen ist...</p>
+<p rendition="#et">31. Denn [da] wurden alle Glieder des Gottes der Reihe nach erschüttert.</p>
+<p rendition="#et">32. Das Gelenk bindet zwei.</p>
+<p rendition="#et"><pb n="238" facs="#f00017"/> 33. Wie aber, wenn der Feigensaft die weiße Milch verdickt und bindet...</p>
+<p rendition="#et">34. Mehl mit Wasser verkleisternd...</p>
+<p rendition="#et">35. Doch ich will von neuem anhebend auf jenen Pfad der Gesänge zurückkehren, den ich früher darlegte, aus einem Redestrom den anderen ableitend. Wenn der Streit in die unterste Tiefe des Wirbels gekommen und die Liebe in die Mitte des Strudels gelangt ist, da vereinigt sich in ihr gerade alles dies um eine Einheit zu bilden, nicht <pb n="239" facs="#f00018"/> auf einmal, sondern wie eins aus dem anderen sich willig zusammenfügt. Aus dieser Mischung nun ergossen sich unzählige Scharen sterblicher Geschöpfe. Doch blieb noch vieles ungemischt zwischen dem Gemischten stehen, soviel der Streit noch davon in der Schwebe hielt. Denn nicht tadellos trat er aus jenen gänzlich heraus an die äußersten Grenzen des Kreises, sondern teilweise verharrte er noch drinnen, teilweise war er aber auch schon aus den Gliedern [des Alls = den Elementen] herausgefahren. Je weiter er nun stets vorweglief, um soviel rückte stets der mildgesinnte göttliche Drang der untadeligen Liebe vor. So erwuchsen schnell sterbliche Dinge, die früher unsterblich zu sein gewohnt waren, und gemischte, die vordem lauter waren, im Wechsel der Pfade. <pb n="240" facs="#f00019"/> Aus diesen Mischungen nun ergossen sich unzählige Scharen sterblicher Geschöpfe, in mannigfaltige Formen gefügt, ein Wunder zu schauen.</p>
+<p rendition="#et">36. Während sich dies nun zusammenballte, begann der Streit herauszutreten an das äußerste Ende.</p>
+<p rendition="#et">37. [Feuer nimmt durch Feuer zu,] die Erde mehrt ihre Gestalt und der Äther den Äther.</p>
+<p rendition="#et">38. Wohlan, so will ich Dir verkünden die ersten und gleichursprünglichen [Elemente], aus denen das, was wir jetzt betrachten, alles an das Licht kam: die Erde, das wogenreiche Meer, der feuchte Luftkreis und der Titane Äther, der den ganzen Kreis umschnürt.</p>
+<p rendition="#et">39. Wenn wirklich die Tiefen der Erde unendlich und der Äther in Überfülle vorhanden wäre, wie es in der Tat durch Vieler Zunge ausgesprochen und ins Gelag hinein aus dem Munde von Leuten ausgesprudelt worden ist, die nur wenig vom Ganzen erblickt haben...</p>
+<p rendition="#et"><pb n="241" facs="#f00020"/> 40. Helios, der scharfe Schütze, und die gnadenreiche Selene.</p>
+<p rendition="#et">41. Doch das Sonnenfeuer, das sich [in der Kristalllinse] gesammelt, umwandelt den großen Himmelsraum.</p>
+<p rendition="#et">42. [Der Mond] deckt ihr [der Sonne] die Strahlen ab, während sie darüber hingeht, und verdunkelt so viel von der Erde, als die Breite des glanzäugigen Mondes beträgt.</p>
+<p rendition="#et"><pb n="242" facs="#f00021"/> 43. Sobald [das Sonnenlicht] den weiten Kreis des Mondes getroffen, kehrt es sofort zurück um den Himmel im Lauf zu erreichen.</p>
+<p rendition="#et">44. [Das Sonnenlicht] strahlt dem Olympos mit furchtlosem Antlitz entgegen.</p>
+<p rendition="#et">45. Ein kreisrundes, fremdes Licht dreht sich um die Erde [der Mond].</p>
+<p rendition="#et">46. Wie des Wagens Nabe sich dreht, die um das äußerste [Ziel wirbelt]...</p>
+<p rendition="#et"><pb n="243" facs="#f00022"/> 47. Denn er [der Mond] schaut auf den heiligen Kreis des Herrn gegenüber.</p>
+<p rendition="#et">48. Aber Nacht bewirkt die Erde für die Strahlen der hinabtauchenden [Sonne].</p>
+<p rendition="#et">49. Der einsamen, blindäugigen Nacht.</p>
+<p rendition="#et">50. Iris bringt aus dem Meere Wind oder großen Regenguß.</p>
+<p rendition="#et">51. Hurtig aber [fuhr das Feuer] nach oben.</p>
+<p rendition="#et">52. Viele Feuer aber brennen unter dem Boden.</p>
+<p rendition="#et"><pb n="244" facs="#f00023"/> 53. Denn [die Luft] stieß in ihrem Laufe bald so, vielfach auch anders zusammen [mit den übrigen Elementen].</p>
+<p rendition="#et">54. Die Luft dagegen tauchte mit langen Wurzeln in die Erde hinab.</p>
+<p rendition="#et">55. Der Erde Schweiß, das Meer.</p>
+<p rendition="#et">56. Das Salz aber ward fest, getroffen von der Sonne kräftigen Strahlen.</p>
+<p rendition="#et">57. Ihr [der Erde] entsproßten viele Köpfe ohne Hälse, nackte Arme irrten hin und her sonder Schultern, und Augen allein schweiften umher der Stirnen bar.</p>
+<p rendition="#et">58. Vereinzelt irrten die Glieder umher [gegenseitige Vereinigung suchend.]</p>
+<p rendition="#et"><pb n="245" facs="#f00024"/> 59. Doch als der eine Gott mit dem anderen [die Liebe mit dem Streite] in größerem Umfange handgemein wurde, da fielen diese [Glieder] zusammen, wie gerade die einzelnen sich trafen, und auch viel anderes außerdem entsproßte da sich aneinander reihend.</p>
+<p rendition="#et">60. Schleppfüßige mit unzähligen Händen.</p>
+<p rendition="#et">61. Da [heißt es] wuchsen viele Geschöpfe hervor mit doppeltem Gesicht und doppelter Brust, Geschöpfe, vorn Männer hinten Ochsen, <pb n="246" facs="#f00025"/> tauchten auf, andere umgekehrt, Männerleiber mit Ochsenköpfen, Mischgeschöpfe, hier männer- dort frauengestaltig, mit beschatteten Schamgliedern versehen.</p>
+<p rendition="#et">62. Jetzt wohlan höre folgendes, wie das sich ausscheidende Feuer die in Nacht verhüllten Sprossen der Männer und beklagenswerten Frauen ans Licht brachte! Denn die Lehre ist nicht ziellos oder unwissenschaftlich. Zuerst tauchten rohgeballte Erdklumpen auf, die mit ihrem richtigen Anteil Wasser und Wärme ausgestattet waren. Diese warf das Feuer in die Höhe, indem es zu dem Gleichen [dem Himmelsfeuer] hinstrebte. Sie zeigten noch nicht der Glieder liebliche Gestalt noch Stimme oder Schamglied, wie es bei den Menschen üblich ist.</p>
+<p rendition="#et"><pb n="247" facs="#f00026"/> 63. Aber der Ursprung der [menschlichen] Glieder liegt auseinander: das eine liegt in dem männlichen, [das andere in dem weiblichen Samen verborgen.]</p>
+<p rendition="#et">64. Ihm naht auch die Liebessehnsucht, die durch den Anblick die Erinnerung weckt.</p>
+<p rendition="#et">65. In den reinen [Schoß] ergießen sie sich [der männliche und weibliche Samen]. Treffen sie nun da Kälte an, so entstehen Mädchen, [treffen sie aber Wärme, Knaben.]</p>
+<p rendition="#et">66. In die gespaltenen Auen der Aphrodite.</p>
+<p rendition="#et"><pb n="248" facs="#f00027"/> 67. Denn im wärmeren [Schoße] bringt der Leib männliches Geschlecht zur Welt. Und darum sind die Männer schwärzer und mannhafter und raucher.</p>
+<p rendition="#et">68. Am zehnten [Tage] des achten Monats pflegt [das Blut] weißer Biest zu werden.</p>
+<p rendition="#et">69. Doppelträchtig [d.i. im 7. und 10. Monat gebärend].</p>
+<p rendition="#et">70. Schafhaut [Embryonalhülle].</p>
+<p rendition="#et">71. Wenn etwa Dein Glaube hierüber noch mangelhaft blieb, wie durch Mischung von Wasser, Erde, Luft und Sonne soviel Gestalten und Farben der sterblichen Dinge entstehen könnten, als jetzt durch die Liebe zusammengefügt entstanden sind,...</p>
+<p rendition="#et"><pb n="249" facs="#f00028"/> 72. Wie die hohen Bäume und die Fische in der Salzflut...</p>
+<p rendition="#et">73. Wie aber damals Aphrodite die Erde, nachdem sie sie im Naß getränkt, für Wärme sorgend dem raschen Feuer zur Festigung übergeben hatte...</p>
+<p rendition="#et">74. Sie führt das sanglose Geschlecht der samenreichen Fische.</p>
+<p rendition="#et">75. Von den [Tieren] aber, die innen ein festes, außen aber ein lockeres Gefüge zeigen, die unter den Händen der Aphrodite solche Schwammigkeit erhalten haben...</p>
+<p rendition="#et">76. Dies ist der Fall bei den schwergepanzerten Schalen der Wasserbewohner, vor allem der Meerschnecken und der steinschaligen Schildkröten. Da kannst Du den Erdstoff auf der Oberfläche der Haut lagern sehen.</p>
+<p rendition="#et"><pb n="250" facs="#f00029"/> 77. 78. Immer Blätter und immer Fruchtbringende Bäume prangen je nach der Luftmischung das ganze Jahr hindurch in der Früchte Überfülle.</p>
+<p rendition="#et">79. So legen erstlich die hohen Olivenbäume Eier.</p>
+<p rendition="#et">80. Weshalb die Granaten so spätreif und die Äpfel so übersaftig sind.</p>
+<p rendition="#et"><pb n="251" facs="#f00030"/> 81. Wein ist von der Rinde her [eingedrungenes], innerhalb des Holzes vergorenes Wasser.</p>
+<p rendition="#et">82. Haare, Blätter, der Vögel dichte Federn und Schuppen, die auf den derben Gliedern wachsen, sind derselbe Stoff.</p>
+<p rendition="#et">83. Aber den Igeln starren scharfverwundende Borsten auf dem Rücken.</p>
+<p rendition="#et"><pb n="252" facs="#f00031"/> 84. Wie wenn einer in der Winternacht einen Ausgang vorhat und dazu, nachdem er des brennenden Feuers Glanz entzündet, sich ein Licht rüstet, von allen Seiten vor dem Winde schirmende Laternen; sie zerteilen zwar der blasenden Winde Wehen, doch das Licht drang nach außen durch, weil es soviel feiner war, und leuchtete zum Firmament mit unerwarteten Strahlen: so barg sich das urewige Feuer damals [bei der Bildung des Auges] hinter der runden Pupille in Häute und dünne Gewänder eingeschlossen, die mit göttlich eingerichteten, <pb n="253" facs="#f00032"/> gerade hindurchgehenden Poren durchbohrt waren. Diese hielten die Tiefe des ringsum erflossenen Wassers ab, doch das Feuer ließen sie hinaus, weil es soviel feiner war.</p>
+<p rendition="#et">85. Die milde Flamme erhielt [bei der Bildung des Auges] zufällig nur eine geringfügige [Beimischung von] Erde.</p>
+<p rendition="#et">86. Aus diesen [Elementen] bildete die göttliche Aphrodite die unermüdlichen Augen.</p>
+<p rendition="#et">87. Aphrodite, die mit Liebesnägeln [die Vereinigung] hergestellt hatte...</p>
+<p rendition="#et">88. Eins wird beider [Augen] Blick.</p>
+<p rendition="#et">89. Wissend, daß Abflüsse von allem, was da entstanden ist, stattfinden...</p>
+<p rendition="#et"><pb n="254" facs="#f00033"/> 90. So griff Süßes nach Süßem, Bitteres stürmte auf Bitteres los, Saures stieg auf Saures und Heißes ritt auf Heißem.</p>
+<p rendition="#et">91. [Wasser] ist dem Weine wahlverwandter, aber mit Öl will es [sich] nicht [mischen.]</p>
+<p rendition="#et">92. [Die Samenmischung bei der Erzeugung von Mauleseln bringt, da zwei weiche Stoffe zusammenkommen, eine harte Verbindung imstande,] wie wenn man Zinn und Kupfer mischt. [Denn nur Hohles und Dichtes paßt zueinander. Dagegen die beiderseits harten Mischlinge sind unfruchtbar.]</p>
+<p rendition="#et"><pb n="255" facs="#f00034"/> 93. Mit der Byssosfarbe aber wird die Beere des blauen Holunders gemischt.</p>
+<p rendition="#et">94. Und die Schwärze auf dem Grunde des Flusses entsteht aus dem Schatten und ebenso ist sie in zerklüfteten Höhlen zu sehen.</p>
+<p rendition="#et">95. [Bei der Bildung der Augen,] als sie unter den Händen der Aphrodite zuerst zusammengesetzt wurden, [ergab sich auch der Unterschied, daß einige bei Tag, andere bei Nacht heller sehen.]</p>
+<p rendition="#et"><pb n="256" facs="#f00035"/> 96. Die Erde aber, liebevoll gestimmt, erhielt in breitbrüstigen Tiegeln von den acht Teilen noch zwei von dem Glanze der Nestis und vier vom Hephaistos hinzu. So entstanden die weißen Knochen, die durch den Leim der Harmonie göttlichschön aneinander gefügt sind.</p>
+<p rendition="#et">97. Die Wirbelsäule [hat ihre Form daher, daß sie bei der Entstehung der Tiere durch eine zufällige Wendung zerbrach.]</p>
+<p rendition="#et">98. Nachdem aber die Erde in dem vollkommenen Hafen der Aphrodite vor Anker gegangen, begegneten sie diesen [dem Hephaistos, dem Wasser und der hellleuchtenden Luft], ziemlich im gleichen Verhältnisse, sei es ein wenig stärker oder der Mehrzahl gegenüber schwächer. Daraus entstand das Blut und die sonstigen Arten von Fleisch.</p>
+<p rendition="#et"><pb n="257" facs="#f00036"/> 99. [Das Ohr ist] gleichsam eine Glocke [der eindringenden (?) Töne. Er nennt es] fleischigen Zweig [?].</p>
+<p rendition="#et">100. Also atmet alles ein und aus. Blutarme Röhren von Fleisch sind bei allen über die Oberfläche des Körpers hin gespannt, und an ihren Mündungen ist die äußerste Oberfläche der Haut mit vielen Ritzen durchweg durchbohrt, so daß zwar das Blut drinnen bleibt, der Luft aber durch die Öffnungen freier Zutritt gewährt ist. Wenn nun dann das dünne Blut von hier abströmt, so stürmt die Luft brausend in rasendem Schwalle nach, wenn es dagegen zurückspringt, so fährt die Luft wieder heraus, wie wenn ein Mädchen mit einer Wasseruhr <pb n="258" facs="#f00037"/> aus glänzendem Erze spielt. Solange es die Mündung des Halses gegen die wohlgeformte Hand gedrückt hält und so [die Uhr] in den weichen Stoff des silbernen Wassers eintaucht, tritt das Naß nicht mehr in das Gefäß ein, sondern die Wucht der Luft, die von innen auf die zahlreichen Löcher [des Bodens] fällt, hält es zurück, bis es durch Abdecken den verdichteten [Luftstrom] befreit. Dann aber tritt das entsprechende Maß Wasser ein, da die Luft eine Lücke läßt. Ebenso aber ist es, wenn Wasser den Bauch des Erzes füllt und der Hals und die Mündung mit der menschlichen Haut verstopft ist und die Luft die von außen nach innen strebt, das Naß an den Ausgang des engen dumpf gurgelnden Halses zurückdrängt, indem sie die Spitze [des Halses] besetzt hält, bis es [das Mädchen] sie mit der Hand freigibt: dann strömt wieder, umgekehrt wie vorher, das entsprechende Maß Wasser unten aus, während die Luft eindringt. So ist es auch mit dem dünnen Blut, das durch die Glieder jagt: wenn es rückwärts gewandt nach dem <pb n="259" facs="#f00038"/> Innern abströmt, so dringt sofort der Luftstrom in wogendem Schwalle hinab, wenn es dagegen zurückspringt, so fährt die Luft den gleichen Weg wieder heraus.</p>
+<p rendition="#et">101. Die von den Gliedern des Wildes [zurückgebliebenen] Teilchen mit den Nasen erschnüffelnd, so viele sie lebend von ihren Füßen rings im zarten Grase zurückließen.</p>
+<p rendition="#et">102. So hat alles Odem und Gerüche erhalten.</p>
+<p rendition="#et">103. So sind alle [Wesen] durch den Willen des Zufalls mit Bewußtsein begabt.</p>
+<p rendition="#et"><pb n="260" facs="#f00039"/> 104. Und soweit gerade die leichtesten [Körper] bei ihrem Falle zusammenstießen.</p>
+<p rendition="#et">105. In den Fluten des Blutes, das ihm entgegenspringt, nährt sich [das Herz,] wo ja gerade das vorzüglich sitzt, was bei den Menschen Denkkraft heißt. Denn das um das Herz [wallende] Blut ist den Menschen die Denkkraft.</p>
+<p rendition="#et">106. Nach dem jeweiligen [körperlichen] Verhältnis wächst den Menschen der Verstand.</p>
+<p rendition="#et">107. Denn aus ihnen [den Elementen] ist alles paßlich zusammengefügt und durch sie denken, freuen und ärgern sie sich.</p>
+<p rendition="#et"><pb n="261" facs="#f00040"/> 108. Nach dem Maße, wie sich die [Menschen (am Tage überhaupt)] ändern, so fällt es ihnen [nachts] bei auch ihre Gedanken zu ändern.</p>
+<p rendition="#et">109. Denn mit [unserem] Erdstoff erblicken wir die Erde, mit [unserem] Wasser das Wasser, mit [unserer] Luft die göttliche Luft, mit [unserem] Feuer endlich das vernichtende Feuer; mit [unserer] Liebe ferner die Liebe [der Welt] und [ihren] Haß mit [unserem] traurigen Haß.</p>
+<p rendition="#et">110. Wenn Du nämlich auf Deinen festen Geist gestützt wohlgesinnt mit reinem Bemühen sie [die Lehren des Meisters?] betrachtest, <pb n="262" facs="#f00041"/> so werden Dir nicht nur diese allesamt auf Lebenszeit zu Gebote stehen, sondern Du wirst auch noch viel anderes daraus gewinnen. Denn es wächst von selbst dieser [Schatz] in Deinen inneren Kern hinein, wie [eben] eines Jeden Natur ist. Willst Du aber nach anderen [Schätzen] trachten, wie sie so bei den Menschen im Schwange sind, unzählige, armselige, die das Nachdenken abstumpfen, wahrlich dann werden sie Dich bald im Umlauf der Zeiten im Stiche lassen. Denn sie sehnen sich danach zu ihrem eignen, angestammten Urgeschlecht zurückzukehren. Denn wisse nur, alles hat Bewußtsein und seinen Anteil am Denken.</p>
+<p rendition="#et">111. Alle Gifte wirst Du kennen lernen, die geschaffen sind Krankheit und Alter zu bannen; denn Dir allein will ich dies alles erfüllen. Stillen sollst Du ferner der unermatteten Winde Gewalt, die gegen die Erde losbrechen und mit ihrem Wehen die Fluren vernichten, und umgekehrt sollst Du, wenn es Dir beliebt, die Winde zum Ausgleich <pb n="263" facs="#f00042"/> herbeirufen können. Kehren sollst Du den dunkeln Regen in Trocknis, gedeihlich den Menschen, kehren sollst Du aber auch [wieder] die sommerliche Trocknis in baumernährende Güsse, die dem Himmel entströmen; zurückführen sollst Du endlich aus dem Hades gestorbenen Mannes Kraft.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Aus: Sühnelied</note>
+
+<head>Aus: Sühnelied</head>
+<p rendition="#et">112. Ihr Freunde, die ihr die große Stadt bewohnt, die am gelblichen Akragas sich hinabzieht, nahe dem Burgberg, ihr Pfleger trefflicher Werke, ehrwürdiger Hort der Fremdlinge sonder Falsch, seid mir gegrüßt! Ich aber wandle jetzt als unsterblicher Gott, nicht mehr als Sterblicher vor Euch; man ehrt mich als solchen allenthalben, wie es mir zusteht, indem man mir Tänien ums Haupt flicht und blühende <pb n="264" facs="#f00043"/> Kränze. Sobald ich mit diesen [Anhängern,] Männern und Frauen, die blühenden Städte betrete, betet man mich an, und Tausende folgen mir nach, um zu erkunden, wo der Pfad zum Heile führe. Die einen wünschen Orakel, die anderen fragen wegen mannigfacher Krankheiten nach, um ein heilbringendes Wörtlein zu hören; denn lange schon winden sie sich in bohrenden Schmerzensqualen.</p>
+<p rendition="#et">113. Doch was red' ich hierüber noch viel, als ob ich etwas großes vollführe? Bin ich doch mehr als sie, die sterblichen, vielfachem Verderben geweihten Menschen!</p>
+<p rendition="#et">114. O meine Freunde! Ich weiß zwar, daß Wahrheit den Worten, die <hi rendition="#i">ich</hi> künden werde, innewohnt; doch mühsam ist sie den Menschen zu erringen, und schwer nur dringt das heiße Bemühn um den Glauben in die Seele.</p>
+<p rendition="#et"><pb n="265" facs="#f00044"/> 115. Es gibt einen Spruch des Schicksals, einen uralten, urewigen Götterbeschluß, der mit breiten Schwüren versiegelt ist: wenn einer seine Hände mit Mordblut befleckt in Sündenverstrickung, wer ferner im Gefolge des Streites einen Meineid schwört aus der Zahl der Dämonen, die ein ewig langes Leben erlöst haben, die müssen dreimal zehntausend Horen fernab von den Seligen schweifen und des Lebens mühselige Pfade wechseln, um im Laufe der Zeit unter allen möglichen Gestalten sterblicher Geschöpfe geboren zu werden. Denn der Luft Macht jagt sie zum Meere, das Meer speit sie auf den Erdboden aus, die Erde zu den Strahlen der leuchtenden Sonne, und diese wirft sie in die Wirbel der Luft. Einer nimmt sie vom andern auf, und allen sind sie verhaßt. Zu diesen gehöre jetzt auch ich, ein von Gott Gebannter und Irrender, da ich dem rasenden Streite vertraute.</p>
+<p rendition="#et"><pb n="266" facs="#f00045"/> 116. Die Charis haßt die schwer erträgliche Notwendigkeit.</p>
+<p rendition="#et">117. Ich war bereits einmal Knabe, Mädchen, Pflanze, Vogel und flutenttauchender, stummer Fisch.</p>
+<p rendition="#et">118. Ich weinte und jammerte, als ich den ungewohnten Ort erblickte.</p>
+<p rendition="#et">119. Aus welchem Range, aus welcher Glückesfülle [herausgeworfen,] verkehre ich nun hier, nachdem ich [das Haus des Zeus] verlassen, mit Sterblichen.</p>
+<p rendition="#et"><pb n="267" facs="#f00046"/> 120. Wir gelangten in diese überdachte Höhle...</p>
+<p rendition="#et">121. ... den freudlosen Ort, wo Mord und Groll und Scharen anderer Unglücksgeister, wo dörrendes Siechtum und Fäulnis und Überschwemmung auf der Unheilswiese im Düster hin und her schweifen.</p>
+<p rendition="#et">122. Da waren die Erdmutter und die weitblickende Sonnenjungfrau, die blutige Zwietracht und die ernstblickende Harmonie, [Frau] Schön und [Frau] Hässlich, [Frau] Hurtig und [Frau] Spät, die liebreiche Wahrhaftigkeit und die schwarzaugige Verworrenheit.</p>
+<p rendition="#et"><pb n="268" facs="#f00047"/> 123. Und [die Geister] des Wachstums und Schwundes, des Schlafens und Wachens, der Bewegung und Ruhe, der reichbekränzten Pracht und des Schmutzes, des Schweigens und Redens.</p>
+<p rendition="#et">124. Weh', wehe, du armes Menschengeschlecht, weh' du jammervoll unseliges: aus solchen Zwisten und Seufzern seid ihr entsprossen!</p>
+<p rendition="#et">125. Denn aus Lebendigem machte er Totes, die Gestalten vertauschend.</p>
+<p rendition="#et">126. [Die Natur wechselt alles,] indem sie [die Seelen] mit fremdartiger Leibeshülle umkleidet.</p>
+<p rendition="#et"><pb n="269" facs="#f00048"/> 127. [Bei der Seelenwanderung] werden [die Menschen] unter den Tieren [am besten] zu bergbewohnenden, auf der Erde schlafenden Löwen und unter den schön belaubten Bäumen zum Lorbeer.</p>
+<p rendition="#et">128. Und bei jenen [Menschen des goldenen Zeitalters] gab es noch keinen Gott des Krieges und Schlachtgetümmels, keinen König Zeus oder Kronos oder Poseidon, sondern nur eine Königin, die Liebe... Diese freilich suchten sie mit frommen Weihegaben zu versöhnen, mit gemalten [Opfer]tieren und köstlich duftenden Salben, <pb n="270" facs="#f00049"/> mit Spenden von lauterer Myrrhe und duftendem Weihrauch und aus den braunen Waben schütteten sie Weihgrüsse auf den Boden. Doch mit lauterem [?] Stierblut ward kein Altar benetzt, sondern dies galt bei den Menschen als größter Frevel, Leben zu rauben und edle Glieder hineinzuschlingen.</p>
+<p rendition="#et">129. Doch es lebte unter jenen ein Mann von übermenschlichem Wissen, der anerkannt den größten Geistesreichtum besaß und mannigfacher Künste mächtig war. Denn sobald er nur mit allen seinen Geisteskräften sich reckte, schaute er leicht in seinen zehn und zwanzig Menschenleben jedes einzelne Ding in der ganzen Welt.</p>
+<p rendition="#et"><pb n="271" facs="#f00050"/> 130. Da waren alle [Geschöpfe] zahm und den Menschen zutunlich, die wilden Tiere wie die Vögel, und die Flamme der gegenseitigen Freundschaft glühte.</p>
+<p rendition="#et">131. Denn wenn es Dir [genehm war], unsterbliche Muse, wegen irgend einer menschlichen Angelegenheit Dir unsere Sorgen durch den Sinn gehen zu lassen, so erhöre jetzo wieder mein Gebet, Kalliope, wo ich beginne gute Gedanken über die seligen Götter zu offenbaren.</p>
+<p rendition="#et">132. Glückselig wer einen Schatz göttlicher Gedanken erwarb, armselig, wen ein finsterer Wahn über die Götter umfängt.</p>
+<p rendition="#et">133. Man kann [die Gottheit] sich nicht nahe bringen, daß sie unseren <pb n="272" facs="#f00051"/> Augen erreichbar wäre, oder sie mit Händen greifen, [zwei Wege] auf denen die Hauptstraße des Glaubens ins Menschenherz führt.</p>
+<p rendition="#et">134. Denn sie [die Gottheit] ist auch nicht mit menschenähnlichem Haupte an den Gliedern versehen, nicht schwingen sich zwei Zweige herab von dem Rücken, nicht Füße noch hurtige Kniee oder behaarte Schamglieder, sondern nur ein Geist, ein heiliger und unaussprechlicher regt sich da, der mit schnellen Gedanken den ganzen Weltenbau durchfliegt.</p>
+<p rendition="#et"><pb n="273" facs="#f00052"/> 135. Doch das allgemeine Gesetz ist lang und breit ausgespannt durch den weithin herrschenden Feueräther und den unermeßlichen Himmelsglanz.</p>
+<p rendition="#et">136. Wollt ihr nicht aufhören mit dem mißtönenden Morden? Seht ihr denn nicht, wie ihr einander zerfleischt in Unbedachtheit eures Sinnes?</p>
+<p rendition="#et">137. Und seinen eigenen Sohn, der die Gestalt gewandelt hat, hebt der Vater [zum Todesstreich] empor, schlachtet ihn und spricht auch noch ein Gebet dazu, der arge Tor! Die [Knechte] hingegen zaudern [noch,] <pb n="274" facs="#f00053"/> den [um sein Leben] Flehenden zu opfern; doch jener taub gegen sein Gewinsel schlachtet ihn und rüstet damit im Hause sein Sündenmahl. Ebenso ergreift der Sohn seinen Vater und die Kinder ihre Mutter, rauben ihnen das Leben und schlingen das blutsverwandte Fleisch hinunter!</p>
+<p rendition="#et">138. Mit dem Erze die Seele abschöpfend.</p>
+<p rendition="#et">139. Weh mir, daß mich nicht früher ein erbarmungsloser Tag vernichtete, ehe denn meine Lippen der Gedanke an den ungeheuren Frevel des Fraßes umspielte!</p>
+<p rendition="#et">140. Sich gänzlich der [Phoibos geweihten] Lorbeerblätter enthalten.</p>
+<p rendition="#et"><pb n="275" facs="#f00054"/> 141. Unselige, ganz Unselige! Haltet Eure Hände zurück von den Bohnen!</p>
+<p rendition="#et">142. Diesen wird schwerlich der überdachte Palast des ägishaltenden Zeus erfreuen noch der [furchtbaren Hekate sündenrächendes (?)] Haus.</p>
+<p rendition="#et">143. Von fünf Brunnen schöpfend in unverwüstlichem Erze.</p>
+<p rendition="#et">144. Von der Sünde sich ernüchtern.</p>
+<p rendition="#et">145. Darum, dieweil ihr befangen seid in schweren Sünden, werdet ihr nimmer euer Herz von dem unseligen Jammer entlasten können.</p>
+<p rendition="#et"><pb n="276" facs="#f00055"/> 146. Zuletzt werden sie zu Sehern, Sängern, Ärzten und Fürsten unter den irdischen Menschen und wachsen hieraus empor zu Göttern an Ehren reichsten.</p>
+<p rendition="#et">147. Der anderen Unsterblichen Herd- und Tisch genossen, menschlichen Jammers bar und ledig und unverwüstlich.</p>
+<p rendition="#et">148. Menschenumgebenden Erdstoff [d.i. Körper].</p>
+<p rendition="#et">149. Wolkensammelnde [Luft].</p>
+<p rendition="#et">150. Blutgefüllte [Leber].</p>
+<p rendition="#et">151. Lebenspendende [Aphrodite].</p>
+<p rendition="#et"><pb n="277" facs="#f00056"/> 152. [›Der Abend, des Tages Greisenalter‹. Ähnliche Metapher bei Empedokles.]</p>
+<p rendition="#et">153. Baubo [= Bauch.]</p>
+<p rendition="#et">153<hi rendition="#sup">a</hi>. [In] sieben mal sieben Tagen [wird der Embryo (seiner Gliederung) nach durchgebildet.]</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zweifelhaftes</note>
+
+<head>Zweifelhaftes</head>
+<p rendition="#et">154. [Das war damals (im Anfange der Welt) noch nicht die Zeit, wo] die Sonne fest in ihrer [unbeirrbaren, sicheren] Bahn lief und Morgen und Abend schied und sie [die Bahn] wieder im Verein mit den fruchtbringenden, <pb n="278" facs="#f00057"/> knospenprangenden Horen umkehrend im Kreislauf zurücklegte wo vielmehr die Erde vergewaltigt war [durch das ungeregelte Ausströmen der Flüsse] und vieles durch Bildung von Seen verunstaltet [und durch tiefen Schlamm und unfruchtbares Gestrüpp und Dickicht verödet dalag...]</p>
+<p rendition="#et">154<hi rendition="#sup">a</hi>. Wehen und Schmerzen brauend und Betörung und Klagen.</p>
+<p rendition="#et">154<hi rendition="#sup">b</hi>. Die zuerst das ruchlose Schlachtmesser zum Wegelagern schmiedeten und zuerst von den Ackerochsen aßen.</p>
+<p rendition="#et">154<hi rendition="#sup">c</hi>. Auch bei den Pflanzen zeigt sich sofort, was Frucht verspricht.</p>
+
+</div>
+
+</body></text></TEI>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Indische Liebeslyrik</title>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Indische Liebeslyrik. In deutscher Sprache nachgebildet von Friedrich Rückert.
+      Eingeleitet, hrsg. u. erläutert von Helmuth von Glasenapp, Baden-Baden: Bühler,
+      1948.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Indische Liebeslyrik</title>
+      <editor><persName ref="http://d-nb.info/gnd/95215">
+        <forename>Helmuth</forename>
+        <nameLink>von</nameLink>
+        <surname>Glasenapp</surname>
+      </persName>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Bühler</name>
+      </publisher><pubPlace>Baden-Baden</pubPlace>
+      <date type="publication">1948</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Verfasst im 6. Jahrhundert. Hier in der Übersetzung von Friedrich Rückert.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Aus dem Kiratardschunija des Bharawi</note>
+
+ 
+<head><pb n="70" facs="#f0001"/> Aus dem Kiratardschunija des Bharawi</head>
+<p rendition="#c"><hi rendition="#i">Reis und Wasserlilie</hi></p>
+<lb/>
+<p rendition="#c">4, 26.</p>
+<p>Der breitgerispete, durch Reifheit seiner Frucht</p>
+<p>Zur Rötlichkeit gelangte Halm vom Reise</p>
+<p>Neigt sich zu der dem Wasserfeld entblühenden</p>
+<p>Nymphä' und küßt die dunkle, duft'ge leise.</p>
+<lb/>
+<p rendition="#c">4, 27.</p>
+<p>Gefärbt von Wasserlilien-Staubfäden-Glanz,</p>
+<p>Von Lotosblätterschimmer überflogen,</p>
+<p>Die Flut, gerötet von des Reises Ährenwuchs,</p>
+<p>Scheint ein entflohnes Stück vom Regenbogen.</p>
+<lb/>
+<p rendition="#c">4, 34.</p>
+<p>Von der verachtungsvollen Wasserlilie</p>
+<p>Verschmäht, wiewohl vor ihr sein Haupt verneigend,</p>
+<p>Gelangt der Reis hier, dorrend mitten in der Flut,</p>
+<p>Zur Bleichheit, sich als liebverbrannter zeigend.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Nymphäentanz</hi></p>
+<lb/>
+<p rendition="#c">5, 32.</p>
+<p>Vom sanften Wind bewegt, ist fröhlich</p>
+<p>Hier ein Nymphäentanz zu schauen,</p>
+<p>In Wassern, die sich leise furchen,</p>
+<p>Wie muntrer Frauen Augenbrauen.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i"><pb n="71" facs="#f0002"/> Liebesspiel</hi></p>
+<lb/>
+<p rendition="#c">8, 19.</p>
+<p>Der aus dem Auge mit Mundes Wind fürwahr</p>
+<p>Ein Blütenstäubchen nicht zu bringen ist imstand,</p>
+<p>Die Schöne stößt, von seinem Atem aufgeregt,</p>
+<p>Ihn stürmisch mit des hochgeschwellten Busens Rand.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Badeszene</hi></p>
+<lb/>
+<p rendition="#c">8, 27.</p>
+<p>Mit lotosbewegendem Fischegeschnalz,</p>
+<p>Mit Wellenschlag am reinen Gestade,</p>
+<p>Mit lauter Stimme von Möw' und Schwan</p>
+<p>Rief gleichsam der Strom die Frau'n zum Bade.</p>
+<lb/>
+<p rendition="#c">8, 28.</p>
+<p>Vom glutendämpfenden, Lotosduft-</p>
+<p>Verhauchenden, wehenden leis' und linde,</p>
+<p>Geboten ward gleichsam den Schönen der Arm</p>
+<p>Vom wellenkranzumfangenden Winde.</p>
+<lb/>
+<p rendition="#c">8, 31.</p>
+<p>Durch's erste Tauchen der muntern Schar,</p>
+<p>Die strebend schwellende Lenden stemmte,</p>
+<p>In Unruh kam die geteilte Flut,</p>
+<p>Die strandwärts ihre Kraniche schwemmte.</p>
+<lb/>
+<p rendition="#c">8, 32.</p>
+<p>Durch der Grandharven felsige Brust,</p>
+<p>Und der Himmelsfrauen strotzende Brüste,</p>
+<p>Beschäumter Welle zum Ufer geführt,</p>
+<p>Wird bleich das Wasser, als ob sich's entrüste.</p>
+<lb/>
+<p rendition="#c"><pb n="72" facs="#f0003"/> 8, 33.</p>
+<p>Abstreifend Sandelsalbe dem Leib,</p>
+<p>Frau'nlocken wirrend, und Kränz' entflitternd,</p>
+<p>Zu großer Vertraulichkeit schuldig, ward</p>
+<p>Das Wasser gleichsam vor Strafe zitternd.</p>
+<lb/>
+<p rendition="#c">8, 37.</p>
+<p>Den vor der Nebenbuhlerin ihr</p>
+<p>Der Freund auf die schwellende Brust gedrücket,</p>
+<p>Sie läßt nicht los den zerwässerten Kranz;</p>
+<p>Nicht ist's ja der Stoff, was die Liebe beglücket.</p>
+<lb/>
+<p rendition="#c">8, 39.</p>
+<p>Die glänzenden Ohrgehänge der Frau'n,</p>
+<p>Vom Wasser genommen, im Wellengeflüster</p>
+<p>Umtreibend, sind nun kläglich zu schau'n</p>
+<p>Wie ihrer Würden entsetzte Minister.</p>
+<lb/>
+<p rendition="#c">8, 40.</p>
+<p>Mit abgespületen Schminken des Aug's</p>
+<p>Und der Lippe, die Frau'n, die doch entzücken,</p>
+<p>Betrachtend, haben Gandharven erkannt,</p>
+<p>Daß selber den Schmuck nur der Leib kann schmücken.</p>
+<lb/>
+<p rendition="#c">8, 41.</p>
+<p>Nie so verbrannt' er im vollsten Putz;</p>
+<p>Gewählt um des Freundes Herz zu gewinnen,</p>
+<p>Wie feucht nun verbrennt der schöne Leib</p>
+<p>Die Augen der Nebenbuhlerinnen.</p>
+<lb/>
+<p rendition="#c"><pb n="73" facs="#f0004"/> 8, 43.</p>
+<p>Im Wasserwirbel von Frauenhand</p>
+<p>Geschlagen, ist Trommelgetön angebrochen,</p>
+<p>Wozu im Takte bewegt aufführt</p>
+<p>Herzraubende Tänze das Busenpochen.</p>
+<lb/>
+<p rendition="#c">8, 44.</p>
+<p>Nymphäen verlachende, lächelnde</p>
+<p>Frau'nangesichter im Wogengebilde</p>
+<p>Belohnen schmückend den Strom dafür,</p>
+<p>Daß er den Nymphen sich zeigte milde.</p>
+<lb/>
+<p rendition="#c">8, 45.</p>
+<p>Vom schnalzenden Fisch an der Hüfte berührt,</p>
+<p>Vor Schreck ausbreitend des Arm's Gezweige,</p>
+<p>Ein Schauspiel bieten die Schönen dar</p>
+<p>Den Freundinnen selbst, den Freunden geschweige.</p>
+<lb/>
+<p rendition="#c">8, 46.</p>
+<p>Als wie aus Furcht vor dem Fisch in der Flut,</p>
+<p>Hat eine Spröde den Freund umschlungen;</p>
+<p>An Schönen gefällt ein verstelltes Tun,</p>
+<p>Aus unverstellter Neigung entsprungen.</p>
+<lb/>
+<p rendition="#c">8, 47.</p>
+<p>Durch ihre vom Untertauchen verwirrt</p>
+<p>Ergossenen Locken verhüllt, erlangen</p>
+<p>Frau'nangesichte den Schein von Nymphä'n,</p>
+<p>An welchen Trauben von Bienen hangen.</p>
+<lb/>
+<p rendition="#c"><pb n="74" facs="#f0005"/> 8, 48.</p>
+<p>Ausstreckend der Hände junges Gesproß</p>
+<p>Im Wasser, eia! dem gar zu tiefen,</p>
+<p>Ward Freundesumfahung der Stolzen zuteil,</p>
+<p>Ohne daß sie Gespielen als frech beriefen.</p>
+<lb/>
+<p rendition="#c">8, 49.</p>
+<p>Von Freunden mit Händen voll Wasser bespritzt,</p>
+<p>Indem sie nun dehnen die Brust mit Stöhnen,</p>
+<p>Und ringen die Hand mit Gebärdenspiel,</p>
+<p>Erreichten den Zweck die koketten Schönen.</p>
+<lb/>
+<p rendition="#c">8, 50.</p>
+<p>Als der sonst spröde Freund nun galant</p>
+<p>Sich erweisend, eine spritzt' ins Gesicht,</p>
+<p>Stahl gleichsam mit blinzelnden Augen dies</p>
+<p>Der Nebenbuhl'rinnen Wangenlicht.</p>
+<lb/>
+<p rendition="#c">8, 52.</p>
+<p>Entsalbetem Aug' hat der schmachtende Blick,</p>
+<p>Entschminketen Lippen das leise Leben,</p>
+<p>Der Stirne, des Stirnezeichens beraubt,</p>
+<p>Hat Schmuck die matte Falte gegeben.</p>
+<lb/>
+<p rendition="#c">8, 53.</p>
+<p>Die augendrehende, zwickende Schar,</p>
+<p>Die mit dem Freund um die Wette tauchet,</p>
+<p>Mit zitternden Gliedern und atmender Brust, –</p>
+<p>Hat Mattheit, hat Anmut sie angehauchet?</p>
+<lb/>
+<p rendition="#c"><pb n="75" facs="#f0006"/> 8, 56.</p>
+<p>Nach anderem Strand verliebte Vögel scheuchend,</p>
+<p>Verstörend friedliches Nymphä'ngeschlechte,</p>
+<p>Nun aus dem Bade stiegen sie mit blanken</p>
+<p>Halsketten, wie sternflimmerreiche Nächte.</p>
+<lb/>
+<p rendition="#c">8, 57.</p>
+<p>Von Sandelduft gefärbt, bunt überstreuet</p>
+<p>Von Flittern und geborstner Perlenkette,</p>
+<p>Glich, von den Frau'n genossen und verlassen,</p>
+<p>Das Wogenbett nun einem Liebesbette.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Sonnenuntergang</hi></p>
+<lb/>
+<p rendition="#c">9, 3.</p>
+<p>Da begierig mit Strahlenhänden</p>
+<p>Sie der Nymphäe Nektar getrunken,</p>
+<p>Ist die Sonne berauscht zur Erde,</p>
+<p>Rotgewordenen Leibs, gesunken.</p>
+<lb/>
+<p rendition="#c">9, 14.</p>
+<p>Wie seinen Ruf der Nachgetrennte</p>
+<p>Hin nach der nahen Gattin lenket,</p>
+<p>Hat der Nymphäe blühend Antlitz</p>
+<p>Erloschner Freude sich gesenket.</p>
+<lb/>
+<p rendition="#c">9, 16.</p>
+<p>Verlassend nun die nachtgetrübten</p>
+<p>Geschlossenen Nymphäenkronen,</p>
+<p>Entflieht der Glanz zum Sternenhimmel;</p>
+<p>Denn jeder will im Sichern wohnen.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i"><pb n="76" facs="#f0007"/> Die Salbung des Liebesgottes</hi></p>
+<lb/>
+<p rendition="#c">9, 32.</p>
+<p>Zur Salbung Kama's hat die Schöne</p>
+<p>Der Nacht nun den mit Lotossprossen</p>
+<p>Bestreuten Silbernapf voll Glanzflut,</p>
+<p>Den Mond voll Flecken ausgegossen.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Kama's Grausamkeit</hi></p>
+<lb/>
+<p rendition="#c">9, 49.</p>
+<p>Umarmung unter Nägelzeichen,</p>
+<p>Kuß unter dichten Zahneindrücken;</p>
+<p>Ja, der sich nennt den zarten, weichen,</p>
+<p>Herb ist selbst Kama im Entzücken.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Die rote Fußspur</hi></p>
+<lb/>
+<p rendition="#c">10, 3.</p>
+<p>Mit dem saftigen Lack der Sohlen</p>
+<p>Zeichnet die wandelnde Frauenherde</p>
+<p>Pfade, daß gleichsam von Indrahirten</p>
+<p>Wimmelt die gräsergerötete Erde.</p>
+
+</body></text></TEI>

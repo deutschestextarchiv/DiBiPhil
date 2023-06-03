@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in drei Bänden</title>
+        <title type="volume">Band 3</title>
+        <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Friedrich Nietzsche: Werke in drei Bänden. Band 3, Herausgegeben von Karl
+      Schlechta. München: Hanser, 1954.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in drei Bänden</title>
+      <title level="m" type="volume" n="3">Band 3</title>
+      <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+        <forename>Karl</forename>
+        <surname>Schlechta</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Hanser</name>
+      </publisher><pubPlace>München</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: »Musikalisches Wochenblatt«, 17.1.1873, Leipzig (E.W. Fritzsch) 1873, S. 38.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Ein Neujahrswort an den Herausgeber der Wochenschrift »Im neuen Reich«</note>
+
+<head>Friedrich Nietzsche</head>
+<head>Ein Neujahrswort an den Herausgeber der Wochenschrift »Im neuen Reich«</head>
+<pb n="299" facs="#f0001"/> <pb n="301" facs="#f0002"/><lb/>
+<p>Herrn Alfred <hi rendition="#i">Dove</hi> ist das Unglück widerfahren, in einem stelzbeinig geschriebenen und in jedem Betracht Befürchtungen erregenden »Neujahrsworte an die deutsche Geistesarbeit« zuletzt wahrhaft schmählich auszugleiten und fallend in folgenden Tönen zu explodieren:</p>
+<p rendition="#et">»Da muß man nun von dem vergangenen Jahre anmerken, daß es auch hier wieder wirksame Mahnungen hervorgebracht: seinen Fachgenossen hat der namhafte Physiker Zöllner in einem freilich im Gesamteindrucke wunderlichen Buche, das aus Astronomie, Erkenntnistheorie und ethischer Lehre zusammengemischt ist, vom reinsten Eifer getrieben eine ernste Bußpredigt zur Einkehr in sich selbst und zur Rückkehr in die alte Einfalt ihrer Sitten gehalten. Bitterer, ja grausam scharf hat der Münchener Arzt Puschmann kürzlich Richard Wagners Größenwahnsinn theoretisch nachzuweisen und zu zergliedern versucht, zu verwegen offenbar für ein menschliches Gericht über den Lebendigen, doch darf man sagen, daß er den Schuldigsten herausgegriffen. Beide Bücher, so manchen unheilvollen Anstoß sie gegeben, sind um ihrer warnenden Kraft willen entschieden hoch zu halten; keineswegs werden sie ohne nützliche Wirkung bleiben.«</p>
+<p rendition="#et">Zuerst drücken wir unser ernstes Bedauern aus, daß der edle Name Zöllners durch die unbefugtesten Hände in eine so widerliche Gemeinschaft gezogen ist. Dann aber bleibt uns nur übrig, in Erstaunen und immer neues Erstaunen auszubrechen. Wie? Sollte nicht der Redakteur Dove, oder mindestens sein von ihm bedachter Leserkreis, ein Unikum, ein erstaunliches Unikum sein? Kein anderer Redakteur, auch der bedenklichste und verderbteste nicht, hat es gewagt, seinen Geschmack an Puschmann so frei und so pathetisch zu bekennen, offenbar in dem Glauben, daß dies wider den Anstand sein würde. Zu welcher Sorte von Publikum kondeszendiert also Herr Dove mit <pb n="301" facs="#f0003"/> seinem »freien« Pathos? Zu den Lesern des »Neuen Reichs«: innerhalb der vier Wände dieses »Neuen Reichs«, wenn Redakteur und Leser unter sich sind, ergötzt man sich, wie es scheint, an solchen Freiheiten – anderwärts würden sie nur indignieren oder Ekel erregen. Selbst der eigentliche Gründer <hi rendition="#i">in scandalosis,</hi> Paul Lindau, hat ein vielleicht ähnliches Gelüst nur indirekt zu verraten vermocht, dadurch, daß er jenen bewährten Skandal-Puschmann unter die Liste seiner Skandal-Mitarbeiter aufnahm. Zur Entschuldigung dürfte man sogar hier noch sagen, daß hier ein Bedürfnis vorlag. Die »Gegenwart« bedarf Puschmanns – das Gründertum auf den Skandal hat seine Bedürfnisse; Verzeihung dem Bedürfnisse! Aber so ohne Bedürfnis, in der Manier Alfred Doves, Puschmann »anzugreifen«, Puschmann öffentlich die Hände zu schütteln – ist das möglich, wenn es doch nicht nötig war? Welcher »Seelenarzt« kann hier Auskunft geben? Oder war es doch nötig? Welchen Zwang übten vielleicht jene Leser auf den impressionablen Alfred Dove aus? – Inzwischen, bevor diese gar nicht rhetorisch gemeinten Fragen beantwortet sind, gratulieren wir dem Münchener »Spezialisten für Psychiatrie« zu diesem neuen Kameraden Alfred Dove, der sich ja in jenem Neujahrswort ebenfalls als Heilkünstler und Spezialist gebärdet. Mögen sie zusammen wachsen und gedeihen, Puschmann und Dove, Dove und Puschmann, <hi rendition="#i">par nobile fratrum!</hi> Mögen sie besonders, wie wir beiden zum Neujahr wünschen, sich baldigst miteinander, zu gegenseitiger Förderung, über die wirksamsten Geheimmittelchen, durch wissenschaftlich klingende Marktschreierei sich (oder ihr bedrucktes Blatt Papier) in Umlauf zu bringen, recht intim verständigen. Gewißlich wird der so feierlich angeredete Geist Puschmanns nicht umsonst beschworen sein; fürderhin wird er Herrn Alfred Dove in der beschwerlichen Aufgabe unterstützen müssen, den unnatürlichen Geschmacksgelüsten der Leser des »Neuen Reiches« psychiatrisch in befriedigender Weise beizukommen.</p>
+<lb/>
+<p rendition="#right">Prof. Dr. Friedrich Nietzsche</p>
+
+</body></text></TEI>

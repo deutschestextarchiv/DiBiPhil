@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Geheimnis der goldenen Blüte</title>
+        <author><persName ref="http://d-nb.info/gnd/71876">
+        <forename>Richard</forename>
+        <surname>Wilhelm</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Das Geheimnis der goldenen Blüte. Ein chinesisches Lebensbuch. Mit einem
+      europäischen Kommentar von C.G. Jung. Text und Erläuterungen von Richard Wilhelm,
+      Olten/Freiburg i. Br.: Walter Verlag, 1971.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Das Geheimnis der goldenen Blüte</title>
+      <title level="m" type="sub">Ein chinesisches Lebensbuch</title>
+      <author><persName ref="http://d-nb.info/gnd/71876">
+        <forename>Richard</forename>
+        <surname>Wilhelm</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Walter Verlag</name>
+      </publisher><pubPlace>Olten, Freiburg im Breisgau</pubPlace>
+      <date type="publication">1971</date>
+      <date type="firstPublication">1929</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck 1794. Hier in der Übersetzung von Richard Wilhelm.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+
+<pb n="116" facs="#f0001"/> 
+<note type="editorial">Hui Ming Ging - Das Buch von Bewusstsein und Leben</note>
+
+<head>Liu Hua Yang</head>
+<head>Hui Ming Ging</head>
+<head>Das Buch von Bewusstsein und Leben</head>
+
+
+<div n="1">
+<note type="editorial">I. Aufhören des Ausströmens</note>
+
+<head>I. Aufhören des Ausströmens</head>
+<p>Willst du vollenden den diamantnen Leib ohne Ausströmen,</p>
+<p>Mußt du mit Fleiß die Wurzel des Bewußtseins und Lebens erhitzen.</p>
+<p>Du mußt erleuchten das stets nahe selige Land</p>
+<p>Und dort immer dein wahres Ich verborgen wohnen lassen.</p>
+<lb/>
+<p rendition="#et"><hi rendition="#smaller">(Die Abbildung, die im chinesischen Text hier steht, stellt den Rumpf eines Menschen dar. In der Mitte des Leibes, in dessen unterer Hälfte, ist eine Keimzelle gezeichnet, durch die das Tor des Lebens vom Tor des Bewußtseins getrennt ist. Dazwischen führt der Kanal nach außen, durch den die Lebenssäfte ausströmen.)</hi></p>
+<lb/>
+<p rendition="#et">Das feinste Geheimnis des Tao sind das Wesen und das Leben (Sing-Ming). Um Wesen und Leben zu pflegen und zu schmelzen, gibt es kein besseres Mittel, als die beiden zur Einheit zurückzuführen. Die Heiligen des Altertums und hohen Weisen zeigten den Gedanken der Vereinheitlichung von Wesen und Leben unter Bildern der äußeren Welt; sie scheuten sich, ohne Gleichnis frei heraus davon zu reden. Darum ging auf Erden das Geheimnis, beide zugleich zu pflegen, verloren. Was ich durch Bilder der Reihe nach zeige, ist nicht leichtsinnige Preisgabe von Geheimnissen. Sondern indem ich die Aufzeichnungen des Long Yen Ging über das Aufhören der Ausströmungen und die Geheimgedanken des Hua Yen Ging mit gelegentlichen Hinweisen der übrigen Sutren zusammenstelle, um sie in diese wahre Abbildung zusammenzufassen, so begreift man, daß Bewußtsein und Leben nichts außerhalb der Keimblase sind. Warum ich dieses Bild gezeichnet, das <pb n="116" facs="#f0002"/> ist, damit gleichstrebende Genossen das himmlische Triebwerk der doppelten Pflege erkennen, daß auf diese Weise der wahre Same heranreift, daß auf diese Weise das Aufhören der Ausströmungen bewirkt wird, daß auf diese Weise die Schêli<note place="end" n="1"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/VIII. Die leere Unendlichkeit#F12086</ref></bibl></note> herausgeschmolzen wird, daß auf diese Weise das große Tao vollendet wird.</p>
+<p rendition="#et">Aber diese Keimblase ist eine unsichtbare Höhle, sie hat nicht Gestalt noch Bild. Wenn der Lebensatem sich regt, so entsteht der Keim dieser Blase, wenn er aufhört, so verschwindet sie wieder. Sie ist der Ort, der die Wahrheit birgt, der Altar, auf dem Bewußtsein und Leben hergestellt werden. Sie wird genannt: das Drachenschloß auf dem Grunde des Meeres, das Grenzgebiet der Schneeberge, der Westen, der Urpaß, das Reich der höchsten Freude, das grenzenlose Land. Alle diese vielen verschiedenen Namen bezeichnen diese Keimblase. Wenn ein Sterbender diese Keimstelle nicht kennt, so wird er in tausend Geburten und zehntausend Weltaltern die Einheit von Bewußtsein und Leben nicht finden.</p>
+<p rendition="#et">Dieser Keimpunkt ist etwas Großes. Ehe dieser unser Leib von den Eltern geboren ist, zur Zeit der Empfängnis, wird zuerst dieser Keimpunkt erzeugt, und Wesen und Leben wohnen darin. Die beiden sind vermischt und bilden eine Einheit: untrennbar gemischt wie der Feuersame im Läuterofen, ein Zusammenhang von ursprünglicher Harmonie und himmlischer Gesetzmäßigkeit. Darum heißt es: »Im Zustand vor der Erscheinung gibt es einen unerschöpflichen Atem.« Ferner heißt es: »Ehe die Eltern das Kind gezeugt haben, ist der Lebensatem völlig und die Leibesfrucht vollkommen.« Aber wenn der Leib sich bewegt und die Fruchtblase zerreißt, ist es, wie wenn man auf hohem Berg den Halt unter den Füßen verliert: Mit einem Schrei stürzt der Mensch auf die Erde hinunter, und Wesen und Leben sind von da ab entzweigeteilt. Von diesem Zeitpunkt an vermögen das Wesen das Leben und das Leben das Wesen nicht mehr zu sehen. Und nun nimmt das Schicksal seinen Lauf: Von der Jugend geht's zur Reife, von der Reife zum Alter, vom Alter zum Ach und Weh.</p>
+<p rendition="#et">Darum hat der Julai<note place="end" n="2"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/VIII. Die leere Unendlichkeit#F12087</ref></bibl></note> in seiner großen Barmherzigkeit das Geheimnis des Herstellens und Schmelzens bekannt werden lassen. Er lehrt den <pb n="117" facs="#f0003"/> Menschen, wieder in den Mutterleib einzugehen und das Wesen und das Leben des Ichs aufs neue zu schaffen; er zeigt, wie Geist und Seele (Lebensatem) in diese Keimblase eintreten, sich zu einer Einheit verbinden müssen, um die wahre Frucht zu vollenden, gerade wie Same und Seele<note place="end" n="3"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/VIII. Die leere Unendlichkeit#F12088</ref></bibl></note> von Vater und Mutter in diese Keimblase eingingen und sich zu Einem vereinigt haben, um die Leibesfrucht zu vollenden. Das Prinzip ist dasselbe.</p>
+<p rendition="#et">Innerhalb der Keimblase ist das Feuer des Herrschers, am Eingang der Keimblase ist das Feuer der Minister, im ganzen Leib ist das Feuer des Volkes. Wenn das Feuer des Herrschers sich äußert, so wird es von dem Feuer der Minister aufgenommen. Wenn das Feuer der Minister sich bewegt, so folgt ihm das Feuer des Volkes. Wenn die drei Feuer sich in dieser Reihenfolge äußern, so entsteht ein Mensch. Wenn die drei Feuer aber in der entgegengesetzten Reihenfolge zurückkehren, so entsteht das Tao.</p>
+<p rendition="#et">Darum haben bei der Keimblase, in der das Ausströmen aufhört, alle Weisen ihre Arbeit begonnen. Wenn man nicht diesen Pfad herstellt, sondern andere Dinge herstellt, so hat das keinen Nutzen. Darum bringen alle Schulen und Sekten, die nicht wissen, daß in dieser Keimblase das beherrschende Prinzip von Bewußtsein und Leben ist und die es deshalb draußen suchen, trotz aller Anstrengung, es draußen zu finden, auch nichts zustande.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">II. Die sechs Perioden des gesetzmässigen Kreislaufes</note>
+
+<head>II. Die sechs Perioden des gesetzmässigen Kreislaufes</head>
+<p>Wenn man den Anfangsweg des Buddha unterscheidet,</p>
+<p>So wird erscheinen die selige Stadt des Westens.</p>
+<p>Nach dem gesetzmäßigen Kreislauf geht beim Einatmen die Wendung nach dem Himmel empor.</p>
+<p>Strömt der Atem aus, so richtet sich die Kraft der Erde zu.</p>
+<p><pb n="118" facs="#f0004"/> Ein Zeitabschnitt besteht aus sechs Fristen.</p>
+<p>In zwei Fristen sammelt man Moni (Sakyamuni).</p>
+<p>Das große Tao kommt aus dem Zentrum hervor.</p>
+<p>Den Urkeim suche nicht draußen!</p>
+<p>Die wunderbarste Wirkung des Tao ist der gesetzmäßige Kreislauf.</p>
+<p>Was die Bewegung unerschöpflich macht, ist die Bahn.</p>
+<p>Was die Geschwindigkeit am besten regelt, sind die Rhythmen (Kui, englisch Kuei).</p>
+<p>Was die Anzahl der Übungen am besten bestimmt, ist die Methode der Fristen (Hou).</p>
+<lb/>
+<p rendition="#et">Diese Darstellung enthält das vollständige Gesetz, und das wahre Aussehen des von Westen Kommenden (Buddha) ist darin enthalten. Die darin enthaltenen Geheimnisse zeigen, wie man den Gang in die Hand bekommt durch Aus- und Einatmen, wie der Wechsel von Abnahme und Zunahme sich im Schließen und Öffnen kundtut, wie man der wahren Gedanken bedarf, um nicht vom Wege abzukommen, wie die feste Begrenzung der Gebiete es ermöglicht, zur rechten Zeit zu beginnen und aufzuhören.</p>
+<p rendition="#et">Ich opfere mich auf und diene den Menschen, indem ich diese Abbildung vollkommen dargestellt habe, die die himmlischen Keime vollständig preisgibt, so daß jeder Laie und Weltmensch sie erlangen und es so zur Vollendung bringen kann. Aber wer nicht die rechte Beschaffenheit hat, der mag wohl etwas davon finden, aber der Himmel wird ihm sein Tao nicht gewähren. Warum nicht? Die rechte innere Beschaffenheit gehört zum Tao wie ein Flügel eines Vogels zum anderen: Wenn einer fehlt, kann er auch den anderen zu nichts brauchen. Darum bedarf es der Treue und Ehrfurcht, der Güte und Gerechtigkeit und der reinen Befolgung der fünf Gebote<note place="end" n="4"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/VIII. Die leere Unendlichkeit#F12089</ref></bibl></note>; dann erst hat man Aussicht, etwas zu erreichen. Aber alle Feinheiten und Geheimnisse sind in diesem Buch von Bewußtsein und Leben zur Überlegung und Erwägung dargeboten, so daß man alles in seiner Wahrheit erlangen kann.</p>
+<lb/>
+<pb n="119" facs="#f0005"/> 
+<figure/>
+<lb/>
+<p><hi rendition="#i">Anmerkung des Herausgebers</hi></p>
+<lb/>
+<p rendition="#et">In diesem Bild ist der Kreislauf der Kraftströme während der Atembewegung angegeben. Während beim gewöhnlichen Atem das Einatmen mit einer Senkung des Unterleibs und das Ausatmen mit einer Hebung des Unterleibs verbunden ist, handelt es sich bei diesen Übungen um eine rückläufige Bewegung in der Weise, daß man beim Einatmen die untere Kraftpforte öffnet und die Kraft entlang der hinteren Kraftlinie (im Rückenmark) in die Höhe steigen läßt, und zwar entsprechend den auf der Zeichnung angegebenen Zeitabschnitten. Beim Ausatmen schließt man die obere Pforte und läßt die Kraftströme auf der vorderen Linie nach unten strömen, ebenfalls in der Ordnung der bezeichneten Zeitabschnitte; zu bemerken ist ferner, daß die Stationen für »Waschen« und »Baden« nicht direkt in der Mitte der Linien liegen, sondern das »Waschen« etwas oberhalb und das »Baden« etwas unterhalb, wie aus der Zeichnung hervorgeht.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">III. Die zwei Kraftbahnen der Funktion und Kontrolle</note>
+
+<head><pb n="120" facs="#f0006"/> III. Die zwei Kraftbahnen der Funktion und Kontrolle</head>
+<p>Es erscheint der Weg der Zunahme und der Abnahme der Urgrenze.</p>
+<p>Vergiß nicht die weiße Bahn unterhalb des gesetzmäßigen Kreislaufs!</p>
+<p>Laß immer durch das Feuer die Höhle des ewigen Lebens ernähren!</p>
+<p>Ach, prüfe der leuchtenden Perle unsterbliche Grenze!</p>
+<lb/>
+<p rendition="#et"><hi rendition="#smaller">(Im Text ist hier eine weitere Abbildung, die der vorigen sehr ähnlich ist. Die Abbildung stellt noch einmal die Kraftbahnen dar, von denen die vordere, abwärts führende als Funktionsbahn (Jen), die hintere, aufwärts führende als Kontrollbahn (Du) bezeichnet ist.)</hi></p>
+<lb/>
+<p rendition="#et">Diese Abbildung ist eigentlich dieselbe wie die vorangehenden. Der Grund, weshalb ich sie nochmals zeige, ist, damit die nach der Pflege des Tao Strebenden erkennen, daß es im eigenen Körper einen gesetzmäßigen Kreislauf gibt. Deshalb habe ich diese Abbildung besorgt, um die Zielgenossen aufzuklären. Wenn es gelingt, diese beiden Bahnen (die funktionierende und die kontrollierende) zum durchgehenden Anschluß zu bringen, so kommen alle Kraftbahnen in Verbindung. Das Reh schläft mit der Schnauze am Schwanz, um seine kontrollierende Kraftbahn zu schließen. Der Kranich und die Schildkröte schließen ihre funktionierende Bahn. Deshalb werden diese drei Tiere wohl tausend Jahre alt. Wieviel weiter kann es der Mensch bringen! Ein Mensch, der die Pflege des Tao betreibt, den gesetzmäßigen Kreislauf in Gang bringt, um Bewußtsein und Leben kreisen zu lassen, braucht nicht zu fürchten, daß er nicht sein Leben verlängert und nicht seine Bahn vollendet.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">IV. Der Embryo des Tao</note>
+
+<head>IV. Der Embryo des Tao</head>
+<p>Nach dem Gesetz, doch ohne Anstrengung, muß man sich fleißig durchleuchten.</p>
+<p>Der Gestalt vergessend, schau nach innen und hilf der wahren Geistesmacht!</p>
+<p><pb n="121" facs="#f0007"/> Zehn Monate steht der Embryo des Tao unter Feuer.</p>
+<p>Nach einem Jahr werden die Waschungen und Bäder warm.</p>
+<lb/>
+<p rendition="#et">Diese Abbildung ist in der ursprünglichen Ausgabe des Long Yen Ging vorhanden. Aber die unkundigen Mönche, die den geheimen Sinn nicht erkannten und vom Embryo des Tao nichts wußten, haben aus diesem Grund den Fehler gemacht, diese Abbildung wegzulassen. Erst durch die Aufklärung von Adepten erfuhr ich, daß der Julai (Tathâgata) wirkliche Arbeit am Embryo des Tao kennt. Dieser Embryo ist nichts körperlich Sichtbares, das von anderen Wesen vollendet werden könnte, sondern er ist in Wirklichkeit die geistige Atemkraft des Ichs. Erst muß der Geist in die Atemkraft (Seele) eindringen, dann umhüllt die Atemkraft den Geist. Wenn Geist und Atemkraft fest verbunden sind und die Gedanken ruhig und unbeweglich: das wird als Embryo bezeichnet. Die Atemkraft muß sich kristallisieren, dann erst wird der Geist wirkungsfähig. Darum heißt es in dem Long Yen Ging: »Mütterlich wahre man das Erwachen und Antworten.« Die beiden Kräfte nähren und stärken einander, darum heißt es: »Tägliches Wachstum findet statt.« Wenn die Kraft genügend stark und der Embryo rund und voll ist, so tritt er aus dem Scheitel hervor. Das ist, was genannt wird: die vollendete Gestalt, die als Embryo hervortritt und selbst sich als Sohn des Buddha erzeugt.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">V. Die Geburt der Frucht</note>
+
+<head>V. Die Geburt der Frucht</head>
+<p>Außerhalb des Leibes gibt es einen Leib, der heißt das Buddhabild.</p>
+<p>Der Gedanke, der mächtig ist, die Abwesenheit von Gedanken ist Bodhi.</p>
+<p>Die tausendblättrige Lotosblume öffnet sich, verwandelt durch Atemkraft.</p>
+<p>Hundertfältiger Glanz erstrahlt vermittelst der Kristallisation des Geistes.</p>
+<lb/>
+<p rendition="#et">Im Long Yen Dschou heißt es: »Zu jener Zeit ließ der Weltherr aus seinem Haarknoten hundertfachen kostbaren Schein aufstrahlen. Inmitten des Scheines leuchtete die tausendblättrige kostbare Lotosblume auf. Und da war ein verwandelter Julai, der inmitten der kostbaren <pb n="122" facs="#f0008"/> Blume saß und von dessen Scheitel zehn Strahlen weißen, herrlichen Lichtes ausgingen, die allenthalben sichtbar waren. Die Menge blickte empor zu dem ausstrahlenden Licht, und der Julai verkündete: ›Das göttliche Zauberwort ist die Erscheinung des lichten Geistes, darum ist sein Name: Sohn des Buddha.‹«</p>
+<p rendition="#et">Wenn man die Lehre von Bewußtsein und Leben nicht vernimmt, sondern nur trocken und einsam Meditationsformeln hersagt, wie entstünde da aus dem eigenen Leib der Julai, der in dieser herrlichen Lotosblume sitzt und strahlt und in seinem Geistleib erscheint! Manche sagen, der Geist des Lichts sei eine kleine Lehre; aber wie sollte das, was man vom Weltherrn bekommt, eine kleine Lehre sein! Hiermit habe ich das tiefste Geheimnis des Long Yen verraten, um künftige Jünger zu lehren. Wer diesen Weg vernimmt, der steigt sofort auf zum dunklen Geheimnis und versinkt nicht mehr im Staub des Alltags.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">VI. Vom Festhalten des verwandelten Leibes</note>
+
+<head>VI. Vom Festhalten des verwandelten Leibes</head>
+<p>Jeder Teilgedanke gewinnt Gestalt und wird sichtbar in Farbe und Form.</p>
+<p>Die Gesamtseelenkraft entfaltet ihre Spuren und wandelt sich ins Leere.</p>
+<p>In das Sein hervorgehend und in das Nichtsein hineingehend, vollendet man das wunderbare Tao.</p>
+<p>Alle geteilten Gestalten erscheinen als Körper, verbunden mit einer wahren Quelle.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">VII. Das Gesicht nach der Wand gekehrt</note>
+
+<head>VII. Das Gesicht nach der Wand gekehrt</head>
+<p>Die durch das Geistfeuer gebildeten Gestalten sind nur leere Farben und Formen.</p>
+<p>Das Licht des Wesens strahlt zurück auf das Ursprüngliche, Wahre.</p>
+<p>Der Abdruck des Herzens schwebt im Raum, rein scheint das Mondlicht.</p>
+<p>Der Lebenskahn ist am Ufer angelangt, hell strahlt der Sonnenschein.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">VIII. Die leere Unendlichkeit</note>
+
+<figure/>
+<lb/>
+<head><pb n="123" facs="#f0009"/> VIII. Die leere Unendlichkeit</head>
+<p>Ohne Entstehen, ohne Vergehen,</p>
+<p>Ohne Vergangenheit, ohne Zukunft.</p>
+<p>Ein Lichtschein umgibt die Welt des Geistes.</p>
+<p>Man vergißt einander, still und rein, ganz mächtig und leer.</p>
+<p>Die Leere wird durchleuchtet vom Schein des Herzens des Himmels.</p>
+<p>Das Meerwasser ist glatt und spiegelt auf seiner Fläche den Mond.</p>
+<p>Die Wolken schwinden im blauen Raum.</p>
+<p>Die Berge leuchten klar.</p>
+<p>Bewußtsein löst sich in Schauen auf.</p>
+<p>Die Mondscheibe einsam ruht.</p>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/I. Aufhören des Ausströmens#N12086</ref>1</bibl> S'arîa, der feste d.h. unsterbliche Leib. Vgl. p. 18.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/I. Aufhören des Ausströmens#N12087</ref>2</bibl> Tathâgata.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/I. Aufhören des Ausströmens#N12088</ref>3</bibl> Dsing, der Same, ist das männliche Zeugende, Ki (Seele, Atemkraft) ist das weibliche Empfangende.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Liu Hua Yang/Hui Ming Ging - Das Buch von Bewusstsein und Leben/II. Die sechs Perioden des gesetzmässigen Kreislaufes#N12089</ref>4</bibl> Die buddhistischen fünf Gebote sind: 1. Nicht töten 2. Nicht stehlen 3. Nicht ehebrechen 4. Nicht lügen 5. Nicht trinken und Fleisch essen.</note>
+
+</div>
+
+</body></text></TEI>

@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sämtliche Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Platon: Sämtliche Werke. Berlin: Lambert Schneider, [1940].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sämtliche Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Verlag Lambert Schneider</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1940</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden etwa zwischen 393 und 388 v. Chr. Erstdruck (in lateinischer Übersetzung durch Marsilio Ficino) in: Opera, Florenz o. J. (ca. 1482/84). Erstdruck des griechischen Originals in: Hapanta ta tu Platônos, herausgegeben von M. Musoros, Venedig 1513. Erste deutsche Übersetzung durch Friedrich Gedike in: Vier Dialogen des Platon, Berlin 1780. Der Text folgt der Übersetzung durch Ludwig von Georgii von 1860.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Menon</note>
+
+<head><pb n="410" facs="#f0001"/> Platon</head>
+<head>Menon</head>
+<head><hi rendition="#i">(Menôn)</hi></head>
+<pb n="411" facs="#f0002"/> <pb n="413" facs="#f0003"/><lb/>
+<head>Menon mit Gefolge · Sokrates · Ein Sklave des Menon · Zwischenhinein Anytos</head>
+<p><hi rendition="#i">Menon:</hi> Kannst du mir sagen, Sokrates, ist die Tugend lehrbar? Oder ist sie nicht lehrbar, sondern eine Sache der Übung? Oder ist sie weder Sache der Übung noch des Lernens, sondern etwas, das den Menschen von Natur oder auf irgend eine Weise sonst zuteil wird?</p>
+<p><hi rendition="#i">Sokrates:</hi> O Menon, vordem waren die Thessalier berühmt unter den Hellenen und Gegenstand der Bewunderung nur wegen ihrer Reitkunst und ihres Reichtums; jetzt aber sind sie es auch, wie mir scheint, wegen ihrer Weisheit, und zwar unter ihnen nicht am wenigsten die Larissaier, die Mitbürger deines Freundes Aristippos. Zu danken aber haben wir das dem Gorgias. Denn als dieser nach Larissa kam, gewann er sich seiner Weisheit wegen die Liebe der Vornehmsten nicht nur unter den Aleuaden, zu denen auch dein Liebhaber Aristippos gehört, sondern unter den Thessaliern überhaupt. Auch habt ihr ja von ihm jene Sitte angenommen, furchtlos und mit edlem Freimut zu antworten, wenn jemand etwas fragt, so wie man es von Leuten erwarten kann, welche etwas wissen. Hat er ja doch selbst jedem Hellenen, der ihn was auch immer fragen wolle, sich dazu erboten und ist nie jemandem eine Antwort schuldig geblieben. Hier aber, mein lieber Menon, hat sich nun alles umgekehrt gemacht. Es ist sozusagen eine Weisheitsteuerung ausgebrochen, und fast sieht es aus, als ob die Weisheit aus hiesigen Landen zu euch entwichen sei. Wenigstens wenn du bei uns jemandem jene Frage vorlegen würdest, würde jedermann in Lachen ausbrechen und sagen: »O Fremdling, wie es scheint, hältst du mich für der Glücklichen einen, welche etwas wissen, wenigstens von der Tugend, ob sie lehrbar sei, oder auf welche Weise man ihrer sonst teilhaftig werde. Ich aber, weit entfernt, daß ich wüßte, ob sie lehrbar oder nicht lehrbar ist, weiß ja nicht einmal so viel, was überhaupt Tugend ist.«</p>
+<p><pb n="413" facs="#f0004"/> Und auch mir selbst, Menon, geht es nicht besser. Ich bin in dieser Hinsicht so arm wie meine Mitbürger und muß mich selbst darüber anklagen, daß ich so gar nichts von der Tugend weiß. Weiß ich aber von etwas nicht, was es ist, – wie könnte ich wissen, wie beschaffen es ist? Oder hältst du es wohl für möglich, daß einer, der den Menon von Person ganz und gar nicht kennt, doch wisse, ob er schön, ob er reich, ob er ein edler Mensch, oder auch, ob er das Gegenteil hiervon sei? Hältst du das für möglich?</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß nicht! Aber du, Sokrates, weißt du in der Tat nicht einmal, was Tugend ist? Und dürfen wir dir das auch zu Hause bei uns nachsagen?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ja, nicht nur das, mein Freund, sondern daß ich auch sonst meines Bedünkens noch nirgends mit einem zusammengetroffen bin, der es wußte.</p>
+<p><hi rendition="#i">Menon:</hi> Wieso? Bist du nicht mit dem Gorgias zusammengetroffen, als er hier war?</p>
+<p><hi rendition="#i">Sokrates:</hi> Doch.</p>
+<p><hi rendition="#i">Menon:</hi> Nun, und du glaubst nicht, daß er es gewußt habe?</p>
+<p><hi rendition="#i">Sokrates:</hi> Mein Gedächtnis ist nicht eben das beste, Menon, weshalb ich dir im Augenblick nicht sagen kann, was ich damals glaubte. Nun, vielleicht weiß er es auch, sowie du weißt, was er gesprochen hat. Erinnere mich also nur wieder daran, wie er sich ausgedrückt hat; oder wenn du lieber willst, so sag es selber! Denn du bist ja doch derselben Ansicht wie er.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> So wollen wir ihn denn jetzt beiseite lassen, da er ja doch nicht zugegen ist. – Du selbst aber, Menon, bei den Göttern, was sagst du, daß die Tugend sei? Sprich und mißgönne mir es nicht, damit ich der glücklichsten Lüge schuldig erfunden werde, wenn es sich herausstellt, daß ihr, du und Gorgias, es wißt, während ich versichert habe, noch niemals mit einem zusammengetroffen zu sein, der es weiß.</p>
+<p><hi rendition="#i">Menon:</hi> Aber das in ja. nicht schwer zu sagen, Sokrates. Fürs erste, wenn du die Tugend des Mannes meinst, so ist sie leicht zu bestimmen: Die Tugend des Mannes nämlich ist, daß er geschickt sei, die Angelegenheiten des Staates zu verwalten und mittelst ihrer Verwaltung seinen Freunden Gutes zu tun, seinen Feinden aber Böses, und dabei selbst auf der Hut zu sein, <pb n="414" facs="#f0005"/> daß ihm nichts dergleichen widerfahre. Meinst du aber die Tugend des Weibes, so ist es nicht schwer, diese zu beschreiben: Sie muß nämlich ihr Hauswesen wohl besorgen, indem sie im Innern alles in gutem Stand erhält und ihrem Manne gehorsam ist. Eine andere Tugend ist dann die des Kindes, sowohl des männlichen als des weiblichen, ebenso die des älteren Mannes, und je nachdem du meinst, die des Freien oder, wenn du meinst, die des Sklaven. Und so gibt es noch sehr viele andere Tugenden, so daß man gar nicht in Verlegenheit kommen kann, von der Tugend zu sagen, was sie ist. Denn für jede Handlungsweise und für jedes Alter gibt es bei jedem Geschäft für jeden von uns seine Tugend, ebenso aber glaube ich, mein Sokrates, auch seine Untugend.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da bin ich ja, wie es scheint, recht glücklich gewesen, Menon, daß ich, indem ich nach einer Tugend frage, einen ganzen Schwarm von Tugenden, die an dir hängen, gefunden habe. Allein, Menon, wenn ich, um bei dem Bilde von den Schwärmen zu bleiben, nun nach dem Wesen der Biene fragen würde, was sie denn sei, und du mir nun sagen würdest, daß es viele und mancherlei Bienen gebe, – was würdest du mir wohl erwidern auf die weitere Frage: »Behauptest du denn, daß der Grund davon, daß es viele, mancherlei und von einander verschiedene Bienen gebe, darin liege, daß sie Bienen sind? Oder beruht nicht ihr Unterschied vielmehr gar nicht hierin, sondern in etwas anderem, z.B. in ihrer Schönheit oder ihrer Größe oder sonst einem Merkmal dieser Art?« Sprich, was würdest du auf diese Frage wohl antworten?</p>
+<p><hi rendition="#i">Menon:</hi> Das, daß sie sich nicht eine von der anderen unterscheiden, sofern sie Bienen sind.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wenn ich nun weiter sagte: »So sag mir nun auch das, Menon: was ist nach deiner Behauptung das, worin sie sich nicht von einander unterscheiden, sondern worin alle sich gleich sind?« – könntest du mir es wohl sagen?</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dieselbe Bewandtnis nun hat es auch mit den Tugenden. Wenn es deren auch viele und mancherlei gibt, so haben sie doch sämtlich einen und denselben Begriff, vermöge dessen sie Tugenden sind, und diesen hat derjenige wohl ins Auge zu fassen, welcher jene Frage beantworten und es richtig <pb n="415" facs="#f0006"/> bestimmen will, was die Tugend wirklich ist. Oder verstehst du nicht, was ich meine?</p>
+<p><hi rendition="#i">Menon:</hi> Ich glaube dich schon zu verstehen; doch habe ich deine Frage noch nicht so gefaßt, wie ich es wünsche.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und hast du wohl nur von der Tugend jene Ansicht, Menon, daß die des Mannes eine andere sei, und wieder eine andere die des Weibes und so weiter, oder auch von der Gesundheit und von der Größe und von der Stärke? Dünkt dir auch die Gesundheit des Mannes eine andere zu sein als die des Weibes? Oder ist es nicht überall derselbe Begriff, wenn einmal von Gesundheit die Rede, möge sie nun bei einem Manne oder bei irgend wem sonst sich finden?</p>
+<p><hi rendition="#i">Menon:</hi> Die Gesundheit scheint mir allerdings beim Mann und Weib dieselbe zu sein.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun nicht auch die Größe und die Stärke? Wenn ein Weib stark ist, wird sie nicht vermöge desselben Begriffs und derselben Stärke stark sein? Den Ausdruck vermöge derselben verstehe ich nämlich so: es macht für die Stärke, daß sie Stärke sei, gar keinen Unterschied, ob sie bei einem Mann oder ob sie bei einem Weibe sich findet. Oder meinst du, es mache einen Unterschied?</p>
+<p><hi rendition="#i">Menon:</hi> Doch nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Für die Tugend aber, daß sie Tugend sei, soll es einen Unterschied machen, ob sie bei einem Knaben sich finde oder bei einem Alten, ob bei einem Weibe oder bei einem Mann?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings, Sokrates, scheint mir hier nicht das gleiche Verhältnis zu sein wie in jenen anderen Fällen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wieso? Hast du nicht gesagt, die Tugend des Mannes bestehe darin, den Staat, die des Weibes darin, das Haus wohl zu verwalten?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist es nun möglich, daß einer einen Staat oder ein Haus oder was sonst immer wohl verwalte, wenn er es nicht weise und gerecht verwaltet?</p>
+<p><hi rendition="#i">Menon:</hi> Nichtwohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, wenn man nun weise und gerecht verwalten will, muß man es mit Weisheit und Gerechtigkeit tun?</p>
+<p><hi rendition="#i"><pb n="416" facs="#f0007"/> Menon:</hi> Notwendig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Beide also, der Mann und das Weib, müssen, wofern sie tugendhaft sein wollen, dieselben Eigenschaften haben, nämlich Gerechtigkeit und Weisheit.</p>
+<p><hi rendition="#i">Menon:</hi> Offenbar.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie aber, ein Kind und ein Greis, wenn sie ausgelassen und ungerecht sind, werden die wohl irgend als tugendhaft erscheinen?</p>
+<p><hi rendition="#i">Menon:</hi> Nichtwohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber wenn sie weise und gerecht sind?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Demnach sind alle Menschen in derselben Weise tugendhaft: denn indem sie dieselben Eigenschaften haben, erscheinen sie als tugendhaft.</p>
+<p><hi rendition="#i">Menon:</hi> So scheint es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gewiß aber wären sie, wenn ihre Tugend nicht dieselbe wäre, nicht in derselben Weise tugendhaft.</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da hiernach die Tugend aller Menschen eine und dieselbe ist, so versuche es zu sagen und dich darauf zu besinnen, was Gorgias behauptet, daß sie sei, und du mit ihm!</p>
+<p><hi rendition="#i">Menon:</hi> Was anderes doch, als daß man imstande sei, über die Menschen zu herrschen? – wenn du denn durchaus eine für alle Fälle gültige Bestimmung haben willst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die will ich allerdings. Aber ist nun das auch die Tugend eines Kindes, Menon, und eines Sklaven, imstande zu sein, über den Gebieter zu herrschen? Und würde dir der, welcher herrscht, noch ein Sklave zu sein scheinen?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht wohl, Sokrates, wie mir dünkt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nein, das läßt sich nicht annehmen, mein Bester. Denn bedenke auch das noch: du sagst, imstande zu sein zu herrschen. Wollen wir nicht hier sogleich hinzusetzen: und zwar gerecht, nicht aber ungerecht?</p>
+<p><hi rendition="#i">Menon:</hi> Ich denke wohl: denn die Gerechtigkeit, Sokrates, ist Tugend.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die Tugend, Menon, oder eine Tugend?</p>
+<p><hi rendition="#i">Menon:</hi> Wie meinst du das?</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie bei allem anderen, z.B. wenn du willst, von der Rundung würde ich wohl etwa sagen, es sei eine Figur, <pb n="417" facs="#f0008"/> nicht aber so schlechtweg, sie sei die Figur. Und zwar würde ich deshalb so sagen, weil es noch andere Figuren gibt.</p>
+<p><hi rendition="#i">Menon:</hi> Und ganz richtig würdest du dich so ausdrücken; wie ja auch ich annehme, nicht nur daß die Gerechtigkeit eine Tugend ist, sondern daß es auch noch andere Tugenden gibt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Welche andere? Sprich, wie auch ich dir noch andere Figuren nennen wollte, wenn du es von mir verlangtest! Nenne also auch du mir noch andere Tugenden!</p>
+<p><hi rendition="#i">Menon:</hi> Nun, so scheint mir die Tapferkeit eine Tugend zu sein, auch die Besonnenheit und Weisheit, und die Großmut, und so noch sehr viele andere.</p>
+<p><hi rendition="#i">Sokrates:</hi> Abermals ist uns da, Menon, dasselbe widerfahren: Wir haben wieder viele Tugenden gefunden, während wir eine suchen, nur in anderer Weise als vorhin. Die eine aber, die alle diese begreift, können wir nicht auffinden.</p>
+<p><hi rendition="#i">Menon:</hi> Diese eine alle Fälle begreifende Tugend, wonach du fragst, Sokrates, kann ich freilich noch nicht auffassen, so wie man es bei ändern Gegenständen kann.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es scheint so. Aber ich will den Versuch machen, wenn ich es vermag, uns der Sache näher zu bringen. Das begreifst du doch wohl, daß es sich bei allem folgendermaßen verhält: Wenn jemand dir über das, wovon ich vorhin sprach, die Frage stellt: »Was ist die Figur, Menon?« und du dann sprächest: »Die Rundung«, und er dann ebenso wie ich erwiderte: »Ist die Rundung die Figur oder eine Figur?« – so würdest du wohl antworten, daß es eine Figur sei.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, deswegen, weil es noch andere Figuren gibt?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wenn er dich weiter fragte: »Was für eine?« – so würdest du sie angeben.</p>
+<p><hi rendition="#i">Menon:</hi> Freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wiederum, wenn er dich in gleicher Weise befragte, was die Farbe sei, und du antworten würdest: »Das Weiße«, und er nun weiter zu fragen fortführe: »Ist das Weiße die Farbe oder eine Farbe?« – so würdest du wohl sagen, es sei eine Farbe, weil es ja noch andere gibt?</p>
+<p><hi rendition="#i"><pb n="418" facs="#f0009"/> Menon:</hi> Freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wenn er von dir verlangte, du solltest andere Farben angeben, so würdest du ihm solche andere angeben, die gewiß ebensogut Farben sind als das Weiße?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn er dann, wie ich, die Rede wieder aufnähme und spräche: »Immer kommen wir auf vieles; aber so will ich es nicht; sondern da du dieses viele mit einem Namen bezeichnest und versicherst, es sei keines darunter, das nicht Figur sei, und zwar selbst, wenn sich die einzelnen entgegengesetzt wären, – was ist doch das, was das Runde ebensogut unter sich begreift als das Gerade, das, was du eben Figur nennst, von dem du versicherst, daß das Gerade ebensogut Figur sei als das Runde?« Oder meinst du nicht also?</p>
+<p><hi rendition="#i">Menon:</hi> Freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wenn du das meinst, willst du damit dann behaupten, das Runde sei ebensowohl gerade als rund, oder das Gerade ebensowohl rund als gerade?</p>
+<p><hi rendition="#i">Menon:</hi> O nicht doch, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber das behauptest du doch, daß das Gerade ebensowohl Figur ist als das Runde, und dieses ebensowohl als jenes?</p>
+<p><hi rendition="#i">Menon:</hi> Da hast du recht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was ist denn nun also das, was diesen Namen Figur führt? Versuche es mir zu erklären! Wenn du also einem, der diese Frage stellt, über die Figur oder auch über die Farbe, antworten würdest: »Aber ich begreife ja nicht einmal, was du willst, Mensch, noch verstehe ich, was du meinst!« – so würde er sich ohne Zweifel wundern und antworten: »Du begreifst nicht, daß ich das aufsuche, was in allen jenen Einzelnen dasselbe ist?« Oder würdest du, Menon, auch darauf nichts zu sagen wissen, wenn jemand die Frage stellte: »Was ist im Runden und Geraden und in allem übrigen, was du irgend als Figur bezeichnest, immer dasselbe?« Versuche es einmal auszusprechen, damit du für die Antwort, die dann hinsichtlich der Tugend am Platze ist, einen Vorgang hast!</p>
+<p><hi rendition="#i">Menon:</hi> Nicht doch, Sokrates, sondern sprich du's aus!</p>
+<p><hi rendition="#i">Sokrates:</hi> Soll ich dir die Freude machen?</p>
+<p><hi rendition="#i">Menon:</hi> O ja doch!</p>
+<p><hi rendition="#i"><pb n="419" facs="#f00010"/> Sokrates:</hi> Wirst du es dann auch mir aussprechen wollen hinsichtlich der Tugend?</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> So will ich mir denn Mühe geben; es lohnt sich ja schon.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohlan denn, versuchen wir es also, dir auszusprechen, was Figur ist! Sieh also zu, ob du mit folgender Erklärung zufrieden bist: Figur, sagen wir, sei das, was unter allem Seienden allein der Farbe immer nachfolgt. Genügt dir das, oder verlangst du es irgendwie anders? Ich wäre schon ganz zufrieden, wenn du mir die Tugend so erklären möchtest.</p>
+<p><hi rendition="#i">Menon:</hi> Aber das, Sokrates, ist ja ganz einfältig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie meinst du?</p>
+<p><hi rendition="#i">Menon:</hi> Also Figur soll nach deiner Bestimmung sein, was immer der Farbe nachfolgt. Gut! Aber wenn nun einer versicherte, er wisse nicht, was die Farbe sei, und darüber ebenso im Ungewissen wäre wie über die Figur, – was, denkst du, wäre dann deine Antwort gewesen?</p>
+<p><hi rendition="#i">Sokrates:</hi> Doch das Richtige, denke ich! Und wenn nun der Frager gar einer von den Sophisten und Eristikern und Kampfrednern wäre, so würde ich ihm antworten: »Ich habe das meine gesagt; habe ich den rechten Ausdruck nicht getroffen, so ist es nun an dir, das Wort zu nehmen und mich zu widerlegen.« Sind es aber Freunde, welche sich wie jetzt ich und du mit einander besprechen wollten, so müßte die Antwort wohl auch freundlicher und der Dialektik gemäßer lauten. Es ist aber ohne Zweifel der Dialektik gemäßer, nicht nur die richtige Antwort zu geben, sondern sie auch in Ausdrücken zu geben, von denen der Fragende zugibt, daß er sie verstehe. Ich will es also versuchen, dir eine solche Erklärung zu geben. Sage mir also: du nennst doch etwas Ende? Ich meine etwa das, was die Grenze und das Letzte ist; das alles nehme ich gleichbedeutend. Prodikos würde vielleicht da schon mit uns nicht übereinstimmen. Aber du brauchst doch von Etwas den Ausdruck begrenztsein und ein Ende haben? Und dieses, nicht etwas Vieldeutiges, Schillerndes, ist es, was ich meine.</p>
+<p><hi rendition="#i"><pb n="420" facs="#f00011"/> Menon:</hi> Allerdings brauche ich den Ausdruck, und ich glaube zu verstehen, was du meinst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und weiter! Auch Fläche nennst du etwas, und etwas anderes wieder Körper, wie man diese Ausdrücke in der Geometrie braucht?</p>
+<p><hi rendition="#i">Menon:</hi> O ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Schon hieraus dürftest du demnach verstehen, was ich Figur nenne. Von jeder Figur nämlich behaupte ich: was den Körper begrenze, das sei Figur, oder kurz gefaßt, Figur sei die Grenze des Körpers.</p>
+<p><hi rendition="#i">Menon:</hi> Was aber nennst du Farbe, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Du wirst übermütig, Menon! Einem alten Mann gibst du allerlei schwierige Sachen zum Beantworten auf, selbst aber magst du dich nicht ein mal so weit besinnen, um zu sagen, was Gorgias meine, daß die Tugend sei.</p>
+<p><hi rendition="#i">Menon:</hi> Nun, sobald du mir dieses erklärt hast, Sokrates, werde ich dir's sagen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch mit verbundenen Augen, Menon, müßte einer, wenn du eine Unterredung führst, merken, daß du schön bist und noch Liebhaber hast.</p>
+<p><hi rendition="#i">Menon:</hi> Wieso?</p>
+<p><hi rendition="#i">Sokrates:</hi> Weil du bei deinen Reden immer nur aufgibst, ganz wie es jene Verwöhnten machen, welche, solange sie noch in ihrer Blüte stehen, die Gebieter spielen. Auch hast du es mir ohne Zweifel schon angemerkt, daß ich den Schönen nicht widerstehen kann. Ich will dir also die Freude machen und antworten.</p>
+<p><hi rendition="#i">Menon:</hi> O ja, mach mir die Freude!</p>
+<p><hi rendition="#i">Sokrates:</hi> Willst du nun, daß ich dir in der Weise des Gorgias antworte, wobei du doch am besten wirst folgen können?</p>
+<p><hi rendition="#i">Menon:</hi> Wohl, warum denn nicht?</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, ihr nehmt nach Empedokles gewisse Ausflüsse an von allem, was ist?</p>
+<p><hi rendition="#i">Menon:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und Gänge, in welche und durch welche diese Ausflüsse gehen?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und daß die einen dieser Ausflüsse zu einigen der Gänge passen, die ändern aber zu klein oder zu groß seien?</p>
+<p><hi rendition="#i"><pb n="421" facs="#f00012"/> Menon:</hi> So ist es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, du nennst auch etwas Gesicht?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Hieraus nun <hi rendition="#i">vernimm, was ich sprach,</hi> sagt Pindar: Farbe nämlich ist der dem Gesicht entsprechende und wahrnehmbare Ausfluß von den Figuren.</p>
+<p><hi rendition="#i">Menon:</hi> Aufs beste, Sokrates, hast du meines Erachtens diese Antwort abgefaßt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Vielleicht ist sie eben in einer dir beliebten Weise abgefaßt. Zugleich begreifst du, wie ich denke, daß du nach derselben auch die Stimme zu erklären vermöchtest, was sie ist, und den Geruch, und vieles andere der Art.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Im Stil der Tragödie, Menon, ist diese Antwort ja gefaßt, daher gefällt sie dir auch so viel mehr als die über die Figur.</p>
+<p><hi rendition="#i">Menon:</hi> Wohl!</p>
+<p><hi rendition="#i">Sokrates:</hi> Nach meiner Überzeugung aber, du Sohn des Alexidemos, ist nicht jene, sondern diese die bessere. Und ich glaube, sie würde auch dir nicht so erscheinen, wenn du nicht, wie du gestern gesagt hast, genötigt wärest, vor den Mysterien fortzugehen, sondern bleiben und dich weihen lassen könntest.</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß, ich würde wohl bleiben, Sokrates, wenn du mir vieles von der Art erklären wolltest.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, am guten Willen werde ich es gewiß nicht fehlen lassen, um sowohl dir als mir zuliebe dergleichen zu erklären; nur daß ich eben nicht imstande sein werde, vieles dergleichen zu erklären. – Aber wohlan, versuche nun auch du, mir dein Versprechen zu erfüllen und zu sagen, was, als Ganzes betrachtet, die Tugend ist, und höre auf, <hi rendition="#i">aus dem einen vieles zu machen,</hi> wie man allemal im Spott von denen sagt, die etwas zerbrechen; laß sie vielmehr ganz und gesund und sage, was die Tugend ist! Die Muster dafür hast du ja von mir erhalten.</p>
+<p><hi rendition="#i">Menon:</hi> Nun ja, Sokrates, Tugend dünkt mir zu sein, wie der Dichter sagt, <hi rendition="#i">sich freuen des Schönen, und es vermögen.</hi> Auch ich nenne das Tugend, daß man des Schönen begehrt und es sich zu erwerben vermag.</p>
+<p><hi rendition="#i"><pb n="422" facs="#f00013"/> Sokrates:</hi> Willst du damit sagen, daß, wer des Schönen begehrt, nach dem Guten begierig sei?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wohl so, als ob es einige gebe, welche das Böse begehren, andere aber, welche das Gute begehren? Nicht alle, mein Bester, scheinen dir das Gute zu begehren?</p>
+<p><hi rendition="#i">Menon:</hi> Mir nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sondern einige das Böse?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Willst du damit sagen, weil sie meinen, das Böse sei gut, oder aber, daß sie zwar erkennen, daß es Böses ist, und es doch begehren?</p>
+<p><hi rendition="#i">Menon:</hi> Beides, dünkt mich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wirklich, Menon, glaubst du, daß einer, der das Böse erkennt, daß es böse ist, es doch begehre?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was verstehst du denn unter »begehren«? Gewiß, daß es ihm zuteil werde?</p>
+<p><hi rendition="#i">Menon:</hi> Daß es ihm zuteil werde; was sonst doch?</p>
+<p><hi rendition="#i">Sokrates:</hi> Und zwar, indem er glaubt, das Böse nütze demjenigen, dem es zuteil wird? Oder, indem er von dem Bösen die Erkenntnis hat, daß es dem schade, bei dem es sich findet?</p>
+<p><hi rendition="#i">Menon:</hi> Einige wohl, indem sie glauben, das Böse nütze, andere auch, indem sie erkennen, daß es schadet.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und scheinen dir wirklich diejenigen von dem Bösen die Erkenntnis zu haben, daß es böse ist, welche glauben, daß das Böse nütze?</p>
+<p><hi rendition="#i">Menon:</hi> Das glaube ich denn doch gar nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> So ist denn doch klar, daß Dinge, welche es nicht kennen, nicht das Böse begehren, sondern vielmehr das, was sie für gut halten, während es böse ist; so daß diejenigen, welche es nicht kennen und es für gut halten, offenbar eigentlich das Gute begehren. Oder nicht?</p>
+<p><hi rendition="#i">Menon:</hi> Fast scheint es so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und weiter: Diejenigen, welche das Böse begehren, wie du behauptest, während sie doch glauben, daß das Böse dem schade, welchem es zuteil wird, erkennen doch wohl, daß sie von ihm Schaden nehmen werden?</p>
+<p><hi rendition="#i"><pb n="423" facs="#f00014"/> Menon:</hi> Notwendig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Diese aber, halten sie nicht die, welche Schaden leiden, für elend, sofern sie Schaden leiden?</p>
+<p><hi rendition="#i">Menon:</hi> Notwendig auch das.</p>
+<p><hi rendition="#i">Sokrates:</hi> Halten sie die Elenden aber nicht für unglücklich?</p>
+<p><hi rendition="#i">Menon:</hi> Ich meine doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gibt es nun einen Menschen, welcher elend und unglücklich sein will?</p>
+<p><hi rendition="#i">Menon:</hi> Ich denke nicht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Niemand also will das Böse, Menon; wenn anders er nicht ein solcher sein will. Denn was heißt elend sein anders, als das Böse begehren und es besitzen?</p>
+<p><hi rendition="#i">Menon:</hi> Fast scheint es, du habest recht, Sokrates, und niemand wolle das Böse.</p>
+<p><hi rendition="#i">Sokrates:</hi> Hast du nun nicht eben gesagt, die Tugend sei »das Gute sowohl wollen als es vermögen«?</p>
+<p><hi rendition="#i">Menon:</hi> Das sagte ich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, das eine Stück dieser Erklärung, das Wollen, kommt allen zu, und in dieser Beziehung ist der eine um nichts besser als der andere?</p>
+<p><hi rendition="#i">Menon:</hi> Sichtlich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sondern es ist klar, daß, wenn einer besser ist als der andere, er ihn hinsichtlich des Vermögens übertreffen müßte?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die Tugend ist also, wie es scheint, deiner Bestimmung gemäß das Vermögen, sich das Gute zu erwerben.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings, Sokrates, scheint es mir so sich zu verhalten, wie du jetzt annimmst.</p>
+<p><hi rendition="#i">Sokrates:</hi> So wollen wir denn nun sehen, ob du auch recht damit hast. Vielleicht ist es gut gesagt. – Also imstande sein, das Gute sich zu erwerben, das, sagst du, sei Tugend?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gutes aber, nicht wahr, nennst du z.B. die Gesundheit und den Reichtum; Auch meine ich, Gold und Silber besitzen und Ehrenstellen im Staat und obrigkeitliche Ämter? Oder verstehst du irgend andere Dinge unter dem Guten als solche?</p>
+<p><hi rendition="#i"><pb n="424" facs="#f00015"/> Menon:</hi> Nein, sondern alles der Art verstehe ich dar unter.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gut! Also Gold und Silber sich erwerben ist Tugend, wie Menon behauptet, von Eltern her der Gastfreund des Großkönigs. Fügst du nun diesem Erwerben, Menon, etwa noch das Merkmal gerecht und gewissenhaft bei? Oder macht dir dieses keinen Unterschied und nennst du, auch wenn es einer auf ungerechte Weise sich erwirbt, das doch ebensogut Tugend?</p>
+<p><hi rendition="#i">Menon:</hi> Ja nicht, Sokrates, sondern das nenne ich Schlechtigkeit.</p>
+<p><hi rendition="#i">Sokrates:</hi> Unter allen Umständen also muß, wie es scheint, bei diesem Erwerben Gerechtigkeit, oder Besonnenheit, oder Frömmigkeit, oder irgend ein anderer Teil von Tugend dabei sein; wo nicht, so wird solche Tugend keine Tugend sein, wenn sie gleich Gutes erwirbt.</p>
+<p><hi rendition="#i">Menon:</hi> Wie könnte es denn auch eine Tugend ohne jene Merkmale geben?</p>
+<p><hi rendition="#i">Sokrates:</hi> Und auch Gold und Silber, wenn es nicht gerecht ist, sich selbst oder einem anderen nicht erwerben, – ist nicht selbst dieser Nichterwerb Tugend?</p>
+<p><hi rendition="#i">Menon:</hi> Offenbar.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also wäre der Erwerb solcher Güter noch um nichts eher Tugend als der Nichterwerb; sondern, wie es scheint, was mit Gerechtigkeit geschieht, wird Tugend sein, was aber ohne irgend etwas dieser Art, Schlechtigkeit.</p>
+<p><hi rendition="#i">Menon:</hi> Wie mir dünkt, ist es notwendig so, wie du sagst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Haben wir nun nicht kurz vorher behauptet, jedes von diesen, die Gerechtigkeit und die Besonnenheit und alles der Art, sei ein Teil der Tugend?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> So, Menon, treibst du also deinen Spaß mit mir?</p>
+<p><hi rendition="#i">Menon:</hi> Wie doch, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Weil du, obgleich ich dich gebeten habe, die Tugend nur nicht zu zerbrechen oder zu zerstückeln, und ich dir auch Muster gegeben habe, nach denen du antworten solltest, nun doch, ohne dich darum zu bekümmern, mir sagst, Tugend sei imstande sein, das Gute sich zu erwerben mit Gerechtigkeit, was doch, wie du zugegeben, nur ein Teil der Tagend ist.</p>
+<p><hi rendition="#i"><pb n="425" facs="#f00016"/> Menon:</hi> Ich gebe es zu.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr also, aus dem, was du zugestehst, folgt doch wohl, daß mit einem Teil der Tugend tun, was man tut, das Tugend sei? Denn die Gerechtigkeit und alles der Art ist, wie du zugibst, ein Teil der Tugend.</p>
+<p><hi rendition="#i">Menon:</hi> Was soll denn nun das?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich meine das, daß, ungeachtet ich dich gebeten habe, die Tugend als Ganzes genommen zu bestimmen, du doch weit entfernt bist, zu bestimmen, was sie sei: von jeder Handlungsweise aber behauptest du, sie sei Tugend, wenn sie nur mit einem Teil der Tugend geübt wird, gleich als hättest du, was »sie als Ganzes« ist, schon bestimmt, und als würde ich sie schon erkennen, auch wenn du sie in Teile zerstückelst. Wie mit dünkt, bedarf es daher bei dir noch einmal von vornherein derselben Frage, lieber Menon: Was ist die Tugend, wenn jede von einem Teil von Tugend begleitete Handlungsweise Tugend sein soll? Denn dieses will es heißen, wenn einer behauptet, daß jede von Gerechtigkeit begleitete Handlungsweise Tugend sei. Oder scheint es dir nicht noch einmal derselben Frage zu bedürfen, sondern meinst du wohl, jemand, der die Tugend selbst nicht kennt, erkenne, was ein Teil von ihr sei?</p>
+<p><hi rendition="#i">Menon:</hi> Das glaube ich nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Denn wenn du dich erinnerst, als ich dir vorhin über die Figur Rede stand, verwarfen wir ja eine Antwort dieser Art, welche es unternimmt, in Ausdrücken sich zu geben, die erst gesucht werden und über die man noch nicht einverstanden ist.</p>
+<p><hi rendition="#i">Menon:</hi> Und mit Recht verwarfen wir sie, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Demnach, mein Bester, darfst du ja nicht meinen, daß, solange die Tugend, was sie als Ganzes ist, erst aufgesucht wird, du mit einer Antwort, in welcher du ihre Teile aufführst, sie selbst irgend jemandem erklären werdest, noch auch irgend etwas sonst, wenn du auf diese Art dich ausdrückst; vielmehr glaube mir, daß es derselben Frage noch einmal bedürfe, was die Tugend sei, um das zu sagen, was du sagst. Oder scheint dir das, was ich sage, grundlos zu sein?</p>
+<p><hi rendition="#i">Menon:</hi> Ich glaube, daß du recht hast.</p>
+<p><hi rendition="#i"><pb n="426" facs="#f00017"/> Sokrates:</hi> Antworte mir demnach noch einmal von vornherein! Was behauptest du, daß die Tugend sei, und zwar du und dein Freund?</p>
+<p><hi rendition="#i">Menon:</hi> O Sokrates, noch ehe ich mit dir zusammengekommen bin, habe ich schon gehört, daß du nichts kannst, als, wie du selbst immer ratlos bist, so auch andere in Ratlosigkeit setzen. Und nun, wie du mir vorkommst, hast du mich verhext und bezaubert und recht eigentlich verblendet, so daß ich ganz voll von Ratlosigkeit geworden bin. Und wenn ich ein wenig scherzen darf, so scheinst du mir vollkommen sowohl nach Gestalt als auch in anderen Beziehungen jenem Meerfisch, dem breiten Zitterrochen, ähnlich zu sein. Denn dieser macht auch jeden, der ihm nahe und in Berührung mit ihm kommt, erzittern. Und so, kommt es mir vor, hast du mit mir etwas Ähnliches, nämlich mich erzittern gemacht. Denn wahrhaftig, ich zittere an Seele und Leib, und ich weiß nicht, was ich dir antworten soll. Und doch habe ich schon tausendmal über die Tugend gar viele Reden und vor vielen Menschen gehalten und dabei recht brav gesprochen, wie es mir wenigstens dünkte. Nun aber weiß ich nicht einmal zu sagen, was sie ist. Auch glaube ich, daß du gut daran tust, daß du weder zu Wasser noch zu Land von hier wegreisest; denn wenn du als ein Fremdling solche Dinge in einer anderen Stadt tun würdest, so würde man dir wohl gar als einem Zauberer den Prozeß machen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Du bist ein abgefeimter Mensch, Menon, und wenig fehlt, so hättest du mich überlistet.</p>
+<p><hi rendition="#i">Menon:</hi> Wie doch gar, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich begreife wohl, was du mit deinem Vergleich willst.</p>
+<p><hi rendition="#i">Menon:</hi> Was doch, meinst du?</p>
+<p><hi rendition="#i">Sokrates:</hi> Daß ich dich wieder vergleichen soll. Ich weiß das von allen Schönen, daß sie an solchen Vergleichungen ihre Freude haben. Sie gewinnen dabei, denn schön sind, denke ich, auch die Bilder der Schönen. Allein ich werde dich nicht wieder vergleichen. Ich aber gleiche dem Zitterrochen nur in dem Falle, wenn er, indem er andere erzittern macht, auch selbst erzittert, wenn nicht, nicht. Denn mitnichten bin ich selbst wohl beraten, wenn ich andere ratlos mache; sondern nur weil <pb n="427" facs="#f00018"/> ich selbst über alles ratlos bin, mache ich auch andere so ratlos. Auch jetzt von der Tugend weiß ich nicht, was sie ist; du aber hast es vielleicht vorher gewußt, ehe du mich berührt hast: jetzt aber bist du dem, der es nicht weiß, gleich. Doch ich will es jetzt mit dir erwägen und gemeinschaftlich untersuchen, was sie wohl sei.</p>
+<p><hi rendition="#i">Menon:</hi> Und auf welche Art, Sokrates, wirst du nun das untersuchen, wovon du so ganz und gar nicht weißt, was es ist? Denn als wie beschaffen wirst du bei deiner Untersuchung etwas, von dem du nichts weißt, dir vorstellen? Oder wie wirst du, wenn du es auch noch so gut träfest, dann wissen, daß dieses es sei, was du ja nicht kennst?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich verstehe, was du sagen willst, Menon. Siehst du nicht, was für einen Streitsatz du da herbringst? Daß es also einem Menschen unmöglich sei, weder das, was er weiß, noch das, was er nicht weiß, zu untersuchen. Denn das, was er weiß, dürfte er ja wohl nicht untersuchen; denn er weiß es ja, und es bedarf dafür keiner Untersuchung; ebensowenig aber, was er nicht weiß; denn da weiß er ja nicht, was er untersuchen soll.</p>
+<p><hi rendition="#i">Menon:</hi> Also scheint dir dieser Satz nicht mit Recht aufgestellt zu werden, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Mir, nein!</p>
+<p><hi rendition="#i">Menon:</hi> Kannst du mir sagen, warum?</p>
+<p><hi rendition="#i">Sokrates:</hi> O ja, denn ich habe es von Männern und Frauen, die in göttlichen Dingen bewandert sind, vernommen.</p>
+<p><hi rendition="#i">Menon:</hi> Und was sagen die nun?</p>
+<p><hi rendition="#i">Sokrates:</hi> Wahres und Schönes, wie mir's wenigstens vorkommt.</p>
+<p><hi rendition="#i">Menon:</hi> Was doch? Und wer sind die, welche es sagen?</p>
+<p><hi rendition="#i">Sokrates:</hi> Die, welche es sagen, sind von den Priestern und den Priesterinnen, und zwar Leute, denen es darum zu tun war, imstande zu sein, über das, was sie treiben, Rede zu stehen. Aber auch Pindar sagt es und viele andere von den Dichtern, so viele deren göttliche sind. Was sie aber sagen, ist folgendes... Sieh nun zu, ob dir das, was sie sagen, wahr zu sein scheint: Sie sagen nämlich, die Seele des Menschen sei unsterblich, und bald gehe sie von hinnen, was man Sterben nenne, bald aber komme sie wieder, zugrunde aber gehe sie <pb n="428" facs="#f00019"/> niemals. Man müsse deshalb sein Leben so fromm als nur möglich verleben. Denn</p>
+<lb/>
+<p><hi rendition="#i">– von welchen zur Sühnung alten Leids Persephona</hi></p>
+<p><hi rendition="#i">Buße empfängt, nach der Jahre neun gibt deren Seele sie wieder zurück</hi></p>
+<p><hi rendition="#i">Zu der obern Sonne Licht.</hi></p>
+<p><hi rendition="#i">Als herrliche Fürsten, an Weisheit größte, Kraft durchdrungene Männer erstehn sie,</hi></p>
+<p><hi rendition="#i"> Und in Zukunftszeiten nennt als heil'ge Heroen die Nachwelt noch einstens ihre Namen.</hi></p>
+<lb/>
+<p>Da nun die Seele unsterblich und öfters geboren worden ist und die Dinge hienieden und im Hades und überhaupt alle geschaut hat, so gibt es auch nichts, wovon sie nicht eine Kenntnis erlangt hätte, so daß es gar kein Wunder ist, wenn sie auch hinsichtlich der Tugend und anderer Gegenstände an das sich zu erinnern imstande ist, was sie früher davon gewußt hat. Denn da die ganze Natur in verwandtschaftlichem Zusammenhang steht und die Seele von allem Kenntnis bekommen hat, so steht nichts im Wege, daß einer, der sich nur erst an eines erinnert hat, was die Leute dann Lernen heißen, alles übrige selbst auffinde, wenn er sich dabei nur mannhaft hält und des Untersuchens nicht müde wird; denn das Untersuchen und Lernen ist durchaus nichts als Wiedererinnerung. Man darf daher jenem Streitsatze kein Gehör geben. Denn er würde uns nur träge machen und ist für die weichlichen Leute angenehm zu hören, wogegen diese Ansicht rührige und untersuchungsbegierige Leute macht. Auf ihre Wahrheit vertrauend will ich nun mit dir untersuchen, was die Tugend sei.</p>
+<p><hi rendition="#i">Menon:</hi> Ja, Sokrates? Aber behauptest du es so ganz unbedingt, daß wir nicht lernen, sondern daß das, was wir Lernen nennen. Wiedererinnerung sei? Kannst du mich darüber belehren, daß es sich wirklich so verhalte?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich habe es ja vorhin gesagt, Menon, daß du ein abgefeimter Mensch bist! Jetzt fragst du mich da, ob ich dich belehren könne, da ich doch behaupte, es gebe kein Lehren, sondern nur Wiedererinnerung, nur damit ich mich ja gleich mit meiner Ansicht im Widerspruch mit mir selbst zeigen möchte!</p>
+<p><hi rendition="#i"><pb n="429" facs="#f00020"/> Menon:</hi> Beim Zeus, gewiß nicht, Sokrates; daran habe ich nicht gedacht, sondern es nur so aus Gewohnheit gesagt. Aber wenn du mir wirklich zu beweisen vermagst, daß es sich so verhält, wie du behauptest, so beweise es nun!</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, leicht ist es zwar nicht, doch ich will dir zuliebe mir alle Mühe geben. Rufe mir einmal von den vielen Leuten da in deinem Gefolge einen, welchen du willst, herbei, damit ich es dir an ihm beweise!</p>
+<p><hi rendition="#i">Menon:</hi> Sehr gern! – Du dort, komm herbei!</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist er ein Hellene und spricht er hellenisch?</p>
+<p><hi rendition="#i">Menon:</hi> Ganz gut; er ist im Hause auferzogen worden.</p>
+<p><hi rendition="#i">Sokrates:</hi> So gib nur recht Achtung, welches von beiden dir richtig zu sein scheint, daß er sich wieder erinnert oder daß er von mir lernt.</p>
+<p><hi rendition="#i">Menon:</hi> Ich werde Achtung geben.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sag' mir doch. Junge, weißt du, was ein Viereck ist? Eine Figur wie diese?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es ist also eine viereckige Figur, welche alle diese Seiten, deren es vier sind, gleich hat?</p>
+<p><hi rendition="#i">Sklave:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Hat sie nicht auch diese durch die Mitte gezogenen Linien gleich?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, eine solche Figur könnte doch wohl auch größer oder kleiner sein?</p>
+<p><hi rendition="#i">Sklave:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gesetzt nun, diese Seite wäre zwei Fuß lang und jene auch zwei, wieviel Fuß enthielte das Ganze? – Betrachte es einmal so: Wenn es hier zwei Fuß wären, dort aber nur ein Fuß, enthielte dann nicht die Figur genau einmal zwei Fuß?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da es nun aber auch hier zwei Fuß sind, macht es dann nicht notwendig zweimal zwei Fuß?</p>
+<p><hi rendition="#i">Sklave:</hi> Doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also ergibt sich eine Figur von zweimal zwei Fuß?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wieviel sind nun diese zweimal zwei Fuß? Rechne einmal und sage es!</p>
+<p><hi rendition="#i"><pb n="430" facs="#f00021"/> Sklave:</hi> Vier, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ließe sich nun nicht eine andere Figur zeichnen, welche doppelt so groß als jene und doch jener insoweit gleich wäre, daß sie, wie jene, lauter gleiche Seiten hätte?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wieviel Fuß wird sie haben?</p>
+<p><hi rendition="#i">Sklave:</hi> Acht.</p>
+<p><hi rendition="#i">Schrates:</hi> Wohlan, versuche es mir nun zu sagen: wie groß wird jede Seite dieser zweiten Figur sein? Im ersten Viereck hat jede zwei Fuß; wieviel hat nun jede in diesem, das doppelt so groß ist?</p>
+<p><hi rendition="#i">Sklave:</hi> Offenbar, Sokrates, das Doppelte.</p>
+<p><hi rendition="#i">Sokrates (zu Menon):</hi> Du siehst, Menon, wie ich ihn nichts lehre, sondern alles frage? Und zwar meint er jetzt zu wissen, wie groß die Seite sei, aus der das acht Fuß haltende Viereck entstehe. Oder kommt er dir nicht so vor?</p>
+<p><hi rendition="#i">Menon:</hi> Doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Weiß er es nun auch?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Er meint, sie sei doppelt so groß.</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Schau nun, wie er sich eines ums andere wieder erinnern wird, so wie man sich erinnern muß!</p>
+<p><hi rendition="#i">(Zum Sklaven.)</hi> Du aber sage mir nun, – du behauptest, aus der doppelt so großen Linie entstehe eine doppelt so große Figur? Ich meine aber nicht eine solche, welche hier lang und dort kurz wäre, sondern sie soll auf allen Seiten gleich sein, gerade wie diese, aber noch einmal so groß wie diese, nämlich acht Fuß haltig. Sieh nun zu, ob du noch der Meinung bist, daß dieselbe aus der noch einmal so großen Seite entstehen werde?</p>
+<p><hi rendition="#i">Sklave:</hi> Doch ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wird nun nicht diese Seite noch einmal so groß wie zuvor, wenn wir ihr eine zweite von eben solcher Länge anfügen?</p>
+<p><hi rendition="#i">Sklave:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aus dieser also, behauptest du, werde die achtfußige Figur hervorgehen, wenn nämlich die vier Seiten gleich lang gemacht werden?</p>
+<p><hi rendition="#i"><pb n="431" facs="#f00022"/> Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Laß uns nun von ihr aus vier gleichlange Seiten zeichnen! – Dieses also wäre die Figur, welche du genau für das acht Fuß haltende Viereck erklärst?</p>
+<p><hi rendition="#i">Sklave:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sind nun nicht in dieser Figur vier Vierecke, von denen jedes dem vier Fuß haltenden gleich ist?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie groß wird es also sein? Nicht wahr, viermal so groß?</p>
+<p><hi rendition="#i">Sklave:</hi> Wie anders?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist nun das viermal so große das doppelt so große?</p>
+<p><hi rendition="#i">Sklave:</hi> Nein, beim Zeus!</p>
+<p><hi rendition="#i">Sokrates:</hi> Sondern das wievielfache?</p>
+<p><hi rendition="#i">Sklave:</hi> Das vierfache.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aus der doppelt so großen Seite also, mein Junge, ergibt sich nicht ein doppelt so großes, sondern ein viermal so großes Viereck?</p>
+<p><hi rendition="#i">Sklave:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Denn viermal vier gibt sechzehn. Nicht wahr?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aus welcher Linie aber entsteht nun das achtfußige Viereck? – Also nicht wahr, aus dieser da entsteht das viermal so große?</p>
+<p><hi rendition="#i">Sklave:</hi> Ich gebe es zu.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aus dieser da aber, die nur halb so groß ist, das vier Fuß haltende?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gut! Das acht Fuß haltende aber ist nun doppelt so groß wie dieses, und halb so groß wie jenes?</p>
+<p><hi rendition="#i">Sklave:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wird es also nicht aus einer Linie entstehen, die größer ist als die da, und kleiner als die dort? Oder nicht?</p>
+<p><hi rendition="#i">Sklave:</hi> Ich denke wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Schön! Antworte nur immer, was dir dünkt! – Und nun sage mir: War nicht diese Linie zwei Fuß lang, und diese vier?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es muß also die Linie der achtfußigen Figur größer <pb n="432" facs="#f00023"/> sein als diese zwei Fuß lange, aber kleiner als die vier Fuß lange?</p>
+<p><hi rendition="#i">Sklave:</hi> Notwendig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Versuche mir nun zu sagen, wie groß du wohl meinst, daß sie sei?</p>
+<p><hi rendition="#i">Sklave:</hi> Drei Fuß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun ja, wenn sie drei Fuß haben soll, so wollen wir noch von dieser die Hälfte hinzunehmen, so wird sie drei Fuß haben. Denn dies sind zwei Fuß und dies einer. Und von dieser Seite ebenso, dies zwei und dies einer. Und dieses wird nun die Figur sein, die du meinst.</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wird nun aber, wenn die ganze Figur hier drei und hier drei Fuß hat, wird sie da nicht dreimal drei Fuß halten?</p>
+<p><hi rendition="#i">Sklave:</hi> Offenbar.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dreimal drei Fuß aber macht wieviel?</p>
+<p><hi rendition="#i">Sklave:</hi> Neun.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die doppelt so große Figur aber sollte wieviel Fuß halten?</p>
+<p><hi rendition="#i">Sklave:</hi> Acht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also auch aus der dreifußigen Linie entsteht die achtfußige Figur noch nicht.</p>
+<p><hi rendition="#i">Sklave:</hi> Inder Tat nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aus welcher denn? Versuche es uns genau zu sagen! Und wenn du es nicht in Zahlen ausdrücken willst, so deute nur hin, aus welcher!</p>
+<p><hi rendition="#i">Sklave:</hi> Aber beim Zeus, Sokrates, ich weiß es nicht.</p>
+<p><hi rendition="#i">Sokrates (zu Menon):</hi> Merkst du nicht abermals, Menon, wie weit dieser schon auf dem Wege des Wiedererinnerns gekommen ist? Zuerst wußte er zwar nicht, welches die Seite des achtfußigen Vierecks sei, wie er das auch jetzt noch nicht weiß. Aber damals glaubte er doch sie zu wissen und antwortete dreist fort als ein Wissender, ohne sich im mindesten in Verlegenheit zu sehen. Nun aber sieht er sich bereits in Verlegenheit, und wie er es nicht weiß, so bildet er sich auch nicht mehr ein, es zu wissen.</p>
+<p><hi rendition="#i">Menon:</hi> Du hast ganz recht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Steht es nun nicht besser mit ihm hinsichtlich des Gegenstandes, den er nicht wußte?</p>
+<p><hi rendition="#i"><pb n="433" facs="#f00024"/> Menon:</hi> Auch dieses dünkt mir.</p>
+<p><hi rendition="#i">Sokrates:</hi> Indem wir ihn also in Verlegenheit gesetzt und nach Art des Zitterrochens erzittern gemacht haben, haben wir ihm da wohl etwas geschadet?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht, wie mir dünkt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wir haben ihm also wohl, wie es scheint, einen Dienst geleistet für Auffindung dessen, wie es sich verhält. Denn jetzt dürfte er auch mit Lust weiter suchen, als ein noch nicht Wissender. Vorhin aber bildete er sich ein, mit Leichtigkeit vor vielen und vielmals wohl behaupten zu können von der doppelt so großen Figur, daß sie auch eine doppelt so große Seite haben müsse.</p>
+<p><hi rendition="#i">Menon:</hi> Es scheint so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Meinst du nun, er hätte es früher unternommen, das zu untersuchen oder zu lernen, was er sich einbildete zu wissen und doch nicht wußte, ehe er in Verlegenheit kam durch die Überzeugung, es nicht zu wissen, und sofort nach dem Wissen sich sehnte?</p>
+<p><hi rendition="#i">Menon:</hi> Mir dünkt nicht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nützte ihm also das Erzittern?</p>
+<p><hi rendition="#i">Menon:</hi> Mir dünkt ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Beachte nun, wie er von dieser Verlegenheit aus mit mir suchen und finden wird, indem ich immer nur frage und nicht lehre! Gib ja recht Achtung, ob du findest, daß ich ihn lehre und es ihm erläutere, und ob ich nicht vielmehr nur seine Ansichten erfrage!</p>
+<p><hi rendition="#i">(Zum Sklaven.)</hi> Sage mir doch, ist dies nicht unsere vierfußige Figur? Verstehst du?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Können wir ihr nicht eine gleiche anfügen, diese da?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und noch eine dritte hier, welche jeder von diesen beiden gleich ist?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Können wir nicht zur Vervollständigung auch noch hier in den Winkel eine zeichnen?</p>
+<p><hi rendition="#i">Sklave:</hi> Ganz wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Werden damit nun nicht genau vier gleiche Figuren hier entstehen?</p>
+<p><hi rendition="#i"><pb n="434" facs="#f00025"/> Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun? Das Ganze da, wievielmal so groß wird es sein als diese da?</p>
+<p><hi rendition="#i">Sklave:</hi> Viermal so groß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Für uns aber hätte es sollen nur zweimal so groß werden. Oder erinnerst du dich nicht?</p>
+<p><hi rendition="#i">Sklave:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wird nun nicht diese Linie, die man von einem Winkel zum ändern zieht, jedes von diesen Vierecken in zwei Hälften schneiden?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Entstehen nun nicht so diese vier gleichen Linien, welche diese Figuren da einschließen?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun sieh einmal, wie groß wohl diese Figur ist?</p>
+<p><hi rendition="#i">Sklave:</hi> Ich weiß es nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Hat nicht von diesen Vierecken, deren es vier sind, diese Linie jedesmal die Hälfte innen abgeschnitten? Oder nicht?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie viele solche Hälften sind nun in dieser Figur enthalten?</p>
+<p><hi rendition="#i">Sklave:</hi> Vier.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie viele aber in dieser?</p>
+<p><hi rendition="#i">Sklave:</hi> Zwei.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was ist aber vier gegen zwei?</p>
+<p><hi rendition="#i">Sklave:</hi> Doppelt so groß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie viele Fuß ergeben sich also nun für diese Figur?</p>
+<p><hi rendition="#i">Sklave:</hi> Acht Fuß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und von welcher Linie aus?</p>
+<p><hi rendition="#i">Sklave:</hi> Von dieser.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also von der, welche von einem Winkel des vierfußigen Vierecks in den ändern gezogen wild?</p>
+<p><hi rendition="#i">Sklave:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die Gelehrten nun nennen diese Linie die Diagonale, so daß also, wenn dies die Diagonale heißt, von der Diagonale aus, wie du, Sklave des Menon, sagst, das doppelt so große Viereck sich ergeben wird.</p>
+<p><hi rendition="#i"><pb n="435" facs="#f00026"/> Sklave:</hi> Allerdings, Sokrates.</p>
+<p><hi rendition="#i">Sokrates (zu Menon):</hi> Was dünkt dir nun, Menon? Hat dieser irgend eine andere Vorstellung in seinen Antworten dargelegt als seine eigene?</p>
+<p><hi rendition="#i">Menon:</hi> Nein, ganz nur seine eigene.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und doch wußte er, wie wir bemerkt haben, es kurz zuvor noch nicht.</p>
+<p><hi rendition="#i">Menon:</hi> Ganz richtig.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es waren also wohl diese Vorstellungen schon in ihm? Oder nicht?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also auch in dem, welcher nicht weiß, sind doch richtige Vorstellungen von dem, was er nicht weiß?</p>
+<p><hi rendition="#i">Menon:</hi> Augenscheinlich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und jetzt sind ihm wohl diese Vorstellungen wie ein Traum wieder aufgeregt worden. Und wenn ihn jemand öfters und in verschiedener Weise über dasselbe befragen würde, so glaubst du gewiß, daß er zuletzt diese Dinge nicht minder genau erkennen werde als irgend jemand.</p>
+<p><hi rendition="#i">Menon:</hi> Ohne Zweifel.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, er wird sie erkennen, wenn ihn auch niemand lehrt, sondern nur fragt, indem er die Erkenntnis ganz aus sich selbst wieder gewinnt?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und dieses Wiedergewinnen einer Erkenntnis in sich selbst, ist das nicht ein Sich-wieder-erinnern?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die Erkenntnis, die dieser jetzt besitzt, hat er doch entweder einmal bekommen, oder er hat sie immer gehabt?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, wenn er sie immer besaß, so war er auch immer ein Erkennender; wenn er sie aber einmal bekommen hat, hat er sie doch wohl nicht erst im jetzigen Leben bekommen? Oder hat jemand ihn Geometrie gelehrt? Denn er wird das gleiche in der ganzen Geometrie leisten und in sämtlichen anderen Kenntnissen. Ist nun jemand, der diesen Menschen das alles lehrte? Denn du bist der Mann, es zu wissen, da er ja in deinem Hause geboren und erzogen wurde.</p>
+<p><hi rendition="#i">Menon:</hi> Ich weiß aber, daß niemand je ihn gelehrt hat.</p>
+<p><hi rendition="#i"><pb n="436" facs="#f00027"/> Sokrates:</hi> Besitzt er aber diese Vorstellungen oder nicht?</p>
+<p><hi rendition="#i">Menon:</hi> Notwendig, Sokrates, man sieht es ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn er sie aber nicht im jetzigen Leben bekommen hat, ist es da nicht schon klar, daß er sie in einer anderen Zeit besessen und gelernt hat?</p>
+<p><hi rendition="#i">Menon:</hi> Sichtlich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist diese Zeit nun nicht doch die, in welcher er noch nicht Mensch war?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn aber nun während der Zeit, in welcher er Mensch war und in welcher er es nicht war, richtige Vorstellungen in ihm sein werden, welche durch Fragen aufgeweckt Erkenntnisse werden, – wird da nicht seine Seele in aller Zeit eine lernende gewesen sein? Denn offenbar ist er die ganze Zeit hindurch entweder Mensch oder nicht.</p>
+<p><hi rendition="#i">Menon:</hi> Augenscheinlich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun, wenn wir also immer die Wahrheit der Dinge in der Seele haben, muß da nicht die Seele unsterblich sein, so daß du getrosten Mutes das, was du jetzt nicht gerade erkennst, das heißt, wessen du dich nicht erinnerst, unternehmen kannst zu untersuchen und dich wieder dessen zu erinnern?</p>
+<p><hi rendition="#i">Menon:</hi> Du scheinst mir, Sokrates, ich weiß nicht wie trefflich zu reden.</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch mir selbst scheint es so, Menon. Hinsichtlich einiger Punkte zwar möchte ich für diesen Beweis nicht gerade einstehen. Daß wir aber, wenn wir meinen, das, was man nicht weiß, untersuchen zu müssen, besser seien und mannhafter und weniger träge, als wenn wir meinen, das, was wir nicht erkennen, sei auch nicht möglich zu finden, noch brauche man es zu suchen, – das möchte ich gar sehr verfechten, wenn ich der Mann dafür wäre, sowohl in Rede als Tat.</p>
+<p><hi rendition="#i">Menon:</hi> Auch dieses dünkt mir trefflich von dir gesagt, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Willst du nun, – nachdem wir uns darüber verständigt haben, man müsse das, wovon man nichts weiß, untersuchen, – daß wir's auch unternehmen, gemeinschaftlich zu untersuchen, was die Tugend sei?</p>
+<p><hi rendition="#i">Menon:</hi> Sehr wohl. Doch, Sokrates, möchte ich meinesteils am liebsten das, wonach ich zuerst fragte, betrachten und vernehmen, <pb n="437" facs="#f00028"/> ob man der Tugend nachstreben müsse als einer lehrbaren Sache, oder ob sie dem Menschen von Natur oder auf welche Weise sonst zukomme.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, wenn ich über dich, Menon, ebenso zu gebieten hätte wie über mich, so dürften wir nicht eher betrachten, ob die Tugend etwas Lehrbares oder nicht Lehrbares ist, als wir vorher untersucht hätten, was sie ist. Allein da du es nun gar nicht versuchst, über dich selbst zu gebieten, um ja recht frei zu sein, über mich aber es nicht nur versuchst, zu gebieten, sondern auch wirklich gebietest, so muß ich dir schon nachgeben. Denn was kann ich machen? Es scheint also, wir müssen be trachten, wie etwas beschaffen sei, von dem wir noch nicht wissen, was es ist. Wenn daher auch nicht ganz, so laß mir zuliebe doch wenigstens etwas von deiner Herrschaft nach und erlaube mir die Frage, ob sie etwas Lehrbares oder was sonst sei, von einer <hi rendition="#i">Voraussetzung</hi> aus in Betracht zu ziehen. Von <hi rendition="#i">einer Voraussetzung</hi> aus – das meine ich so, wie die Geometer öfters etwas in Betrachtung ziehen, wenn jemand sie fragt, z.B. über eine Figur, ob es möglich sei, diese dreieckige Figur in diesen Kreis einzuspannen, worauf dann einer wohl erwidern könnte: »Ob dieses so geht, weiß ich noch nicht, aber ich denke, es dürfte hierzu wohl folgende Voraussetzung von Nutzen sein: Wenn diese Figur so beschaffen ist, daß, wenn man die gegebene Linie derselben verlängert, der Raum, den man abschneidet, so groß ist als der durch die Verlängerung hinzugekommene, so wird sich meines Bedünkens etwas anderes ergeben, und wieder etwas anderes, wenn dieses unmöglich ist. Von dieser Voraussetzung aus nun will ich dir sagen, was sich in betreff der Einspannung jener Figur in den Kreis ergibt, ob sie unmöglich sei oder nicht.«</p>
+<p>So wollen wir auch hinsichtlich der Tugend, da wir nicht wissen, weder was noch wie beschaffen sie ist, eine Voraussetzung machen, um in Betrachtung zu nehmen, ob sie etwas Lehrbares oder nicht Lehrbares ist. Wir sagen nämlich also: welchem Gebiete des Seelenlebens muß die Tugend angehören, wenn sie etwas Lehrbares oder nicht Lehrbares sein soll? Zuvörderst also, wenn sie etwas anderes ist als z.B. Erkenntnis, ist sie dann lehrbar – das heißt, wie wir eben vorhin sagten, Gegenstand der Wiedererinnerung – oder nicht? Denn <pb n="438" facs="#f00029"/> welche von beiden Bezeichnungen wir anwenden wollen, soll uns keinen Unterschied machen. Also, ist sie dann etwas Lehrbares? Oder ist nicht jedermann so viel klar, daß einem Menschen nichts anderes gelehrt werden kann als eine Erkenntnis?</p>
+<p><hi rendition="#i">Menon:</hi> Mir wenigstens scheint es so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn also die Tugend irgend Erkenntnis ist, so muß sie offenbar lehrbar sein.</p>
+<p><hi rendition="#i">Menon:</hi> Wie doch anders?</p>
+<p><hi rendition="#i">Sokrates:</hi> Damit also wären wir schnell fertig geworden, daß, wenn die Tugend von dieser Art ist, sie etwas Lehrbares ist, wenn nicht, nicht.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das nächste, wie es scheint, was wir betrachten müssen, ist nun, ob die Tugend Erkenntnis ist oder etwas von der Erkenntnis Verschiedenes.</p>
+<p><hi rendition="#i">Menon:</hi> Ich denke wohl, daß wir dieses zunächst in Betrachtung ziehen müssen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie nun? Sagen wir nicht, daß die Tugend etwas Gutes sei? Und bei dieser Voraussetzung bleiben wir doch wohl, daß sie etwas Gutes sei?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, wenn es nun irgend anderes Gutes gibt, welches mit Erkenntnis nichts zu schaffen hat, so würde vielleicht auch die Tugend nicht gerade Erkenntnis sein; wenn es aber kein Gutes gibt, das nicht in den Bereich der Erkenntnis fällt, so würden wir wohl mit der Vermutung, sie sei eben auch irgend eine Erkenntnis, nicht fehlgreifen?</p>
+<p><hi rendition="#i">Menon:</hi> Dem ist so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gewiß doch sind wir vermöge der Tugend gut?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn aber gut, auch nützlich; denn alles Gute ist nützlich. Nicht so?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also ist auch die Tugend nützlich?</p>
+<p><hi rendition="#i">Menon:</hi> Notwendig nach dem Zugegebenen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wir wollen nun ins einzelne gehen, um zu untersuchen, was für Gegenstände es sind, die uns nützen. Gesundheit, sagen wir, und Stärke, und Schönheit, und Reichtum, – dies und anderes dergleichen nennen wir nützlich. Nicht so?</p>
+<p><hi rendition="#i"><pb n="439" facs="#f00030"/> Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Von eben diesen Dingen aber sagen wir auch manchmal, sie schaden. Oder meinst du es an ders als so?</p>
+<p><hi rendition="#i">Menon:</hi> Ganz ebenso.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sieh nun zu: Wovon muß jedes von diesen geleitet sein, wenn es uns nützt, wovon, wenn es schadet? Nicht wahr, wenn der Gebrauch der rechte ist, nützt es, wenn nicht, schadet es?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Laß uns nun ferner auch das, was der Seele zugehört, ins Auge fassen! Du redest doch auch von etwas wie Besonnenheit, Gerechtigkeit, Tapferkeit, Gelehrigkeit, Gedächtniskraft, Großmut und anderem dergleichen?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sieh nun zu, ob von diesen Eigenschaften das, was dir nicht Erkenntnis zu sein scheint, sondern etwas anderes als Erkenntnis, nicht manchmal wohl schadet, manchmal auch nützt? Zum Beispiel die Tapferkeit, wenn sie nicht Einsicht, sondern nur eine Art Kühnheit ist, – wird nicht ein Mensch, wenn er ohne Vernunft kühn ist, Schaden, hingegen Nutzen haben, wenn er es mit Vernunft ist?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, mit der Besonnenheit und Gelehrigkeit ist es ebenso? Was mit Vernunft erlernt und ausgerichtet wird, das ist ebenso nützlich als ohne Vernunft schädlich?</p>
+<p><hi rendition="#i">Menon:</hi> Ganz gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Um es kurz zusammenzufassen, schlagen nicht alle Unternehmungen und Anstrengungen der Seele, wenn sie sich von Einsicht leiten läßt, zum Glück, wenn sie sich von Unverstand leiten läßt, zum Gegenteil aus?</p>
+<p><hi rendition="#i">Menon:</hi> Es scheint so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn also die Tugend etwas der Seele Zugehörendes, es ihr aber notwendig ist, nützlich zu sein, so muß sie Einsicht sein, da ja alles der Seele Zugehörige an und für sich weder nützlich noch schädlich ist, und erst, je nachdem Einsicht oder Unverstand hinzukommt, schädlich und nützlich wird. Demzufolge muß die Tugend, da sie ja etwas Nützliches ist, notwendig in gewisser Art Einsicht sein.</p>
+<p><hi rendition="#i"><pb n="440" facs="#f00031"/> Menon:</hi> Ich denke wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun auch jene anderen Dinge, Reichtum und dergleichen, von denen wir vorhin gesagt haben, daß sie bald gut, bald schädlich seien, – wird nicht, wie die Einsicht, wenn sie die übrige Seele leitet, ihre Eigenschaften nützlich, der Unverstand aber schädlich macht, so auch nun wieder die Seele jene Dinge, wenn sie sie recht gebraucht und recht leitet, ebenso nützlich machen wie, wenn sie sie nicht recht gebraucht und leitet, schädlich?</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Recht aber leitet doch die vernünftige Seele, die unvernünftige dagegen verkehrt?</p>
+<p><hi rendition="#i">Menon:</hi> So ist's.</p>
+<p><hi rendition="#i">Sokrates:</hi> Können wir denn nun nicht im allgemeinen so sagen, daß es für den Menschen bei allem anderen auf die Seele, bei den Eigenschaften der Seele selbst aber auf die Einsicht ankomme, wenn sie gut sein sollen? Und diesem Satze zufolge wäre dann wohl Einsicht das Nützliche. Wir behaupten ja, die Tugend sei etwas Nützliches?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und Einsicht, behaupten wir, sei die Tugend, entweder ganz oder doch zum Teil?</p>
+<p><hi rendition="#i">Menon:</hi> Meines Bedünkens, Sokrates, läßt sich das recht gut hören.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, wenn nun dem so ist, so dürfte es auch wohl von Natur Gute nicht geben?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht, denke ich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Denn da träte auch wohl folgendes ein: Wenn die Guten von Natur würden, so gäbe es gewiß unter uns auch solche, welche von den jungen Leuten die ihrer Natur nach guten herauskennten: diese würden wir dann, ihrer Weisung gemäß, in Empfang nehmen, auf der Burg sie verwahren und ängstlicher unter Siegel halten als Gold, damit man sie uns ja nicht verderbe, sondern damit sie, sobald sie zum rechten Alter gelangt wären, den Staatenrecht nützlich würden.</p>
+<p><hi rendition="#i">Menon:</hi> Ganz natürlich, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun, wenn die Guten nicht von Natur gut werden, werden sie es wohl durch Belehrung?</p>
+<p><hi rendition="#i">Menon:</hi> Dieses dünkt mir die notwendige Folge zu sein. <pb n="441" facs="#f00032"/> Offenbar, Sokrates, ist unserer Voraussetzung gemäß, wenn wirklich die Tugend Erkenntnis ist, sie etwas Lehrbares.</p>
+<p><hi rendition="#i">Sokrates:</hi> Vielleicht, beim Zeus! – Wenn wir aber nur jene Voraussetzung nicht mit Unrecht angenommen haben!</p>
+<p><hi rendition="#i">Menon:</hi> Sie erschien uns aber vorhin als ein ganz richtiger Satz.</p>
+<p><hi rendition="#i">Sokrates:</hi> Allein nicht für eben vorhin nur darf sie uns richtig zu sein scheinen, sondern auch für jetzt und für die Folgezeit, wenn daran etwas Gesundes sein soll.</p>
+<p><hi rendition="#i">Menon:</hi> Wieso doch? Was hast du denn, daß du jetzt Schwierigkeiten machst und Zweifel hegst, es möchte die Tugend doch nicht Erkenntnis sein?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich will es dir sagen, Menon. Daß die Behauptung, die Tugend sei etwas Lehrbares, wenn sie einmal Erkenntnis ist, richtig sei, das will ich keineswegs zurücknehmen. Dagegen sieh zu, ob mein Zweifel, daß die Tugend Erkenntnis sei, dir nicht doch begründet erscheint. Denn sage mir einmal: Wenn irgend eine Sache lehrbar ist, nicht bloß die Tugend, muß es dann nicht notwendig für sie sowohl Lehrer als Schüler geben?</p>
+<p><hi rendition="#i">Menon:</hi> Meines Bedünkens wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nun umgekehrt wieder werden wir nicht mit Grund annehmen, daß eine Sache, für welche es weder Lehrer noch Schüler gibt, nicht lehrbar sei?</p>
+<p><hi rendition="#i">Menon:</hi> Dem ist so. Aber glaubst du denn, daß es keinen Lehrer der Tugend gebe?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich habe zwar oft schon danach gesucht, ob es nicht irgend Lehrer derselben gebe; aber obgleich ich alles getan habe, kann ich keinen finden. Und doch suche ich mit vielen ändern Leuten danach, und zwar vorzugsweise mit solchen, die meiner Meinung nach in dieser Sache am meisten Erfahrung besitzen. Und so ist es auch jetzt, Menon, in der Tat ein rechtes Glück für uns, daß sich da ein Mann bei uns niedergelassen hat, welchen wir mit in unsere Untersuchung ziehen können. Und wir werden ihn mit allem Recht beiziehen. Denn erstlich ist Anytos der Sohn eines reichen und weisen Vaters, des Anthemion, welcher seinen Reichtum nicht dem zufälligen Glücke, noch der Freigebigkeit eines anderen verdankt, wie da neuerdings erst der Thebaner Ismenias, welcher <pb n="442" facs="#f00033"/> ja des Polykrates Schätze zum Geschenk bekommen hat, sondern der sein Vermögen durch seine Weisheit und Betriebsamkeit sich erwarb. Sodann gilt er auch sonst nicht für einen übermütigen oder aufgeblasenen und widerwärtigen Bürger, sondern für einen wohlanständigen und geordneten Mann. Sodann hat er auch diesen seinen Sohn gut erzogen und gebildet, wie das Volk der Athener bezeugt, das ihn ja zu den höchsten obrigkeitlichen Ämtern wählt. Es ist gewiß nur billig, mit solchen Männern nach Lehrern der Tugend zu suchen, ob es deren gebe oder nicht, und welche es seien. Untersuche also mit uns, Anytos, mit mir und diesem deinem Gastfreund Menon, welche Leute wohl Lehrer in diesem Stück sein könnten. Fasse es aber in folgender Weise ins Auge: Wenn wir den Menon da zu einem guten Arzt machen wollten, zu was für Lehrern würden wir ihn wohl schicken? Nicht wahr, zu den Ärzten?</p>
+<p><hi rendition="#i">Anytos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie aber, wenn wir einen guten Schuster aus ihm machen wollten, nicht wahr, zu den Schustern?</p>
+<p><hi rendition="#i">Anytos:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und so auch im übrigen?</p>
+<p><hi rendition="#i">Anytos:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun erkläre dich mir hierüber noch einmal auch in folgender Weise: Zu den Ärzten, sagen wir, würden wir ihn schicken, und mit Recht, wenn wir einen Arzt aus ihm machen wollten? Und wenn wir dieses sagen, wollen wir doch wohl sagen, daß es klug von uns sein würde, ihn lieber zu solchen zu schicken, welche Meister in dieser Kunst sein wollen, als zu solchen, die es nicht sein wollen, und zu solchen, die sich dafür einen Lohn bezahlen lassen und sich als Lehrer anbieten jedem, der kommen und bei ihnen lernen will? Würden wir nicht in Betracht dessen ihn mit Recht dahin schicken?</p>
+<p><hi rendition="#i">Anytos:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist es nicht auch mit dem Flötenspielen und allen übrigen Künsten ganz derselbe Fall? Gewiß wäre es großer Unverstand, wenn wir einen Flötenspieler aus einem machen wollten und dabei die Absicht hätten, ihn nicht zu denen zu schicken, welche sich anheischig machen, die Kunst zu lehren, und sich dafür einen Lohn bezahlen lassen, sondern irgend <pb n="443" facs="#f00034"/> andere damit zu behelligen, daß er von solchen Unterricht suche, die sich weder für Lehrer ausgeben noch irgend einen Schüler haben in dem Unterrichtszweig, in welchem wir den, den wir hinschicken, unterrichtet zu sehen wünschen. Wäre das nicht deines Bedünkens eine große Torheit?</p>
+<p><hi rendition="#i">Anytos:</hi> Jawohl, beim Zeus, und ein Beweis von Unwissenheit dazu!</p>
+<p><hi rendition="#i">Sokrates:</hi> Gut gesagt! Und nun bist du in der Lage, mit mir gemeinschaftlich Rat zu pflegen über diesen deinen Gastfreund Menon. Derselbe versichert mir nämlich schon längst, Anytos, daß er nach jener Weisheit und Tugend Verlangen trage, vermöge welcher die Menschen ihre häuslichen und staatlichen Angelegenheiten recht verwalten, ihre Eltern versorgen und Bürger und Fremde auf eine eines rechtschaffenen Mannes würdige Weise zu empfangen und zu entlassen verstehen. Sieh nun zu, zu welchen Leuten wir ihn dieser Tugend wegen am besten schicken würden. Vielmehr nach dem eben Gesagten ist das klar, nämlich doch wohl zu solchen, welche sich anheischig machen, Lehrer der Tugend zu sein, und sich selbst ohne Unterschied jedem Hellenen, der diese erlernen will, dazu erbieten, auch einen Lohn dafür verlangen und sich bezahlen lassen?</p>
+<p><hi rendition="#i">Anytos:</hi> Und welche meinst du damit, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> Das weißt du ja selbst, daß es diejenigen sind, welche man Sophisten nennt.</p>
+<p><hi rendition="#i">Anytos:</hi> Beim Herakles, das wolle Gott nicht, Sokrates! Daß mir doch ja niemand von meinen Verwandten, Angehörigen oder Freunden unter den Bürgern oder Fremdlingen jemals die Tollheit begeht, zu diesen Leuten zu gehen und sich von ihnen verderben zu lassen! Denn das sind sie doch, das offenbare Verderben und Unheil derer, die mit ihnen umgehen!</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie meinst du, Anytos? Also von allen denen, welche sich die Meisterschaft in einer heilsamen Kenntnis beimessen, sind diese einzig und allein so ganz verschieden, daß sie in dem, was man ihnen anvertraut, nicht nur keinen Nutzen, wie die anderen, sondern im Gegenteil noch Verderben schaffen? Und dafür vermessen sie sich noch ganz offen Geld zu nehmen? Nun, ich sehe nicht ein, wie ich dir das glauben soll. <pb n="444" facs="#f00035"/> Denn ich weiß, daß der einzige Protagoras mit dieser seiner Weisheit mehr Geld verdient hat als Pheidias, der so ausgezeichnet schöne Werke verfertigte, und als noch zehn andere Bildhauer. Auch ist es doch seltsam, was du sagst, daß, während diejenigen, welche alte Schuhe flicken und Kleider ausbessern, wenn sie die Kleider und Schuhe schlechter zurückgäben, als sie sie bekommen haben, keine dreißig Tage lang unbemerkt bleiben könnten, sondern, wenn sie es so machten, in kurzer Zeit Hungers sterben würden, dagegen Protagoras also, ohne daß es ganz Hellas merkte, diejenigen, welche mit ihm umgingen, verderbte und schlechter entlassen haben soll, als er sie bekommen hatte, und das mehr als vierzig Jahre lang. Denn ich meine, er sei gestorben, nachdem er nahe an siebzig Jahre alt geworden und seine Kunst vierzig Jahre lang betrieben hatte. Und in dieser ganzen Zeit bis auf den heutigen Tag ist sein Ruhm um nichts vermindert worden. Und ebenso ist es nicht nur mit dem Protagoras, sondern noch mit gar vielen anderen, die teils vor ihm gewesen sind, teils noch jetzt leben. Sollen wir denn nun, nach dem, was du sagst, annehmen, daß sie die Jünglinge mit Wissen betrügen und verderben, oder daß sie es auch selbst nicht merken? Dürfen wir wirklich diejenigen für so unsinnig halten, von denen manche sagen, sie seien die weisesten der Menschen?</p>
+<p><hi rendition="#i">Anytos:</hi> Sie sind weit entfernt, Sokrates, die Unsinnigen zu sein, sondern vielmehr diejenigen sind es von den jungen Leuten, welche ihnen Geld geben, und noch mehr als diese sind es deren Angehörige, welche sie ihnen anvertrauen; aber am allermeisten sind es die Staaten, welche ihnen Zutritt bei sich gestatten und nicht vielmehr jeden, sei er ein Fremdling oder ein Stadtbürger, ausstoßen, wenn er so etwas zu tun versucht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Anytos, hat dir denn einer von den Sophisten etwas zuleide getan, oder warum bist du so böse über sie?</p>
+<p><hi rendition="#i">Anytos:</hi> Nein, beim Zeus, ich habe auch niemals mit irgend einem von ihnen Umgang gehabt, noch würde ich das irgend einem von den Meinigen gestatten.</p>
+<p><hi rendition="#i">Sokrates:</hi> Du bist also mit diesen Leuten ganz und gar unbekannt?</p>
+<p><hi rendition="#i">Anytos:</hi> Und will es auch bleiben.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie kannst du doch also, du Wunderlicher, von <pb n="445" facs="#f00036"/> dieser Sache wissen, ob etwas Gutes oder Schlimmes daran ist, wenn du damit ganz und gar unbekannt bist?</p>
+<p><hi rendition="#i">Anytos:</hi> Leicht! Weiß ich ja doch, was für Leute sie sind, mag ich nun unbekannt mit ihnen sein oder nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ein Seher bist du wohl, Anytos; denn nach dem, was du selbst sagst, müßte ich mich wundern, wie du sonst etwas von diesen Leuten wissen kannst. Doch danach haben wir gar nicht gefragt, welches die Leute sind, durch welche Menon schlecht werden würde, wenn er zu ihnen käme. Diese mögen, wenn du willst, immerhin die Sophisten sein. Sondern nenne uns jene, und erzeige diesem alten Freunde deines Hauses die Guttat, ihm zu bezeichnen, zu welchen er in dieser großen Stadt gehen muß, um es in der Tugend, von der ich vorhin gesprochen habe, einigermaßen zu etwas zu bringen!</p>
+<p><hi rendition="#i">Anytos:</hi> Warum aber bezeichnest du sie ihm nicht selbst?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich habe ja diejenigen, von welchen ich meinte, daß sie Lehrer hierin seien, genannt; aber, wie du versicherst, ist ja an dem nichts, was ich sagte, und an dem, was du sagst, ist vielleicht etwas. So nenne ihm du nun auch deinerseits diejenigen unter den Athenern, zu welchen er gehen soll! Nenne einen Namen, welchen du willst!</p>
+<p><hi rendition="#i">Anytos:</hi> Was braucht er da doch den Namen eines Menschen zu hören? Denn mag er auch unter den edeln und tüchtigen Athenern begegnen, welchem er wollte, – es ist keiner darunter, der ihn nicht besser machen wird als die Sophisten, wenn er ihm folgen will.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und diese Edeln und Tüchtigen, sind sie solche Leute ganz von sich selbst geworden, ohne von jemandem zu lernen, so zwar, daß sie dennoch imstande sind, das, was sie reibst nicht gelernt haben, andere zu lehren?</p>
+<p><hi rendition="#i">Anytos:</hi> Auch sie, nehme ich an, haben wieder von den Früheren, auch edeln und tüchtigen Männern, gelernt. Oder glaubst du nicht, daß der tüchtigen Männer in dieser Stadt immer viele gewesen sind?</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch ich, Anytos, glaube wohl, daß es hier zu Staatsgeschäften tüchtige Männer gebe und nicht minder gegeben habe, als noch gebe. Aber sind sie wohl auch tüchtige Lehrer dieser ihrer Tugend gewesen? Denn dies ist es, wovon eigentlich unter uns die Rede war, nicht, ob es hier tüchtige<pb n="446" facs="#f00037"/> Männer gebe oder nicht, auch nicht, ob es früher deren gegeben habe, – sondern ob die Tugend etwas Lehrbares sei, das untersuchen wir schon lange. Und diese Untersuchung hat uns auf die Frage geführt, ob die tüchtigen Männer von jetzt und von ehedem es verstanden haben, die Tugend, in welcher sie tüchtig waren, auch einem anderen mitzuteilen, oder ob die Tugend etwas ist, das sich dem Menschen nicht mitteilen läßt und das einer von dem ändern nicht bekommen kann? Dieses ist es, was wir, Menon und ich, schon lange untersuchen. Erwäge es nun einmal in folgender Weise gemäß deinen eigenen Äußerungen: Du gibst doch zu, daß Themistokles ein tüchtiger Mann gewesen sei?</p>
+<p><hi rendition="#i">Anytos:</hi> Gewiß, mehr als alle anderen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also auch, daß er ein tüchtiger Lehrer, wenn irgend jemals einer Lehrer seiner eigenen Tugend war, gewesen sei?</p>
+<p><hi rendition="#i">Anytos:</hi> Ich denke wohl, wenn er nur wollte.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber denkst du wohl, er habe nicht gewollt, daß auch andere edel und tüchtig würden, und ganz vorzüglich sein eigener Sohn? Oder denkst du, er habe es ihm mißgönnt und ihm geflissentlich die Tugend nicht mitgeteilt, in welcher er selbst tüchtig war? Oder hast du nicht gehört, daß Themistokles seinen Sohn Kleophantos zwar zu einem tüchtigen Reiter bilden ließ – er konnte Ja aufrecht auf dem Pferde stehen, aufrecht auf dem Pferde den Wurfspieß schleudern und sonst viele wunderbare Kunststücke machen, worin sein Vater ihn erziehen ließ, der ihn in allem geschickt machte, was tüchtiger Lehrer Sache war - , oder hast du das nicht von den älteren Leuten gehört?</p>
+<p><hi rendition="#i">Anytos:</hi> Doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Es wird also wohl niemand die Naturanlage seines Sohnes als eine schlechte beklagen.</p>
+<p><hi rendition="#i">Anytos:</hi> Das wohl nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun aber, daß Kleophantos, des Themistokles Sohn, darin ein tüchtiger und weiser Mann geworden sei, worin sein Vater es war, hast du das auch schon gehört von einem Jüngeren oder Älteren?</p>
+<p><hi rendition="#i">Anytos:</hi> Nicht doch.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sollen wir nun wohl denken, er habe seinen Sohn <pb n="447" facs="#f00038"/> zwar in jenen Dingen erziehen lassen wollen, in der Weisheit aber, die er selbst besaß, habe er ihn um nichts besser haben wollen als seine Nachbarn, wenn doch die Tugend etwas Lehrbares wäre?</p>
+<p><hi rendition="#i">Anytos:</hi> Nicht wohl, beim Zeus!</p>
+<p><hi rendition="#i">Sokrates:</hi> Da hast du also einen solchen Lehrer der Tugend, von dem du selbst zugibst, daß er unter den Früheren der Tüchtigste sei. Doch laß uns einen anderen ins Auge fassen, den Aristeides, des Lysimachos Sohn, – oder gibst du nicht zu, daß dieser ein tüchtiger Mann gewesen sei?</p>
+<p><hi rendition="#i">Anytos:</hi> Ich doch ganz gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Hat nun nicht auch dieser seinen Sohn Lysimachos in allem, was irgend Sache von Lehrern war, aufs trefflichste unter den Athenern erziehen lassen, und doch – hat er nach deiner Ansicht einen besseren Menschen aus ihm gemacht, als jeder andere ist? Denn mit diesem hast du ja selbst Umgang gehabt und siehst ja, was für ein Mensch er ist. Und willst du noch den Perikles, den in so hohem Maße weisen Mann, so weißt du wohl, daß er zwei Söhne auferzog, den Paralos und den Xanthippos?</p>
+<p><hi rendition="#i">Anytos:</hi> Jawohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Diese ließ er, wie du ja selbst weißt, zu Reitern heranbilden, die keinem unter den Athenern nachstanden; auch ließ er sie in der Musik, im Wettkampf und in allem, was nur irgend Sache der Kunst ist, so gut unterrichten, daß sie keinem nachstanden. Aber tugendhafte Männer wollte er also nicht aus ihnen machen? Ich denke, er wollte es wohl, nur aber, daß das nichts Lehrbares ist. Du darfst ja nicht glauben, nur wenige und die Unbedeutendsten der Athener seien dieser Aufgabe nicht gewachsen gewesen; besinne dich nur, daß Thukydides ebenfalls zwei Söhne auferzogen hat, den Melesias und den Stephanos, und sie in allem wohl unterrichten ließ, daß diese auch unter allen Athenern die trefflichsten Ringer waren, denn den einen übergab er dem Xanthias, den ändern dem Eudoros. Diese aber galten damals für die trefflichsten Ringer. Oder erinnerst du dich nicht?</p>
+<p><hi rendition="#i">Anytos:</hi> Doch, vom Hörensagen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist es nun nicht ganz wunderbar, daß dieser seine Söhne zwar in dem, dessen Erlernung ihm Aufwand verursachte, <pb n="448" facs="#f00039"/> hätte belehren lassen, in dem aber, was ihn nichts gekostet, nämlich tugendhafte Männer aus ihnen zu machen, sie ohne Belehrung gelassen hätte, wenn dieses etwas Lehrbares wäre? Aber war vielleicht Thukydides ein unbedeutender Mann und hatte nicht eben sehr viele Freunde unter den Athenern und den Bundesgenossen; Nein, er war aus einem großen Hause und vermochte Großes in der Stadt und unter den übrigen Hellenen, so daß, wenn jenes irgend lehrbar wäre, er gewiß einen aufgefunden hätte, der seine Söhne tugendhaft gemacht haben würde, entweder unter seinen Landsleuten einen oder unter den Fremden, wenn er ja selbst wegen Besorgung der Staatsgeschäfte keine Zeit dazu gefunden hätte. Allein ich fürchte, Freund Anytos, daß die Tugend eben nichts Lehrbares ist!</p>
+<p><hi rendition="#i">Anytos:</hi> O Sokrates, du scheinst es mir recht leicht zu nehmen, schlimm von den Leuten zu reden. Ich nun möchte dir wohl raten, wenn du mir folgen willst, dich in acht zu nehmen: denn vielleicht ist es zwar auch in einem anderen Staate leichter, den Leuten Böses zu tun als Gutes, doch nirgends mehr als hier. Ich denke, du weißt das auch selbst.</p>
+<p><hi rendition="#i">(Anytos kehrt den Rücken.)</hi></p>
+<p><hi rendition="#i">Sokrates:</hi> O Menon, Anytos scheint mir böse zu sein, und das wundert mich gar nicht. Denn fürs erste meint er, ich wolle diese Männer schmähen: sodann glaubt er auch selbst einer von ihnen zu sein. Doch er wird schon, wenn er es einmal erfährt, was übel reden heiße, aufhören, böse zu sein; jetzt kennt er es eben noch nicht. Nun aber, sage du mir einmal: Gibt es nicht auch bei euch edle und tüchtige Männer?</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie nun? Sind diese geneigt, den jungen Leuten sich als Lehrer zu erbieten und sich selbst für Lehrer oder die Tugend für etwas Lehrbares auszugeben?</p>
+<p><hi rendition="#i">Menon:</hi> Nein, beim Zeus, Sokrates! Sondern das eine Mal kannst du von ihnen hören, sie sei etwas Lehrbares, das andere Mal, sie sei es nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Können wir nun sagen, diese seien Lehrer in dieser Sache, wenn sie noch nicht einmal darüber mit sich eins sind?</p>
+<p><hi rendition="#i">Menon:</hi> Ich meine nicht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie aber, diese Sophisten, die sich allein dafür ausgeben, – dünken sie dir Lehrer der Tugend zu sein?</p>
+<p><hi rendition="#i"><pb n="449" facs="#f00040"/> Menon:</hi> Eben das, Sokrates, schätze ich vorzugsweise am Gorgias, daß du von ihm gewiß niemals ein Versprechen der Art hörst. Vielmehr lacht er noch über die anderen, wenn er ihre Versprechungen hört. Wohl aber tüchtige Redner, meint er, müsse man bilden.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also scheinen auch dir die Sophisten keine Lehrer zu sein?</p>
+<p><hi rendition="#i">Menon:</hi> Ich weiß nicht, Sokrates, was ich sagen soll. Es geht mir da eben auch wie den meisten: bald scheinen sie mir's zu sein, bald nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Weißt du aber auch, daß es nicht nur dir und anderen Staatsmännern so scheint, bald, die Tugend sei lehrbar, bald nicht, sondern auch von Theognis, dem Dichter, weißt du doch, daß er ganz dasselbe sagt?</p>
+<p><hi rendition="#i">Menon:</hi> In welchen Versen?</p>
+<p><hi rendition="#i">Sokrates:</hi> In seinen Elegien, wo er sagt:</p>
+<lb/>
+<p><hi rendition="#i">Denen geselle zum Trunk und zum Schmaus dich, sitze bei denen,</hi></p>
+<p><hi rendition="#i">Zeige gefällig dich nur denen, die mächtig im Staat!</hi></p>
+<p><hi rendition="#i">Nur von den Besten erlernst du das Beste; doch geht dir verloren,</hi></p>
+<p><hi rendition="#i">Wenn du dich Schlechten gesellst, leicht die Vernunft, die du hast.</hi></p>
+<lb/>
+<p>Siehst du, daß er hier von der Tugend redet, als ob sie etwas Lehrbares wäre?</p>
+<p><hi rendition="#i">Menon:</hi> Ganz deutlich.</p>
+<p><hi rendition="#i">Sokrates:</hi> In einer anderen Stelle aber spricht er sich etwas anders aus:</p>
+<lb/>
+<p> <hi rendition="#i">Ließe Vernunft sich machen,</hi> sagt er, <hi rendition="#i">und sich einpflanzen dem Manne</hi>,</p>
+<lb/>
+<p>da, meint er,</p>
+<lb/>
+<p> <hi rendition="#i">Großen und herrlichen Preis trügen dann jene davon,</hi></p>
+<lb/>
+<p>welche dieses zu tun vermöchten, und</p>
+<lb/>
+<p><hi rendition="#i">Nimmer aus tüchtigem Stamm wüchs' ein verdorbener Sohn,</hi></p>
+<p><hi rendition="#i">Folgt' er verständigen Reden; doch nimmer wirst durch Belehrung</hi></p>
+<p><hi rendition="#i">Einen schlechten du je machen zum tüchtigen Mann.</hi></p>
+<lb/>
+<p>Bemerkst du, daß er hier über denselben Gegenstand wieder das Gegenteil sagt?</p>
+<p><hi rendition="#i">Menon:</hi> Augenscheinlich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Kannst du mir nun irgend einen anderen Gegenstand <pb n="450" facs="#f00041"/> sagen, für welchen diejenigen, die sich als seine Lehrer ausgeben, nicht nur nicht als Lehrer anderer anerkannt werden, sondern nicht einmal als solche, die ihn selbst verstehen, vielmehr für untüchtig in eben diesem Gegenstand gelten, dessen Lehrer sie zu sein behaupten, – wogegen diejenigen, welche man selbst für trefflich und tüchtig anerkennt, von demselben behaupten, bald, er sei lehrbar, bald, er sei es nicht; Und von Leuten nun, die über einen Gegenstand dermaßen verworren sind, könntest du wohl behaupten, sie seien recht eigentlich seine Lehrer?</p>
+<p><hi rendition="#i">Menon:</hi> Beim Zeus, nein!</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn also nun weder die Sophisten noch die Trefflichen und Tugendhaften selbst Lehrer hierin sind, so gibt es doch wohl offenbar keine anderen?</p>
+<p><hi rendition="#i">Menon:</hi> Ich denke nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gibt es aber keine Lehrer, so gibt es auch keine Schüler?</p>
+<p><hi rendition="#i">Menon:</hi> Es wird wohl, denke ich, so sein, wie du sagst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Darüber aber waren wir einverstanden, daß ein Gegenstand, für welchen es weder Lehrer noch Schüler gibt, auch nichts Lehrbares sei?</p>
+<p><hi rendition="#i">Menon:</hi> Das waren wir.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, für die Tugend kommen nirgends Lehrer zum Vorschein?</p>
+<p><hi rendition="#i">Menon:</hi> So ist es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn aber keine Lehrer, dann auch keine Schüler?</p>
+<p><hi rendition="#i">Menon:</hi> Sichtbar ist es so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die Tugend also wird wohl nichts Lehrbares sein?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht, wie es scheint, wenn wir anders richtig untersucht haben, so daß ich mich verwundert frage, Sokrates, ob es wohl überhaupt keine tugendhaften Menschen gebe, oder wie wir uns doch wohl das Werden derer, welche tugendhaft werden, zu erklären haben?</p>
+<p><hi rendition="#i">Sokrates:</hi> Fast will es mir scheinen, lieber Menon, daß wir, du und ich, nicht viel miteinander taugen, und daß dich Gorgias, wie mich Prodikos, noch nicht gehörig geschult habe. Vor allem anderen laß uns daher unsere Aufmerksamkeit auf uns selbst richten und uns untersuchen, wer uns doch auf irgend eine Weise, welche es auch sei, besser machen könne! <pb n="451" facs="#f00042"/> Und ich sage dies mit Rücksicht auf unsere bisherige Untersuchung. Denn es ist zum Lachen, wie es uns entgangen ist, daß entweder die Menschen ihre Angelegenheiten keineswegs nur unter Leitung der Erkenntnis richtig und gut besorgen, oder aber (d.h. wofern wir nicht zugeben wollten, sie tun es nicht nur durch Erkenntnis, sondern noch durch etwas anderes), wir wohl darauf verzichten müssen, überhaupt zu erkennen, auf welche Weise die Menschen tugendhaft werden.</p>
+<p><hi rendition="#i">Menon:</hi> Wie meinst du das, Sokrates?</p>
+<p><hi rendition="#i">Sokrates:</hi> So: Daß die tugendhaften Menschen nützlich sein müssen, darüber haben wir uns doch mit Recht geeinigt, daß es nicht anders sich verhalte. Nicht wahr?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und daß sie nützlich sein werden, wenn sie uns in unseren Angelegenheiten aufrechte Art leiten, auch darüber sind wir wohl mit Grund einig?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Der weitere Satz aber, daß es nicht möglich ist, richtig zu leiten, ohne einsichtsvoll zu sein, wird wohl einem Zugeständnis gleich sehen, das wir nicht richtig gemacht haben.</p>
+<p><hi rendition="#i">Menon:</hi> Wie meinst du das »richtig«?</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich will dir's sagen: Wenn einer, der den Weg nach Larissa, oder wohin du sonst irgend willst, weiß, dahin ginge und andere leitete, würde er sie nicht gewiß richtig und gut leiten?</p>
+<p><hi rendition="#i">Menon:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie aber, wenn es einer täte, der zwar richtig meint, welches der Weg ist, aber ihn selbst noch nicht gegangen wäre und ihn auch nicht wüßte, – würde der nicht doch auch richtig leiten können?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und solange dieser nur eine richtige Meinung hat von dem, wovon jener Erkenntnis besitzt, wird er, wenn er gleich das Wahre nur meint, nicht aber einsieht, noch kein schlechterer Leiter sein als der, der es einsieht.</p>
+<p><hi rendition="#i">Menon:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Sokrates:</hi> Die wahre Meinung ist also zur Richtigkeit des Handelns noch gar keine schlechtere Leiterin als die Einsicht. Und dies ist es, was wir vorhin bei unserer Untersuchung <pb n="452" facs="#f00043"/> über die Tugend, was sie ihrem Wesen nach sei, außer Acht gelassen haben, indem wir nämlich behaupteten, daß nur Einsicht zu richtigem Handeln leite, während dies doch auch wahre Meinung vermag.</p>
+<p><hi rendition="#i">Menon:</hi> So scheint's.</p>
+<p><hi rendition="#i">Sokrates:</hi> Richtige Meinung ist also um nichts minder nützlich als Erkenntnis.</p>
+<p><hi rendition="#i">Menon:</hi> Doch wohl insoweit, Sokrates, daß der, der die Erkenntnis besitzt, seinen Zweck immer erreichen wird, wer aber die richtige Meinung besitzt, ihn bald erreicht, bald auch nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie sagst du? Wer immer eine richtige Meinung besitzt, soll seinen Zweck nicht immer erreichen, solange er doch Richtiges meint?</p>
+<p><hi rendition="#i">Menon:</hi> Notwendig freilich, wie es scheint, so daß ich mich wundern muß, Sokrates, warum, wenn dem so ist, die Erkenntnis doch soviel höher geschätzt wird als die richtige Meinung, und weshalb das eine von dem anderen unterschieden wird.</p>
+<p><hi rendition="#i">Sokrates:</hi> Weißt du, weshalb du dich wunderst? Oder soll ich dir's sagen?</p>
+<p><hi rendition="#i">Menon:</hi> Ja, sage mir's!</p>
+<p><hi rendition="#i">Sokrates:</hi> Weil du nicht an die Bildwerke des Daidalos gedacht hast; doch vielleicht gibt es auch keine bei euch.</p>
+<p><hi rendition="#i">Menon:</hi> Was meinst du doch aber damit?</p>
+<p><hi rendition="#i">Sokrates:</hi> Weil sie, wenn man sie nicht anbindet, auch davonlaufen und ausreißen, wenn man sie aber anbindet, bleiben.</p>
+<p><hi rendition="#i">Menon:</hi> Wie denn das?</p>
+<p><hi rendition="#i">Sokrates:</hi> Von seinen Werken ein losgelassenes zu besitzen, das hat freilich ebensowenig besonderen Wert als ein entlaufener Sklave – denn es bleibt ja nicht da –, ein angebundenes aber ist viel wert; denn es sind überaus schöne Werke. – Was ich nun doch damit meine? Die wahren Meinungen! Denn auch die wahren Meinungen, solange sie dableiben, sind eine schöne Sache und bewirken lauter Gutes. Lange Zeit aber wollen sie nicht dableiben, sondern reißen aus aus der Seele des Menschen, so daß sie so lange nicht viel wert sind, bis man sie durch den Gedanken des Grundes anbindet. Das aber ist, Freund Menon, eben die Wiedererinnerung, wie wir uns im Früheren bereits verständigt haben. Hat man sie aber nun angebunden, so werden sie zuerst Erkenntnisse, sodann auch <pb n="453" facs="#f00044"/> bleibend. Und deshalb nun ist Erkenntnis mehr wert als richtige Meinung, und es unterscheidet sich Erkenntnis von richtiger Meinung also durch dieses Band.</p>
+<p><hi rendition="#i">Menon:</hi> Nun, beim Zeus, Sokrates, die Vergleichung ist passend!</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, was ich jetzt sage, sage ich nicht als ein Wissender, sondern nur, wie ich's vermute. Daß aber richtige Meinung und Erkenntnis etwas Verschiedenes ist, das allerdings meine ich nicht bloß zu vermuten: sondern, wenn ich je behaupten wollte, irgend etwas zu wissen (und von nur wenigem möchte ich das behaupten), – dieses eine würde ich zu dem rechnen, was ich weiß.</p>
+<p><hi rendition="#i">Menon:</hi> Und hiermit hast du wohl recht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wie nun? Recht nicht auch damit, daß die wahre Meinung, wenn sie leitet, in jedem Falle das Werk nicht schlechter vollführt als die Erkenntnis?</p>
+<p><hi rendition="#i">Menon:</hi> Auch damit hast du meines Erachtens recht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Um nichts schlechter also noch auch weniger nützlich für unsere Handlungen wird die wahre Meinung sein als die Erkenntnis, noch der, welcher eine wahre Meinung besitzt, als der, welcher Erkenntnis besitzt.</p>
+<p><hi rendition="#i">Menon:</hi> Dem ist so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und von dem tugendhaften Menschen haben wir uns ja dahin verständigt, daß er nützlich sei.</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da es nun ja aber doch tugendhafte und dem Staat nützliche Menschen, wofern es deren gibt, nicht nur durch Erkenntnis, sondern auch durch richtige Meinung geben dürfte, von diesen beiden aber weder das eine noch das andere den Menschen von Natur zukommt, weder Erkenntnis noch wahre Meinung, auch nicht Erworbenes, – oder dünkt dir wohl eines von beiden Naturgabe zu sein?</p>
+<p><hi rendition="#i">Menon:</hi> Mir nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da nun nicht von Natur, so werden wohl auch die Tugendhaften es nicht von Natur sein?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Da aber nicht von Natur, so haben wir nächstdem untersucht, ob's etwas Lehrbares sei?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i"><pb n="454" facs="#f00045"/> Sokrates:</hi> Und nicht wahr, – lehrbar, meinten wir, würde die Tugend sein, wenn sie Einsicht wäre?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wenn sie lehrbar wäre, würde sie Einsicht sein?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und lehrbar würde sie sein, wenn es Lehrer für sie gäbe; wenn nicht, wäre sie nicht lehrbar?</p>
+<p><hi rendition="#i">Menon:</hi> Ganz so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wir haben uns aber darüber verständigt, daß es keine solchen Lehrer gebe?</p>
+<p><hi rendition="#i">Menon:</hi> Dem ist so.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sind wir also nicht einverstanden, daß sie weder lehrbar noch Einsicht sei?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber daß sie gewiß etwas Gutes sei, auch darüber verstehen wir uns?</p>
+<p><hi rendition="#i">Menon:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nützlich und gut sei das, was uns richtig leitet?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Richtig leiten aber können nur jene zwei, wahre Meinung und Erkenntnis, und diese müsse der Mensch besitzen, der richtig leiten wolle. Denn was aus Zufall geschieht, geschieht nicht durch menschliche Leitung. Das aber, wodurch ein Mensch ein Leiter zum Rechten wird, sind eben jene zwei: wahre Meinung und Erkenntnis.</p>
+<p><hi rendition="#i">Menon:</hi> Ich denke wohl.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, wenn nun die Tugend nichts Lehrbares ist, so ist sie auch nicht mehr Erkenntnis?</p>
+<p><hi rendition="#i">Menon:</hi> Offenbar nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Von den zweien also, die gut und nützlich sind, fallt das eine weg, und die Erkenntnis wird somit bei bürgerlichen Geschäften nicht wohl Leiterin sein können?</p>
+<p><hi rendition="#i">Menon:</hi> Nicht, wie mir dünkt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht also vermöge einer gewissen Weisheit noch als Weise haben jene Männer die Staaten geleitet, Männer wie Themistokles und welche sonst dieser Anytos da eben genannt hat. Deshalb sind sie auch nicht imstande, aus ändern ebensolche <pb n="455" facs="#f00046"/> Leute zu machen, wie sie selbst sind, weil sie das, was sie sind, nicht durch Erkenntnis sind.</p>
+<p><hi rendition="#i">Menon:</hi> Es scheint sich wohl so zu verhalten, Sokrates, wie du sagst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, war's nicht durch Erkenntnis, so bleibt ja nur übrig das richtige Meinen, mit dessen Hilfe die Staatsmänner die Staatenrecht verwalten, während sie, was Einsehen betrifft, nicht anders daran sind als die Orakelsprecher und gottbegeisterten Wahrsager: denn auch diese reden viel Wahres, ohne daß sie etwas von dem, was sie reden, wissen.</p>
+<p><hi rendition="#i">Menon:</hi> So scheint es wohl zu sein.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ist es nun, Menon, nicht billig, diese Männer göttlich zu nennen, da sie ja ohne vernünftige Einsicht vieles Große, was sie tun und reden, recht vollbringen?</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Mit Recht können wir wohl die, welche wir eben genannt haben, die Orakelsprecher und Wahrsager und auch alle Dichter, göttlich nennen; und auch von den Staatsmännern dürften wir wohl in nicht minderem Grade behaupten, sie seien göttlich und begeistert, da sie von dem Gotte angehaucht und ergriffen sind, wenn sie durch ihre Reden viele große Dinge richtig ausführen, ohne etwas von dem, was sie reden, zu wissen.</p>
+<p><hi rendition="#i">Menon:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Auch die Frauen, Menon, nennen ja die guten Männer göttlich; und die Lakedaimonier, wenn sie einen preisen wollen als einen tugendhaften Mann, sagen: »Das ist ein göttlicher Mann!«</p>
+<p><hi rendition="#i">Menon:</hi> Und offenbar, Sokrates, reden sie mit Recht so, wenn auch dieser Anytos da sich über dich, wenn du das sagst, erzürnt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das kümmert mich nichts. Mit ihm, Menon, wollen wir schon ein andermal reden. – Wenn wir aber jetzt in unserem ganzen Gespräche richtig untersucht und uns recht ausgedrückt haben, so dürfte wohl die Tugend weder von Natur sein noch etwas Lehrbares sein, sondern denen, welchen sie zuteil wird ohne Zutun ihrer Vernunft, durch ein göttliches Geschick zuteil werden, es müßte denn unter den Staatsmännern einen geben, der auch einen ändern zum Staatsmann <pb n="456" facs="#f00047"/> machen könnte. Gäbe es aber einen, so müßte man fast sagen, daß er unter den Lebenden eben das wäre, was Teiresias nach Homer unter den Toten sein soll, der von ihm sagt:</p>
+<lb/>
+<p> <hi rendition="#i">Er allein ist beseelt</hi></p>
+<lb/>
+<p>unter denen im Hades,</p>
+
+
+<p> <hi rendition="#i">die anderen irren als Schatten.</hi></p>
+<lb/>
+<p>Denn ganz so wäre ein solcher hinsichtlich der Tugend wie neben Schatten ein wahrer Gegenstand.</p>
+<p><hi rendition="#i">Menon:</hi> Trefflich dünkst du mir zu reden, Sokrates!</p>
+<p><hi rendition="#i">Sokrates:</hi> Gemäß unserem Schlüsse also, Menon, scheint es uns, daß die Tugend denen, welchen sie zuteil wird, durch ein göttliches Geschick zuteil werde. Das Sichere hierüber aber werden wir erst dann erkennen, wenn wir, statt zuerst zu fragen, auf welche Weise den Menschen die Tugend zuteil werde, zuvor zu untersuchen unternehmen, was die Tugend an und für sich sei. Jetzt aber ist es für mich Zeit, zu gehen. Du aber suche von dem, wovon du selbst dich überzeugt hast, auch deinen Gastfreund, den Anytos hier, zu überzeugen, damit er sanftmütiger werde! Und wenn du ihn überzeugst, wirst du ja auch den Athenern dich nützlich machen.</p>
+<pb n="457" facs="#f00048"/> 
+</body></text></TEI>

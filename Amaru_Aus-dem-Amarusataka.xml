@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Indische Liebeslyrik</title>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Indische Liebeslyrik. In deutscher Sprache nachgebildet von Friedrich Rückert.
+      Eingeleitet, hrsg. u. erläutert von Helmuth von Glasenapp, Baden-Baden: Bühler,
+      1948.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Indische Liebeslyrik</title>
+      <editor><persName ref="http://d-nb.info/gnd/95215">
+        <forename>Helmuth</forename>
+        <nameLink>von</nameLink>
+        <surname>Glasenapp</surname>
+      </persName>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Bühler</name>
+      </publisher><pubPlace>Baden-Baden</pubPlace>
+      <date type="publication">1948</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Verfasst zwischen 500 und 700. Hier in der Übersetzung von Friedrich Rückert.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">[Aus dem Amarusataka]</note>
+
+
+<head><pb n="78" facs="#f0001"/>
+[Aus dem Amarusataka]</head>
+<p rendition="#c">1.</p>
+<p>Mit den schmachtend liebefeuchten Blüten, die sich knospig schließen,</p>
+<p>Halb anblickend auf sich tun, sich schamschwank wenden ab mit Nicken,</p>
+<p>Mit den Augen, die der herzverwahrten Regung Sinn ergießen,</p>
+<p>Sprich, o Mädchen, welchen Sel'gen du damit heut an wirst blicken?</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Die Zwischenträgerin spricht:</hi></p>
+<lb/>
+<p rendition="#c">2.</p>
+<p>Bewerbung wandtest du an sie, und lange Zeit war sie von dir begehrt;</p>
+<p>Wie bist du's nun, der durchs Geschick die Jugend ihr in Traurigkeit verkehrt?</p>
+<p>Nicht auszuhalten ist das Leid, kein tröstend Wort kann ihr zu Herzen dringen.</p>
+<p>Soll, Unbedachter! weinend laut die Freundin denn sich ins Gerede bringen?</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Der Abschiednehmende spricht:</hi></p>
+<lb/>
+<p rendition="#c">3.</p>
+<p>Kommen doch wieder, die gehn! Nicht mach um mich dir Gedanken,</p>
+<p><pb n="78" facs="#f0002"/> Liebliche! stets o so bleich hörst du mich Weinenden an.</p>
+<p>Scham-mattsternigen Augs, gußrieselnden Auges von dir so</p>
+<p>An mit Lächeln geblickt, geh ich mit Lust in den Tod.</p>
+<lb/>
+<p rendition="#c">4.</p>
+<p>Da ich nur einmal im Scherzzorn »geh doch!« sprach mit barschem Ton,</p>
+<p>Ging er gleich, das Felsenherz, vom Bette mit Gewalt davon.</p>
+<p>Solches hastig treubundbrechend unbarmherz'gen Mannes nun</p>
+<p>Denkt die Seele schamlos wieder! Freundin, o was soll ich tun!</p>
+<lb/>
+<p rendition="#c">5.</p>
+<p>Weil, was das liebende Paar in der Nacht spricht, morgens dem Hausherrn</p>
+<p>Plaudert der Hauspapagei, wirft ihm zum Lohne das Weib</p>
+<p>Erst ihr Rubinschmuck-Ohrengehenk auf die Krümmung des Schnabels,</p>
+<p>Stopft dann aber beschämt ihm mit Limonen den Mund.</p>
+<lb/>
+<p rendition="#c">6.</p>
+<p>Sehend die lieblichsten Augen auf einsamem Sitze gesenket,</p>
+<p>Schleicht er heran und verhält scherzend der Einzigen sie.</p>
+<p><pb n="79" facs="#f0003"/> Krümmend den Nacken, der Schelm, hautschauderig, küßt er die Schönste,</p>
+<p>Der lieblächelnde Lust rötet die Wang' und die Stirn.</p>
+<lb/>
+<p rendition="#c">7.</p>
+<p>Zweier auf demselben Lager abwärts redlos schmollender,</p>
+<p>Gegenseitig herzergebner, aber ernsttunwollender</p>
+<p>Gatten, wie die Blicke leise sich durch Augenwinkelstreifung</p>
+<p>Mischten, schwand ihr Groll in Lachen unter fester Halsergreifung.</p>
+<lb/>
+<p rendition="#c">8.</p>
+<p>»Du Frohaugige hast herzraubende Reize genug auch</p>
+<p>Ohne Korsett« – da der Freund also die Schleifen ergriff;</p>
+<p>Jetzt von der lächelnd am Bette Gesessenen freundlich gegrüßt gehn</p>
+<p>Leise die dienenden Frau'n, Listiges flüsternd, hinaus.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Die junge Spröde spricht:</hi></p>
+<lb/>
+<p rendition="#c">9.</p>
+<p>Die Braue furchet sich geschickt,</p>
+<p>Allein das Auge schmachtend blickt;</p>
+<p>Das Herz hat sich mit Stolz ummauert,</p>
+<p>Allein die Haut des Leibes schauert.</p>
+<p>Das Wort des Mundes hemmt der Groll,</p>
+<p>Doch glüht die Lippe lächelvoll.</p>
+<p>Wie ist es möglich sich zu fassen.</p>
+<p>Wo sich die Männer sehen lassen.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i"><pb n="80" facs="#f0004"/> Der zur Wallfahrt am Ganges gehende Geliebte</hi></p>
+<lb/>
+<p rendition="#c">10.</p>
+<p>»Liebste! bring mit Blickespielen hin die wen'gen Tage nur!« –</p>
+<p>»Spielen mag ich nur mit Blicken, wo nicht öde steht die Flur.«</p>
+<p>»Kommen werd' ich.« – »Du wirst kommen, Freunden bringend frohen Mut.«</p>
+<p>»Und was soll ich dir mitbringen?« – »Eine Handvoll Gangesflut.«</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Die Gekränkte spricht:</hi></p>
+<lb/>
+<p rendition="#c">11.</p>
+<p>Laß, Bester, es gesagt dir sein! Genug der Reden! gehe!</p>
+<p>Denn nicht gering ist deine Schuld, und mein Geschick ist Wehe.</p>
+<p>Wenn deine Lieb', einst also groß, an solchem Ziel sich findet,</p>
+<p>Was kümmert mich das nichtige Scheinleben, ob es schwindet!</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Dem abreisenden Geliebten</hi></p>
+<lb/>
+<p rendition="#c">12.</p>
+<p>Auf sind gebrochen die Spangen, und nach gehn liebende Tränen,</p>
+<p>Länger nicht bleibet der Mut, Geist ist zu wandern gesinnt.</p>
+<p>Alle sie ziehn mit dem ziehenden Freund; und mußt du denn reisen,</p>
+<p>Lebensgeliebter! verschmäh doch nicht das Freundesgeleit!</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i"><pb n="81" facs="#f0005"/> Der unverschämte Liebhaber spricht:</hi></p>
+<lb/>
+<p rendition="#c">13.</p>
+<p>Spröde die Lipp' einkneifend, erschreckt vorstreckend die Finger,</p>
+<p>»Laß mich, Wicht!« so mit Zorn höher die Brauen gespannt,</p>
+<p>Schaudernden Auges die Stolze; wer also sie küßte mit Hast, hat</p>
+<p>Amrit, es rührten umsonst törichte Götter das Meer.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Die Verlassene</hi></p>
+<lb/>
+<p rendition="#c">14.</p>
+<p>Nach zerbrochnem Freundschaftsbande, nach zerstobner Hochbewerbungsehre,</p>
+<p>Nach hinweggegangnem lieben Mann, als ob ein fremder Mann es wäre;</p>
+<p>So betrachtend, so betrachtend, liebe Freundin, jene Tag' im Glücke,</p>
+<p>Sagen kann ich nicht, warum das Herz mir nicht zerspringt in hundert Stücke.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Die Erwartende</hi></p>
+<lb/>
+<p rendition="#c">15.</p>
+<p>Des Auges feuchter Lotos tauet,</p>
+<p>Der seinem Wunsch entgegenschauet;</p>
+<p>Auf Wangen-Purpurblumen hin</p>
+<p>Streut Lächeln weißlichen Jasmin.</p>
+<p>Schweißtropfen auf den Brüsten strahlen,</p>
+<pb n="82" facs="#f0006"/> <p>Wie Wasserspend' in Opferschalen:</p>
+<p>So wird von allen Gliedern beigesteuert,</p>
+<p>Damit des Liebsten Ankunft sei gefeiert.</p>
+<lb/>
+<p rendition="#c">16.</p>
+<p>Fußfall fürchtend, birgt sie sittig mit dem Kleid des Fußes Ort,</p>
+<p>Unterdrückt mit Kunst ein Lachen, läßt den losen Blick nicht frei.</p>
+<p>Red' ich an, so spricht zur Magd sie nebenaus ein letztes Wort.</p>
+<p>Ei, der Stolz der sehr Beworbnen, daß er mir gesegnet sei!</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Das Auge der Liebenden</hi></p>
+<lb/>
+<p rendition="#c">17.</p>
+<p>Sehnsuchtsvoll, da von fern er nahete – staunend, betroffen,</p>
+<p>Als er den Gruß ihr bot – rötlich vor Zorn, da den Arm</p>
+<p>Er um sie schlang – als ihr Kleid er umklammerte, wolkig von Braue –</p>
+<p>Als er zu Fuß ihr verstört stürzte, von Tränen gefüllt</p>
+<p>Ward es, das Auge der Stolzen, o Wunder, das scharfblickreiche,</p>
+<p>Weil es am Liebsten entdeckt, eine verborgene Schuld.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i"><pb n="83" facs="#f0007"/> Die bei Mondschein trinkenden Schönen</hi></p>
+<lb/>
+<p rendition="#c">18.</p>
+<p>Der Mond ward eingetrunken mit dem Weine,</p>
+<p>Wie er im Becher schwebt' im Widerscheine.</p>
+<p>Das Dünkeln stolzer Frauen bricht sein Licht;</p>
+<p>Sehr! Huld versagt mir selbst die Sprödste nicht.</p>
+<lb/>
+<p rendition="#c">19.</p>
+<p>Diese weitgeaugt-blicklüstige,</p>
+<p>Vollgewölbt-schwellbrüstige,</p>
+<p>Breitgelendet träge Gängerin,</p>
+<p>Meine liebste Herzempfängerin.</p>
+<lb/>
+<p rendition="#c">20.</p>
+<p>Ein mit Lack belegter, frühlingssprossenlinder,</p>
+<p>Ein bespangter Fuß, ein schwer wollüstig träger;</p>
+<p>Wo ein Tritt von ihm trifft einen Liebesünder,</p>
+<p>Der ist dein, o sel'ger Delphinfahnenträger!</p>
+<lb/>
+<p rendition="#c">21.</p>
+<p>Glieder bleich von Sandelstaube, Lippen braun von Betelkaun,</p>
+<p>Augen, die von Flutbenetzung trüblich sind und Salbe taun,</p>
+<p>Blumenduft im feuchten Haarnetz, blaues Florkleid faltenweit;</p>
+<p>Solches gibt am Sommerabend lieben Frauen Lieblichkeit.</p>
+<lb/>
+<p rendition="#c"><pb n="84" facs="#f0008"/> 22.</p>
+<p>Zitternde Wasser im Auge, Beschwörungen, lieblicher Fußfall –</p>
+<p>Zärtliche halten damit auf den Geliebten, der reist.</p>
+<p>Hell sei – o gehe du nur – und heiter der Morgen zur Ausfahrt!</p>
+<p>Was mir die Liebe gebeut, hörest du einst wann du kehrst.</p>
+<lb/>
+<p rendition="#c">23.</p>
+<p>Nicht Hängung an des Kleides Saum, noch in die Tür des Armesranken Stemmung;</p>
+<p>Auch nicht zu Füßen fällt sie ihm, noch »bleibe, bleibe!« spricht sie mit Beklemmung.</p>
+<p>Wie wolkentrüb das Wetter ist, doch will der Leid'ge reisen ohne Hemmung;</p>
+<p>Die Schmächt'ge hemmt des Liebsten Fahrt durch ausgetretne Tränenüberschwemmung.</p>
+<lb/>
+<p rendition="#c">24.</p>
+<p>Ich weiß nicht, – wann der Freund sich zeigt und bringet liebe Worte vor,</p>
+<p>Ob alle meine Glieder dann zum Auge werden oder Ohr.</p>
+<lb/>
+<p rendition="#c">25.</p>
+<p>Den Leib in herben Wehn verzehrt der ungeschickte Kama,</p>
+<p>Und Tag' und Stunden zählt geschickt der mitleidlose Jama.</p>
+<p><pb n="85" facs="#f0009"/> Du selber, doch ein Mann, erliegst der Krankheit im Gemüte;</p>
+<p>Bedenke, wie soll leben erst ich zarte Frauenblüte!</p>
+<lb/>
+<p rendition="#c">26.</p>
+<p>Mein Leib ist einst gewesen vollkommen, ungekränkt,</p>
+<p>Dann warst du Herzgeliebter, dem ich mein Herz geschenkt.</p>
+<p>Nun bist du Herr, Gebieter, und was bin ich? das Weib!</p>
+<p>Doch halten diese Glieder, und nicht zerspringt der eisenfeste Leib!</p>
+<lb/>
+<p rendition="#c">27.</p>
+<p>»Törin, was willst du verbringen in traurender Strenge die Tage?</p>
+<p>Fasse nur Mut! tu ab Treu', und Beständigkeit laß!«</p>
+<p>So von der Freundin ermuntert, erwidert die Schüchterne leise:</p>
+<p>Wird mich nicht hören der Freund, welcher im Herzen mir wohnt?</p>
+<lb/>
+<p rendition="#c">28.</p>
+<p>»Wo in der wolkigen Nacht, Rehfüßige, trägt dich der Weg hin?«</p>
+<p>»Wo der Geliebteste wohnt, welcher mein Leben beherrscht.«</p>
+<p>»Sprich, so einsam allein, wie fürchtest du nicht dich, o Mädchen?«</p>
+<p>»Ist mein Geleitsmann doch Kama gefiederten Pfeils.«</p>
+<lb/>
+<p rendition="#c"><pb n="86" facs="#f00010"/> 29.</p>
+<p>Ihr, die bewegten Gemüts auf die Straßen hinaus, wo er nahn soll,</p>
+<p>Spähet, soweit als der Blick reicht und solang' als der Tag;</p>
+<p>Ihr, die den zögernden Fuß heimwendet am Abend, der Gattin</p>
+<p>Wird mit gereckterem Hals sichtbar der Nahende jetzt.</p>
+<lb/>
+<p rendition="#c">30.</p>
+<p>Bebt' ich nicht und zitterten die Brüste nicht? Durchlief die Haut</p>
+<p>Nicht ein Schauer? perlte Schweiß im Antlitz nicht? Besinnung schmolz,</p>
+<p>Da der Unhold, Fassungsräuber, Lebensherrscher nur geschaut</p>
+<p>Ward von mir; o was kann halten den erkünstelt schwachen Stolz?</p>
+<lb/>
+<p rendition="#c">31.</p>
+<p>Angeblickt mit trübem Auge von der Frau und angefleht,</p>
+<p>Am Gewandsaum dann gehalten, und umfaßt mit Herzgewalt; –</p>
+<p>Wie all das der Mitleidlose grausam von sich stößt und geht,</p>
+<p>Wird er von ihr aufgegeben, der bisher'ge Lebenshalt.</p>
+<lb/>
+<p rendition="#c"><pb n="87" facs="#f00011"/> 32.</p>
+<p>Seinem Antlitz gegenüber senk' ich scheu den Blick zu Fuß,</p>
+<p>Ohren schließ' ich, welche schmachten nach der Lust von seinem Gruß;</p>
+<p>Decke mit der Hand den Schweiß, der schauernd aus der Wange dringt; –</p>
+<p>Freundinnen! was tu ich, wenn am Mieder jede Naht mir springt?</p>
+<lb/>
+<p rendition="#c">33.</p>
+<p>Teilend das Lager mit ihm, den gebrochener Treue sie zeihet,</p>
+<p>Ab sich wendend im Groll, wie er begütigen mag,</p>
+<p>So hartnäckig verschmäht den Geliebten sie; bis er nun still wird;</p>
+<p>»Schläft er wohl?« also den Hals reckt sie und blicket nach ihm.</p>
+<lb/>
+<p rendition="#c">34.</p>
+<p>Der Wange Lilienblätter vom Schlag der Hand zerknittert;</p>
+<p>Des Lippensaftes Nektar, der Seufzer trinkt ihn leer;</p>
+<p>Die Träne hängt am Halse, der zarte Busen schüttert:</p>
+<p>Der Zorn ist nun dein Liebster, Unhuld'ge! wir nicht mehr.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i"><pb n="88" facs="#f00012"/> Die Zeichen der Untreue</hi></p>
+<lb/>
+<p rendition="#c">35.</p>
+<p>Lackspur über der Stirn, und am Hals Handspangenbezeichnung,</p>
+<p>Augschminkschwärzen am Mund, Farbe vom Betel am Aug; –</p>
+<p>Sehend so zornaufregenden Schmuck frühmorgens am Freunde,</p>
+<p>Senkt sie wie Blumen ihr Haupt, hauchet in Seufzen sich aus.</p>
+<lb/>
+<p rendition="#c">36.</p>
+<p>Hin in Verwirrung geschmiegt, fußfälligen flehenden Schweigens,</p>
+<p>Ab nun sich wendend, verschmäht, schickt er zu gehn sich, und gibt</p>
+<p>Einen betränten, beschämten, verweilenden Blick noch der schönen,</p>
+<p>Hochaufatmenden Brust, die ihm das Leben versagt.</p>
+<lb/>
+<p rendition="#c">37.</p>
+<p>Wald und Gebirg und Gefilde mit erdebewässernden Strömen</p>
+<p>Hindern des Wanderers Blick, dem, was er liebet, zu nahn.</p>
+<p>Ob er es weiß, doch reckt er den Hals, und, gestellt auf die Zehen,</p>
+<p>Heimwärts schaut er, bis ihm schwindet in Tränen der Blick.</p>
+<lb/>
+<p rendition="#c"><pb n="89" facs="#f00013"/> 38.</p>
+<p>Wenn du den Groll ins Herz, Flutlilienaugige schlossest,</p>
+<p>Sei er dein Liebster nunmehr, was zu bedenken ist noch?</p>
+<p>Jene von mir vor diesem gegebnen Umarmungen gib mir</p>
+<p>Wieder, o gib nur zurück jeden gegebenen Kuß.</p>
+<lb/>
+<p rendition="#c">39.</p>
+<p>Weil er fremde Lippen biß, traf ihn der Liebsten Lotosfächer,</p>
+<p>Schnell, als sei ihm Blütenstaub im Auge, blinzend stand er da.</p>
+<p>Sie, gespitzten Knospenmundes, haucht in Unschuld; und ihr frecher</p>
+<p>Freund in der Verwirrung küßt sie, die nicht weiß, wie ihr geschah.</p>
+<lb/>
+<p rendition="#c">40.</p>
+<p>Der mit Lack belegte, lieblich Lotosglanz verdunkelnde,</p>
+<p>Mit Juwelenschimmerschatzes-Abendrot bespangte,</p>
+<p>Welchen warf im höchsten Zorne die mit Augen funkelnde,</p>
+<p>Als ein Glückeszeichen auf dem Haupt der Fuß mir prangte.</p>
+
+</body></text></TEI>

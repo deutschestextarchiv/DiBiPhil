@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lao Zi Dao De Jing</title>
+        <author><persName ref="http://d-nb.info/gnd/69678">
+        <forename>Lao</forename>
+        <surname>Zi</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Lao Zi Dao De Jing. Eine philosophische Übersetzung von Lutz Geldsetzer. Nach
+      dem Text der Ausgabe in: Zhu Zi Ji Cheng (Sammlung aller Philosophen) Band 3, Beijing: Zhong
+      Hua Verlag, 1954. © März 2000 Lutz Geldsetzer, http://www.phil-
+      fak.uni-duesseldorf.de/philo/geldsetzer/laozidao.html.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Lao Zi Dao De Jing</title>
+      <author><persName ref="http://d-nb.info/gnd/69678">
+        <forename>Lao</forename>
+        <surname>Zi</surname>
+      </persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/54240"><forename>Lutz</forename><surname>Geldsetzer</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Philosophisches Instituts der HHU Düsseldorf</name>
+      </publisher><pubPlace>Düsseldorf</pubPlace>
+      <date type="publication">2000</date>
+      <date type="firstPublication">1870</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden um 400 v. Chr. Hier in der Übersetzung von Lutz Geldsetzer.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+
+<note type="editorial">Dao De Jing</note>
+
+
+
+<head>Lao Zi</head>
+<head>Dao De Jing</head>
+
+
+
+<div n="1">
+<note type="editorial">Hermeneutische Vorbemerkungen</note>
+
+<head>Hermeneutische Vorbemerkungen</head>
+<p>Den bisher in westlichen Sprachen vorliegenden etwa 250 Übersetzungen des Dao De Jing noch eine weitere hinzuzufügen, erscheint überflüssig und etwas verwegen. Das Unternehmen, das wohl meistübersetzte Klassikerwerk Chinas noch einmal in philosophischer Perspektive zu überprüfen, muß sich durch seine Ergebnisse und Vorschläge rechtfertigen.</p>
+<p rendition="#et">Sie verdanken sich dem in langen Jahren des Studiums fernöstlicher philosophischer Literatur gewonnenen Verdacht, daß »fernöstlicher Geist« und insbesondere der sog. Lao Zi keineswegs so mystisch und dialektisch-spekulativ, ja irrational sind, wie man das im Westen gerne hätte. Und dieser Verdacht hat sich dem Verfasser ebenso auch bei den ältesten abendländischen Denkern bestätigt, etwa bei Heraklit und Demokrit, die man – nach Hegels Wort – nur vernünftig anschauen muß, um auch bei ihnen Vernunft zu finden. Wenn etwa Demokrit über zwei »Archai«, nämlich das »Volle der Atome« (das Sein) und das »Leere« des Raumes (das Nichts) als ersten Ursachen aller Wirklichkeit nachdenken konnte und daraus Folgerungen für ein (bis heute in der Naturwissenschaft exhauriertes) Weltbild ziehen konnte, dann sollte man etwas Vergleichbares auch einem chinesischen Denker zutrauen. Von solchem Zutrauen ist die vorliegende Übersetzung ausgegangen.</p>
+<p rendition="#et">Das Dao De Jing ist nun allerdings eine »heilige Schrift« nicht nur der Daoisten, sondern Chinas schlechthin, ebenso wie die Bibel im Abendland. Die Heilige Schrift des christlichen Abendlandes hat viele Entmythologisierungen überstanden, und sie ist daher den Gläubigen noch immer die Offenbarung Gottes, den Ungläubigen aber ein wertvolles historisches Dokument über den Bewußtseinszustand einer alten Kultur.</p>
+<p rendition="#et">Das Dao De Jing ist dagegen niemals »entmythologisiert« worden, weder in China noch im Westen. Dazu war der Respekt, den die chinesischen Gelehrten dem alten Werk und seinen ältesten Auslegern entgegenbrachten, zu hoch. Bei vielen westlichen Sinologen ist das Vertrauen darauf, daß die Chinesen selbst am besten wissen könnten, was der Sinn der alten Schrift sein müsste und könnte, ebenfalls zu hoch. Und so folgen sie gewöhnlich bei allen schwierigen und dunklen Stellen noch immer den Spekulationen des Wang Bi und des Zhuang Zi und den selbst in deren Nachfolge stehenden chinesischen Kollegen. Das westliche Bild vom Dao De Jing – und von chinesischer ältester Weisheit insgesamt – ist daher bis jetzt »mythologisch« geblieben. Dunkelheit und Tiefe, Paradoxien und Schwierigkeiten, meist in poesiehafter Verbrämung dargeboten, sollen das Wesen des so »fremden östlichen Denkens« und seiner in Metaphern schwelgenden Spekulation kennzeichnen.</p>
+<p rendition="#et">Von alledem ist, wie man sich überzeugen wird, in der vorliegenden Übersetzung nichts geblieben. Das beruht auf der strikten Befolgung bewährter hermeneutischer Maximen.</p>
+<lb/>
+<p>1. <hi rendition="#i">Der Textus receptus wird als verbindlich angesehen.</hi> Und zwar aus der Kenntnis chinesischer Sorgfalt konstanter Schriftenbewahrung durch Steininschriften seit den ältesten Zeiten und des professionellen Respekts der Gelehrten den Texten gegenüber. Selbst die 1974 in Mawangdui aufgefundenen Seidentexte mit ihren geringfügigen Abweichungen (wovon die Umstellung des 1. und 2. Teils noch die auffälligste ist) und die Funde von 1993 in Guodian in der Provinz Hubei von Textteilen auf Bambusstreifen zwingen nicht dazu anzunehmen, daß solche »Privatabschriften« in irgend einer Weise originärer seien als der Textus receptus.</p>
+<lb/>
+<p>2. <hi rendition="#i">Der ganze Text wird als einheitliches philosophischen Gedankengebäude angesehen.</hi> Dafür spricht neben dem Wortmaterial die durchgehaltene Thematik. Diese ist, wie sich zeigt, keineswegs von der Art, daß sie in der Weise einer Zusammenstellung von Spruchweisheiten vieler anonymer Köpfe entstanden sein könnte. In der so vorsichtig-tastenden und doch zugleich selbstgewissen Vorstellung dieser Dao-Lehre und ihrer konsequenten Anwendung auf Alltags- und Lebensprobleme, auf Regierungs- und Strategiefragen und vor allem ihrer kritischen Kontrastierung zu den Dao-Lehren der Konfuzianer (und vielleicht aller anderen Bai Jia, der »hundert Schulen«) zeigt sich ein starker und origineller philosophischer Denker, der auf der Höhe einer intimen Kenntnis seiner Zeit und Welt gestanden haben muß und dem daher nichts Menschliches fremd gewesen sein kann.</p>
+<lb/>
+<p>3. <hi rendition="#i">Die einzelnen Kapitel erscheinen in diesem Kontext als Ausarbeitungen bestimmter Einzelthemen.</hi> Und das heißt in erster Linie, daß in der Regel ein leitender Gedanke expliziert wird, nicht aber unzusammenhängende (zufällig nebeneinander geratene) Fragmente mit disparaten Sinngehalten vorliegen. So schätzenswert hierbei der Vergleich einzelner Sätze mit Belegstellen der älteren oder zeitgenössischen Literatur Chinas sein mag, leidet das Verfahren, daraus eine verbindliche Interpretation zu gewinnen, an dem Mangel, daß das Vorurteil des Mythologischen (oder Primitiven) gegenüber frühen Stadien der Kulturentwicklung auch in deren Deutung einzugehen pflegt. Und so führt es in krassen Fällen nur dahin, Unsinn durch Unsinn, Dunkles durch Dunkles und gestanzte Redensarten durch gestanzte Redensarten zu erklären.</p>
+<lb/>
+<p>4. <hi rendition="#i">Daher wurde der Kontext der einzelnen Kapitel durchweg für den Sinn des ganzen Kapitels in Anspruch genommen.</hi> Erst so konnte die bekanntlich oft vielfältige und zuweilen gegensätzliche Bedeutung einzelner Wörter und Ausdrücke eingeschränkt oder festgelegt oder in jedem Falle ein plausibler hypothetischer Vorschlag für eine passende Bedeutungsfestlegung vorgelegt werden. Die Bedeutungsskala einzelner Wörter und Ausdrücke, wie sie in einschlägigen Wörterbüchern festgehalten wird, deutet in manchen Fällen auf eine Bedeutungseinheit hin, die gewissermaßen zwischen den Extremen oder zwischen Bedeutungsnuancen liegt, und für die daher kein Standardübersetzungswort zur Verfügung steht. In diesen Fällen wurde auf geeignete Umschreibungen zurückgegriffen.</p>
+<lb/>
+<p>5. Die empfindlichste Einschränkung der Interpretationsmöglichkeiten bisheriger Übersetzungen (und chinesischer Interpretationen) ergibt sich aus dem dogmatischen Festhalten derselben an einer Satzeinteilung und Satztrennung (also an einer Interpunktion), die doch selber nur den Vorschlägen späterer Ausleger wie Wang Bi, Zhuang Zi und Han Fei Zi entstammen kann. Die ältesten Texte aber wurden bekanntlich überhaupt nicht interpunktiert. Und das erlaubte auch schon den frühesten Interpreten, Satzteile zusammenzuziehen oder zu trennen. Diese Freiheit hat auch schon den alten Autoren und ihren Schülern erlaubt, einzelne Sätze oder Satzteile in einer Weise aus dem Kontext herauszunehmen, daß sie als Aussagen über die Kaiser oder den mit überirdischen Kräften ausgestatteten Heiligen verstanden werden konnten. Und das war opportun, wenn man die Schrift dem Kaiserhaus als direkt an es gerichtet empfehlen wollte, wie es ja in langen Perioden erfolgreich betrieben worden war. Auch war dies das Mittel, um das, was man sagen wollte, feinsinnig zu dissimulieren und den zu beratenden Herrschern und Machthabern auch unwillkommene Wahrheiten beizubringen. Auch in der vorliegenden Übersetzung wurde eben von dieser Freiheit gelegentlich Gebrauch gemacht. Das führte dazu, daß bisher angenommene Widersprüche und Paradoxien schlicht verschwinden, ja daß bisher für unübersetzbar gehaltene Ausdrücke (die man dann gerne als Einschübe unverständiger Abschreiber deutet) einen überzeugenden Kontextsinn erhalten.</p>
+<lb/>
+<p>6. Ein weiterer Spielraum ergibt sich aus der Satzform. Es macht einen Unterschied, ob ein Satz als Behauptung oder als Frage gemeint ist. Oft kehrt sich dadurch der Satzsinn um, und je nachdem erhält man eine klare Aussage oder ein »tiefsinniges« Paradox. Grammatische Partikel, die eine Frageform annoncieren, sind selten. Schon im ersten Satz des ersten Kapitels erscheint »Fei« als negatives Fragepartikel, aber es scheint niemals ernst genommen worden zu sein. Und so imponierte schon der erste Satz in den traditionellen Übersetzungen und auch in den chinesischen Interpretationen als paradigmatisches Paradox.</p>
+<lb/>
+<p>7. Die Erfahrung, die bei der Übersetzung gemacht wurde, deutet auf einen scharfsinnigen Denker hin. Zu betonen ist: <hi rendition="#i">einen</hi> Denker. Ob er Lao Zi hieß oder so genannt wurde, dürfte gleichgültig sein. Jedenfalls erscheint das Ganze des Dao De Jing in solchem Maß aus einem Guß, daß dies gegen die heute übliche Meinung spricht, es handele sich um ein Konglomerat disparater Gedankenfetzen aus verschiedenen Zeiten und aus dem Pinsel verschiedener Autoren, oder es bestehe gar aus anonymen Volksweisheiten. Daher wurde der Name Lao Zi auch im Titel beibehalten.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">I. Teil</note>
+
+<head>I. Teil</head>
+<p>1. Kann das Dao Dao sein, wenn es nicht das immerwährende Dao ist? Können Namen bezeichnen, wenn sie nicht die immerwährend-richtigen Namen sind? »Nichts« ist der Name für den Anfang von Himmel und Erde. »Sein« ist der Name für die Mutter aller Dinge. Darum will ich über das immerwährende Nichts aus diesem (Anfang) her sein Geheimnis erkunden, und ich will über das beständige Sein aus diesem (Muttersein) her seine Grenzen erkunden. Jetzt treten sie gepaart zusammen auf, aber unter verschiedenen Benennungen. Gemeinsam heißen sie »Ursprung«. Das Ursprüngliche hat aber wiederum einen Ursprung. Das aber ist das Tor zu allem Geheimnisvollen.</p>
+<lb/>
+<p>2. Wenn in der Welt das, was alle als schön kennen, zur Schönheit wird, dann verselbständigt sich das Hässliche. Wenn das, was alle als gut kennen, zum Guten wird, dann verselbständigt sich das Ungute. Darum entstehen auch Sein und Nichts miteinander, Schwieriges und Leichtes vollbringen sich zusammen, Lang und Kurz schneiden einander, Hoch und Niedrig bemessen einander, Ton und Stimme vereinigen sich miteinander, Vorher und Nachher folgen ein ander. Bei alledem kümmert sich der Heilige um die Angelegenheiten des Nichts und seines Wirkens. Er tut es, indem er ohne Worte lehrt. Alle Dinge sind tätig, aber sie lassen nicht voneinander ab. Sie bringen Früchte hervor, aber nicht seinsbeständige. Sie schaffen, aber nicht Haltbares. Sie vollbringen, aber nicht Bleibendes. Und gerade von diesem nicht Bleibenden wendet er sich nicht ab.</p>
+<lb/>
+<p>3. Rühmt man die Weisen nicht, so bewirkt das, daß das Volk nicht streitet. Schätzt man schwer zu erlangende Güter nicht, so bewirkt das, daß das Volk nicht stiehlt. Schaut man nicht nach Wünschbarem aus, so bewirkt das, daß der Sinn des Volkes nicht verwirrt wird. Deswegen regiert der Heilige, indem er ihre Gemüter beruhigt, ihren Bauch füllt, ihren Willen schwächt, ihre Knochen stärkt. Immer macht er, daß das Volk das Nichts kennt und das Nichts erstrebt. Er macht, daß die Wissenden nicht übermütig handeln. Er bewirkt, daß das Nichts wirkt, und dann herrscht nicht das Nichts.</p>
+<lb/>
+<p>4. Setzt sich das Dao durch, dann gibt es bei seinem Gebrauch nirgends Überfluß. Es ist abgründig gleich einem Urahn aller Dinge. Es glättet ihre Kanten, entwirrt ihre Knoten, dämpft ihren Glanz, bindet ihren Staub. Ruhig erbt sich alles Bestehende von ihm fort. Ich weiß nicht, wessen Sohn es ist. Es ist schon (lange) vor den Kaisern erschienen.</p>
+<lb/>
+<p>5. Wie Himmel und Erde in unmenschlicher Weise von den zehntausend Dingen zum Strohhund-Opfer gemacht werden, so wird der Heilige in unmenschlicher Weise von den Leuten zum Strohhund-Opfer gemacht. Zwischen Himmel und Erde ist er für sie wie ein Blasebalg. Schon leer bis zum Geht-nicht-mehr, walken sie ihn, daß er noch mehr herauslasse. Mit vielen Worten tadeln sie dann seine Armut, als ob sie ihn nicht in ihrer Mitte duldeten.</p>
+<lb/>
+<p>6. Die Talfee erstirbt nicht. Ich nenne sie Ur-Weibliches. Die Pforte des Ur-Weiblichen nenne ich Wurzel von Himmel und Erde. Ununterbrochen, solange sie da ist, dient sie unaufgeregt.</p>
+<lb/>
+<p>7. Der Himmel ist weit und die Erde dauerhaft. Aber in dem, was vom Himmel und von der Erde weit und dauerhaft sein kann, in diesem lebt man nicht für sich. Darum kann man das Leben ausweiten. Deswegen hat der Heilige ein Nachleben, wenn sein Körper vergangen ist, und er ist außerhalb seines Körpers, wenn sein Körper noch da ist, sofern nicht in ihm das Nichts das Selbst beschädigt hat. Darum kann er sein Selbst vervollkommnen.</p>
+<lb/>
+<p>8. Das Beste ist wie das Wasser. Das Gute am Wasser nützt allen Dingen und bekriegt sie nicht. Es bleibt dort, wovor alle Menschen zurückschrecken. Dadurch hilft es dem Dao. Bewohnbarkeit ist das Gute an der Erde, Tiefe ist das Gute am Herzen, Helfen ist das Gute an der Menschlichkeit, sich Aussprechen ist das Gute am Vertrauen, es richtig machen ist das Gute am Regieren, etwas zu unternehmen ist das Gute am Können, sich rühren ist das Gute an der Zeit. Nur wo überhaupt kein Streit ist, da tritt das Nichts hervor.</p>
+<lb/>
+<p>9. Was man ergreift und anhäuft, wird dadurch nicht wie etwas Eigenes. Was man scharf macht und anspitzt, das kann man nicht lange so erhalten. Gold und Edelsteine im Haus gehortet kann keiner beschützen. Sich mit Reichtum und Wertsachen großtun, das muß man sich selbst als Fehler anrechnen. Etwas leisten und sich dann zurückziehen, das ist Himmelsdao.</p>
+<lb/>
+<p>10. Hält man seine inneren Seelenkräfte zusammen, so kann man das Nichts davon fernhalten. Man muß nur seine Lebenskraft geschmeidig halten, so kann man wie ein neugeborenes Kind sein. Mit reiner und unbefleckter ursprünglicher Klarsicht kann man das Nichts als Flecken sehen. Mit Liebe für sein Volk den Staat regierend, kann man um das Nichts wissen. Die Himmelspforte öffnend und verschließend, kann man das Nichts schwächen. Mit Klugheit nach allen vier Himmelsrichtungen ausgreifend, kann man das Nichts wirken lassen. Was hervorbringt und nährt, lebt, aber es verweilt nicht. Es wirkt, aber es profitiert nicht. Es weitet sich aus, aber es dirigiert nicht. Das nenne ich vollkommene Tugend.</p>
+<lb/>
+<p>11. Dreißig Speichen vereinigen sich im Rad. Paßt ihr Nichts, dann ist das Sein des Rades zu gebrauchen. Man höhlt den Ton, um ein Gefäss zu gestalten. Paßt sein Nichts, so ist das Sein des Gefässes zu gebrauchen. Man meiselt Türen und Fenster (bei den Felshöhlen), um Wohnungen herzustellen. Paßt ihr Nichts, so ist das Sein der Wohnung zu gebrauchen. Daher schafft das Sein den Nutzen, das Nichts schafft die Brauchbarkeit.</p>
+<lb/>
+<p>12. Die fünf Farben bringen den Menschen so weit, daß sein Auge erblindet. Die fünf Töne bringen den Menschen dahin, daß sein Ohr taub wird. Die fünf Geschmäcker bringen den Menschen dahin, daß sein Mund unempfindlich wird. Jagd und Waidwerk bringen den Menschen dahin, daß er den Verstand verliert. Schwer erhältliche Dinge bringen den Menschen dahin, daß er Verbrechen begeht. Deshalb lässt der Heilige den Magen arbeiten und beschäftigt nicht das Auge. Daher hält er sich von dem einen fern und wählt das andere.</p>
+<lb/>
+<p>13. Gunst ist ebenso schrecklich wie Unglück. Aber man achtet nur auf großes Leiden, das den Körper betrifft. Was heißt denn: Gunst und Unglück seien gleicherweise schrecklich? Nun, Gunst erniedrigt einen. Sie zu erhalten ist schrecklich, und sie zu verlieren ist auch schrecklich. Deshalb heißt es, Gunst und Unglück sind gleichermaßen schrecklich. Was heißt es dann: Man überschätzt das Übel, das den Körper betrifft? Nun, wenn ich ein großes Leiden habe, so brauche ich mich nur umzubringen. Was habe ich dann für ein Leiden? Darum ziehe ich es vor, selbst auf die Dinge in der Welt zu wirken, solange ich in der Welt verbleiben kann, und ich liebe es, selbst auf die Dinge in der Welt zu wirken, solange ich mich auf sie verlassen kann.</p>
+<lb/>
+<p>14. Wenn man späht und doch nicht sieht, so heißt das »merkwürdig«. Wenn man lauscht und doch nicht hört, so heißt das »seltsam«. Wenn man nach etwas greift und es nicht faßt, so heißt das »winzig«. Diese drei kann man nicht auf die Reihe bringen. Daher nimmt man sie zusammen und macht Eines daraus. Von oben ist es nicht hell, von unten nicht dunkel. Durch noch so vieles Erforschen kann es nicht auf den Begriff gebracht werden. Denn man kommt dabei auf das Nichts der Dinge zurück. Deshalb nennt man es Abbild der Gestalt des Nichts. Es ist die Erscheinung des Nichts der Dinge. Deshalb nennt man es auch verworren und verrückt. Davorstehend sieht man nicht seinen Kopf, ihm nachfolgend sieht man nicht seinen Hintern. Man erfaßt damit das Dao der Alten und dadurch das verborgene Sein von heute. Man kann damit den Anfang des Alten kennen. Deshalb nenne ich es die Erinnerung des Dao.</p>
+<lb/>
+<p>15. Die Wohltäter des Altertums verstanden das Winzig-Geheimnisvolle des Ursprungs. Aber seine Tiefe konnten sie nicht erkennen. Sie konnten sie noch nicht erkennen. Daher der kräftige Ausdruck ihrer Handlungen. Zunächst, wie der Winter über einen Fluß kommt, waren sie vorsichtig nach allen vier Himmelsrichtungen, aber fest in ihrer Haltung. Unregelmässig, wie das Eis zu schmelzen beginnt, betrieben sie ihre rohen Geschäfte, weitläufig wie ihre Täler, anschwellend wie der Schlamm. Wie vermochten sie den Schlamm in Ruhe sich reinigen zu lassen? Wie vermochten sie friedlich durch dauernde Bemühung Lebendiges wachsen zu lassen! Indem sie dieses Dao bewahrten und keinen Überfluß begehrten, denn es gab noch keinen Überfluß. So konnten sie unbewußt ohne Neuerungen etwas zustande bringen.</p>
+<lb/>
+<p>16. Um zur höchsten Leere zu kommen, muß man auf dasjenige achten, was die Ruhe bewahrt. Alle Dinge reihen sich aneinander. Ich erkunde darin das Wiederkehren. Mögen die Dinge wachsen und wuchern, so kehrt doch jedes zu seiner Wurzel zurück. Das Zurückgehen in die Wurzel heißt Ruhe. Das nenne ich Wiederkehr des Lebens. Die Wiederkehr des Lebens heißt Beständigkeit. Die Beständigkeit zu kennen heißt Klugheit. Die Beständigkeit nicht zu kennen ist ein verhängnisvoller Leichtsinn. Die Beständigkeit zu kennen führt zu einer geduldig-gelassenen Einstellung. Diese Haltung wird dann zur Noblesse, die Noblesse zu königlicher Art und die königliche zu himmlischer Art. Das Himmlische führt dann zum Dao. Dao aber währt dann immer. Körperliches Sterben ist keine Bedrohung (mehr).</p>
+<lb/>
+<p>17. Die höchste Herrschaft ist die, von der die Untergebenen nur ihr Dasein kennen. Die nächste ist die, welche sich bei ihnen anbiedert, so daß sie sie loben. Die nächste ist die, die sie fürchten. Die nächste ist die, die sie verhöhnen. Da gibt es nicht mehr genug Vertrauen. Man glaubt nicht einmal mehr, daß es sie gibt, selbst wenn weit und breit ihre Verlautbarungen noch ernst genommen werden. Von Erfolgen, die aus den Geschäften folgen, sagt jedermann im Volk: das ist meine eigene Angelegenheit.</p>
+<lb/>
+<p>18. Ist das große Dao weg, so gibt es Menschlichkeit und Gerechtigkeit. Schlauheit und Weisheit treten hervor, und es gibt große Falschheit. Die sechs Verwandtschaftsbeziehungen binden nicht mehr, und es gibt Pietät und Barmherzigkeit. Das Staatsvolk wird dumm und aufrührerisch, und es gibt loyale Beamte.</p>
+<lb/>
+<p>19. Schafft die Heiligkeit ab und laßt die Weisheit fahren, und es verhundertfacht sich der Nutzen für das Volk. Schafft die Menschlichkeit ab und laßt die Gerechtigkeit fahren, und das Volk kehrt zur (wahren) Pietät und Barmherzigkeit zurück. Schafft Erfolg ab und laßt Gewinn fahren, und es gibt keinen Diebstahl und keine Verbrechen mehr. Mit diesen Dreien gesittete Verhältnisse zu schaffen, das geht nicht. Laßt daher dem Sein das Seine. Seht auf das Schlichte und bewahrt das Einfache. Macht euch selbst gering und begehrt wenig.</p>
+<lb/>
+<p>20. Schafft das gelehrte Studium ab, und Nichts mehr von Sorgen. Dies und Das, wievieles kommt miteinander. Gutes und Schlechtes, wie kommt es miteinander aus? Die Angst der Menschen, die muß man fürchten, denn sie ist eine Not, weit verbreitet wie sonst nichts. Sind die Menschenmengen freudig erregt wie beim Opfern eines riesigen Opfertiers und wie wenn der Frühling über die Höhen steigt, so bleibe ich allein und lege mich nicht fest, wie ein Säugling, der noch kein Junge ist. Müde und schlapp, wie wenn das Nichts in mich einkehrt. In der Menschenmenge hat jeder seinen Überfluß. Aber ich allein bin wie verlassen. Bin ich ein Verrückter, ganz verwirrt, wo doch die Menschen sich so klug verhalten? Ich allein bin ganz betäubt, wo doch die Menschen sich so umsichtig verhalten. Ich allein bin ganz schwermütig, beschaulich in ihrem Meer schwimmend, im Wirbelsturm das ruhende Nichts. In den Menschenmengen hat ein jeder zu tun, aber ich allein bin unnütz wie ein Geizhals. Ich allein bin anders als die Menschen, aber ich halte darauf, meine Mutter zu ernähren.</p>
+<lb/>
+<p>21. Der Ausdruck hehrer Tugend ist nur die Folge des Dao. Wenn das Dao die Dinge gestaltet, dann (zuerst) nur verwirrt und nur unsicher, tatsächlich verwirrt und unsicher. Aber darin erscheint das Sein, tatsächlich, verwirrt und unsicher. Darin wird das Sein Ding. (Zuerst) zurückhaltend und geheimnisvoll. Aber darin wird das Sein zum Urstoff. Sein Urstoff ist wirklich und echt. Aber darin gewinnt das Sein Bestand. Vom Altertum bis heute ist kein Name dafür aufgekommen. Durch diese Pforte tritt alles hervor. Wieso kenne ich dies Bild des Hervorganges von allem? Weil es so ist!</p>
+<lb/>
+<p>22. Erst bruchstückhaft, dann ganz. Erst krumm, dann gerade. Erst gesenkt, dann überfließend. Erst dürr, dann frisch. Erst dürftig, dann reichlich. Erst vielfältig, dann verwirrend. Damit umfaßt der Heilige die Formgestaltungen in der Welt. Er schaut nicht auf sich selbst, darum ist er klarsichtig. Es geht ihm nicht um ihn selbst, darum stellt er etwas vor. Er rühmt sich nicht, darum hat er Erfolg. Er kümmert sich nicht um sich selbst, darum setzt er sich durch. Und nur weil er nicht streitet, kann nichts in der Welt mit ihm streiten. Wenn man schon im Altertum sagte »Erst bruchstückhaft, dann ganz«, wie sollten das hohle Worte sein? Auf das wahrhaft Ganze muß man zurückkommen!</p>
+<lb/>
+<p>23. Sparsam drückt sich die Natur aus. Darum bläst kein Sturm einen ganzen Morgen lang und kein Platzregen dauert einen Tag lang. Was bewirkt das? Himmel und Erde. Himmel und Erde fügen es, daß sie nicht immer dauern können. Aber umso mehr gilt dies für den Menschen. Darum lässt er seine Geschäfte vom Dao abhängen. Was gemäss dem Dao geschieht, ist daohaft. Was gemäss der Tugend geschieht, ist tugendhaft. Was falsch gemacht wird, ist fehlerhaft. Was aber daohaft ist, erhält man auch freigibig vom Dao. Was tugendhaft ist, erhält man auch freigibig von der Tugend. Was fehlerhaft ist, erhält man auch freigiebig aus Fehlern. Man vertraut nicht genügend darauf! Wie sollte aber das Sein nicht darauf vertrauen.</p>
+<lb/>
+<p>24. Wer auf Zehenspitzen steht, steht nicht fest. Wer aufsitzt, reitet nicht. Wer auf sich selbst schaut, sieht nicht klar. Wem es um ihn selbst zu tun ist, der stellt nichts vor. Wer sich selbst rühmt, hat Nichts an Erfolgen. Wer sich um sich selbst kümmert, setzt sich nicht durch. Auch darin gibt es ein Dao. Man nennt es: Sich überfressen und schmarotzen. Solche Sachen sind schlecht. Daher hält sich der Daohafte nicht daran.</p>
+<lb/>
+<p>25. Das Sein der Dinge bildet sich im Chaos. Es entsteht vor Himmel und Erde, ganz ruhig und still. Allein steht es und ändert sich nicht. Es gründet Bewegung, doch ohne Bedrohung. Man kann es für die Mutter der Dinge unter dem Himmel halten. Ich kenne seinen Namen nicht. Das Schriftzeichen dafür heißt »Dao«. Der Name für seine Gestaltungskraft heißt »das Große«. Das Große wird das »Vergehende« genannt. Das Vergehende wird das »Sich-Entfernende« genannt. Das Sich-Entfernende wird das »Umkehrende« genannt. Daher ist das Dao groß. Der Himmel ist groß. Die Erde ist groß. Auch Könige sind groß. In diesem Umkreis gibt es vierfaches Großes. Und die Könige behaupten sich als eines von diesen. Der Mensch reguliert die Erde. Die Erde reguliert den Himmel. Der Himmel reguliert das Dao. Dao reguliert sich selbst.</p>
+<lb/>
+<p>26. Im Wichtignehmen wurzelt die Leichtigkeit, und ruhige Gelassenheit dominiert über das Heftige. Deshalb verhält sich der Heilige am Tagesende so, daß er nicht die Wichtigkeit seiner Bürde aus dem Auge verliert, auch wenn er in großem Ansehen steht und Tafel und Wohnung prächtig sind. Und wieviel mehr, wenn er zehntausend Wagen besässe und ihm in Person alle Dinge leicht wären. Nähme er sie leicht, dann verlöre er seine Wurzel. Würde er sich aufregen, dann verlöre er seine Autorität.</p>
+<lb/>
+<p>27. Man geht gut, wo Nichts von Wagen- und Fußspuren ist. Man spricht gut, wenn man Nichts an Tadel und Kritik sagt. Man rechnet gut, wo man kein Maß braucht. Man birgt gut, wo kein Riegel verschließt, und es doch nicht geöffnet werden kann. Man bindet gut, wo keine Bindschnur bindet, und es doch nicht gelöst werden kann. Weil der Heilige darin beständig die Menschen gut unterstützt, darum gibt es keinerlei verworfene Menschen. Weil er beständig die Dinge gut unterstützt, darum gibt es keinerlei wertlose Dinge. Darüber gilt es meines Erachtens Klarheit zu gewinnen. Darum sind gute Menschen Lehrer für ungute Menschen. Ungute Menschen sind ihrerseits lehrreich für gute Menschen. Sie nicht als Lehrer schätzen und ihr Beispiel nicht lieben, und doch Einsicht in ihre großen Verfehlungen haben, das nenne ich »höchst wunderbar«.</p>
+<lb/>
+<p>28. Kennt man seine männliche Stärke und bewahrt man seine weibliche Empfindlichkeit, so wird man für alles unter dem Himmel zum Kanal, für alles zum Ableiter. Die beständige Tugend verlässt einen nicht und man wird wieder kindlich. Kennt man das Weiße und bewahrt man das Schwarze, so wird man für alles unter dem Himmel zum Vorbild, für alles zum Muster. Die beständige Tugend weicht nicht, und man kehrt wieder zum höchsten Nichts zurück. Kennt man seinen Glanz und bewahrt seine Niedrigkeit, so wird man für alle Dinge zum Abgrund, für alles zur Schlucht. Die beständige Tugend genügt dann, um wieder ganz einfach zu werden. Zerteilt sich das Einfache, so wird es dienlich. Wenn der Heilige es gebraucht, dann macht er es zu einem ausdauernden Gehilfen. Darum richten seine großen Maßregeln keinen Schaden an.</p>
+<lb/>
+<p>29. Befehlshaber möchten die Welt in Besitz nehmen und sie gestalten. Ich sehe, daß ihnen das nicht gelingt. Alles unter dem Himmel ist beseeltes Werkzeug. Man kann es nicht gestalten. Wer es gestaltet, der zerstört es. Wer es ergreift, der verliert es. Darum, weil einige Dinge vorausgehen, andere nachfolgen, einige stöhnen, andere pfeifen, einige stark sind, andere schwach, einige drängen, andere zerstören. Eben deswegen meidet der Heilige das Erstarrte, das Überschwängliche, das Großartige .</p>
+<lb/>
+<p>30. Wer mit dem Dao den Herrschern über Menschen hilft, der zwingt die Welt nicht mit Waffen. Deren Anwendung pflegt Rückwirkungen zu haben. Wo ein Herr lagerte, wächst nur noch dorniges Gestrüpp. Nach einem großen Feldzug muß es Hungerjahre geben. Das Gute hat seine Früchte, und das war es! Es traut sich nicht, dazu Gewalt zu gebrauchen. Es fruchtet, prahlt aber nicht. Es fruchtet, rühmt sich aber nicht. Es fruchtet, tut aber nicht groß damit. Es fruchtet und lässt es dabei. Es fruchtet, zwingt aber nicht. Wenn Dinge kräftig sind, aber alsbald vergreisen, so nennt man das »nicht daohaft«. Nicht Daohaftes vergeht frühzeitig.</p>
+<lb/>
+<p>31. Wohlbewaffnete Männer sind kein glückverheißendes Instrument, sondern etwas, vor dem alle zurückschrecken. Darum wird derjenige, das das Dao hat, nicht darauf setzen. Ein Fürst muß ihnen gleichwohl den ersten Rang einräumen. Benutzt er aber Waffen, dann gibt er ihnen den zweiten Rang. Denn der Soldat ist kein glückverheißendes Instrument, schon gar nicht als Instrument des Fürsten. Muß er es aber doch benutzen, dann unerschütterlich und zurückhaltend, um die Oberhand zu behalten. Den Sieg aber hält er nicht für etwas Vortreffliches. Wer nämlich diesen für etwas Vortreffliches hält, ist einer, der Gefallen daran hat, Menschen zu töten. Wer aber Gefallen daran findet, Menschen zu töten, dem kann es nicht gelingen, in der Welt seinen Willen durchzusetzen. Glückliche Unternehmungen bewertet man als Erstrangiges. Elendbringende Unternehmungen bewertet man als Zweitrangiges. So ungleich steht auch ein erstklassiger Heerführer über einem zweitklassigen Heerführer. Das drückt sich auch bei Gelegenheit von Trauerriten aus. Werden Menschen in Scharen getötet, dann werden sie mit Trauer und Mitleid beweint. Nach einem Sieg in der Schlacht aber finden (nur) Trauerzeremonien statt.</p>
+<lb/>
+<p>32. »Dao« ist ein Name für das beständige Nichts. Obwohl es als Elementares winzig ist, kann die Welt es nicht in Dienst nehmen. Wenn der Adel und die Könige es aber bewahren können, dann ist es bei der Selbstgestaltung aller Dinge mit dabei. Wenn Himmel und Erde sich vereinigen und dann süsser Tau herabfällt, wenn das Volk ohne Führung von selbst mit sich auskommt, dann nennt man die anfängliche Ordnung »Sein«, und man nennt es bis zum Ende Sein. Die Leute werden auch dazu gebracht, ihr Wissen dabei stehen zu lassen. Wenn nämlich das Wissen (beim Sein) stehen bleibt, kann dieses nicht mehr bedrohlich sein. Vergleicht man das Daohafte mit etwas in der Welt, dann ist es wie das Flußtalhafte im Verhältnis zu den Strömen und dem Meer.</p>
+<lb/>
+<p>33. Wer die Menschen kennt, ist ein Weiser. Wer sich selbst kennt, ist klug. Wer Menschen überwindet, hat Kraft. Wer sich selbst überwindet, ist stark. Wer weiß, wann er genug hat, ist reich. Wer kräftig handelt, hat Willenskraft. Wer sein Obdach nicht verliert, ist ausdauernd. Wer nach seinem Tode nicht vergessen wird, der hat ein Nachleben.</p>
+<lb/>
+<p>34. Das große Dao ist überall. Man kann es zu Hilfe nehmen. Alle Dinge stützen sich darauf, sowohl wenn sie entstehen als auch solange sie nicht vergehen. Seine Wirkungen werden nicht »Sein« genannt. Es kleidet und nährt alle Dinge, ohne sie gestaltend zu beherrschen. Das beständige Nichts strebt nur. Man kann es nach dem »Winzigen« benennen. Alle Dinge kehren immer wieder zu ihm zurück, ohne daß es sie gestaltend beherrscht. Man kann es auch dasjenige nennen, welches »Großes« bewirkt, denn schließlich bewirkt keines derselben von sich aus Großes. Eben darum kann es sie vollkommen groß machen.</p>
+<lb/>
+<p>35. Man halte sich an die Erscheinungen des Großen! Alles in der Welt kommt und geht, und in diesem Wandeln kommt nichts zu Schaden. Ruhe und Frieden ist das Höchste. Wenn der reisende Gast bei Musik und Leckereien halt macht, dann ist er am weitesten entfernt vom Dao. Fade nämlich schmeckt sein Nichts dem Geschmack. Sein Anblick bietet nicht genug zum Sehen, sein Geräusch nicht genug zum Hören, sein Gebrauch nicht genug, um damit auszulangen.</p>
+<lb/>
+<p>36. Bevor etwas sich zusammenziehen will, muß es erst einmal ausgedehnt sein. Bevor etwas schwach werden will, muß es erst einmal stark sein. Bevor etwas sich vermindern will, muß es sich erst einmal vermehrt haben. Bevor etwas nehmen will, muß es erst einmal geben. Das nenne ich »Aufklärung über das Feinste«. Das Feine und Schwache geht über das Harte und Starke. Fische kann man nicht in der Tiefsee fangen. Die schärfste Bewehrung des Staates kann man den Menschen nicht vorzeigen.</p>
+<lb/>
+<p>37. Das Dao ist beständig Nichts, das gestaltet, aber auch Nichts, das nicht gestaltet. Wenn die Adligen und Könige es bewahren können, dann werden die Dinge dahin geführt, sich von selbst zu verändern. Durch die Veränderung wollen sie schaffen. Ich leite und schütze sie durch das Einfache, das Nichts heißt. Das »Nichts« genannte Einfache bringt sie auch dahin, Nichts zu erstreben, (d. h.) nicht zu streben in stiller Ruhe. Die Dinge unter dem Himmel werden dazu gebracht, sich selbst Gestalt zu geben.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">II. Teil</note>
+
+<head>II. Teil</head>
+<p>38. Die (sogenannte) hohe Tugend ist keine Tugend. Denn es ist die Tugend des Seins. Die (sogenannte) niedere Tugend verliert nicht ihre Tugendkraft. Denn es ist die Tugend des Nichts. Die (eigentliche) hohe Tugend ist es, wenn Nichts handelt oder wenn Nichts durch sie bewirkt wird. Das aus der (eigentlichen) niederen Tugend Bewirkte ist, daß daraus Sein gestaltet wird. Das aus (eigentlicher) hoher Menschlichkeit Bewirkte ist, daß Nichts bewirkt wird. Das aus (sogenannter) hoher Gerechtigkeit Bewirkte ist, daß dadurch Sein gestaltet wird. Was aus (sogenannter) hoher Sittlichkeit geschieht, hat keinen Effekt. Dann bleibt alles trotz großer Anstrengung wie vorher. Und zwar darum, weil es (erst) nach dem Verlust des Dao die Tugend gibt, nach dem Verlust der Tugend die Menschlichkeit, nach dem Verlust der Menschlichkeit die Gerechtigkeit, nach dem Verlust der Gerechtigkeit die Sittlichkeit. Derjenige, der sich an die Sitten hält, ist arm an Loyalität und Vertrauen, und er ist der Kopf der Unordnung. Wer das Vorige versteht, ist eine Blüte des Dao und der Anfang der Schlichtheit. So ruht ein zehn Fuß hoher Mann in seiner Kraft und mimt nicht den Schlappen. Er ruht in dem, was er wirklich ist und betont nicht sein blühendes Aussehen. Darum meidet er das eine und wählt das andere.</p>
+<lb/>
+<p>39. Was von alters her besteht, dem wurde etwas Einheitliches zuteil. Der Himmel erhielt Einheitlichkeit durch die Klarheit. Die Erde erhielt Einheitlichkeit durch die Ruhe. Die Geister erhielten Einheitlichkeit durch die Beseelung. Die Täler erhielten Einheitlichkeit durch das, was sie füllte. Alle Dinge erhielten Einheitlichkeit durch das Entstehen. Adlige und Könige erhielten Einheitlichkeit dadurch, daß sie die Welt unter dem Himmel glückverheißend gestalteten. Um dies zu erreichen, brachte das Nichts als die Klarheit des Himmels es dahin, daß er sich vor dem Bersten fürchtete. Das Nichts als Ruhe der Erde brachte sie dahin, sich davor zu fürchten, aus ihrer Ruhe herauszuwachsen. Das Nichts als Beseelung der Geister brachte sie dahin zu fürchten, daß sie erstarrten. Das Nichts als Fülle der Täler brachte sie dahin zu fürchten, daß sie sich erschöpften. Das Nichts als das Lebendige an allen Dingen brachte sie dahin zu fürchten, daß sie vernichtet würden. Das Nichts als Hohes und Würdiges am Adel und bei Königen brachte sie dahin zu fürchten, daß sie fallen würden. Darum macht das Wertvolle das Geringe zu seiner Wurzel, das Hohe macht das Niedrige zu seinem Grund. Und das ist es, weshalb die Adligen und die Könige sich selber »Verweiste«, »Einsame« und »Habenichtse« nennen. Ist es daher nicht falsch, das Wertlose zur Wurzel zu machen, ist das nicht falsch? Darum gilt: Wer zuviele Wagen erlangt, hat Nichts von den Wagen. Strebe nicht danach, wie ein Juwel zu glänzen oder wie ein Klangstein zu tönen!</p>
+<lb/>
+<p>40. Die Dao-Bewegung ist ein »Gegen«, und Zartes nutzt das Dao deswegen. Das Sein ist Ursprung allen Dingen, doch lässt das Nichts das Sein entspringen.</p>
+<lb/>
+<p>41. Wenn hochgesinnte gelehrte Männer vom Dao hören, so werden sie zum Handeln angespornt. Wenn durchschnittliche Gelehrte vom Dao hören, so bewahren es die einen, und die anderen lassen es fahren. Wenn die minderen Gelehrten vom Dao hören, so lachen sie darüber. Nicht zu lachen genügt aber nicht, um mit dem Dao umzugehen. Darum definiere ich vom Seinshaften her: Klares Dao gibt es (nur), wenn es (auch) Dunkles gibt, nahendes Dao nur, wenn es sich auch entzieht, gewöhnliches Dao nur beim Mangel. Hohe Tugend gibt es (nur) wo auch Abgründe sind, großes Weiß (d. h. Tadellosigkeit) nur, wo auch Schande, weitestreichende Tugend nur, wo auch Unzulänglichkeit, gefestigte Tugend nur, wo auch die Verstohlenheit, wahrhaft Beschworenes nur, wo es auch Widerrufe gibt. Riesige Flächen begrenzen sich im Nichts, große Gewerke werden erst in (unabsehbaren) späteren Zeiten fertig, gewaltigen Krach hört man (von ferne nur) leise, riesige Erscheinungen haben Nichts an Konturen. Dao ist (dabei) unter der Bezeichnung »Nichts« verborgen. Das ist das reine Dao. Schön verspendet es sich, und es vollendet auch.</p>
+<lb/>
+<p>42. Dao bringt Einheitlichkeit hervor. Die Einheitlichkeit bringt Doppelheit hervor. Doppelheit bringt Dreifaches hervor. Dreifaches bringt die unzähligen Dinge hervor. Alle Dinge stützen sich auf Yin und bergen Yang. Als durchströmender Atem wird durch sie Harmonie geschaffen. Was bei den Menschen als Schlechtes gilt, das ist Verwaistsein, Einsamkeit und Nichtshaben. Und doch machen Könige und Fürsten das zu ihrer Bezeichnung. Bei den Dingen ist es daher so, daß bei einigen eine Schädigung nützlich ist, und bei einigen ihr Nutzen ein Schaden ist. Was bei den Menschen als Gemeinplatz gilt, davon habe ich mich auch überzeugt: Was fest gefügt ist, dem passiert es nicht, daß es einstürzt. Mich bringt es dazu, daraus meine Grundlehre zu machen.</p>
+<lb/>
+<p>43. Was in der Welt Geschmeidigkeit erreicht hat holt im Galopp dasjenige ein, was hart geworden ist. Das Sein am Nichts dringt in die Zwischenräume des Nichts ein. Daher weiß ich um die Seinsfülle der Wirkungen des Nichts. Wie man ohne Worte lehrt, so bewirkt das Nichts die Fülle. Alles in der Welt strebt danach, dies zu erreichen.</p>
+<lb/>
+<p>44. Ist einem der (gute) Ruf oder die (eigene) Person lieber? Zählt die Persönlichkeit oder der Besitz mehr? Ist einem Bekommen oder Verlieren schmerzlicher? Es gilt doch: Wahre Liebe muß sich großzügig verschenken. Und bei viel Vermögen muß man dicke Verluste hinnehmen. Um das Auslangen zu wissen, ist keine Schande. Und zu wissen, wann man aufhören muß, ist ungefährlich. Damit kann man lange bestehen.</p>
+<lb/>
+<p>45. Große Leistungen gibt es nur, wenn es Mangel gibt. Ihn zu nutzen ist kein Betrug. Große Fülle gibt es nur beim Überfluß. Ihn zu nutzen erschöpft ihn nicht. Große Geradheit gibt es nur, wenn es auch Krummheit gibt, Geschicklichkeit nur wenn auch Ungeschicklichkeit, große Debatten nur wenn man sorgfältig redet. Hitze geht zwar über Kälte, aber Ruhe geht über Aufgeregtheit. Klare Ruhe bringt alles unter dem Himmel ins Lot.</p>
+<lb/>
+<p>46. Gilt in der Welt das Sein als Dao, dann lehnt man es ab, mit dem Kot der Reitpferde zu düngen. Gilt in der Welt das Nichts als Dao, dann wachsen die Kriegspferde vor den Städten (von selbst) heran. Kein grösseres Verhängnis als nicht zu wissen, wann es genug ist! Kein grösseres Übel als das Bekommenwollen! Darum gilt: Genügend zu wissen, wann es genug ist, ist für immer genug!</p>
+<lb/>
+<p>47. Ohne aus der Tür zu gehen, kennt man die Welt. Ohne aus dem Fenster zu spähen, sieht man das Himmels-Dao. Geht man aber aus ihr heraus, so entfernt sich alles immer mehr, und das Wissen um dieses (Himmelsdao) wird immer geringer. Darum kennt sich der Heilige ohne zu reisen aus. Er nennt die Dinge beim Namen ohne herumzuspähen, und er bringt etwas zustande ohne einzugreifen.</p>
+<lb/>
+<p>48. Sich mit gelehrten Studien zu befassen, füllt die Tage reichlich aus. Sich mit dem Dao zu befassen, macht die Tage kürzer. Indem sie (einem) kürzer und immer kürzer werden, kommt man dadurch schließlich dahin, daß das Nichts wirkt. Das Nichts wirkt, oder das Nichts wirkt nicht. Die Dinge in der Welt erfaßt man dauerhaft nur dadurch, das das Nichts geschäftig ist. Hält man sich aber an die Geschäftigkeit des Seins, dann genügt das nicht für die Erfassung der Dinge in der Welt.</p>
+<lb/>
+<p>49. Der Heilige hat im Sinn, das Nichts beständig zu machen. Und er hat im Sinn, dadurch auch den Sinn der Leute darauf auszurichten. Wer gut ist, ist auch für mich gut. Und wer nicht gut ist, ist für mich auch gut. Tugend ist gut. Wer vertrauenswürdig ist, dem vertraue ich. Wer nicht vertrauenswürdig ist, dem schenke ich trotzdem Vertrauen. Tugend ist Vertrauenswürdigkeit. Der Heilige in der Welt wirkt ganz konzentriert darauf hin, daß alle unter dem Himmel von diesem Sinn ganz und gar durchdrungen werden. Die Heiligen sind alle kindlich.</p>
+<lb/>
+<p>50. Geborenwerden ist ein Eintritt ins Sterben. Die Menge der Lebendgeborenen ist drei von zehn. Die Menge der Totgeburten ist drei von zehn. Die Menge der Menschen, die am Leben bleiben und die vom Tod bewegt werden beträgt auch drei von zehn. Warum ist das so? Weil diese für ihr Leben lebenskräftig sind. Nun hört man, daß es welche gibt, die das Leben gut meistern. Auf Landreisen sind sie nicht auf Nashörner und Tiger gestoßen. Als sie ins Heer eintraten, sind sie nicht durch Panzerung und Waffen verletzt worden. Das Nashorn hatte Nichts, um sein Horn hineinzustoßen. Der Tiger hatte Nichts, um seine Pranke hineinzuhauen. Der Soldat hatte Nichts, was seinen Schwerthieb erdulden mußte. Und warum? Weil für sie Nichts zum Sterben da- war.</p>
+<lb/>
+<p>51. Was vom Dao stammt, wird von der Tugend umhegt, nimmt Gestalt an als Ding, vollendet sich in Lagen. Und deshalb gibt es keines von allen Dingen, welches nicht das Dao verehrt und die Tugend schätzt. Die Verehrung des Dao und die Schätzung der Tugend geschieht ohne Befehl und ist von selbst beständig. Daher ist das Dao lebenspendend, die Tugend hegend, langmütig und erzieherisch, zuweilen grausam, ernährend und beschirmend. Hervorbringen, aber nicht behalten, gestalten, aber nicht ausnützen, gerade ausrichten, aber nicht dirigieren, das nenne ich elementare Tugend.</p>
+<lb/>
+<p>52. Das Sein in der Welt hat einen Anfang. Der wird zur Mutter der Dinge in der Welt. Da sie eine Mutter bekommen haben, so kennt man dadurch ihre Kinder. Da man ihre Kinder kennt, schützt man umgekehrt auch ihre Mutter, denn niemand ist ungefährdet. Wenn sie ihre Güter verschließt und (gleichsam) ihren Laden geschlossen hält, dann macht keiner mehr einen Finger krumm. Wenn sie ihre Güter aber feilbietet und sich um ihr Geschäft kümmert, dann bleibt schließlich niemandem mehr ein Wunsch offen. Winziges zu bemerken heißt Klugheit, Schwaches zu beschützen heißt Stärke. Deren Sichtbarkeit zu nutzen und immer wieder auf seine Klugheit zurückzukommen, aber das Nichts außer acht zu lassen, das ist für jeden gefährlich. Und zwar, weil man sich daran gewöhnt, daß dies beständig sei.</p>
+<lb/>
+<p>53. Falls ich nur wüsste, mich um das reine Sein zu kümmern, dann ginge ich auf der Heerstraße. In ihrer puren Erstreckung ist sie angsteinflössend. Die Heerstraße ist in der Tat barbarisch, aber das Volk liebt gerade Wege. Da gibt es in der Tat reichlich Höfe, aber die Felder sind ganz überwuchert, die Getreidespeicher ganz leer, die Kleider aber sind schön bestickt, am Gürtel trägt man scharfe Schwerter, man ißt und trinkt bis zum Überdruß, Vermögen und Warenangebot gibt es reichlich. Das ist es, was man ein »Dao«-(Räuber)system nennt. Aber das ist nicht der Dao-Weg.</p>
+<lb/>
+<p>54. Was gut befestigt ist, wird nicht ausgerissen. Was gut verwahrt ist, wird nicht fortgenommen. Wenn Kinder und Enkel nicht aufhören, die Ahnenopfer darzubringen und ihre Persönlichkeit auszubilden, dann ist das eine Grundlage für ihre Tugend. Sorgen sie für die Familie, dann ist ihre Tugend noch grösser. Sorgen sie für ihre Gemeinde, dann ist ihre Tugend weitreichend. Sorgen sie für ihren Staat, dann ist ihre Tugend überreich. Sorgen sie sich um alles in der Welt, dann ist ihre Tugend allumfassend. Darum muß man von der (eigenen) Person aus die Persönlichkeiten prüfen, von der Familie aus die Familien ansehen, von der Gemeinde aus die Gemeinden beobachten, vom Staat aus die Staaten beurteilen, von den Dingen in der Welt aus die Dinge in der Welt anschauen. Woher sollte ich denn die Dinge in der Welt kennen? Eben dadurch!</p>
+<lb/>
+<p>55. Wie man die Tugend als Vermögen in sich birgt, sieht man an einem Säugling. Wenn ihn die Wespen, Skorpione, Nattern und Schlangen nicht durch ihren Biß vergiftet, wilde Tiere ihn nicht zur Beute genommen, Raubvögel ihn nicht ergriffen haben, dann packt er trotz zarten Knochen und weichen Muskeln fest zu. Er kennt die Vereinigung von Weiblichem und Männlichem nicht, aber seine (Geschlechts-)Organe sind schon ganz ausgebildet. Sie haben schon eine gewisse Vollkommenheit erreicht. Wenn er bis zum Tagesende schreit, so wird er doch nicht heißer. Er hat schon eine gewisse Übereinstimmung mit sich selbst erreicht. Diese Übereinstimmung zu kennen heißt Beständigkeit. Die Beständigkeit zu kennen, heißt Klugheit. Prächtig zu gedeihen, verspricht Glück. Der vom Herzen ausgehende Lebensatem heißt Stärke. Sind die Sachen aber kräftig ausgebildet, und er ist alsbald gebrechlich, so nennt man das »daolos«. Das Daolose geht früh zugrunde.</p>
+<lb/>
+<p>56. Was gewußt wird, kommt nicht zur Sprache. Und was zur Sprache kommt, ist kein Wissen. Sich dem Austausch verweigern, sich bedeckt halten, dabei Spitzen zu entschärfen, Unterscheidungen verwässern, sich in helles Licht stellen und schmutzige Dinge vorbringen, das nennt man elementare Unterhaltung. Dadurch kommt es aber nur zu Vertraulichkeiten, man ruft nur Befremden hervor, man kann nur Vorteile einheimsen und man kann nur Schaden anrichten, es kommt nur zu Bewertungen, und es kommt nur zu Diskriminierungen. Und dadurch wird alles unter dem Himmel interessant.</p>
+<lb/>
+<p>57. Mit Korrekturen den Staat regieren, auf geheimnisvolle Weise das Militär einsetzen, mit dem dienstbaren Nichts die Dinge unter dem Himmel in den Griff nehmen, wie geht das? Folgendermaßen: Gibt es in der Welt viel Mißgunst und Tabus, so breitet sich im Volk die Armut aus. Hat das Volk viel nützliche Gerätschaften, so wird die Bevölkerung immer dümmer. Haben die Menschen viel Geschicklichkeit und Erfindungsreichtum, dann entstehen zahlreiche wunderbare Sachen. Werden Gesetze und Befehle reichlich verkündet, dann gibt es viele Diebe und Gewaltverbrecher. Darum sagt der Heilige: Wenn ich das Nichts wirken lasse, so entwickelt sich das Volk von diesem her. Wenn ich die Ruhe liebe, so korrigiert sich das Volk von daher. Wenn ich das Nichts geschäftig mache, so wird das Volk von daher reich. Wenn ich das Nichts streben lasse, dann wird das Volk von daher einfältig.</p>
+<lb/>
+<p>58. Solche Herrschaft geschieht ganz heimlich, und ein solches Volk ist ganz ehrlich. Kontrolliert und prüft solche Herrschaft aber alles streng, dann findet sie in ihrem Volk lauter Mängel und Fehler. Das Unglück ist sozusagen die Unterlage des Glücks, und das Glück verbirgt sich gewissermaßen hinter dem Unglück. Wer weiß, wann der Gipfel davon erreicht ist? Wenn da das Nichts korrigierend eingreift! Die Korrektur wirkt wiederum Wunder. Das Gute wirkt wiederum auf wunderbare Weise, auch wenn die Verirrungen der Menschen sich täglich verfestigt haben. Das also rückt der Heilige zurecht, aber er richtet keinen Schaden an. Er hält sich bescheiden zurück, aber er verletzt nicht. Er ist geradeheraus, aber nicht zügellos. Er hat Ausstrahlung, aber er blendet nicht.</p>
+<lb/>
+<p>59. Betreibt der Himmel das Geschäft der Menschenregierung, dann (tut er es) mit unvergleichlicher Sparsamkeit, ja mit purem Geiz! Da heißt es, sich beizeiten darauf einstellen! Sich beizeiten darauf einstellen heißt: die Tugend des Anhäufens (Sparens) wichtig nehmen. Hat man die Tugend des Wichtignehmens des Sparens, dann ist das Nichts dem nicht gewachsen. Leistet das Nichts keinen Widerstand, dann kennt keiner mehr seine Grenzen. Kennt keiner mehr seine Grenzen, dann kann es den Seins-Staat geben. Ist das Sein die Mutter des Staates, dann kann er lange beständig sein. Man nennt das »tiefe Wurzel und feste Begründung«. Es ist das Dao eines ausgebreiteten Wachstums und einer langdauernden Ansehnlichkeit.</p>
+<lb/>
+<p>60. Wie man bei der Regierung eines großen Staates kleine Fische brät, so verwaltet man mit dem Dao die Dinge unter dem Himmel. Dabei Dämonen anzunehmen ist geistlos, und Dämonen zu leugnen, ist (auch) geistlos. Solche Geister schaden den Menschen nicht. Und solche Geister zu leugnen, schadet den Menschen (auch) nicht. Auch der Heilige schadet den Menschen nicht. Und so schadet alles beides nicht. Darum geht die Tugend auf beides zurück!</p>
+<lb/>
+<p>61. Ist ein großer Staat in seinem Wesen verderbt, so verkehren sich die Dinge unter dem Himmel. Das weibliche Element unter dem Himmel, dies Weibliche überwindet beständig in aller Ruhe das Männliche. In aller Ruhe wirkt es als Unterlegenes. Darum nimmt ein großer Staat, der einem kleinen Staat unterliegt, dann die Kleinstaatlichkeit an. Ein kleiner Staat, der einem großen Staat unterliegt, nimmt dann die Großstaatlichkeit an. Darum sind einige durch die Übernahme unterlegen, und andere übernehmen durch ihre Unterlegenheit. Große Staaten wollen nicht mehr, als ihre Menschen zusammenzuhalten und sie zu ernähren. Kleine Staaten wollen nicht mehr, als geschäftige Menschen aufzunehmen. Damit jedes von beiden seinen diesbezüglichen Willen bekommt, zeigt der große offen, daß er sich zum Unterlegenen macht.</p>
+<lb/>
+<p>62. Das Daohafte ist das Geheimnisvollste an allen Dingen und das Wertvollste an den guten Menschen. Was schlechte Menschen sozusagen in sich bergen, das kann man mit schönen Worten bemänteln. Wenn man ihre Handlungsweisen rühmt, dann kann man die Menschen noch darin bestärken. Das Ungute am Menschen, was ist es, wodurch man es beseitigt? Dazu hat man das Kaisertum errichtet und die drei Herzöge (die ersten Minister) eingesetzt. Wenn sie auch vor ihren Vierspännern Kleinodien vorantragen ließen, so doch nicht als Einsetzung und Beförderung dieses Daos. Was hatte es also bei den Vorfahren mit der sogenannten Wertschätzung dieses Daohaften auf sich? Keine Rede davon, es durch Bitten zu erhalten! Es gab Strafen, um dadurch Verderbnisse zu verhindern. Dadurch machten sie alles unter dem Himmel wertvoll.</p>
+<lb/>
+<p>63. Bewirke, daß das Nichts wirkt. Schaffe, daß das Nichts schafft. Schmecke, wo es nach Nichts schmeckt. Ob groß oder klein, viel oder wenig, erwidere Mißgunst mit Tugend. Plane Schwieriges im Ausgang von dem, was daran leicht ist. Bewirke Großes von dem aus, was daran winzig ist. Alle schwierigen Unternehmungen müssen vom Leichten aus gemacht werden. Alle großen Unternehmungen müssen vom Winzigen aus gemacht werden. Deshalb bewirkt der Heilige nicht vom Ende her Großes. Darum kann er seine großen Leistungen vollbringen. Wer leicht etwas verspricht, muß alleine dafür geradestehen. Wo viel Leichtes ist, muß es auch viel Schwieriges geben. Deshalb ist der Heilige vergleichweise etwas Schwieriges. Denn letzten Endes ist das Nichts schwierig.</p>
+<lb/>
+<p>64. Was stillhält, ergreift man leicht. Was noch nicht entschieden ist, verspricht man leicht. Sprödes zergeht leicht. Kleinigkeiten zerstreuen sich leicht. Geschaffenes kommt aus dem noch nicht Seienden. Geordnetes kommt aus dem noch nicht Verwirrten. Ein Baum, den man mit beiden Armen umfaßt, wächst aus einem winzigen Samenkorn. Ein neunstöckiger Turm entsteht aus aufgehäufter Erde. Eine Reise von tausend Meilen beginnt mit dem ersten Schritt. Aber der Schaffende schädigt und der Zupackende macht Fehler. Deshalb lässt der Heilige das Nichts wirken, und darum entsteht Nichts an Schaden. Er lässt das Nichts zupacken, und darum entsteht Nichts an Verlusten. Geht das Volk seinen Geschäften nach, wieviel Schaden wird da beständig angerichtet. Würde man diesen Endeffekt ebenso wie den Anfang bedenken, dann gäbe es Nichts von schädlichen Geschäften. Darum will der Heilige wunschlos sein. Er schätzt nicht schwer zu erhaltende Güter. Er lernt, ohne zu studieren. Er stellt wieder her, was die Masse der Menschen Übles angerichtet hat. Indem er die Natur aller Dinge unterstützt, schafft er ohne Übermut.</p>
+<lb/>
+<p>65. Diejenigen von den Vorfahren, die das Daohafte gut betrieben, machten sie nicht das Volk dadurch klug, ehe sie es dadurch schlicht machten? Ein Volk ist schwer zu regieren. Nur wenn es in ihm viel Weisheit um dieses (Dao) gibt, wird darum der Staat mit Weisheit regiert. Rebellion gegen einen nicht mit Weisheit regierten Staat ist ein Segen für den Staat. Mit dem Wissen um dieses beides prüft man auch die Form. Beständiges Wissen um die Prüfung der Form, das ist es, was ich elementare Tugend nenne. Die elementare Tugend ist tiefgründig und sie ist weitreichend und sie setzt instand, die Dinge umzukehren. Erst danach findet man das, was im Großen paßt.</p>
+<lb/>
+<p>66. Flüsse und Meere können sich bekanntlich hunderter Täler bemächtigen. Ihr Gutes liegt im Abwärtsfließen. Darum können sie sich zu Königen über hunderte von Tälern machen. In gleicher Weise muß derjenige, der über ein Volk herrschen will, sich mit seinen Worten unter das Volk stellen. Will er das Volk führen, so muß er für seine Person hinter ihm bleiben. Deswegen behält der Heilige seine Hoheit nur, wenn das Volk es nicht bemerkt. Er bleibt nur vor ihm, wenn das Volk nicht leidet. Und nur dann gibt ihm alle Welt mit Freuden nach und wird seiner nicht überdrüssig. Um ihn gibt es keinen Streit. Darum kann in der Welt keiner mit ihm streiten.</p>
+<lb/>
+<p>67. Alle Welt sagt mir, das Dao sei ein zu großes Vorbild, als daß man ihm folgen könne. Es sei schlechtweg zu groß, und darum könne man ihm nicht folgen. Folgt man ihm aber lange, ist es eher zu klein. Ich habe drei Kleinode, die ich festhalte und bewahre. Das erste heißt Sanftmut. Das zweite heißt Mässigkeit (Sparsamkeit). Das dritte heißt: Sich nicht übermütig allem in der Welt voransetzen. Auf Grund der Sanftmut kann man mutig sein. Auf Grund der Sparsamkeit kann man großzügig sein. Auf Grund des Sich-nicht-allem-übermütig-Voranstellens kann man es fertigbringen, lange tauglich zu sein. Wo jetzt Sanftmut weilt, da ist bald Mut. Wo Sparsamkeit weilt, da ist bald Großzügigkeit. Wo Zurückhaltung weilt, da ist man bald voraus. Kommt es zum Sterben und man hat keine Sanftmut, dann kämpft man schrecklich, ehe man erliegt. Bewahrt man sie aber, dann ist man standhaft. Was der Himmel erlösen will, das begleitet er mit Sanftmut.</p>
+<lb/>
+<p>68. Was einen guten Soldaten ausmacht, das ist nicht das Kriegerische. Wer gut kaempft, der gerät nicht in Wut. Wer einen Gegner gut besiegt, der rächt sich nicht dabei. Wer Menschen gut einsetzt, der hat sich unter sie gestellt. Das nennt man die Tugend des Nicht-Wetteiferns. Das heißt: die Kräfte der Menschen einsetzen, und es heißt: nach bester Tradition dem Himmel entsprechen.</p>
+<lb/>
+<p>69. Für den Einsatz von Truppen gibt es eine Maxime: Ich imponiere nicht durch Bravour, sondern wirke nur als Beteiligter. Ehe ich kühn einen Zoll vorrücke, ziehe ich mich lieber einen Schritt zurück. Das nennt man: marschieren, indem Nichts marschiert, abwehren, indem Nichts einen Arm rührt, niederwerfen, indem Nichts angreift, einnehmen mit der Waffe des Nichts. Man mache das Unglück für schwache Gegner nicht noch grösser! Wieviele schwache Gegner sind umgekommen, die mir teuer waren. Darum leiste man nur einem gleichstarken Truppenaufgebot Widerstand. Und man sei ein mitleidiger Sieger!</p>
+<lb/>
+<p>70. Meine Worte sind wirklich leicht zu verstehen und wirklich leicht auszuführen. Es kann sie aber in der Welt keiner verstehen und keiner kann sie ausführen, der nur die Worte über das Sein ernst nimmt und sich nur vornehm mit dem Seienden beschäftigt. Hinsichtlich des Wissens über das reine Nichts versteht er mich nicht. Wer mich versteht, weiß dann auch dieses von mir zu schätzen. Und deshalb bewahrt der Heilige diesen Edelstein unter seinem ärmlichen Gewand.</p>
+<lb/>
+<p>71. Das Nichtwissen zu kennen ist etwas Hohes. Vom Wissen keine Ahnung zu haben, ist eine Krankheit. Wer freilich an dieser Krankheit erkrankt ist, der leidet nicht darunter (»Dummheit tut nicht weh!«). Der Heilige leidet (auch) nicht darunter. Und das ist seine Krankheit, unter der er leidet: eben daß man nicht darunter leidet.</p>
+<lb/>
+<p>72. Das Volk hat keine Angst vor dem Erlöschen, bis dann das große Erlöschen kommt. Das Nichts wohnt sozusagen vertraut bei ihm, und das Nichts verschmäht sein sogenanntes Leben. Jedoch wendet Euch ja nicht von ihm ab! Denn es wendet sich auch nicht von Euch ab. Deshalb sieht der Heilige, der sich selbst kennt, nicht auf sich selbst. Bei aller Eigenliebe macht er mit sich nicht viel daher. Darum meidet er das eine und wählt das andere.</p>
+<lb/>
+<p>73. Mut bis zur Tollkühnheit ist tödlich. Mut ohne Tollkühnheit ist lebenserhaltend. Das eine von beiden bringt Nutzen, das andere Schaden. Was man das Übel in der Welt nennt, wer kennt seinen Grund? Darüber gerät selbst der Heilige noch in Verlegenheit. Das himmlische Dao wetteifert nicht und überwindet doch gut. Es spricht nicht und antwortet doch gut. Ungerufen kommt es doch von selbst. Es lässt den Dingen ihren Lauf und plant doch gut. Das Himmelsnetz ist weitgespannt. Es gibt nach, hat aber keine Lücken.</p>
+<lb/>
+<p>74. Das Volk hat keine Angst vor dem Tode. Es ist also aussichtslos, es mit dem Tod (als Strafe) einzuschüchtern. Gesetzt jedoch, das Volk werde dazu gebracht, den Tod beständig zu fürchten, und es würde etwas Außerordentliches daraus machen, dann erreichte ich nur, daß man jeden Verhafteten töten würde. Wer wäre so tollkühn (so weit zu gehen)? Zum Töten gibt es seit jeher Scharfrichter. Schafft doch das Töten durch Scharfrichter ab. Ich meine, laßt sie Zimmermannsarbeit verrichten. Macht ihr sie zu Zimmerleuten, dann werden sie bestrebt sein, nicht (einmal) ihre Hände zu verletzten.</p>
+<lb/>
+<p>75. Hungersnot im Volk kommt dadurch auf, daß seine Oberen zu viele Steuern verzehren. Daher der Hunger. Das Volk ist schwer zu regieren, weil es seinen Oberen (nur) um das Sein geht. Daher ist es schwer zu regieren. Das Volk nimmt den Tod leicht, weil seine Oberen (nur) das Leben voll zu genießen trachten. Deswegen nimmt das Volk den Tod leicht. Laßt ihr aber das Nichts das Leben gestalten, dann ist das weiser als das Leben hochzuschätzen.</p>
+<lb/>
+<p>76. Wenn die Menschen geboren werden, sind sie zart und schwach. Wenn sie sterben, sind sie hart und stark. Die Gräser und Bäume sind beim Aufsprossen zart und brüchig. Im Tod aber sind sie morsch und welk. Darum geht das Feste und Starke mit dem Tode einher, und das Weiche und Schwache geht mit dem Lebendigen einher. Und deswegen härtet man die (tödlichen) Waffen bis es nicht mehr überboten werden kann, und die Bäume macht man erst, wenn sie stark sind, zu Waffen. Die grösste Stärke wohnt dem unteren Teil inne. Zartes und Schwaches bleibt im oberen Teil.</p>
+<lb/>
+<p>77. Das himmlische Dao! Sein Gewährenlassen ist wie das Spannen eines Bogens: Was heraussteht wird zurückgedrückt, und was zurücksteht wird nach vorn gedrückt. Was Überfluß hat, wird gemindert, und was nicht genügt, wird ergänzt. Das himmlische Dao mindert den Überfluß des Seins, aber es hilft dem Ungenügen ab. Die menschliche Dao-Regel ist nicht so. Man schädigt das Ungenügende dadurch, daß man Seinsüberfluß hinnimmt. Was vermag der Seinsüberfluß durch die Vereinnahmung aller Dinge unter dem Himmel? Nur Seins-Daohaftes! Deshalb handelt der Heilige, ohne es sich zunutze zu machen, und er vollbringt Leistungen, ohne dabei zu bleiben. Seine Wunschlosigkeit erscheint als Weisheit.</p>
+<lb/>
+<p>78. In der Welt gibt es nichts, was so weich und schwach ist wie das Wasser. Aber für die Bearbeitung von Festem und Hartem kann es nichts besseres geben. Durch sein Nichts als Leichtes und Schwaches überwindet es das Harte. Daß das Weiche das Harte überwindet, ist keinem in der Welt unbekannt, denn sonst könnte nichts gelingen. Deshalb sagt der Heilige: »Nimmt es den schmutzigen Abfall des Landes auf, dann nennt man es den Herrn über Felder und Früchte. Leitet es die drohende Katastrophe (der Überschwemmung) des Landes ab, dann macht es sich zum König der Welt.« Richtige Worte, (die) wie ein Widerspruch (klingen)!</p>
+<lb/>
+<p>79. Wenn man großen Groll versöhnt, so muß doch ein Rest an Mißgunst übrigbleiben. Kann eine solche Schlichtung wohl etwas Gutes bewirken? Deswegen kümmert sich der Heilige um solche ungeschickten Vereinbarungen und macht sie den Menschen nicht zum Vorwurf. Die Tugend des Seins sieht nur auf die Vereinbarungsurkunde, die Tugend des Nichts sieht auf ihre Gründe. Das Himmelsdao steht dem Nichts nahe. Stets gibt es den Menschen das Gute.</p>
+<lb/>
+<p>80. In einem kleinen Staat ist das Volk ganz für sich. Man lässt es vielfältige ausgezeichnete Geräte besitzen, aber ohne daß sie benutzt werden. Man lässt das Volk die Todesstrafe ernst nehmen, aber man verbannt nicht in die Ferne. Wenn es auch Schiffe und Fahrzeuge gibt, so fährt gleichsam Nichts damit. Und wenn es auch bewaffnete Streitkräfte gibt, so werden sie sozusagen für Nichts aufgestellt. Man lässt die Menschen die Schnurknotenschrift wieder herstellen und sie auch benutzen. Ihre Speisen sind wohlschmeckend, ihre Kleider schön, ihre Wohnungen sicher, ihre Umgangsformen angenehm. Die Nachbarstaaten achten sich gegenseitig, und man hört jeweils von der anderen Seite die Stimmen der Hähne und Hunde. Das Volk erreicht ein hohes Alter, ohne sich gegenseitig zu besuchen.</p>
+<lb/>
+<p>81. Ehrliche Worte sind nicht schön. Schöne Worte sind nicht ehrlich. Wer es gut meint, disputiert nicht. Wer disputiert, meint es nicht gut. Der Sachkenner ist nicht weitschweifig, und der Weitschweifige ist nicht sachkundig. Der Heilige ist nicht kompliziert, und das macht sein Menschsein aus. Je mehr er selbst hat, um es den Menschen zu geben, umso vielseitiger ist er selbst. Auf dem Weg des Himmels (Tian Zhi Dao) stiftet er Nutzen, aber er bringt keinen Schaden. Auf dem Weg des Heiligen (Sheng Ren Zhi Dao) gestaltet er, aber ohne zu streiten.</p>
+
+</div>
+
+</body></text></TEI>

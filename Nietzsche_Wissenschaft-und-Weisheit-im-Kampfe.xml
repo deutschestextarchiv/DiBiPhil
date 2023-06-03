@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in drei Bänden</title>
+        <title type="volume">Band 3</title>
+        <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Friedrich Nietzsche: Werke in drei Bänden. Band 3, Herausgegeben von Karl
+      Schlechta. München: Hanser, 1954.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in drei Bänden</title>
+      <title level="m" type="volume" n="3">Band 3</title>
+      <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+        <forename>Karl</forename>
+        <surname>Schlechta</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Hanser</name>
+      </publisher><pubPlace>München</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1875.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Wissenschaft und Weisheit im Kampfe</note>
+
+<head>Friedrich Nietzsche</head>
+<head>Wissenschaft und Weisheit im Kampfe</head>
+<pb n="332" facs="#f0001"/>
+<p>Wissenschaft (NB. <hi rendition="#i">bevor sie</hi> Gewohnheit und Instinkt ist) entsteht</p>
+<list><item>
+1. wenn die Götter nicht gut gedacht werden. Großer Vorteil, irgend etwas als fest zu erkennen;</item><lb/><item>
+2. der Egoismus treibt den einzelnen an, bei gewissen Beschäftigungen, z. B. Schiffahrt, seinen Nutzen zu suchen durch Wissenschaft;</item><lb/><item>
+3. etwas für vornehme Leute, die Muße haben –, Neugierde;</item><lb/><item>
+4. im wilden Hin und Her der Meinungen des Volkes will der einzelne ein festeres Fundament.</item></list>
+<lb/>
+<p>Wodurch unterscheidet sich dieser Trieb zur Wissenschaft vom Triebe, überhaupt etwas zu lernen und anzunehmen? Nur durch den geringeren Grad des Egoismus oder die weitere Spannung desselben. <hi rendition="#i">Einmal</hi> ein Sichverlieren in die Dinge. <hi rendition="#i">Zweitens</hi> eine über das Individuum ausgedehnte Selbstsucht.</p>
+
+<p>Weisheit zeigt sich</p>
+<list><item>
+1. im unlogischen Verallgemeinern und zum letzten Ziele fliegen,</item><lb/><item>
+2. in der Beziehung dieser Resultate auf das Leben,</item><lb/><item>
+3. in der unbedingten Wichtigkeit, welche man seiner Seele beilegt. Eins ist not.</item></list>
+<lb/>
+<p>Sokratismus ist</p>
+<p rendition="#et"><hi rendition="#i">einmal</hi> Weisheit im Ernstnehmen der Seele,</p>
+<p rendition="#et"><hi rendition="#i">zweitens</hi> Wissenschaft als Furcht und Haß vor der unlogischen Verallgemeinerung,</p>
+<p rendition="#et"><hi rendition="#i">drittens</hi> etwas Eigentümliches durch die Forderung des bewußten und logisch korrekten Handelns. Dadurch entsteht Schaden für die Wissenschaft, für das ethische Leben.</p>
+<lb/>
+<p>Sokrates, um es nur zu bekennen, steht mir so nahe, daß ich fast immer einen Kampf mit ihm kämpfe.</p>
+<list><item>
+<pb n="333" facs="#f0002"/> 1. Wie zeigt sich in diesen älteren Griechen die Welt gefärbt?</item><lb/><item>
+2. Wie verhalten sie sich zu den Nichtphilosophen?</item><lb/><item>
+3. An ihren Personen liegt viel: diese zu erraten ist der Sinn meiner Betrachtung ihrer Lehren.</item><lb/><item>
+4. Wissenschaft und Weisheit im Kampfe mit ihnen.</item><lb/><item>
+5. Ironische Novelle: alles ist falsch. Wie der Mensch sich an einen Balken klammert.</item></list>
+<lb/>
+<p>Es gibt auch eine Art, diese Geschichte zu erzählen,<hi rendition="#i"> ironisch</hi> und <hi rendition="#i">voll Trauer.</hi> Ich will jedenfalls den ernsthaft-gleichmäßigen Ton vermeiden.</p>
+<p rendition="#et">Sokrates <hi rendition="#i">wirft</hi> das <hi rendition="#i">Ganze um</hi> in einem Augenblick, wo es sich der Wahrheit noch am <hi rendition="#i">meisten</hi> genähert hatte; das ist besonders <hi rendition="#i">ironisch.</hi></p>
+<p rendition="#et">Alles auf dem Hintergrund des Mythus aufzumalen. Dessen grenzenlose Unsicherheit und Wogen. Man sehnt sich nach Sicherem.</p>
+<p rendition="#et">Nur wohin der Strahl des Mythus fällt, da leuchtet das Leben der Griechen; sonst ist es düster. Nun berauben sich die Philosophen des Mythus; aber wie halten sie es in dieser Düsterkeit aus? –</p>
+<p rendition="#et">Das Individuum, welches <hi rendition="#i">auf sich selbst</hi> stehen will – da braucht es <hi rendition="#i">letzte Erkenntnisse,</hi> Philosophie. Die andern Menschen brauchen langsam anwachsende Wissenschaft.</p>
+<p rendition="#et">Auch die Unabhängigkeit ist nur scheinbar: zuletzt knüpft jeder an seinen Vorgänger an. Phantasma an Phantasma. Es ist komisch, alles so ernst zu nehmen. Die ganze ältere Philosophie als kurioser <hi rendition="#i">Irrgarten</hi>gang der Vernunft. Es ist eine Traum- und Märchentonart anzustimmen.</p>
+<lb/>
+<p>Nebeneinander geht die Entwicklung der griechischen <hi rendition="#i">Musik</hi> und <hi rendition="#i">Philosophie.</hi> Vergleich beider, insofern beide Aussagen machen über das hellenische Wesen. Die Musik freilich nur aus ihrem Niederschlag der Lyrik uns bekannt.</p>
+<p>Empedokles – Tragödie Sakrale Monodie</p>
+<p>Heraklit – Archilochus Xenophanes</p>
+<p>sympotisch</p>
+<p>Demokrit – Anakreon</p>
+<p>Pythagoras – Pindar (Alles Vergleichen von</p>
+<p>Anaxagoras – Simonides Personen ist schief und</p>
+<p>dumm.)</p>
+<p><pb n="334" facs="#f0003"/> </p>
+<p>Es hängt so viel von der Entwicklung der griechischen Kultur ab, da unsre ganze abendländische Welt daher ihre Antriebe bekommen hat: das Verhängnis wollte, daß das jüngere und entartete Griechentum am meisten historische Kraft gezeigt hat. Darüber ist das ältere Griechentum immer falsch beurteilt worden. Das jüngere muß man genau kennen, um es von dem älteren zu unterscheiden. Es gibt noch sehr viele Möglichkeiten, die noch gar nicht entdeckt sind: weil die Griechen sie nicht entdeckt haben. Andere haben die Griechen <hi rendition="#i">entdeckt</hi> und später wieder <hi rendition="#i">verdeckt.</hi></p>
+
+<p>Diese Philosophen bewiesen, <hi rendition="#i">welche Gefahren die griechische Kultur in sich schloß.</hi></p>
+<p>Der Mythus als Faulbett des Denkens</p>
+<p> dagegen die kalte Abstraktion und die strenge Wissenschaft. Demokrit.</p>
+<p>Die weichliche Behaglichkeit des Lebens</p>
+<p>dagegen Genügsamkeit, strenge asketische Auffassung bei Pythagoras, Empedokles, Anaximander.</p>
+<p>Grausamkeit in Kampf und Streit</p>
+<p>dagegen Empedokles mit seiner Reform des Opfers.</p>
+<p>Lüge und Betrug</p>
+<p>dagegen Begeisterung für das Wahre bei jeder Konsequenz.</p>
+<p>Schmiegsamkeit, übertriebene Geselligkeit</p>
+<p>dagegen Heraklits Stolz und Einsamkeit.</p>
+<lb/>
+<p>Diese Philosophen zeigen die Lebenskraft jener Kultur, die ihre eignen Korrektive erzeugt.</p>
+<p rendition="#et"><hi rendition="#i">Wie stirbt diese Zeit ab? Unnatürlich.</hi> Wo stecken denn nur die Keime des Verderbens?</p>
+<p rendition="#et"><hi rendition="#i">Die Flucht der Besseren aus der Welt</hi> war ein großes Unglück. Von Sokrates an: das Individuum nahm sich zu wichtig mit einem Male.</p>
+<p rendition="#et">Die <hi rendition="#i">Pest</hi> kam hinzu, für Athen.</p>
+<p rendition="#et">Dann ging man an den <hi rendition="#i">Perserkriegen zugrunde.</hi> Die Gefahr war zu groß und der Sieg zu außerordentlich. Der Tod der großen musikalischen Lyrik und der Philosophie.</p>
+<lb/>
+<p><pb n="335" facs="#f0004"/> Die ältere griechische Philosophie ist die Philosophie von <hi rendition="#i">lauter Staatsmännern.</hi> Wie elend steht es mit unsern Staatsmännern! Das unterscheidet übrigens die Vorsokratiker und die Nachsokratiker am meisten.</p>
+<p rendition="#et">Bei ihnen hat man nicht »die garstige Prätension auf Glück« wie von Sokrates ab. Es dreht sich doch nicht alles um den Zustand ihrer Seele; denn über <hi rendition="#i">den</hi> denkt man nicht ohne Gefahr nach. Später wurde das<hi rendition="#i"> gnôthi sauton</hi> des Apoll mißverstanden.</p>
+<p rendition="#et">Auch <hi rendition="#i">schwätzten</hi> und <hi rendition="#i">schimpften</hi> sie nicht so, auch schrieben sie nicht. Das geschwächte Griechentum, romanisiert, vergröbert, dekorativ geworden, dann als dekorative Kultur vom geschwächten Christentum als Bundesgenosse akzeptiert, mit Gewalt verbreitet unter unzivilisierten Völkern – das ist die Geschichte der abendländischen Kultur. Das Kunststück ist geleistet und das Griechische und das Pfäffische zusammengebracht.</p>
+<p rendition="#et">Ich will Schopenhauer, Wagner und das ältere Griechentum zusammenrechnen: es gibt einen Blick auf eine herrliche Kultur.</p>
+<lb/>
+<p><hi rendition="#i">Vergleichung</hi> der älteren Philosophie mit der nachsokratischen.</p>
+<list><item>
+1. Die ältere ist mit der Kunst verwandt, ihre Welträtsellösung hat mehrmals von der Kunst sich inspirieren lassen;</item><lb/><item>
+2. sie ist nicht die Negation des andern Lebens, sondern aus ihm als seltene Blüte gewachsen; sie spricht dessen Geheimnisse aus. (Theorie – Praxis);</item><lb/><item>
+3. sie ist nicht so individuell-eudämonologisch, ohne die garstige Prätension auf Glück;</item><lb/><item>
+4. diese älteren Philosophen selbst haben in ihrem Leben höhere Weisheit und nicht die kalt-kluge Tugendhaftigkeit. Ihr Lebensbild ist reicher und komplizierter, die Sokratiker simplifizieren und banalisieren.</item></list>
+<lb/>
+<p>Die dreigegliederte Geschichte des Dithyrambus:</p>
+<list><item>
+1. der arionische – daraus die ältere Tragödie;</item><lb/><item>
+2. der agonale Staats-Dithyramb – parallel die zahme Tragödie;</item><lb/><item>
+3. der mimetische, genialisch-wüst.</item></list>
+<lb/>
+<p><pb n="336" facs="#f0005"/> Mehrfach ist bei den Griechen eine ältere Form die höhere, zum Beispiel beim Dithyramb und bei der Tragödie. Die Gefahr der Griechen lag im Virtuosentum aller Art; mit Sokrates beginnen die Lebensvirtuosen, Sokrates, der neuere Dithyramb, die neuere Tragödie, die Erfindung des Rhetors! Der Rhetor ist eine griechische Erfindung! der späteren Zeit. Sie haben die »Form an sich« erfunden (und auch den Philosophen dazu).</p>
+<p rendition="#et">Wie ist der Kampf Platos gegen die Rhetorik zu verstehen? Er beneidet ihren Einfluß.</p>
+<p rendition="#et">Das ältere Griechentum hat seine Kräfte in der Reihe von Philosophen offenbart. Mit Sokrates bricht diese Offenbarung ab: er versucht sich selbst zu erzeugen und alle Tradition abzuweisen.</p>
+<p rendition="#et">Meine allgemeine Aufgabe: zu zeigen, wie Leben, Philosophie und Kunst ein tieferes verwandtschaftliches Verhältnis zueinander haben können, ohne daß die Philosophie flach ist und das Leben des Philosophen lügenhaft wird.</p>
+<p rendition="#et">Herrlich ist, daß die alten Philosophen <hi rendition="#i">so frei</hi> leben konnten, <hi rendition="#i">ohne dabei zu Narren</hi> und <hi rendition="#i">Virtuosen zu werden.</hi> Die Freiheit des Individuums war unermeßlich groß.</p>
+<p rendition="#et">Der falsche Gegensatz von vita practica und contemplativa ist asiatisch. Die Griechen verstanden es besser.</p>
+<lb/>
+<p>Man kann diese älteren Philosophen darstellen als solche, die die griechische Lust und Sitte als <hi rendition="#i">Bann</hi> und <hi rendition="#i">Schranke</hi> fühlen: also Selbstbefreier (Kampf des Heraklit gegen Homer und Hesiod, Pythagoras gegen die Verweltlichung, alle gegen den Mythus, besonders Demokrit). Sie haben eine Lücke in ihrer Natur, gegenüber dem griechischen Künstler und wohl auch Staatsmann.</p>
+<p rendition="#et">Ich fasse sie wie die <hi rendition="#i">Vorläufer einer Reformation der Griechen:</hi> aber nicht des Sokrates. Vielmehr kam ihre Reformation nicht, bei Pythagoras blieb es sektenhaft. Eine Gruppe von Erscheinungen tragen alle diesen Reformationsgeist – die <hi rendition="#i">Entwicklung</hi> der <hi rendition="#i">Tragödie.</hi> Der <hi rendition="#i">mißlungene Reformator</hi> ist <hi rendition="#i">Empedokles;</hi> als es ihm mißlang, blieb nur noch Sokrates übrig. So ist die Feindschaft des Aristoteles gegen Empedokles sehr begreiflich.</p>
+<p rendition="#et">Empedokles – Freistaat – Umänderung des Lebens – volkstümliche Reform – Versuch mit Hilfe der großen hellenischen Feste.</p>
+<p rendition="#et"><pb n="337" facs="#f0006"/> Die Tragödie war ebenfalls ein Mittel. Pindar?</p>
+<p rendition="#et">Sie haben ihren Philosophen und Reformator nicht gefunden, man vergleiche Plato: der ist durch Sokrates abgelenkt. Versuch einer Charakteristik Platos<hi rendition="#i"> ohne</hi> Sokrates. Tragödie – tiefe Auffassung der Liebe – reine Natur – keine fanatische Abkehr – offenbar waren die Griechen <hi rendition="#i">im Begriff, einen noch höheren Typus</hi> des Menschen zu finden, als die früheren waren; da schnitt die Schere dazwischen. Es bleibt<hi rendition="#i"> beim tragischen Zeitalter</hi> der Griechen.</p>
+<lb/>
+<list><item>
+1. Bild der Hellenen hinsichtlich ihrer Gefahren und Verderbnisse.</item><lb/><item>
+2. Gegenbild der tragischen Strömungen dagegen. Neue Deutung des Mythus.</item><lb/><item>
+3. Die Ansätze zu Reformatoren. Versuche, das Weltbild zu gewinnen.</item><lb/><item>
+4. Die Entscheidung – Sokrates. Der abgelenkte Plato.</item></list>
+<lb/>
+<p>Die Leidenschaft bei Mimnermus, der Haß gegen das<hi rendition="#i"> Alter.</hi> Die tiefe Melancholie bei Pindar: nur wenn ein Strahl von oben kommt, leuchtet das Menschenleben.</p>
+<p rendition="#et">Die Welt vom <hi rendition="#i">Leiden aus</hi> zu verstehen ist das Tragische in der Tragödie.</p>
+<lb/>
+<p>Thales – das Unmythische.</p>
+<p rendition="#et">Anaximander – Vergehen und Entstehen in der Natur moralisch als Schuld und Strafe.</p>
+<p rendition="#et">Heraklit – Gesetzmäßigkeit und Gerechtigkeit in der Welt.</p>
+<p rendition="#et">Parmenides – die andere Welt hinter dieser; diese als Problem.</p>
+<p rendition="#et">Anaxagoras – Weltenbaumeister.</p>
+<p rendition="#et">Empedokles – blinde Liebe und blinder Haß; das tief Unvernünftige im Vernünftigsten der Welt.</p>
+<p rendition="#et">Demokrit – die Welt ist ganz ohne Vernunft und Trieb, zusammengeschüttet. Alle Götter und Mythen unnütz.</p>
+<p rendition="#et">Sokrates – da bleibt mir nichts als ich mir selbst; Angst um sich selbst wird die Seele der Philosophie.</p>
+<p rendition="#et">Platos Versuch, alles zu Ende zu denken und der Erlöser zu sein.</p>
+<lb/>
+<p><pb n="338" facs="#f0007"/> Es sind die Personen zu schildern: so, wie ich Heraklit geschildert habe. Das Historische mit hineinzuflechten.</p>
+<p rendition="#et">In der ganzen Welt herrscht die <hi rendition="#i">Allmählichkeit,</hi> bei den Griechen geht es schnell vorwärts, also auch furchtbar schnell abwärts. Als der hellenische Genius seine höchsten Typen erschöpft hatte, da sank der Grieche auf das geschwindeste. Es mußte nur einmal eine Unterbrechung eintreten und die große Lebensform nicht mehr ausgefüllt werden: sofort war es vorbei; gerade wie bei der Tragödie. Ein einziger mächtiger Querkopf wie Sokrates – da war der Riß unheilbar. In ihm vollzieht sich die Selbstzerstörung der Griechen. Ich glaube, es macht, daß er der Sohn eines Bildhauers war. Wenn einmal diese bildenden Künste reden würden, sie würden uns oberflächlich erscheinen; in Sokrates, dem Sohne des Bildhauers, kam die Oberflächlichkeit heraus.</p>
+<lb/>
+<p>Die Menschen sind <hi rendition="#i">witziger</hi> geworden während des Mittelalters: das Rechnen nach zwei Maßen, die Spitzfindigkeit des Gewissens, die Auslegung der Schrift sind die Mittel gewesen. Diese Art <hi rendition="#i">Schärfung des Geistes</hi> durch den Druck einer Hierarchie und Theologie fehlte dem Altertum. Vielmehr sind die Griechen umgekehrt unter der großen Freiheit des Gedankens vielgläubisch und flach gewesen, man fing nach Belieben an und hörte nach Belieben auf, etwas zu glauben. Dafür fehlt ihnen die Lust am verdrehten Scharfsinn und damit die beliebteste Art Witz aus der neueren Zeit. Die Griechen waren wenig <hi rendition="#i">witzig;</hi> darum hat man solches Aufsehen von der Ironie des Sokrates gemacht. Ich finde Plato darin oft etwas täppisch.</p>
+<p rendition="#et">Die Griechen waren mit Empedokles und Demokrit auf dem besten Weg, die menschliche Existenz, ihre Unvernunft, ihr Leiden <hi rendition="#i">richtig zu taxieren; dazu sind sie nie gelangt,</hi> dank Sokrates. Der unbefangene Blick auf die Menschen fehlt allen Sokratikern, die greuliche Abstrakta, »das Gute, das Gerechte«, im Kopf haben. Man lese Schopenhauer und frage sich, warum es den Alten an einem solchen Tief- und Freiblick gefehlt hat – haben <hi rendition="#i">müßte</hi>? Das sehe ich nicht ein. Im Gegenteil. Sie verlieren durch Sokrates die Unbefangenheit. Ihre Mythen und Tragödien sind viel weiser als die Ethiken Platos und Aristoteles'; und ihre <hi rendition="#i">stoischen</hi> und <hi rendition="#i">epikurischen</hi> Menschen sind <hi rendition="#i">arm</hi> gegen ihre älteren Dichter und Staatsmänner.</p>
+<lb/>
+<p rend="h4"><pb n="339" facs="#f0008"/> Sokrates' Wirkung:</p>
+<list><item>
+1. er zerstörte die Unbefangenheit des ethischen Urteils;</item><lb/><item>
+2. vernichtete die Wissenschaft;</item><lb/><item>
+3. hatte keinen Sinn für die Kunst;</item><lb/><item>
+4. riß das Individuum heraus aus dem historischen Verbande;</item><lb/><item>
+5. dialektische Rederei und Geschwätzigkeit befördert.</item></list>
+<lb/>
+<p>Ich glaube nicht mehr an die <hi rendition="#i">»naturgemäße Entwicklung</hi>« der Griechen: sie waren viel zu begabt, um in jener schrittweisen Manier <hi rendition="#i">allmählich</hi> zu sein, wie es der Stein und die Dummheit sind. Die Perserkriege sind das nationale Unglück: der Erfolg war zu groß, alle schlimmen Triebe brachen heraus, das tyrannische Gelüst, ganz Hellas zu beherrschen, wandelte einzelne Männer und einzelne Städte an. Mit der Herrschaft von Athen (auf geistigem Gebiete) sind eine Menge Kräfte erdrückt worden; man denke nur, wie unproduktiv Athen für Philosophie lange Zeit war. Pindar wäre als Athener nicht möglich gewesen: Simonides zeigt es. Und Empedokles wäre es auch nicht, Heraklit nicht. Alle großen Musiker kommen fast von außen. Die athenische Tragödie ist nicht die höchste Form, die man denken könnte. Den Helden derselben fehlt doch das Pindarsche gar zu sehr. Überhaupt: wie gräßlich war es, daß der Kampf gerade zwischen <hi rendition="#i">Sparta</hi> und <hi rendition="#i">Athen</hi> ausbrechen mußte – das kann gar nicht tief genug betrachtet werden.</p>
+<p rendition="#et"><hi rendition="#i">Die geistige Herrschaft Athens war die Verhinderung jener Reformation.</hi> Man muß sich einmal da hineindenken, wo diese Herrschaft noch gar nicht da war: notwendig war sie nicht, sie wurde es erst infolge der Perserkriege, das heißt erst, nachdem es die physische politische Macht zeigte. Milet war z. B. viel begabter, Agrigent auch.</p>
+<p rendition="#et">Der Tyrann, der tun kann, wozu er Lust hat, d. h. der Grieche, der durch keine Gewalt in Schranken gehalten wird, ist ein ganz maßloses Wesen, »er stürzt die Gebräuche des Vaterlandes um, tut den Weibern Gewalt an und tötet Menschen nach Willkür«. Ebenso zügellos ist der tyrannische Freigeist, vor dem die Griechen ebenfalls Angst haben. Königshaß – Zeichen der demokratischen Gesinnung. Ich glaube: die Reformation wäre möglich gewesen, wenn ein Tyrann ein Empedokles gewesen wäre. Plato sprach mit seiner Forderung des <pb n="340" facs="#f0009"/> Philosophen auf dem Throne einen ehemals <hi rendition="#i">möglichen</hi> Gedanken aus: er fand den Einfall, nachdem die Zeit, ihn zu verwirklichen, vorüber war. – Periander?</p>
+<lb/>
+<p>Ohne den Tyrannen Pisistratus hätten die Athener keine Tragödie gehabt: denn Solon war dagegen, aber die Lust daran war einmal geweckt. Was wollte Pisistratus mit diesen großen Trauer-Erregungen?</p>
+<p rendition="#et">Solons Abneigung gegen die Tragödie: man denke an die Beschränkungen der Trauerfestlichkeiten bei Todesfällen, das Verbieten von Threnoi. Bei den milesischen Frauen wird »<hi rendition="#i">manikon penthos</hi>« erwähnt.</p>
+<p rendition="#et">Nach der Anekdote ist es die <hi rendition="#i">Verstellung,</hi> welche Solon mißfällt: das unkünstlerische Naturell des Atheners zeigt sich. Kleisthenes, Periander und Pisistratus die Beförderer der Tragödie als einer Volkslustbarkeit, der Lust an dem <hi rendition="#i">manikon penthos</hi>. Solon will Mäßigung.</p>
+<lb/>
+<p>Die zentralisierenden Tendenzen, durch die Perserkriege entstanden: ihrer haben sich Sparta und Athen bemächtigt. Dagegen war 776 bis 560 davon nichts da: die Kultur der Polis blühte; ich meine, ohne Perserkriege hätte man die Zentralisationsidee durch eine<hi rendition="#i"> Reformation des Geistes</hi> bekommen – Pythagoras?</p>
+<p rendition="#et">Auf die Einheit der Feste und des Kultus kam es damals an: hier hätte auch die Reform begonnen. Der<hi rendition="#i"> Gedanke einer panhellenischen Tragödie</hi> – da wäre noch eine unendlich reichere Kraft entwickelt worden. Warum kam es nicht dazu? Nachdem Korinth, Sikyon und Athen diese Kunst entwickelt hatten.</p>
+<p rendition="#et">Der größte Verlust, der die Menschheit treffen kann, ist ein Nichtzustandekommen der höchsten Lebenstypen. So etwas ist <hi rendition="#i">damals</hi> geschehen. Eine scharfe Parallele zwischen diesem Ideal und dem christlichen. (Zu benutzen die Bemerkung Schopenhauers: »Vorzügliche und edle Menschen werden jener Erziehung des Schicksals bald inne und fügen sich bildsam und dankbar in dieselbe; sie sehn ein, daß in der Welt wohl Belehrung, aber nicht Glück zu finden sei, und sagen endlich mit Petrarca: ›altro diletto, che 'mparar, non provo.‹ Es kann damit sogar dahin kommen, daß sie ihren Wünschen und Bestrebungen gewissermaßen nur noch zum Schein und tändelnd nachgehn, eigentlich aber und im Ernst ihres Innern bloß Belehrung erwarten; <pb n="341" facs="#f00010"/> welches ihnen alsdann einen beschaulichen, genialen, erhabenen Anstrich gibt.« (Parerga, I 394.) Damit vergleiche man die <hi rendition="#i">Sokratiker</hi> und ihre Jagd nach Glück!)</p>
+<lb/>
+<p>Es ist eine schöne Wahrheit, daß einem, dem Besserwerden oder Erkennung Lebensziele geworden sind, alle Dinge zum Besten dienen. Aber doch nur beschränkt wahr: ein Erkennenwollender zu ermüdendster Arbeit gezwungen, ein Besserwerdender durch Krankheiten entnervt und zerrüttet! Im ganzen mag es gelten: die anscheinende Absichtlichkeit des Schicksals ist die Tat des einzelnen, der sein Leben zurechtlegt und aus allem lernt, Erkenntnis saugend wie die Biene Honig. Das Schicksal aber, welches ein Volk trifft, trifft ein Ganzes, welches nicht so seine Existenz überdenken und mit Zielen versehen kann; und so ist die Absichtlichkeit bei Völkern eine Erschwindelung von Grübelköpfen, nichts ist leichter, als die Nichtabsichtlich keit zu zeigen z. B. daran, daß eine Zeit im vollsten Aufblühen plötzlich von einem Schneefall betroffen wird, daß alles stirbt. Es ist darin ganz so dumm wie in der Natur. Bis zu einem Grad setzt wirklich jedes Volk selbst unter den ungünstigsten Verhältnissen etwas durch, was an seine Begabung erinnert. Aber damit es sein <hi rendition="#i">Bestes</hi> leisten könne, müssen einige Unfälle nicht eintreten. Die Griechen haben ihr Bestes nicht geleistet. Auch die Athener wären etwas Höheres geworden ohne den politischen Furor seit den Perserkriegen: man denke an Äschylus, der aus der vorpersischen Zeit stammt und der mit den Athenern seiner Zeit unzufrieden war.</p>
+
+<p>Durch die Ungunst der Lage der griechischen Städte nach den Perserkriegen sind viele günstige Bedingungen zum Entstehen und zur Entwicklung großer Einzelner beseitigt worden: und so hängt allerdings die Erzeugung des Genius am Schicksal der Völker. Denn Ansätze zu Genies sind sehr häufig, aber sehr selten das Zusammentreffen aller nötigen Begünstigungen.</p>
+<p rendition="#et">Diese Reformation der Hellenen, wie ich sie träumte, wäre ein wunderbarer Boden für die Erzeugung von Genien geworden: wie es noch nie einen gab. Das wäre zu beschreiben. Da ist uns Unsägliches verlorengegangen.</p>
+<p rendition="#et"><pb n="342" facs="#f00011"/> Die höhere <hi rendition="#i">sittliche</hi> Natur der Hellenen zeigt sich in ihrer Ganzheit und Vereinfachtheit; dadurch, daß sie den Menschen <hi rendition="#i">vereinfacht</hi> zeigen, erfreuen sie uns, wie der Anblick der Tiere.</p>
+<p rendition="#et">Das Streben der Philosophen geht dahin, zu <hi rendition="#i">verstehen,</hi> was ihre Mitmenschen nur leben. Während sie ihr Dasein sich deuten und seine Gefahren verstehen, deuten sie zugleich auch ihrem Volke ihr Dasein.</p>
+<p rendition="#et">Ein <hi rendition="#i">neues Weltbild</hi> an Stelle des <hi rendition="#i">volkstümlichen</hi> will der Philosoph setzen.</p>
+<lb/>
+<p>Wissenschaft ergründet den Naturverlauf, kann aber niemals dem Menschen <hi rendition="#i">befehlen.</hi> Neigung, Liebe, Lust, Unlust, Erhebung, Erschöpfung – das kennt alles die Wissenschaft nicht. Das, was der Mensch lebt und erlebt, muß er sich irgendworaus <hi rendition="#i">deuten;</hi> dadurch abschätzen. Die Religionen haben ihre Kraft [darin], daß sie <hi rendition="#i">Wertmesser</hi> sind, Maßstäbe. Im Mythus gesehen sieht ein Ereignis anders aus. Die Deutung der Religionen hat das an sich, daß sie menschliches Leben nach menschenartigen Idealen mißt.</p>
+<p rendition="#et"><hi rendition="#i">Äschylus</hi> hat vergebens gelebt und gekämpft: er kam zu spät. Das ist das Tragische in der griechischen Geschichte: die <hi rendition="#i">größten,</hi> wie Demosthenes, kommen zu spät, um das Volk herauszuheben.</p>
+<p rendition="#et">Äschylus verbürgt eine Höhe des griechischen Geistes, die mit ihm ausstirbt.</p>
+<lb/>
+<p>Man bewundert jetzt das Evangelium der Schildkröte – ach, die Griechen liefen zu rasch. Ich suche nicht nach glücklichen Zeiten in der Geschichte, aber nach solchen, welche einen günstigen Boden für die <hi rendition="#i">Erzeugung</hi> des Genius bieten. Da finde ich die Zeiten vor den Perserkriegen. Man kann sie nicht genau genug kennenlernen.</p>
+
+<p>Manche Menschen leben ein dramatisches Leben, manche ein episches, manche ein unkünstlerisches und verworrenes. Die griechische Geschichte hat durch die Perserkriege einen <hi rendition="#i">daemon ex machina.</hi></p>
+
+<p><pb n="343" facs="#f00012"/> Versuch einer Volkskultur.</p>
+<p rendition="#et">Verschwendung des kostbarsten Griechen<hi rendition="#i">geistes</hi> und Griechen<hi rendition="#i">blutes</hi>! Daran ist zu zeigen, wie die Menschen viel <hi rendition="#i">besonnener</hi> leben lernen müssen. Die Tyrannen des Geistes in Griechenland sind fast immer ermordet worden und haben nur spärliche Nachkommenschaft gehabt. Andre Zeiten haben ihre Kraft gezeigt im Zu-Ende-Denken und im Alle-Möglichkeiten-Verfolgen eines großen Gedankens: die christlichen z. B. Aber bei den Griechen war diese Übermacht zu erlangen sehr schwer; alles war da in Feindschaft untereinander. Stadtkultur allein bis jetzt <hi rendition="#i">bewiesen</hi> – jetzt noch leben wir davon.</p>
+<p rendition="#et">Stadt-Kultur</p>
+<p rendition="#et">Welt-Kultur</p>
+<p rendition="#et">Volks-Kultur: wie schwach bei den Griechen, eigentlich doch nur die athenische Stadtkultur, verblaßt.</p>
+<lb/>
+<list><item>
+1. Diese Philosophen isoliert für sich.</item><lb/><item>
+2. Dann als Zeugen für das Hellenische (ihre Philosophien Hadesschatten des griechischen Wesens).</item><lb/><item>
+3. Dann als Kämpfer gegen die Gefahren des Hellenischen.</item><lb/><item>
+4. Dann im Verlauf der hellenischen Geschichte als mißlungene Reformatoren.</item><lb/><item>
+5. Dann im Gegensatz zu Sokrates und den Sekten und zu der vita contemplativa als Versuche, eine Lebensform zu gewinnen, die noch nicht gewonnen ist.</item></list>
+<lb/>
+<p>1. Es kommt wohl für jeden eine Stunde, wo er mit Verwunderung vor sich selbst fragt: Wie lebt man nur! Und man lebt doch! – Eine Stunde, wo er zu begreifen anfängt, daß er eine Erfindsamkeit besitzt von der gleichen Art, wie er sie an der Pflanze bewundert, die sich windet und klettert und endlich sich etwas Licht erzwingt und ein wenig Erdreich dazu und so ihr Teil Freude in einem unwirtlichen Boden sich selber schafft. In den Beschreibungen, die einer von seinem Leben macht, gibt es immer solchen Punkt, wo man staunt, wie hier die Pflanze noch leben kann und wie sie noch mit einer unerschütterlichen Tapferkeit darangeht. Nun gibt es Lebensläufe, wo die Schwierigkeiten ins Ungeheure gewachsen sind, die der Denker; und hier <pb n="344" facs="#f00013"/> muß man, wo etwas davon erzählt wird, aufmerksam hinhören, denn hier vernimmt man etwas von Möglichkeiten des Lebens, von denen nur zu hören Glück und Kraft bringt und auf das Leben der Späteren Licht herabgießt, hier ist alles so erfinderisch, besonnen, verwegen, verzweifelt und voller Hoffnung, wie etwa die Reisen der größten Weltumsegler und auch in der Tat etwas von der gleichen Art, Umsegelungen der entlegensten und gefährlichsten Bereiche des Lebens. Das Erstaunliche in solchen Lebensläufen liegt darin, daß zwei feindselige, nach verschiedenen Richtungen hindrängende Triebe hier gezwungen werden, gleichsam unter <hi rendition="#i">einem</hi> Joche zu gehen; der, welcher das Erkennen will, muß den Boden, auf dem der Mensch lebt, immer wieder verlassen und sich ins Ungewisse wagen, und der Trieb, der das Leben will, muß immer wieder sich zu einer ungefähr sicheren Stelle hintasten, auf der sich stehen läßt. Wir werden an James Cook erinnert, der sich mit dem Senkblei in der Hand durch eine Kette von Klippen hindurchtasten mußte, drei Monate lang: und dessen Gefahren oft so anwuchsen, daß er sogar in einer Lage, die er kurz vorher für eine der gefährlichsten gehalten hatte, gerne wieder Schutz suchte. (Lichtenberg IV, 152.) Jener Kampf zwischen Leben und Erkennen wird um so größer, jenes Unter<hi rendition="#i"> einem</hi>-Joch-Gehen um so seltsamer sein, je mächtiger beide Triebe sind, also je voller und blühender das Leben und wiederum je unersättlicher das Erkennen ist und je begehrlicher es zu allen Abenteuern hindrängt.</p>
+<p rendition="#et">2. Ich werde darum nicht satt, mir eine Reihe von Denkern vor die Seele zu stellen, von denen jeder einzelne jene Unbegreiflichkeit an sich hat und jene Verwunderung erwecken muß, wie er gerade seine Möglichkeit des Lebens fand: die Denker, welche in der kräftigsten und fruchtbarsten Zeit Griechenlands, in dem Jahrhundert vor den Perserkriegen und während derselben lebten: denn diese Denker haben sogar<hi rendition="#i"> schöne Möglichkeiten des Lebens</hi> entdeckt; und es scheint mir, daß die späteren Griechen das Beste davon vergessen haben: und welches Volk könnte bis jetzt sagen, es habe sie wiederentdeckt? – Man vergleiche die Denker anderer Zeiten und andere Völker mit jener Reihe von Gestalten, die mit Thales beginnt und mit Demokrit endet, ja man stelle Sokrates und seine Schüler und alle Sektenhäupter des späteren Griechenlands neben jene Altgriechen hin – nun wir wollen es in <pb n="345" facs="#f00014"/> dieser Schrift tun, und hoffentlich werden es andere noch besser tun: immerhin glaube ich, daß jede Betrachtung mit diesem Ausrufe enden wird: Wie schön sind sie! Ich sehe keine verzerrten und wüsten Gestalten darunter, keine pfäffischen Gesichter, keine entfleischten Wüsten-Einsiedler, keine fanatischen Schönfärber der gegenwärtigen Dinge, keine theologisierenden Falschmünzer, keine gedrückten und blassen Gelehrten (obwohl zu allem die Keime da sind und nur ein böser Lufthauch darüberzukommen braucht, so steht alles Unkraut in Blüte). Ich sehe auch jene nicht darunter, die es mit dem »Heil ihrer Seele« oder mit der Frage »Was ist das Glück?« so wichtig nehmen, daß sie Welt und Menschen darüber vergessen.</p>
+<p rendition="#et">Wer <hi rendition="#i">»diese Möglichkeiten des Lebens</hi>« wiederentdecken könnte! Dichter und Historiker sollten über dieser Aufgabe brüten: denn solche Menschen sind zu selten, daß man sie laufen lassen könnte. Vielmehr sollte man sich gar nicht eher Ruhe geben, als bis man ihre Bilder nachgeschaffen und sie hundertfach an die Wand gemalt hat – und ist man so weit – dann freilich wird man sich erst recht nicht Ruhe geben. Denn unserer so erfinderischen Zeit fehlt noch immer gerade jene Erfindung, welche die alten Philosophen gemacht haben müssen: woher käme sonst ihre wunderwürdige Schönheit, woher unsre Häßlichkeit! – Denn was ist Schönheit, wenn nicht das von uns erblickte Spiegelbild einer außerordentlichen Freude der Natur darüber, daß eine neue fruchtbare Möglichkeit des Lebens entdeckt ist? Und was ist Häßlichkeit, wenn nicht der Mißmut über sich selbst, der Zweifel, ob sie die Kunst, zum Leben zu verführen, wirklich noch verstehe.</p>
+<p rendition="#et">3. Die griechische Philosophie scheint mit einem ungereimten Einfalle zu beginnen, mit dem Satze, daß das Wasser der Ursprung und der Mutterschoß aller Dinge sei; ist es wirklich nötig, darf man sich fragen, hierbei stehenzubleiben und sich ernst zu besinnen? – Ja, und aus drei Gründen: erstens weil der Satz etwas vom Ursprung der Dinge aussagt, zweitens weil er dies ohne Bild und mythische Fabelei tut und endlich drittens, weil in ihm, wenngleich nur im Zustande der Verpuppung, der Gedanke enthalten ist: »Alles ist eins.« Der erstgenannte Grund läßt Thales noch in der Gemeinschaft mit Religiösen und Abergläubischen, der zweite nimmt ihn aus dieser Gesellschaft heraus und zeigt ihn als ersten Naturforscher, auf den dritten Grund hin <pb n="346" facs="#f00015"/> gilt Thales als der erste griechische Philosoph. In Thales siegt zum ersten Male der wissenschaftliche Mensch über den mythischen und wieder der weise Mensch über den wissenschaftlichen.</p>
+<lb/>
+<p>Wie war es nur möglich, daß sich Thales vom Mythus lossagte! Thales als Staatsmann! Hier muß etwas vorgefallen sein. War die Polis der Brennpunkt des hellenischen Willens und beruhte sie auf dem Mythus, so heißt den Mythus aufgeben soviel wie den alten Polisbegriff aufgeben. Nun wissen wir, daß Thales die Gründung einer Eidgenossenschaft von Städten vorschlug, aber nicht durchsetzte: er scheiterte an dem alten mythischen Polisbegriff. Zugleich ahnte er die ungeheure Gefahr Griechenlands, wenn diese isolierende Macht des Mythus die Städte getrennt hielt. In der Tat: hätte Thales seine Eidgenossenschaft zustande gebracht, so wäre Griechenland vom Perserkriege verschont geblieben und damit auch vom Athener-Siege und -Übergewicht. Um die Veränderung des Polisbegriffs und die Schaffung einer panhellenischen Gesinnung bemühen sich alle älteren Philosophen.<hi rendition="#i"> Heraklit</hi> scheint sogar die Schranke zwischen barbarisch und hellenisch niedergerissen zu haben, um größere Freiheit zu schaffen und die engen Anschauungen vorwärts zu bringen. – Er denkt über eine Weltordnung nach, die überhellenisch ist.</p>
+
+<p><hi rendition="#i">Anaximander:</hi> Kampf gegen den Mythus, insofern er verweichlicht und verflacht und so die Griechen in Gefahr bringt.</p>
+<p rendition="#et"><hi rendition="#i">Parmenides:</hi> Theoretische Geringschätzung der Welt als einer Täuschung. Kampf gegen das Phantastische und Wogende der ganzen Weltbetrachtung: er will dem Menschen Ruhe geben gegen die politische Leidenschaft. Gesetze geben.</p>
+<p rendition="#et"><hi rendition="#i">Anaxagoras:</hi> Die Welt ist unvernünftig, aber doch maßvoll und schön: so sollte der Mensch sein und so fand er ihn in den alten Athenern: Äschylus usw. Seine Philosophie Spiegelbild des alten Athen: Gesetzgebung für Menschen, die keine brauchen.</p>
+<p rendition="#et"><hi rendition="#i">Empedokles:</hi> Panhellenischer Reformator, pythagoreisches Leben, wissenschaftlich begründet. Neue Mythologie. Einsicht in die Unvernunft der beiden Triebe Liebe und Haß. Liebe, Demokratie, Gütergemeinschaft. Vergleich mit der Tragödie.</p>
+<p rendition="#et"><hi rendition="#i"><pb n="347" facs="#f00016"/> Demokrit:</hi> Die Welt ist unvernünftig, aber nicht maßvoll und schön, sondern nur notwendig. Unbedingte Beseitigung alles Mythischen. Die Welt ist begreiflich. Er will die Polis (an Stelle des epikurischen Gartens); das war eine Möglichkeit des hellenischen Lebens.</p>
+<p rendition="#et"><hi rendition="#i">Sokrates:</hi> Die tragische Geschwindigkeit der Griechen. Die älteren Philosophen haben nicht gewirkt. Die Lebensvirtuosen: die alten Philosophen denken immer <hi rendition="#i">ikarisch.</hi></p>
+<lb/>
+<p>Die Griechen sind gewiß nie <hi rendition="#i">überschätzt</hi> worden: denn da müßte man sie doch auch so geschätzt haben, wie sie es verdienen; aber gerade das ist unmöglich. Wie sollten wir ihnen gerecht in der Schätzung sein können! Nur <hi rendition="#i">falsch</hi> geschätzt haben wir sie.</p>
+
+</body></text></TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Karl Marx, Friedrich Engels: Werke. Herausgegeben vom Institut für
+      Marxismus-Leninismus beim ZK der SED, 43 Bände, Band 1, Berlin: Dietz-Verlag,
+      1956.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor><persName>Institut für Marxismus-Leninismus beim ZK der SED</persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Dietz-Verlag</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Rheinische Zeitung (Köln), Nr. 221 v. 9. 8. 1842. »Das Kapitel von der Ehe« wurde von der Zensur unterdrückt. Es erschien erstmals in der Marx-Engels-Gesamtausgabe, Moskau 1927.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Das philosophische Manifest der historischen Rechtsschule</note>
+
+
+<head>[Karl Marx]</head>
+<head>Das philosophische Manifest der historischen Rechtsschule</head>
+<pb n="78" facs="#f0001"/>
+<p rendition="#et"><hi rendition="#sub">*</hi><hi rendition="#sup">*</hi><hi rendition="#sub">*</hi> Die vulgäre Ansicht betrachtet die <hi rendition="#i">historische Schule</hi> als <hi rendition="#i">Reaktion</hi> gegen den <hi rendition="#i">frivolen Geist</hi> des<hi rendition="#i"> achtzehnten</hi> Jahrhunderts. Die Verbreitung dieser Ansicht steht in umgekehrtem Verhältnis zu ihrer Wahrheit. Das achtzehnte Jahrhundert hat vielmehr nur <hi rendition="#i">ein</hi> Produkt erzeugt, dessen <hi rendition="#i">wesentlicher Charakter</hi> die Frivolität ist, und dies <hi rendition="#i">einzig frivole</hi> Produkt ist die<hi rendition="#i"> historische Schule.</hi></p>
+<p rendition="#et">Die historische Schule hat das Quellenstudium zu ihrem Schiboleth gemacht, sie hat ihre Quellenliebhaberei bis zu dem Extrem gesteigert, daß sie dem Schiffer anmutet, nicht auf dem Strome, sondern auf seiner Quelle zu fahren, sie wird es billig finden, daß wir auf <hi rendition="#i">ihre Quellen</hi> zurückgehen, auf <hi rendition="#i">Hugos Naturrecht. Ihre Philosophie</hi> geht ihrer Entwickelung <hi rendition="#i">voraus,</hi> man wird daher in ihrer Entwickelung selbst vergeblich nach Philosophie suchen.</p>
+<p rendition="#et">Eine gangbare Fiktion des achtzehnten Jahrhunderts betrachtete den Naturzustand als den wahren Zustand der menschlichen Natur. Man wollte mit leiblichen Augen die Ideen des Menschen sehen und schuf <hi rendition="#i">Naturmenschen, Papagenos,</hi> deren Naivität sich bis auf ihre befiederte Haut erstreckt. In den letzten Dezennien des achtzehnten Jahrhunderts ahnte man Urweisheit bei <hi rendition="#i">Naturvölkern,</hi> und von allen Enden hörten wir Vogelsteller die Sangweisen der Irokesen, Indianer usw. nachzwitschern, mit der Meinung, durch diese Künste die Vögel selbst in die Falle zu locken. Allen diesen Exzentritäten lag der richtige Gedanke zugrunde, daß die <hi rendition="#i">rohen</hi> Zustände naive niederländische Gemälde der <hi rendition="#i">wahren</hi> Zustände sind.</p>
+<p rendition="#et">Der <hi rendition="#i">Naturmensch der historischen Schule,</hi> den noch keine romantische Kultur beleckt, ist <hi rendition="#i">Hugo.</hi> Sein Lehrbuch des <hi rendition="#i">Naturrechts</hi> ist das <hi rendition="#i">alte Testament</hi> der historischen Schule. <hi rendition="#i">Herders</hi> Ansicht, daß die Naturmenschen <hi rendition="#i">Poeten</hi> und die <hi rendition="#i">heiligen</hi> Bücher der Naturvölker <hi rendition="#i">poetische</hi> Bücher sind, steht uns nicht im Wege, obgleich Hugo die allertrivialste, allernüchternste Prosa <pb n="78" facs="#f0002"/> spricht, denn wie jedes Jahrhundert seine eigentümliche Natur besitzt, so zeugt es seine eigentümlichen Naturmenschen. Wenn Hugo daher nicht <hi rendition="#i">dichtet,</hi> so <hi rendition="#i">fingiert</hi> er doch, und die <hi rendition="#i">Fiktion</hi> ist die <hi rendition="#i">Poesie der Prosa,</hi> die der prosaischen Natur des achtzehnten Jahrhunderts entspricht.</p>
+<p rendition="#et">Indem wir aber Herrn Hugo als Ältervater und Schöpfer der historischen Schule bezeichnen, handeln wir in ihrem <hi rendition="#i">eigenen Sinne,</hi> die das <hi rendition="#i">Festprogramm</hi> des berühmtesten historischen Juristen zu Hugos Jubiläum beweist. Indem wir Herrn Hugo als ein Kind des achtzehnten Jahrhunderts begreifen, verfahren wir sogar im <hi rendition="#i">Geist</hi> des Herrn Hugo, wie er selbst bezeugt, indem er sich für einen <hi rendition="#i">Schüler</hi> Kants und sein Naturrecht für einen Sprößling der <hi rendition="#i">kantischen Philosophie</hi> ausgibt. Wir nehmen sein <hi rendition="#i">Manifest</hi> an diesem Punkte auf.</p>
+<p rendition="#et">Hugo <hi rendition="#i">mißdeutet</hi> den Meister <hi rendition="#i">Kant</hi> dahin, daß, weil wir das <hi rendition="#i">Wahre</hi> nicht wissen können, wir konsequenterweise das <hi rendition="#i">Unwahre,</hi> wenn es nur <hi rendition="#i">existiert,</hi> für <hi rendition="#i">vollgültig</hi> passieren lassen. Hugo ist ein <hi rendition="#i">Skeptiker</hi> gegen das <hi rendition="#i">notwendige Wesen</hi> der Dinge, um ein <hi rendition="#i">Hoffmann</hi> gegen ihre <hi rendition="#i">zufällige Erscheinung</hi> zu sein. Er sucht daher keineswegs zu beweisen, daß das <hi rendition="#i">Positive vernünftig</hi> sei; er sucht zu beweisen, daß das <hi rendition="#i">Positive nicht vernünftig</hi> sei. Aus allen Weltgegenden schleppt er mit selbstgefälliger Industrie Gründe herbei, um zur Evidenz zu steigern, daß keine vernünftige Notwendigkeit die positiven Institutionen, z.B. Eigentum, Staatsverfassung, Ehe etc. beseelt, daß sie sogar der Vernunft <hi rendition="#i">widersprechen,</hi> daß sich höchstens dafür und dagegen <hi rendition="#i">schwatzen</hi> lasse. Man darf diese <hi rendition="#i">Methode</hi> keineswegs seiner zufälligen Individualität vorwerfen; es ist vielmehr die <hi rendition="#i">Methode seines Prinzips,</hi> es ist die <hi rendition="#i">offenherzige,</hi> die <hi rendition="#i">naive</hi>, die <hi rendition="#i">rücksichtslose</hi> Methode der historischen Schule. Wenn das <hi rendition="#i">Positive gelten</hi> soll, <hi rendition="#i">weil</hi> es <hi rendition="#i">positiv</hi> ist, so muß ich <hi rendition="#i">beweisen,</hi> daß das <hi rendition="#i">Positive nicht</hi> gilt, <hi rendition="#i">weil</hi> es <hi rendition="#i">vernünftig</hi> ist, und wie könnte ich dies evidenter als durch den Nachweis, daß das Unvernünftige positiv und das Positive nicht vernünftig ist? daß das Positive nicht <hi rendition="#i">durch</hi> die Vernunft, sondern <hi rendition="#i">trotz</hi> der Vernunft existiert? Wäre die <hi rendition="#i">Vernunft</hi> der <hi rendition="#i">Maßstab des Positiven,</hi> so wäre das <hi rendition="#i">Positive</hi> nicht der <hi rendition="#i">Maßstab der Vernunft.</hi> »Ist dies schon Tollheit, hat es doch Methode!« Hugo <hi rendition="#i">entheiligt</hi> daher alles, was dem rechtlichen, dem sittlichen, dem politischen Menschen heilig ist, aber er zerschlägt diese Heiligen nur, um ihnen den<hi rendition="#i"> historischen Reliquiendienst</hi> erweisen zu können, er schändet sie vor den <hi rendition="#i">Augen der Vernunft,</hi> um sie hinterher zu Ehren zu bringen vor den <hi rendition="#i">Augen der Historie,</hi> zugleich aber auch, um die <hi rendition="#i">historischen Augen</hi> zu Ehren zu bringen.</p>
+<p rendition="#et">Wie das <hi rendition="#i">Prinzip,</hi> so ist die <hi rendition="#i">Argumentation</hi> Hugos<hi rendition="#i"> positiv,</hi> d.h. <hi rendition="#i">unkritisch.</hi> Er kennt <hi rendition="#i">keine Unterschiede. Jede Existenz</hi> gilt ihm für eine <hi rendition="#i">Autorität,</hi> jede Autorität gilt ihm für einen <hi rendition="#i">Grund</hi>. So werden denn zu einem Paragraphen <pb n="79" facs="#f0003"/> zitiert <hi rendition="#i">Moses</hi> und <hi rendition="#i">Voltaire, Richardson</hi> und <hi rendition="#i">Homer, Montaigne</hi> und <hi rendition="#i">Amnon, Rousseaus »Contrat social«</hi> und <hi rendition="#i">Augustinus »De civitate Dei«.</hi> Gleich nivellierend wird mit den <hi rendition="#i">Völkern</hi> verfahren. Der <hi rendition="#i">Siamite,</hi> der es für ewige Naturordnung hält, daß sein König einem Schwätzer den Mund zunähen und einem unbeholfenen Redner ihn bis an die Ohren aufschneiden läßt, ist nach Hugo so <hi rendition="#i">positiv</hi> als der <hi rendition="#i">Engländer,</hi> der es zu den politischen Paradoxien zählt, daß sein König eigenmächtig eine Auflage von einem Pfennig ausschreiben werde. Der schamlose<hi rendition="#i"> Conci</hi>, der nackt umherläuft und sich höchstens mit Schlamm bedeckt, ist so positiv als der <hi rendition="#i">Franzose,</hi> der sich nicht nur kleidet, sondern elegant kleidet. Der<hi rendition="#i"> Deutsche,</hi> der seine Tochter als das Kleinod der Familie erzieht, ist nicht positiver als der <hi rendition="#i">Rasbute,</hi> der sie tötet, um sich der Nahrungssorge für sie zu überheben. Mit einem Worte: <hi rendition="#i">der Hautausschlag ist so positiv als die Haut.</hi></p>
+<p rendition="#et">An einem Ort ist das positiv, am andern jenes, eins ist so unvernünftig als das andere, unterwirf dich dem, was in deinen vier Pfählen positiv ist.</p>
+<p rendition="#et"><hi rendition="#i">Hugo</hi> ist also <hi rendition="#i">vollendeter Skeptiker.</hi> Die <hi rendition="#i">Skepsis</hi> des <hi rendition="#i">achtzehnten Jahrhunderts</hi> gegen die <hi rendition="#i">Vernunft des Bestehenden</hi> erscheint bei ihm als <hi rendition="#i">Skepsis</hi> gegen das <hi rendition="#i">Bestehen der Vernunft.</hi> Er adoptiert die <hi rendition="#i">Aufklärung, er sieht in dem Positiven nichts Vernünftiges mehr, aber nur, um in dem Vernünftigen nichts Positives mehr sehen zu dürfen.</hi> Er meint, man habe den Schein der Vernunft an dem Positiven ausgeblasen, um das Positive <hi rendition="#i">ohne</hi> den Schein der Vernunft anzuerkennen; er meint, man habe die <hi rendition="#i">falschen Blumen</hi> an den Ketten zerpflückt, um <hi rendition="#i">echte Ketten</hi> ohne Blumen zu tragen.</p>
+<p rendition="#et"><hi rendition="#i">Hugo</hi> verhält sich zu den <hi rendition="#i">übrigen Aufklärern</hi> des achtzehnten Jahrhunderts, wie sich etwa die <hi rendition="#i">Auflösung des französischen Staats</hi> am liederlichen <hi rendition="#i">Hofe des Regenten</hi> zur Auflösung des französischen Staats in der <hi rendition="#i">Nationalversammlung</hi> verhält. Auf beiden Seiten Auflösung! Dort erscheint sie als <hi rendition="#i">liederliche Frivolität,</hi> welche die hohle Ideenlosigkeit der bestehenden Zustände begreift und verspottet, aber nur, um, aller vernünftigen und sittlichen Bande quitt, <hi rendition="#i">ihr Spiel</hi> mit den faulen Trümmern zu treiben und vom Spiel derselben getrieben und aufgelöst zu werden. Es ist die <hi rendition="#i">Verfaulung der damaligen Welt, die sich selbst genießt.</hi> In der <hi rendition="#i">Nationalversammlung</hi> dagegen erscheint die <hi rendition="#i">Auflösung</hi> als <hi rendition="#i">Loslösung des neuen Geistes</hi> von <hi rendition="#i">alten Formen,</hi> die nicht mehr <hi rendition="#i">wert</hi> und nicht mehr <hi rendition="#i">fähig</hi> waren, ihn zu fassen. Es ist das <hi rendition="#i">Selbstgefühl des neuen Lebens,</hi> welches das <hi rendition="#i">Zertrümmerte zertrümmert,</hi> das <hi rendition="#i">Verworfene verwirft.</hi> Ist daher<hi rendition="#i"> Kants Philosophie</hi> mit Recht als die <hi rendition="#i">deutsche Theorie</hi> der französischen Revolution zu betrachten, so<hi rendition="#i"> Hugos Naturrecht</hi> <pb n="80" facs="#f0004"/> als die <hi rendition="#i">deutsche Theorie</hi> des französischen ancien régime. Wir finden bei ihm die ganze <hi rendition="#i">Frivolität</hi> jener <hi rendition="#i">Roués</hi> wieder, die <hi rendition="#i">gemeine Skepsis,</hi> welche, frech gegen Ideen, allerdevotest gegen Handgreiflichkeiten, erst ihre Klugheit empfindet, wenn sie den <hi rendition="#i">Geist</hi> des Positiven erlegt hat, um nun das rein Positive als Residuum zu besitzen und in diesen <hi rendition="#i">tierischen</hi> Zuständen behaglich zu sein. Selbst wenn Hugo die Schwere der Gründe abwägt, so wird er mit unfehlbar sicherem Instinkt das Vernünftige und Sittliche an den Institutionen <hi rendition="#i">bedenklich</hi> für die Vernunft finden. Nur das <hi rendition="#i">Tierische</hi> erscheint seiner <hi rendition="#i">Vernunft</hi> als das <hi rendition="#i">Unbedenkliche.</hi> Doch hören wir unsern Aufklärer vom Standpunkt des ancien régime! Man muß Hugos Ansichten von Hugo hören. Zu allen seinen Kombinationen gehört ein: <hi rendition="#i">autos ephê</hi>.</p>
+<lb/>
+<p rend="h4">Introduktion</p>
+<p rendition="#et"><hi rendition="#blue">»Das <hi rendition="#i">einzige juristische Unterscheidungsmerkmal des Menschen</hi> ist seine <hi rendition="#i">tierische</hi> Natur.«</hi></p>
+<lb/>
+<p rend="h4">Das Kapitel von der Freiheit</p>
+<p rendition="#et"><hi rendition="#blue">»Selbst dies ist eine <hi rendition="#i">Einschränkung der Freiheit«</hi> (sc. des <hi rendition="#i">vernünftigen</hi> Wesens), <hi rendition="#i">»daß es nicht nach Belieben aufhören kann, ein vernünftiges Wesen zu sein,</hi> d.h. ein Wesen, das vernünftig handeln kann und soll.«</hi></p>
+<p rendition="#et"><hi rendition="#blue"> »Die <hi rendition="#i">Unfreiheit</hi> ändert an der tierischen und vernünftigen Natur des <hi rendition="#i">Unfreien</hi> und <hi rendition="#i">anderer Menschen nichts.</hi> Die <hi rendition="#i">Gewissenspflichten</hi> bleiben <hi rendition="#i">alle.</hi> Die<hi rendition="#i"> Sklaverei</hi> ist nicht nur <hi rendition="#i">physisch</hi> möglich, sondern auch, sie ist <hi rendition="#i">nach der Vernunft</hi> möglich, und bei jeder Forschung, die uns das Gegenteil lehrt, muß irgendein Mißverständnis mit unterlaufen. <hi rendition="#i">Peremptorisch rechtlich</hi> ist sie freilich nicht, d.h., sie folgt nicht aus der tierischen Natur, nicht aus der vernünftigen und nicht aus der bürgerlichen. Daß sie aber <hi rendition="#i">so gut provisorisches Recht</hi> sein kann als <hi rendition="#i">irgend etwas</hi> von den Gegnern Zugegebenes, ergibt die Vergleichung mit dem <hi rendition="#i">Privatrechte</hi> und mit dem <hi rendition="#i">öffentlichen Rechte.«</hi> Beweis: »In Ansehung der <hi rendition="#i">tierischen</hi> Natur ist der offenbar mehr vor Mangel gesichert, welcher einem Reichen <hi rendition="#i">gehört,</hi> der etwas mit ihm verliert und seine Not gewahr wird, als der Arme, welchen seine Mitbürger benutzen, solange etwas an ihm zu benutzen ist etc.« »Das Recht, servi zu <hi rendition="#i">mißhandeln</hi> und zu <hi rendition="#i">verstümmeln,</hi> ist nicht wesentlich, und <hi rendition="#i">wenn es auch stattfindet,</hi> so ist es <hi rendition="#i">nicht viel schlimmer</hi> als das, was sich die Armen gefallen lassen, und was den <hi rendition="#i">Körper</hi> betrifft, nicht so schlimm als der <hi rendition="#i">Krieg,</hi> von welchem servi als solche überall frei sein müssen. Die <hi rendition="#i">Schönheit</hi> sogar findet sich eher bei einer <hi rendition="#i">zirkassischen Sklavin</hi> als bei einem <hi rendition="#i">Bettlermädchen.«</hi> (Hört den Alten!)</hi></p>
+<p rendition="#et"><hi rendition="#blue"> <pb n="81" facs="#f0005"/> »Für die <hi rendition="#i">vernünftige</hi> Natur hat die servitus vor der Armut den Vorzug, daß viel eher der Eigentümer an den Unterricht eines servus, der Fähigkeiten zeigt, selbst aus <hi rendition="#i">wohlverstandener Wirtschaft,</hi> etwas wenden wird, als dies bei einem Bettlerkinde der Fall ist. In einer <hi rendition="#i">Verfassung</hi> bleibt grade der servus mit sehr vielen Arten des Druckes verschont. Ist der Sklave unglücklicher als der Kriegsgefangene, den seine Bedeckung weiter gar nichts angeht, als daß sie eine Zeitlang für ihn verantwortlich ist, unglücklicher als der Baugefangene, über welchen die Regierung einen Aufseher gesetzt hat.«</hi></p>
+<p rendition="#et"><hi rendition="#blue"> »Ob die Sklaverei an sich der <hi rendition="#i">Fortpflanzung</hi> vorteilhaft oder nachteilig sei, darüber streitet man noch.«</hi></p>
+<lb/>
+<p rend="h4">Das Kapitel von der Ehe</p>
+<p rendition="#et"><hi rendition="#blue">»Die <hi rendition="#i">Ehe</hi> ist schon oft bei der <hi rendition="#i">philosophischen</hi> Betrachtung des positiven Rechtes für <hi rendition="#i">viel wesentlicher</hi> und der <hi rendition="#i">Vernunft viel gemäßer</hi> angesehen worden, als sie bei <hi rendition="#i">einer ganz freien Prüfung</hi> erscheint.«</hi></p>
+<p rendition="#et">Zwar die <hi rendition="#i">Befriedigung des Geschlechtstriebs</hi> in der Ehe konveniert Herrn Hugo. Er leitet sogar eine<hi rendition="#i"> heilsame Moral</hi> aus diesem Faktum:</p>
+<p rendition="#et"><hi rendition="#blue">»Hieraus, wie aus unzähligen anderen Verhältnissen hätte man <hi rendition="#i">sehen sollen,</hi> daß es nicht immer <hi rendition="#i">unsittlich</hi> sei, den <hi rendition="#i">Körper eines Menschen als ein Mittel zu einem Zweck zu behandeln,</hi> wie man, und auch wohl <hi rendition="#i">Kant selbst,</hi> diesen Ausdruck falsch verstanden hat.«</hi></p>
+<p rendition="#et">Aber die Heiligung des Geschlechtstriebs durch die <hi rendition="#i">Ausschließlichkeit,</hi> die Bändigung des Triebs durch die Gesetze, die <hi rendition="#i">sittliche Schönheit,</hi> die das Naturgebot zu einem Moment geistiger Verbindung idealisiert – das <hi rendition="#i">geistige Wesen</hi> der Ehe – das eben ist dem Herrn Hugo das <hi rendition="#i">Bedenkliche</hi> an der Ehe. Doch ehe wir weiter seine <hi rendition="#i">frivole Schamlosigkeit</hi> verfolgen, hören wir einen Augenblick dem <hi rendition="#i">historischen</hi> Deutschen gegenüber den französischen <hi rendition="#i">Philosophen.</hi></p>
+<p rendition="#et"><hi rendition="#blue">»C'est en renonçant pour un seul homme à cette réserve mystérieuse, dont la règle divine est imprimée dans son coeur, que la femme se voue à cet homme, pour lequel elle suspend, dans un abandon momentané, cette pudeur, qui ne la quitte jamais; pour lequel seul elle écarte des voiles qui sont d'ailleurs son asile et sa parure. De là cette confiance intime dans son époux, résultat d'une relation exclusive, qui ne peut exister qu'entre elle et lui, sans qu'aussitôt elle se sente flétrie; de la dans cet époux la reconnaissance pour un sacrifice et ce mélange de désir et de respect pour un être qui, même en partageant ses plaisirs, ne semble encore que lui céder; de là tout ce qu'il y a de<hi rendition="#i"> régulier</hi> dans notre <hi rendition="#i">ordre social.«</hi></hi></p>
+<p rendition="#et"><pb n="82" facs="#f0006"/> Also der liberale philosophische <hi rendition="#i">Franzose Benjamin Constant!</hi> Und nun hören wir den servilen, historischen Deutschen:</p>
+<p rendition="#et"><hi rendition="#blue">»Viel <hi rendition="#i">bedenklicher</hi> ist schon die zweite Beziehung, daß <hi rendition="#i">außer der Ehe</hi> die <hi rendition="#i">Befriedigung dieses Triebes nicht</hi> erlaubt ist! Die <hi rendition="#i">tierische Natur ist dieser Einschränkung zuwider.</hi> Die <hi rendition="#i">vernünftige</hi> Natur ist es noch mehr, weil« ... man rate! ... »weil ein Mensen<hi rendition="#i"> beinahe allwissend</hi> sein müßte, um vorauszusehen, welchen Erfolg es haben werde, weil es also <hi rendition="#i">Gott versuchen</hi> heißt, wenn man sich verpflichtet, einen der heftigsten Naturtriebe nur dann zu befriedigen, wenn es mit einer bestimmten anderen Person geschehen kann!« »Das seiner Natur nach <hi rendition="#i">freie Gefühl des Schönen</hi> soll gebunden und, was von ihm abhängt, soll völlig davon losgerissen werden.«</hi></p>
+<p rendition="#et">Seht ihr, in <hi rendition="#i">welche</hi> Schule unsere <hi rendition="#i">Jungdeutschen</hi> gegangen sind!</p>
+<p rendition="#et"><hi rendition="#blue">»Gegen die <hi rendition="#i">bürgerliche</hi> Natur stößt diese Einrichtung insofern an, als... endlich die <hi rendition="#i">Polizei</hi> eine <hi rendition="#i">fast kaum zu lösende Aufgabe</hi> übernimmt!«</hi></p>
+<p rendition="#et">Ungeschickte Philosophie, keine solche Aufmerksamkeiten gegen die <hi rendition="#i">Polizei</hi> zu handhaben!</p>
+<p rendition="#et"><hi rendition="#blue">»Alles, was in der Folge von den näheren Bestimmungen des Eherechts vorkommen wird, lehrt uns, daß die Ehe, man mag dabei Grundsätze annehmen, welche man will, eine sehr <hi rendition="#i">unvollkommene Einrichtung</hi> bleibt.«</hi></p>
+<p rendition="#et"><hi rendition="#blue"> »Diese Einschränkung des Geschlechtstriebs auf die Ehe hat <hi rendition="#i">aber auch</hi> ihre <hi rendition="#i">wichtigen</hi> Vorteile, indem – dadurch gewöhnlich <hi rendition="#i">ansteckende Krankheiten vermieden</hi> werden. Der Regierung erspart die <hi rendition="#i">Ehe</hi> gar viel <hi rendition="#i">Weitläuftigkeit.</hi> Endlich tritt dann noch die überall so <hi rendition="#i">wichtige Betrachtung</hi> ein, daß hierin das<hi rendition="#i"> Privatrechtliche</hi> nun <hi rendition="#i">schon einmal das einzig-gewöhnliche</hi> ist.« <hi rendition="#i">»Fichte</hi> sagt: Die unverheiratete Person ist nur zur <hi rendition="#i">Hälfte</hi> ein Mensch. Da tut es mir« (sc. Hugo) »aber ordentlich leid, einen solchen schönen Ausspruch, wodurch ja auch ich über Christus, Fénélon, Kant, Hume zu stehen käme, für eine <hi rendition="#i">ungeheure Übertreibung</hi> erklären zu müssen.«</hi></p>
+<p rendition="#et"><hi rendition="#blue"> »Was die Mono- und Polygamie betrifft, so kommt es dabei <hi rendition="#i">offenbar</hi> auf die <hi rendition="#i">tierische</hi> Natur des Menschen an«!!</hi></p>
+<lb/>
+<p rend="h4">Das Kapitel von der Erziehung</p>
+<p rendition="#et">Wir erfahren sogleich:</p>
+<p rendition="#et"><hi rendition="#blue">»Daß die Erziehungskunst gegen die darauf« (sc. Erziehung in der Familie) »sich beziehenden juristischen Verhältnisse nicht weniger einzuwenden hat als die <hi rendition="#i">Kunst zu lieben</hi> gegen die <hi rendition="#i">Ehe</hi>.«</hi></p>
+<p rendition="#et"><hi rendition="#blue"> <pb n="83" facs="#f0007"/> »Die Schwierigkeit, daß man nur in einem solchen Verhältnis erziehen darf, ist zwar hier lange nicht so bedenklich, wie bei der Befriedigung des Geschlechtstriebes, auch um deswillen, weil es erlaubt ist, die Erziehung vertragsweise einem Dritten zu überlassen, also, wer einen so großen Trieb fühlte, sehr leicht dazu kommen könnte, ihn zu befriedigen, nur freilich nicht gerade an der <hi rendition="#i">bestimmten Person,</hi> die er sich wünschte. Indes ist auch schon dies der Vernunft zuwider, daß jemand, dem gewiß nie ein Kind anvertraut werden würde, kraft eines <hi rendition="#i">solchen Verhältnisses</hi> erziehen und andere von der Erziehung ausschließen darf.« »Endlich tritt dann auch hier ein <hi rendition="#i">Zwang</hi> ein, teils insofern dem Erziehenden im positiven Recht gar oft nicht erlaubt Wird, dieses <hi rendition="#i">Verhältnis aufzugeben,</hi> teils insofern der zu Erziehende genötigt ist, sich grade von diesem erziehen zu lassen.« »Die Wirklichkeit dieses Verhältnisses beruht meistens auf dem<hi rendition="#i"> bloßen Zufall</hi> der Geburt, welche auf den <hi rendition="#i">Vater</hi> durch die <hi rendition="#i">Ehe</hi> bezogen sein muß. Diese <hi rendition="#i">Entstehungsart</hi> ist offenbar nicht sehr vernünftig, auch um deswillen, weil hier gewöhnlich eine <hi rendition="#i">Vorliebe</hi> eintritt, welche allein schon einer guten Erziehung im Wege steht, und daß sie dann doch nicht durchaus notwendig ist, sieht man daraus, weil ja auch Kinder erzogen werden, deren Eltern bereits gestorben sind.«</hi></p>
+<lb/>
+<p rend="h4">Das Kapitel vom Privatrecht</p>
+<p rendition="#et">§ 107 werden wir belehrt, daß die <hi rendition="#i">»Notwendigkeit des Privatrechts überhaupt eine vermeinte sei«.</hi></p>
+<lb/>
+<p rend="h4">Das Kapitel vom Staatsrecht</p>
+<p rendition="#et"><hi rendition="#blue">»Es ist eine <hi rendition="#i">heilige Gewissenspflicht,</hi> der <hi rendition="#i">Obrigkeit zu gehorchen,</hi> welche die <hi rendition="#i">Gewalt</hi> in <hi rendition="#i">Händen</hi> hat.« »Was die <hi rendition="#i">Verteilung der Regierungsgewalt</hi> betrifft, so ist zwar <hi rendition="#i">keine</hi> einzelne Verfassung peremptorisch rechtlich; aber <hi rendition="#i">provisorisch rechtlich</hi> ist <hi rendition="#i">jede,</hi> die <hi rendition="#i">Regierungsgewalt sei verteilt, wie sie wolle.«</hi></hi></p>
+<p rendition="#et">Hat Hugo nicht bewiesen, daß der Mensch auch die <hi rendition="#i">letzte Fessel der Freiheit</hi> abwerfen kann, nämlich die, ein <hi rendition="#i">vernünftiges Wesen</hi> zu sein?</p>
+<p rendition="#et">Diese wenigen Exzerpte aus dem <hi rendition="#i">philosophischen Manifest der historischen Schule</hi> reichen hin, glauben wir, um ein historisches Urteil über diese Schule an die Stelle unhistorischer Einbildungen, unbestimmter Gemütsträume und absichtlicher Fiktionen zu setzen; sie reichen hin, um zu entscheiden, ob<hi rendition="#i"> Hugos Nachfolger</hi> den <hi rendition="#i">Beruf</hi> haben, <hi rendition="#i">die Gesetzgeber unserer Zeit</hi> zu sein.</p>
+<p rendition="#et">Allerdings ist dieser <hi rendition="#i">rohe Stammbaum</hi> der historischen Schule im Laufe der Zeit und der Kultur von dem <hi rendition="#i">Rauchwerke der Mystik</hi> in Nebel gehüllt, von der <hi rendition="#i">Romantik</hi> phantastisch ausgeschnitzelt, von der<hi rendition="#i"> Spekulation</hi> inokuliert worden, und die vielen <hi rendition="#i">gelehrten</hi> Früchte hat man vom Baume geschüttelt, <pb n="84" facs="#f0008"/> getrocknet und prahlerisch in der großen Vorratskammer deutscher Gelehrsamkeit aufgespeichert; allein es gehört wahrlich nur wenig <hi rendition="#i">Kritik</hi> dazu, um hinter all den wohlriechenden modernen Phrasen die schmutzigen alten Einfälle unseres Aufklärers des ancien régime und hinter all der überschwenglichen Salbung seine liederliche Trivialität wiederzuerkennen.</p>
+<p rendition="#et">Wenn Hugo sagt: »Das <hi rendition="#i">Tierische</hi> ist das <hi rendition="#i">juristische</hi> Unterscheidungsmerkmal des <hi rendition="#i">Menschen«,</hi> also: das Recht ist <hi rendition="#i">tierisches</hi> Recht, so sagen die gebildeten <hi rendition="#i">Modernen</hi> für das rohe, offenherzige <hi rendition="#i">»tierisch«</hi> etwa<hi rendition="#i"> »organisches«</hi> Recht, denn wem fällt beim <hi rendition="#i">Organismus</hi> auch gleich der <hi rendition="#i">tierische Organismus</hi> ein? Wenn Hugo sagt, daß in der <hi rendition="#i">Ehe</hi> und den andern <hi rendition="#i">sittlich-rechtlichen</hi> Institutionen <hi rendition="#i">keine Vernunft</hi> ist, so sagen die <hi rendition="#i">modernen</hi> Herren, diese Institutionen seien zwar<hi rendition="#i"> keine Bildungen der menschlichen Vernunft,</hi> aber<hi rendition="#i"> Abbilder</hi> einer höhern <hi rendition="#i">»positiven«</hi> Vernunft, und so durch alle übrigen Artikel. Nur <hi rendition="#i">ein</hi> Resultat sprechen<hi rendition="#i"> alle</hi> gleich roh aus: <hi rendition="#i">Das Recht der willkürlichen Gewalt.</hi></p>
+<p rendition="#et"><hi rendition="#i"> Halters, Stahls, Leos</hi> und der Gleichgesinnten juristische und historische Theorien sind nur als <hi rendition="#i">codices rescripti</hi> des <hi rendition="#i">hugonischen Naturrechts</hi> zu betrachten, die nach einigen Operationen der <hi rendition="#i">kritischen Scheidekunst</hi> den alten <hi rendition="#i">Urtext</hi> wieder leserlich hervortreten lassen, wie wir bei gelegener Zeit weiter dartun wollen.</p>
+<p rendition="#et">Um so vergeblicher bleiben alle <hi rendition="#i">Verschönerungskünste,</hi> als wir das <hi rendition="#i">alte Manifest</hi> noch besitzen, das, wenn auch nicht <hi rendition="#i">verständig,</hi> doch immerhin <hi rendition="#i">sehr verständlich</hi> ist.</p>
+<pb n="85" facs="#f0009"/> 
+
+</body></text></TEI>

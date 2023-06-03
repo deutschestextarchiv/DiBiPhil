@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in zwölf Bänden</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/59796">
+        <forename>Immanuel</forename>
+        <surname>Kant</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Immanuel Kant: Werke in zwölf Bänden. Herausgegeben von Wilhelm Weischedel.
+      Frankfurt am Main: Suhrkamp, 1977.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in zwölf Bänden</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/59796">
+        <forename>Immanuel</forename>
+        <surname>Kant</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/6635X">
+        <forename>Wilhelm</forename>
+        <surname>Weischedel</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Suhrkamp</name>
+      </publisher><pubPlace>Frankfurt a. M.</pubPlace>
+      <date type="publication">1977</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck: Königsberg (Kanter) 1762.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Die falsche Spitzfindigkeit der vier syllogistischen Figuren</note>
+
+
+<head>Immanuel Kant</head>
+<head>Die falsche Spitzfindigkeit der vier syllogistischen Figuren</head>
+<pb n="599" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">§ 1. Allgemeiner Begriff von der Natur der Vernunftschlüsse</note>
+
+<head>§ 1. Allgemeiner Begriff von der Natur der Vernunftschlüsse</head>
+<p rendition="#et">Etwas als ein Merkmal mit einem Dinge vergleichen heißt <hi rendition="#i">urteilen</hi>. Das Ding selber ist das Subjekt, das Merkmal das Prädikat. Die Vergleichung wird durch das Verbindungszeichen <hi rendition="#i">ist</hi> oder <hi rendition="#i">sein</hi> ausgedrückt, welches, wenn es schlechthin gebraucht wird, das Prädikat als ein Merkmal des Subjekts bezeichnet, ist es aber mit dem Zeichen der Verneinung behaftet, das Prädikat als ein dem Subjekt entgegen gesetztes Merkmal zu erkennen gibt. In dem erstern Fall ist das Urteil bejahend, im andern verneinend. Man verstehet leicht, daß, wenn man das Prädikat ein Merkmal nennet, dadurch nicht gesagt werde, daß ein Merkmal des Subjekts sei; denn dieses ist nur in bejahenden Urteilen also; sondern daß es als ein Merkmal von irgend einem Dinge angesehen werde, ob es gleich in einem verneinende Urteile dem Subjekte desselben widerspricht. So ist ein <hi rendition="#i">Geist</hi> das Ding das ich gedenke; <hi rendition="#i">zusammengesetzt</hi> ein Merkmal von irgend etwas; das Urteil, <hi rendition="#i">ein Geist ist nicht zusammengesetzt</hi>, stellt dieses Merkmal als widerstreitend dem Dinge selber vor.</p>
+<p rendition="#et">Was ein Merkmal von dem Merkmale eines Dinges ist, das nennet man ein <hi rendition="#i">mittelbares Merkmal</hi> desselben. So ist <hi rendition="#i">notwendig</hi> ein unmittelbares Merkmal Gottes, <hi rendition="#i">unveränderlich</hi> aber ein Merkmal des Notwendigen und ein mittelbares Merkmal Gottes. Man siehet leicht: daß das unmittelbare Merkmal zwischen dem entfernten und der Sache selbst die Stelle eines<hi rendition="#i"> Zwischenmerkmals</hi> (nota intermedia) vertrete, weil nur durch dasselbe das entfernete Merkmal mit der Sache selbst verglichen wird. Man kann aber auch ein Merkmal mit einer Sache durch ein Zwischenmerkmal verneinend vergleichen, dadurch daß man erkennet, daß etwas dem unmittelbaren Merkmal einer Sache widerstreite. <hi rendition="#i">Zufällig</hi> widerstreitet als ein Merkmal dem <hi rendition="#i">Notwendigen</hi>; notwendig aber ist ein Merkmal von <hi rendition="#i">Gott</hi>, <pb n="599" facs="#f0002"/> und man erkennet also vermittelst eines Zwischenmerkmals, daß notwendig sein Gott widerspreche.</p>
+<p rendition="#et">Nunmehro errichte ich meine Realerklärung von einem Vernunftschlusse. <hi rendition="#i">Ein jedes Urteil durch ein mittelbares Merkmal ist ein Vernunftschluß</hi>, oder mit andern Worten: er ist die Vergleichung eines Merkmals mit einer Sache vermittelst eines Zwischenmerkmals. Dieses Zwischenmerkmal (nota intermedia) in einem Vernunftschluß heißt auch sonsten der <hi rendition="#i">mittlere Hauptbegriff</hi> (terminus medius); welches die andere Hauptbegriffe sein, ist genugsam bekannt.</p>
+<p rendition="#et">Um die Beziehung des Merkmals zu der Sache in dem Urteile, <hi rendition="#i">die menschliche Seele ist ein Geist</hi>, deutlich zu erkennen, bediene ich mich des Zwischenmerkmals <hi rendition="#i">vernünftig</hi>, so daß ich vermittelst desselben <hi rendition="#i">ein Geist zu sein</hi> als ein mittelbares Merkmal der menschlichen Seele ansehe. Es müssen notwendig hier drei Urteile vorkommen, nämlich:</p>
+<p rendition="#et">1. ein Geist sein ist ein Merkmal des Vernünftigen</p>
+<p rendition="#et">2. vernünftig ist ein Merkmal der menschlichen Seele</p>
+<p rendition="#et">3. ein Geist sein ist ein Merkmal der menschlichen Seele, denn die Vergleichung eines entferneten Merkmals mit der Sache selbst ist nicht anders wie durch diese drei Handlungen möglich.</p>
+<p rendition="#et">In der Form der Urteile würden sie so lauten: Alles Vernünftige ist ein Geist, die Seele des Menschen ist vernünftig, folglich ist die Seele des Menschen ein Geist. Dieses ist nun ein bejahender Vernunftschluß. Was die verneinenden anlangt, so fällt es eben so leicht in die Augen, daß, weil ich den Widerstreit eines Prädikats und Subjekts nicht jederzeit klar genug erkenne, ich mich, wenn ich kann, des Hülfsmittels bedienen müsse, meine Einsicht durch ein Zwischenmerkmal zu erleichtern. Setzet, man lege mir das verneinende Urteil vor: Die Dauer Gottes ist durch keine Zeit zu messen, und ich finde nicht, daß mir dieses Prädikat, so unmittelbar mit dem Subjekte verglichen, eine genugsam klare Idee des Widerstreits gebe, so bediene mich eines Merkmals, <pb n="600" facs="#f0003"/> das ich mir unmittelbar in diesem Subjekte vorstellen kann, und vergleiche das Prädikat damit, und vermittelst desselben mit der Sache selbst. <hi rendition="#i">Durch die Zeit meßbar sein</hi> widerstreitet allem <hi rendition="#i">Unveränderlichen, unveränderlich</hi> aber ist ein Merkmal <hi rendition="#i">Gottes</hi>, also u.s.w. Dieses förmlich ausgedruckt würde so lauten: Nichts Unveränderliches ist meßbar durch die Zeit, die Dauer Gottes ist unveränderlich, folglich u.s.w.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">§ 2. Von den obersten Regeln aller Vernunftschlüsse</note>
+
+<head>§ 2. Von den obersten Regeln aller Vernunftschlüsse</head>
+<p rendition="#et">Aus dem Angeführten erkennet man, daß die erste und allgemeine Regel aller bejahenden Vernunftschlüsse sei: <hi rendition="#i">Ein Merkmal vom Merkmal ist ein Merkmal der Sache selbst</hi> (nota notae est etiam nota rei ipsius); von allen verneinenden: <hi rendition="#i">Was dem Merkmal eines Dinges widerspricht, widerspricht dem Dinge selbst</hi> (repugnans notae repugnat rei ipsi). Keine dieser Regeln ist ferner eines Beweises fähig. Denn ein Beweis ist nur durch einen oder mehr Vernunftschlüsse möglich, die oberste Formel aller Vernunftschlüsse demnach beweisen wollen würde heißen im Zirkel schließen. Allein daß diese Regeln den allgemeinen und letzten Grund aller vernünftigen Schlußart enthalten, erhellet daraus, weil diejenige, die sonst bis daher von allen Logikern vor die erste Regel aller Vernunftschlüsse gehalten worden, den einzigen Grund ihrer Wahrheit aus den unsrigen entlehnen müssen. Das dictum de omni, der oberste Grund aller bejahenden Vernunftschlüsse lautet also: Was von einem Begriff allgemein bejahet wird, wird auch von einen jeden bejahet, der unter ihm enthalten ist. Der Beweisgrund hievon ist klar. Derjenige Begriff, unter welchem andere enthalten sein, ist allemal als ein Merkmal von diesen abgesondert worden; was nun diesem Begriff zukommt, das ist ein Merkmal eines Merkmals, mithin auch ein Merkmal der Sachen selbst, von denen er ist abgesondert worden, d.i. er kommt denen niedrigen zu, die unter <pb n="601" facs="#f0004"/> ihm enthalten sind. Ein jeder, der nur einigermaßen in logischen Kenntnissen unterwiesen ist, siehet leicht ein: daß dieses Dictum lediglich um dieses Grundes willen wahr sei und daß es also unter unserer ersten Regel stehe. Das dictum de nullo steht in eben solcher Verhältnis gegen unsere zweite Regel. Was von einem Begriffe allgemein verneinet wird, das wird auch von allen demjenigen verneinet, was unter demselben enthalten ist. Denn derjenige Begriff, unter welchem diese andere enthalten sind, ist nur ein von ihnen abgesondertes Merkmal. Was aber diesem Merkmal widerspricht, das widerspricht auch den Sachen selbst; folglich was den höhern Begriffen widerspricht, muß auch den niedrigen widerstreiten, die unter ihm stehen.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">§ 3. Von reinen und vermischten Vernunftschlüssen</note>
+
+<head>§ 3. Von reinen und vermischten Vernunftschlüssen</head>
+<p rendition="#et">Es ist jedermann bekannt, daß es unmittelbare Schlüsse gebe, da aus einem Urteil die Wahrheit eines andern ohne einen Mittelbegriff unmittelbar erkannt wird. Um deswillen sind dergleichen Schlüsse auch keine Vernunftschlüsse; z. E. aus dem Satze: Eine jede Materie ist veränderlich, folgt gerade zu: was nicht veränderlich ist, ist nicht Materie. Die Logiker zählen verschiedene Arten solcher unmittelbaren Schlußfolgen, worunter ohne Zweifel die durch die logische Umkehrung, imgleichen durch die Kontraposition die vornehmsten sein.</p>
+<p rendition="#et">Wenn nun ein Vernunftschluß nur durch drei Sätze geschieht, nach den Regeln die von jedem Vernunftschlusse nur eben vorgetragen worden, so nenne ich ihn einen reinen Vernunftschluß (ratiocinium purum); ist er aber nur möglich, indem mehr wie drei Urteile mit einander verbunden sind, so ist er ein vermengter Vernunftschluß (ratiocinium hybridum). Setzet nämlich, daß zwischen die drei Hauptsätze noch ein aus ihnen gefolgerter unmittelbarer Schluß müsse geschoben werden und also ein Satz mehr dazu komme, als ein reiner Vernunftschluß erlaubt, so ist es ratiocinium hybridum, z. E. gedenket euch, es schlösse jemand also:</p>
+<p rendition="#et"><pb n="602" facs="#f0005"/> Nichts, was verweslich ist, ist einfach</p>
+<p>Mithin kein Einfaches ist verweslich</p>
+<p>Die Seele des Menschen ist einfach</p>
+<p>Also die Seele des Menschen ist nicht verweslich,</p>
+<p>so würde er zwar keinen eigentlich zusammengesetzten Vernunftschluß haben, weil dieser aus mehreren Vernunftschlüssen bestehen soll, dieser aber enthält außer dem, was zu einem Vernunftschluß erfodert wird, nach einen unmittelbaren Schluß durch die Kontraposition und enthält vier Sätze.</p>
+<p rendition="#et">Wenn aber auch wirklich nur drei Urteile ausgedrückt würden, allein die Folge des Schlußsatzes aus diesen Urteilen wäre nur möglich kraft einer erlaubten logischen Umkehrung, Kontraposition oder einer andern logischen Veränderung eines dieser Vorderurteile, so wäre gleichwohl der Vernunftschluß ein ratiocinium hybridum; denn es kommt hier gar nicht darauf an, was man sagt, sondern was man unumgänglich nötig hat, dabei zu denken, wenn eine richtige Schlußfolge soll vorhanden sein. Nehmet einmal an, in dem Vernunftschlusse</p>
+<p rendition="#et">Nichts Verwesliches ist einfach</p>
+<p rendition="#et">die Seele des Menschen ist einfach</p>
+<p>also die Seele des Menschen ist nicht verweslich</p>
+<p>sei nur in so ferne eine richtige Folge, als ich durch eine ganz richtige Umkehrung des Obersatzes sagen kann: nichts Verwesliches ist einfach, folglich nichts Einfaches ist verweslich, so bleibt der Vernunftschluß immer ein vermischter Schluß, weil seine Schlußkraft auf der geheimen Dazufügung dieser unmittelbaren Folgerung beruhet, die man wenigstens in Gedanken haben muß.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">§ 4. In der so genannten ersten Figur sind einzig und allein reine Vernunftschlüsse möglich, in den drei übrigen lediglich vermischte</note>
+
+<head>§ 4. In der so genannten ersten Figur sind einzig und allein reine Vernunftschlüsse möglich, in den drei übrigen lediglich vermischte</head>
+<p rendition="#et">Wenn ein Vernunftschluß unmittelbar nach einer von unsern zwei oben angeführten obersten Regeln geführt wird, so <pb n="603" facs="#f0006"/> ist er jederzeit in der ersten Figur. Die erste Regel heißt also: ein Merkmal B von einem Merkmal C einer Sache A ist ein Merkmal der Sache A selbst. Hieraus entspringen drei Sätze:</p>
+<lb/>
+<p>C hat zum Merkmal B</p>
+<p rendition="#right">Was vernünftig ist (C) ist ein Geist (B)</p>
+<lb/>
+<p>A hat zum Merkmal C</p>
+<p rendition="#right">Die menschl. Seele (A) ist vernünftig (C)</p>
+<lb/>
+<p>Also A hat z. Merkm. B</p>
+<p rendition="#right">Also ist die menschl. Seele (A) ein Geist. (B)</p>
+<lb/>
+<p rendition="#et">Es ist sehr leicht, mehr ähnliche und unter andern auch auf die Regel der verneinenden Schlüsse anzuwenden, um sich zu überzeugen, daß, wenn sie diesen gemäß sind, sie jederzeit in der ersten Figur stehen, daß ich hier mit Recht eine ekelhafte Weitläuftigkeit zu verhüten suche. Man wird auch leichtlich gewahr, daß diese Regeln der Vernunftschlüsse nicht erfodern, daß außer diesen Urteilen irgend dazwischen eine unmittelbare Schlußfolge aus einem oder andern derselben müsse geschoben werden, wofern das Argument soll bündig sein, daher ist der Vernunftschluß in der ersten Figur von reiner Art.</p>
+<lb/>
+<p rend="h4">In der zweiten Figur sind keine andre als vermischte Vernunftschlüsse möglich</p>
+<p rendition="#et">Die Regel der zweiten Figur ist diese: Wem ein Merkmal eines Dinges widerspricht, das widerspricht dem Dinge selber. Dieser Satz ist nur darum wahr, weil dasjenige, dem ein Merkmal widerspricht, das widerspricht auch diesem Merkmal, was aber einem Merkmal widerspricht, widerstreitet der Sache selbst, also dasjenige, dem ein Merkmal einer Sache widerspricht, das widerstreitet der Sache selber. Hier ist nun offenbar, daß bloß deswegen, weil ich den Obersatz als einen verneinenden Satz schlechthin umkehren kann, eine Schlußfolge vermittelst des Untersatzes auf die Konklusion möglich ist. Demnach muß diese Umkehrung dabei geheim gedacht werden, sonst schließen meine Sätze nicht. Der durch die Umkehrung herausgebrachte Satz aber ist <pb n="604" facs="#f0007"/> eine eingeschobene unmittelbare Folge aus dem ersteren, und der Vernunftschluß hat vier Urteile, und ist ein ratiocinium hybridum, z. E. wenn ich sage,</p>
+<p rendition="#et">Kein Geist ist teilbar</p>
+<p rendition="#et">alle Materie ist teilbar</p>
+<p rendition="#et">folglich ist keine Materie ein Geist:</p>
+<p>so schließe ich recht, nur die Schlußkraft steckt darin, weil aus dem ersten Satz, <hi rendition="#i">kein Geist ist teilbar</hi>, durch eine unmittelbare Folgerung fließt, <hi rendition="#i">folglich nichts Teilbares ist ein Geist</hi>, und nach diesem alles nach der allgemeinen Regel aller Vernunftschlüsse richtig folget. Aber da nur kraft dieser daraus zu ziehenden unmittelbaren Folgerung eine Schlußfälligkeit in dem Argumente ist, so gehört dieselbe mit dazu und er hat vier Urteile,</p>
+<p rendition="#et">Kein Geist ist teilbar</p>
+<p>Und daher nichts Teilbares ist ein Geist</p>
+<p>Alle Materie ist teilbar</p>
+<p>Mithin keine Materie ist ein Geist.</p>
+<lb/>
+
+
+<p rend="h4">In der dritten Figur sind keine andere als vermischte Vernunftschlüsse möglich</p>
+<p rendition="#et">Die Regel der dritten Figur ist folgende: Was einer Sache zukommt oder widerspricht, das kommt auch zu oder widerspricht einigen, die unter einem andern Merkmale dieser Sache enthalten sind. Dieser Satz selber ist nur darum wahr, weil ich das Urteil, in welchem gesagt wird, daß ein anderes Merkmal dieser Sache zukommt (per conversionem logicam) umkehren kann, wodurch es der Regel aller Vernunftschlüsse gemäß wird. Es heißt z. E.</p>
+<p rendition="#et">Alle Menschen sind Sünder</p>
+<p rendition="#et">Alle Menschen sind vernünftig</p>
+<p>also einige Vernünftige sind Sünder.</p>
+<p>Dieses schließt nur, weil ich durch eine Umkehrung per accidens aus dem Untersatz also schließen kann: folglich sind einige vernünftige Wesen Menschen, und alsdenn werden die Begriffe nach der Regel aller Vernunftschlüsse verglichen, aber nur vermittelst eines eingeschobnen unmittelbaren Schlusses, und man hat ein ratiocinium hybridum:</p>
+<pb n="605" facs="#f0008"/> <p>Alle Menschen sind Sünder</p>
+<p>Alle Menschen sind vernünftig</p>
+<p>mithin einige Vernünftige sind Menschen</p>
+<p>also einige Vernünftige sind Sünder.</p>
+<p>Eben dasselbe kann man sehr leicht in der verneinenden Art dieser Figur zeigen, welches ich um der Kürze willen weglasse.</p>
+<lb/>
+<p rend="h4">In der vierten Figur sind keine andere wie vermischte Vernunftschlüsse möglich</p>
+<p rendition="#et">Die Schlußart in dieser Figur ist so unnatürlich, und gründet sich auf so viel mögliche Zwischenschlüsse, die als eingeschoben gedacht werden müssen, daß die Regel, die ich davon allgemein vortragen könnte, sehr dunkel und unverständlich sein würde. Um deswillen will ich nur sagen, um welcher Bedingungen willen eine Schlußkraft darin liegt. In den verneinenden Arten dieser Vernunftschlüsse ist darum, weil ich entweder durch logische Umkehrung oder Kontraposition die Stellen der Hauptbegriffe verändern und also nach jedem Vordersatze seine unmittelbare Schlußfolge gedenken kann, so daß diese Schlußfolgen die Beziehung bekommen, die sie in einem Vernunftschlusse nach der allgemeinen Regel überhaupt haben müssen, eine richtige Folgerung möglich. Von den bejahenden aber werde ich zeigen, daß sie in der vierten Figur gar nicht möglich sein. Der verneinende Vernunftschluß nach dieser Figur wird, wie er eigentlich gedacht werden muß, sich auf folgende Art darstellen:</p>
+<p rendition="#et">Kein Dummer ist gelehrt</p>
+<p>folgl. <hi rendition="#i">Kein Gelehrter ist dumm</hi>.</p>
+<p>Einige Gelehrte sind fromm</p>
+<p>folgl. <hi rendition="#i">Einige Fromme sind gelehrt</hi></p>
+<p>also einige Fromme sind nicht dumm.</p>
+<p>Es sei ein Syllogismus von der zweiten Art,</p>
+<p rendition="#et">Ein jeder Geist ist einfach</p>
+<p rendition="#et">alles Einfache ist unverweslich</p>
+<p>also einiges Unverwesliche ist ein Geist.</p>
+<p>Hier leuchtet deutlich in die Augen, daß das Schlußurteil, so wie es da steht, aus den Vordersätzen gar nicht fließen <pb n="606" facs="#f0009"/> könne. Man vernimmt dieses gleich, so bald man den mittlern Hauptbegriff damit vergleicht. Ich kann nämlich nicht sagen, einiges Unverwesliche ist ein Geist, weil es einfach ist, denn darum, weil etwas einfach ist, ist es nicht sofort ein Geist. Ferner so können durch alle mögliche logische Veränderungen die Vordersätze nicht so eingerichtet werden, daß der Schlußsatz oder auch nur ein anderer Satz, aus welchem derselbe als eine unmittelbare Folge fließet, könnte hergeleitet werden, wenn nämlich nach der in allen Figuren einmal festgesetzten Regel die Hauptbegriffe ihre Stellen so haben sollen, daß der größere Hauptbegriff im Obersatz, der kleinere im Untersatze vorkomme.<note place="end" n="1"><bibl><ref>/Philosophie/M/Kant, Immanuel/Die falsche Spitzfindigkeit der vier syllogistischen Figuren/§ 6. Schlußbetrachtung#F1434</ref></bibl></note> Und obgleich, wenn ich die Stellen der Hauptbegriffe gänzlich verändere, so, daß derjenige der kleinere wird, der vorher der größere war und umgekehrt, ein Schlußsatz, aus dem die gegebene Konklusion fließt, kann gefolgert werden, so ist doch alsdenn auch eine gänzliche Versetzung der Vordersätze nötig und der nach der vierte Figur enthaltene so genannte Vernunftschluß enthält wohl die Materialien, aber nicht die Form, wornach geschlossen werden soll, und ist gar kein Vernunftschluß nach der logischen Ordnung, in der allein die Einteilung der vier Figuren möglich ist, welches bei der verneinenden Schlußart in derselben Figur sich ganz anders befindet. Es wird nämlich so heißen müssen:</p>
+<p>Ein jeder Geist ist einfach</p>
+<p>alles Einfache ist unverweslich</p>
+<p>also ein jeder Geist ist unverweslich</p>
+<p>mithin einiges Unverwesliche ist ein Geist.</p>
+<p>Dieses schließt ganz richtig, allein ein dergleichen Vernunftschluß ist von dem in der ersten Figur nicht durch eine andere <pb n="607" facs="#f00010"/> Stelle des mittlern Hauptbegriffs unterschieden, sondern nur darin, daß die Stellen der Vordersätze verändert worden<note place="end" n="2"><bibl><ref>/Philosophie/M/Kant, Immanuel/Die falsche Spitzfindigkeit der vier syllogistischen Figuren/§ 6. Schlußbetrachtung#F1435</ref></bibl></note> und in dem Schlußsatze die Stellen der Hauptbegriffe. Darin besteht aber gar nicht die Veränderung der Figur. Einen Fehler von dieser Art findet man an dem angeführten Orte der Crusischen Logik, wo man durch diese Freiheit, die Stelle der Vordersätze zu verändern, geglaubt hat, in der vierten Figur und zwar natürlicher zu schließen. Es ist schade um die Mühe, die sich ein großer Geist gibt, an einer unnützen Sache bessern zu wollen. Man kann nur was Nützliches tun, wenn man sie vernichtigt.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">§ 5. Die logische Einteilung der vier syllogistischen Figuren ist eine falsche Spitzfindigkeit</note>
+
+<head>§ 5. Die logische Einteilung der vier syllogistischen Figuren ist eine falsche Spitzfindigkeit</head>
+<p rendition="#et">Man kann nicht in Abrede sein, daß in allen diesen vier Figuren richtig geschlossen werden könne. Nun ist aber unstreitig, daß sie alle, die erste ausgenommen, nur durch einen Umschweif und eingemengte Zwischenschlüsse die Folge bestimmen, und daß eben derselbe Schlußsatz aus dem nämlichen Mittelbegriffe in der ersten Figur rein und unvermengt abfolgen würde. Hier könnte man nun denken, daß darum die drei andere Figuren höchstens unnütze, nicht aber falsch wären. Allein wenn man die Absicht erwägt, in der sie erfunden worden, und noch immer vorgetragen werden, so wird man anders urteilen. Wenn es darauf ankäme, eine Menge von Schlüssen, die unter die Haupturteile gemengt wären, mit diesen so zu verwickeln, daß, indem einige ausgedruckt, andere verschwiegen würden, es viele Kunst kostete, ihre Übereinstimmung mit den Regeln zu schließen zu beurteilen, so würde man wohl eben nicht mehr Figuren,<pb n="608" facs="#f00011"/> aber doch mehr rätselhafte Schlüsse, die Kopfbrechens genug machen könnten, noch dazu ersinnen können. Es ist aber der Zweck der Logik, nicht zu verwickeln, sondern aufzulösen, nicht verdeckt, sondern augenscheinlich etwas vorzutragen. Daher sollen diese vier Schlußarten einfach, unvermengt, und ohne verdeckte Nebenschlüsse sein, sonst ist ihnen die Freiheit nicht zugestanden, in einem logischen Vortrage als Formeln der deutlichsten Vorstellung eines Vernunftschlusses zu erscheinen. Es ist auch gewiß, daß bis daher alle Logiker sie vor einfache Vernunftschlüsse ohne notwendige Dazwischensetzung von andern Urteilen angesehen haben, sonst würde ihnen niemals dieses Bürgerrecht sein erteilt worden. Es sind also die übrige drei Schlußarten als Regeln der Vernunftschlüsse überhaupt richtig, als solche aber, die einen einfachen und reinen Schluß enthielten, falsch. Diese Unrichtigkeit, welche es zu einem Rechte macht, Einsichten verwickeln zu dürfen, anstatt daß die Logik zu ihren eigentümlichen Zwecke hat, alles auf die einfachste Erkenntnisart zu bringen, ist um desto größer, je mehr besondere Regeln (deren eine jede Figur etliche eigene hat) nötig sein, um bei diesen Seitensprüngen sich nicht selbst ein Bein unterzuschlagen. In der Tat wo jemals auf eine gänzlich unnütze Sache viel Scharfsinnigkeit verwandt, und viel scheinbare Gelehrsamkeit verschwendet worden ist, so ist diese. Die so genannte Modi, die in jeder Figur möglich sind, durch seltsame Wörter angedeutet, die zugleich mit viel geheimer Kunst Buchstaben enthalten, welche die Verwandlung in die erste erleichtern, werden künftighin eine schätzbare Seltenheit von der Denkungsart des menschlichen Verstandes enthalten, wenn dereinst der ehrwürdige Rost des Altertums einer besser unterwiesnen Nachkommenschaft die emsige und vergebliche Bemühungen ihrer Vorfahren an diesen Überbleibseln wird bewundern und bedauren lehren.</p>
+<p rendition="#et">Es ist auch leicht, die erste Veranlassung zu dieser Spitzfindigkeit zu entdecken. Derjenige so zuerst einen Syllogismus in drei Reihen übereinander schrieb, ihn wie ein <pb n="609" facs="#f00012"/> Schachbrett ansahe, und versuchte, was aus der Versetzung der Stellen des Mittelbegriffs herauskommen möchte, der war eben so betroffen, da er gewahr ward, daß ein vernünftiger Sinn herauskam, als einer, der ein Anagramm im Namen findet. Es war eben so kindisch, sich über das eine wie über das andre zu erfreuen, vornehmlich da man darüber vergaß, daß man nichts Neues in Ansehung der Deutlichkeit, sondern nur eine Vermehrung der Undeutlichkeit aufbrächte. Allein es ist einmal das Los des menschlichen Verstandes so bewandt; entweder er ist grüblerisch und gerät auf Fratzen, oder erhaschet verwegen nach zu großen Gegenständen, und bauet Luftschlösser. Von dem großen Haufen der Denker wählt der eine die Zahl 666, der andere den Ursprung der Tiere und Pflanzen, oder die Geheimnisse der Vorsehung. Der Irrtum, darin beide geraten, ist von sehr verschiedenem Geschmack, so wie die Köpfe verschieden sein.</p>
+<p rendition="#et">Die wissenswürdige Dinge häufen sich zu unsern Zeiten. Bald wird unsere Fähigkeit zu schwach, und unsere Lebenszeit zu kurz sein, nur den nützlichsten Teil daraus zu fassen. Es bieten sich Reichtümer im Überflusse dar, welche einzunehmen wir manchen unnützen Plunder wieder wegwerfen müssen. Es wäre besser gewesen, sich niemals damit zu belästigen.</p>
+<p rendition="#et">Ich würde mir zu sehr schmeicheln, wenn ich glaubte, daß die Arbeit von einigen Stunden vermögend sein werde, den Kolossen umzustürzen, der sein Haupt in die Wolken des Altertums verbirgt, und dessen Füße von Ton sind. Meine Absicht ist nur, Rechenschaft zu geben, weswegen ich in dem logischen Vortrage, in welchem ich nicht alles meiner Einsicht gemäß einrichten kann, sondern manches dem herrschenden Geschmack zu Gefallen tun muß, in diesen Materien nur kurz sein werde, um die Zeit, die ich dabei gewinne, zur wirklichen Erweiterung nützlicher Einsichten zu verwenden.</p>
+<p rendition="#et">Es gibt noch eine gewisse andere Brauchbarkeit der Syllogistik, nämlich vermittelst ihrer in einem gelehrten Wortwechsel dem Unbehutsamen den Rang abzulaufen. Da dieses aber zur Athletik der Gelehrten gehört, einer Kunst, die sonsten wohl sehr nützlich sein mag, nur daß sie nicht viel <pb n="610" facs="#f00013"/> zum Vorteil der Wahrheit beiträgt, so übergehe ich sie hier mit Stillschweigen.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">§ 6. Schlußbetrachtung</note>
+
+<head>§ 6. Schlußbetrachtung</head>
+<p rendition="#et">Wir sind demnach belehrt, daß die oberste Regeln aller Vernunftschlüsse unmittelbar auf diejenige Ordnung der Begriffe führe, die man die erste Figur nennet; daß alle andre Versetzungen des Mittelbegriffs nur eine richtige Schlußfolge geben, indem sie durch leichte unmittelbare Folgerungen auf solche Sätze führen, die in der einfältigen Ordnung der ersten Figur verknüpft sein; daß es unmöglich sei, in mehr wie in einer Figur einfach und unvermengt zu schließen, weil doch immer nur die erste Figur, die durch versteckte Folgerungen in einem Vernunftschlusse verborgen liegt, die Schlußkraft enthält und die veränderte Stellung der Begriffe nur einen kleinen oder großem Umschweif verursacht, den man zu durchlaufen hat, um die Folge einzusehen; und daß die Einteilung der Figuren überhaupt, in so fern sie reine und mit keinen Zwischenurteilen vermischte Schlüsse enthalten sollen, falsch und unmöglich sei. Wie unsere allgemeine Grundregeln aller Vernunftschlüsse zugleich die besondern Regeln der so genannten ersten Figur enthalten, imgleichen wie man aus dem gegebenen Schlußsatze und dem mittlern Hauptbegriffe sogleich einen jeden Vernunftschluß aus einer der übrigen Figuren ohne die unnütze Weitläuftigkeit der Reduktionsfor meln in die erste und einfache Schlußart verändern könne, so daß entweder die Konklusion selber oder ein Satz, daraus diese durch unmittelbare Folgerung fließt) geschlossen wird, ist aus unserer Erläuterung so leicht abzunehmen, daß ich mich dabei nicht aufhalte.</p>
+<p rendition="#et">Ich will diese Betrachtung nicht endigen, ohne einige Anmerkungen beigefügt zu haben, die auch anderweitig von erheblichen Nutzen sein könnten.</p>
+<p rendition="#et">Ich sage demnach <hi rendition="#i">erstlich</hi>, daß ein <hi rendition="#i">deutlicher</hi> Begriff nur durch ein <hi rendition="#i">Urteil</hi>, ein <hi rendition="#i">vollständiger</hi> aber nicht <pb n="611" facs="#f00014"/> anders als durch einen <hi rendition="#i">Vernunftschluß</hi> möglich sei. Es wird nämlich zu einem deutlichen Begriff erfodert, daß ich etwas als ein Merkmal eines Dinges klar erkenne, dieses aber ist ein Urteil. Um einen deutlichen Begriff vom Körper zu haben, stelle ich mir die Undurchdringlichkeit als ein Merkmal desselben klar vor. Diese Vorstellung aber ist nichts anders als der Gedanke, <hi rendition="#i">ein Körper ist undurchdringlich</hi>. Hiebei ist nur zu merken, daß dieses Urteil nicht der deutliche Begriff selber, sondern die Handlung sei, wodurch er wirklich wird; denn die Vorstellung, die nach dieser Handlung von der Sache selbst entspringt, ist deutlich. Es ist leicht zu zeigen, daß ein vollständiger Begriff nur durch einen Vernunftschluß möglich sei, man darf nur den ersten Parag. dieser Abhandlung nachsehen. Um deswillen könnte man einen deutlichen Begriff auch einen solchen nennen, der durch ein Urteil klar ist, einen vollständigen aber, der durch einen Vernunftschluß deutlich ist. Ist die Vollständigkeit vom ersten Grade, so ist der Vernunftschluß ein einfacher, ist sie vom zweiten oder dritten, so ist sie nur durch eine Reihe von Kettenschlüssen, die der Verstand nach der Art eines Sorites verkürzt, möglich. Hieraus erhellet auch ein wesentlicher Fehler der Logik, so wie sie gemeiniglich abgehandelt wird, daß von den deutlichen und vollständigen Begriffen eher gehandelt wird, wie von Urteilen und Vernunftschlüssen, obgleich jene nur durch diese möglich sein.</p>
+<p rendition="#et"><hi rendition="#i">Zweitens</hi> eben so augenscheinlich wie es ist, daß zum vollständigen Begriffe keine andere Grundkraft der Seele erfodert werde, wie zum deutlichen (indem eben dieselbe Fähigkeit, die etwas unmittelbar als ein Merkmal in einem Dinge erkennet, auch in diesem Merkmale wieder ein anderes Merkmal vorzustellen, und also die Sache durch ein entferntes Merkmal zu denken gebraucht wird): eben so leicht fällt es auch in die Augen, daß <hi rendition="#i">Verstand</hi> und <hi rendition="#i">Vernunft</hi>, d.i. das Vermögen, deutlich zu erkennen, und dasjenige, Vernunftschlüsse zu machen, keine verschiedene Grundfähigkeiten sein. Beide bestehen im Vermögen zu urteilen; wenn man aber mittelbar urteilt, so schließt man.</p>
+<p rendition="#et"><hi rendition="#i">Drittens</hi> ist hieraus auch abzunehmen, daß die obere <pb n="612" facs="#f00015"/> Erkenntniskraft schlechterdings nur auf dem Vermögen zu urteilen beruhe. Demnach wenn ein Wesen urteilen kann, so hat es die obere Erkenntnisfähigkeit. Findet man Ursache, ihm diese letztere abzusprechen, so vermag es auch nicht zu urteilen. Die Verabsäumung solcher Betrachtungen hat einen berühmten Gelehrten veranlaßt, den Tieren deutliche Begriffe zuzustehn. Ein Ochs, heißt es, hat in seiner Vorstellung vom Stalle doch auch eine klare Vorstellung von seinem Merkmale der Türe, also einen deutlichen Begriff vom Stalle. Es ist leicht, hier die Verwirrung zu verhüten. Nicht darin besteht die Deutlichkeit eines Begriffs, daß dasjenige, was ein Merkmal vom Dinge ist, klar vorgestellt werde, sondern daß es<hi rendition="#i"> als</hi> ein Merkmal des Dinges erkannt werde. Die Türe ist zwar etwas zum Stalle Gehöriges, und kann zum Merkmal desselben dienen, aber nur derjenige, der das Urteil abfaßt: <hi rendition="#i">diese Türe gehört zu diesem Stalle</hi>, hat einen deutlichen Begriff von dem Gebäude, und dieses ist sicherlich über das Vermögen des Viehes.</p>
+<p rendition="#et">Ich gehe noch weiter und sage: es ist ganz was anders, Dinge von einander <hi rendition="#i">unterscheiden</hi>, und den <hi rendition="#i">Unterschied</hi> der Dinge <hi rendition="#i">erkennen</hi>. Das letztere ist nur durch Urteilen möglich, und kann von keinem unvernünftigen Tiere geschehen. Folgende Einteilung kann von großem Nutzen sein. <hi rendition="#i">Logisch unterscheiden</hi> heißt erkennen, daß ein Ding A nicht B sei, und ist jederzeit ein verneinendes Urteil, <hi rendition="#i">physisch unterscheiden</hi> heißt durch verschiedene Vorstellungen zu verschiedenen Handlungen getrieben werden. Der Hund unterscheidet den Braten vom Brote, weil er anders vom Braten, als vom Brote gerührt wird (denn verschiedene Dinge verursachen verschiedne Empfindungen), und die Empfindungen vom erstem ist ein Grund einer andern Begierde in ihm als die vom letztem,<note place="end" n="3"><bibl><ref>/Philosophie/M/Kant, Immanuel/Die falsche Spitzfindigkeit der vier syllogistischen Figuren/§ 6. Schlußbetrachtung#F1436</ref></bibl></note> nach <pb n="613" facs="#f00016"/> der natürlichen Verknüpfung seiner Triebe mit seinen Vorstellungen. Man kann hieraus die Veranlassung ziehen, dem wesentlicher Unterschiede der vernünftigen und vernunftlosen Tiere besser nachzudenken. Wenn man einzusehen vermag, was denn dasjenige für eine geheime Kraft sei, wodurch das Urteilen möglich wird, so wird man den Knoten auflösen. Meine jetzige Meinung geht dahin, daß diese Kraft oder Fähigkeit nichts anders sei als das Vermögen des innern Sinnes, d.i. seine eigene Vorstellungen zum Objekte seiner Gedanken zu machen. Dieses Vermögen ist nicht aus einem andern abzuleiten, es ist ein Grundvermögen im eigentlichen Verstande und kann, wie ich davor halte, bloß vernünftigen Wesen eigen sein. Auf demselben aber beruhet die ganze obere Erkenntniskraft. Ich schließe mit einer Vorstellung, die denenjenigen angenehm sein muß, welche das Vergnügen über die Einheit in dem menschlichen Erkenntnissen empfinden können. Alle bejahende Ur teile stehen unter einer gemeinschaftlichen Formel, dem Satze der Einstimmung: Cuilibet subiecto competit praedicatum ipsi identicum, alle verneinende unter dem Satze des Widerspruchs: Nulli subiecto competit praedicatum ipsi oppositum. Alle bejahende Vernunftschlüsse sind unter der Regel enthalten: Nota notae est nota rei ipsius, alle verneinende unter dieser: Oppositum notae opponitur rei ipsi. Alle Urteile, die unmittelbar unter den Sätzen der Einstimmung oder des Widerspruchs stehen, das ist, bei denen weder die Identität noch der Widerstreit durch ein Zwischenmerkmal (mithin nicht vermittelst der Zergliederung der Begriffe), sondern unmittelbar eingesehen wird, sind unerweisliche Urteile, diejenige, wo sie mittelbar erkannt werden kann, sind erweislich. Die menschliche Erkenntnis ist voll solcher unerweislicher Urteile. Vor jeglicher Definition kommen deren etliche vor, so bald man, um zu ihr zu gelangen, dasjenige, was man zunächst und unmittelbar an einem Dinge erkennet,<pb n="614" facs="#f00017"/> sich als ein Merkmal desselben vorstellt. Diejenige Weltweise irren, die so verfahren, als wenn es gar keine unverwesliche Grundwahrheiten außer einem gebe. Diejenigen irren eben so sehr, die ohne genugsame Gewährleistung zu freigebig sind, verschiedene ihrer Sätze dieses Vorzugs zu würdigen.</p>
+<pb n="615" facs="#f00018"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Kant, Immanuel/Die falsche Spitzfindigkeit der vier syllogistischen Figuren/§ 4. In der so genannten ersten Figur sind einzig und allein reine Vernunftschlüsse möglich, in den drei übrigen lediglich vermischte#N1434</ref>1</bibl> Diese Regel gründet sich auf die synthetische Ordnung, nach welcher zuerst das entfernete und dann das nähere Merkmal mit dem Subjekte verglichen wird. Indessen wenn dieselbe gleich als bloß willkürlich angesehen würde, so wird sie doch unumgänglich nötig, so bald man vier Figuren haben will. Denn so bald es einerlei ist, ob ich das Prädikat der Konklusion in den Obersatz oder Untersatz bringe, so ist die erste Figur von der vierten gar nicht unterschieden. Einen dergleichen Fehler findet man in Crusii Logik Seite 600 die Anmerk.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Kant, Immanuel/Die falsche Spitzfindigkeit der vier syllogistischen Figuren/§ 4. In der so genannten ersten Figur sind einzig und allein reine Vernunftschlüsse möglich, in den drei übrigen lediglich vermischte#N1435</ref>2</bibl> Denn wenn derjenige Satz der Obersatz ist, in dem das Prädikat der Konklusion vorkommt, so ist von der eigentlichen Konklusion, die hier aus den Vordersätzen unmittelbar fließt, der zweite Satz der Obersatz und der erste der Untersatz. Alsdenn ist aber alles nach der ersten Figur geschlossen, nur so, daß der aufgegebene Schlußsatz aus dem, welcher zunächst aus gedachten Urteilen folgt, durch eine logische Umkehrung gezogen wird.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Kant, Immanuel/Die falsche Spitzfindigkeit der vier syllogistischen Figuren/§ 6. Schlußbetrachtung#N1436</ref>3</bibl> Es ist in der Tat von der äußersten Erheblichkeit, bei der Untersuchung der tierischen Natur hierauf acht 
+zu haben. Wir werden an ihnen lediglich äußere Handlungen gewahr, deren Verschiedenheit unterschiedliche Bestimmungen ihrer Begierde anzeigt. Ob in ihrem Innein diejenige Handlung der Erkenntniskraft vorgeht, da sie sich der Übereinstimmung oder des Widerstreits desjenigen, was in einer Empfindung ist, mit dem, was in einer andern befindlich ist, bewußt sein und also urteilen, das folgt gar nicht daraus.</note>
+
+
+</div>
+
+</body></text></TEI>

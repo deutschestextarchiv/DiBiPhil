@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Thai-kih-thu, des Tscheu-Tsi Tafel des Urprinzipes</title>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Thai-kih-thu, des Tscheu-Tsi Tafel des Urprinzipes, mit Tschu-Hi's Commentare. Nach
+      dem Hoh-Pih-Sing-Li. Chinesisch mit mandschuischer und deutscher Übersetzung, Einleitung
+      und Anmerkungen, herausgegeben von Georg von der Gabelentz, Dresden: Commissionsverlag bei R.
+      von Zahn, 1976.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Thai-kih-thu, des Tscheu-Tsi Tafel des Urprinzipes</title>
+      <editor><persName ref="http://d-nb.info/gnd/88944">
+        <forename>Georg</forename>
+        <nameLink>von der</nameLink>
+        <surname>Gabelentz</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Comissions-Verlag bei R. von Zahn</name>
+    </publisher><pubPlace>Dresden</pubPlace>
+      <date type="publication">1876</date>
+      <date type="firstPublication">1876</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden im 11. Jahrhundert. Hier in der Übersetzung von Georg von der Gabelentz.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Thai-kih-thu - des Tscheu-Tsi Tafel des Urprinzipes</note>
+
+
+
+<head>Thai-Kih-Thu</head>
+<head>Des Tscheu-Tsï Tafel des Urprinzipes</head>
+
+
+
+<div n="1">
+<note type="editorial">Die Tafel des Urprinzipes</note>
+
+<head><pb n="11" facs="#f0001"/>
+Die Tafel des Urprinzipes</head>
+<head>Tscheu-tsï hat sie verfasst, Tschu-tsï sie erläutert.</head>
+
+
+<div n="2">
+<note type="editorial">Einleitung</note>
+
+<head>Einleitung.</head>
+<p>Tschu-tsï sagt: Aus dem Ho kam eine Tafel hervor: da wurden die acht Kua gezeichnet; im Lŏ zeigte sich eine Schrift: da wurden die neun Abtheilungen geordnet.</p>
+<p rendition="#et"><pb n="11" facs="#f0002"/> <pb n="13" facs="#f0003"/>Und Khung-tsï, anlangend das Erstehen und Vergehen dieser Lehre: Alles schreibt auch er dem Himmel zu.</p>
+<p rendition="#et"><pb n="13" facs="#f0004"/> Seit die Tscheu (-Dynastie) untergegangen und Meng-kho gestorben war, wurde die Ueberlieferung dieser Lehre nicht fortgesetzt.</p>
+<p rendition="#et">Als man weiter von Thsin bis Han gelangt, die Tsin, Sui und Thang vorübergehen gelassen, so dass man zu unsrer (Dynastie) Sung gelangt war, und die fünf Planeten, im (Sternbilde) Khuei <pb n="14" facs="#f0005"/> zusammengetreten, in Wahrheit ein Zeitalter der Wissenschaft und Aufklärung eröffnet hatten: da erstand der Weise.</p>
+<p rendition="#et">Nicht mit Hülfe der Ueberlieferung eines Lehrers erfasste <pb n="15" facs="#f0006"/> er innerlich das Wesen der Lehre, stellte er die Tafel her, knüpfte er daran Schriften, machte (in diesen) das Prinzip zum Ausgangspunkte und nahm das Wichtigste auf. Der ihn damals gesehen und kennen gelernt hat, war Tschheng-tsï.</p>
+<p rendition="#et"><pb n="16" facs="#f0007"/> Darauf verbreitete man sie sehr und erklärte sie einzeln. So wurden die Tiefen der himmlischen Vernunft, das Offenbare der menschlichen Pflichtverhältnisse, die Masse der Dinge und Wesen, die Geheimnisse der Dämonen und Geister ausnahmslos klärlich ganz von Einheit durchdrungen und des Tscheu-kung, des Khung-tsï und des Meng-tsï Ueberlieferungen kamen glänzend wieder an's Licht zu jener Zeit.</p>
+<p rendition="#et"><pb n="17" facs="#f0008"/> Ausdauernden Gelehrten gelang es sie zu ergründen, ihnen nachzugehen ohne das Richtige zu verfehlen, ähnlich denen, die vor den drei Dynastien geboren waren. O, wie erhaben!</p>
+<p rendition="#et"><pb n="18" facs="#f0009"/> Wem es der Himmel nicht beschieden: wer könnte dessen theilhaftig werden?</p>
+<p rendition="#et">Auch sagt man: des Weisen Doctrin, – ihr Geheimniss ist erschöpft durch die eine Tafel des Urprinzipes; des Thungschu Worte sind gleichfalls sämmtlich Tiefen jener Tafel.</p>
+<p rendition="#et"><pb n="19" facs="#f00010"/> Und wenn die weisen Brüder Tschheng auf Natur und Schicksal zu reden kamen, so geschah dies nie anders als dessen Aussprüchen gemäss.</p>
+<p rendition="#et"><pb n="20" facs="#f00011"/> Wenn man das Thung-schu Capitel ›Wahrheit, Bewegung, Ruhe, Vernunft, Natur, Schicksal‹ u.s.w., dann das von Tschheng-tsï geschriebene Li-tschung-thung-ming, des Tschheng-schao-kung Erzählungen, des Yan-tsï Abhandlung von der Liebe zum Studium u.s.w. betrachtet, so kann man (das) erkennen.</p>
+<p rendition="#et"><pb n="21" facs="#f00012"/> Indem Phan-thsing-i (?), von den Gräbern der Weisen erzählend, die (von ihnen) verfassten Bücher aufführt, macht er geflissentlich die Abfassung der Tafel des Urprinzipes zum ersten Gegenstande seines Lobes.</p>
+<p rendition="#et">Sonach muss man diese Tafel für die erste unter den Schriften des Weisen halten, – das steht ausser Zweifel.</p>
+<p rendition="#et"><pb n="22" facs="#f00013"/> Nun aber hat sie der Weise den beiden Tschheng mit der Hand übergeben, und weil (diese) sie hinten an das Buch anfügten, haben die Ueberlieferer, sehend dass dem so war, darauf hin irrigerweise die Tafel für das Schlusscapitel des Buches gehalten, und nicht das Richtige wieder hergestellt.</p>
+<p rendition="#et"><pb n="23" facs="#f00014"/> Dies bewirkte, dass die tiefsinnigen Andeutungen, in welchen der Weise das Bild vorgezeichnet (?) und den Gedanken erschöpft hatte, verdunkelt statt beleuchtet wurden. Und die, welche unbedacht das Thung-schu lasen, wussten ihrerseits nicht, dass es einen Gesammtinbegriff gebe. Daher der Irrthum in den Büchern.</p>
+<p rendition="#et"><pb n="24" facs="#f00015"/> Auch wenn man des inneren Han-lin Tschu (Buch) Tschen – tsin – i – schueh – piao liest, (so findet man) dass er angiebt, diese Tafel sei von Tschhen – thuan, Tschhung-fang und Mu-siu auf uns überliefert.</p>
+<p rendition="#et"><pb n="25" facs="#f00016"/> Aber U-fung und Hu, indem sie die Vorrede schrieben, sagen gleichfalls, der Weise habe nicht nur des Tschhung (-fang) und des Mu (-siu) Lehre getrieben; – dies allein wäre blos ein Nachahmen ihrer Lehre, nicht deren Höhepunkt gewesen.</p>
+<p rendition="#et">Das Geheimniss der Lehre des Weisen geht nicht über diese Tafel hinaus.</p>
+<p rendition="#et"><pb n="26" facs="#f00017"/> Sagt man, er habe sie von Anderen empfangen, so würde er gewiss noch nicht an Tschhung und Mu heranreichen; sagt man, sie wäre nicht deren Höhepunkt, wie könnte dann des Weisen Lehre diese Tafel übertreffen?</p>
+<p rendition="#et"><pb n="27" facs="#f00018"/> Daher habe ich früher (zwar) darüber Zweifel gehegt, dann aber die historischen Nachrichten erhalten und sie geprüft und darnach erkannt, dass sie wirklich des Weisen eigenes Werk ist und er sie nicht von Anderen empfangen hat.</p>
+<p rendition="#et">Die beiden Kung, weil sie diese Nachrichten nicht gesehen hatten, haben nur so hin gesprochen.</p>
+<pb n="28" facs="#f00019"/> 
+</div>
+
+<div n="2">
+<note type="editorial">Die Tafel</note>
+
+
+
+<div n="3">
+<note type="editorial">1. Das Urprinzip</note>
+
+<head><pb n="29" facs="#f00020"/> <pb n="31" facs="#f00021"/>§ 1</head>
+<p>Ohne Prinzip dabei Urprinzip.</p>
+<lb/>
+<p rendition="#et"><pb n="31" facs="#f00022"/> Des hohen Himmels Werke sind ohne Ton und ohne Geruch, und doch wahrhaftig des Entstehens und Vergehens Axe und Knotenpunkt, jedes Dinges Wurzel und Ursprung.</p>
+<p rendition="#et"><pb n="32" facs="#f00023"/> Deshalb heisst es: ›ohne Prinzip, dabei Urprinzip‹.</p>
+<p rendition="#et">Ausser dem Urprinzipe giebt es nichts mehr, was ohne Prinzip wäre.</p>
+<pb n="33" facs="#f00024"/> 
+</div>
+
+<div n="3">
+<note type="editorial">2. Yen und Yang</note>
+
+<head>§ 2</head>
+<p>Das Urprinzip bewegt sich, da erzeugt es Yang. Am Ziele der Bewegung (angelangt) ruht es. Es ruht, da erzeugt es Yen. Am Ziele der Ruhe (angelangt), bewegt es sich von neuem. Bald bewegt, bald ruhend, – Eins ist des Andern Ursache. Yen gesondert, Yang gesondert, so stehen die beiden Grundformen fest.</p>
+<lb/>
+<p rendition="#et"><pb n="34" facs="#f00025"/> Dass das Urprinzip Bewegung und Ruhe hat, ist Wirkung der himmlischen Bestimmung.</p>
+<p rendition="#et">Dies besagt: bald Yen bald Yang, das nennt man die Norm.</p>
+<p rendition="#et"><pb n="35" facs="#f00026"/> Wahrhaftigkeit ist das Fundament des heiligen Menschen, Ende und Anfang der Dinge und Norm des Schicksals.</p>
+<p rendition="#et">Seine Bewegung ist das Durchdringen der Wahrhaftigkeit; <pb n="36" facs="#f00027"/> sie fortsetzen ist Güte: das womit alle Dinge anfangen. Seine Ruhe ist die Wiederherstellung der Wahrhaftigkeit; ihre Verwirklichung ist Natur: alle Dinge insgemein rechtfertigen ihre Natur und Bestimmung.</p>
+<p rendition="#et">Am Ziele der Bewegung ruht es; am Ziele der Ruhe bewegt es sich wieder. Bald Bewegung, bald Ruhe, –<pb n="37" facs="#f00028"/> Eins ist des Anderen Ursache. Das Schicksal wirkt somit ohne Unterlass.</p>
+<p rendition="#et">Es bewegt sich, da zeugt es Yang, es ruht, da zeugt es Yen. Yen gesondert, Yang gesondert, stehen die beiden Grundformen fest. Die Trennung ist somit, – einmal hergestellt, – unveränderlich.</p>
+<p rendition="#et">Denn das Urprinzip ist das ursprüngliche Wunderbare, <pb n="38" facs="#f00029"/> Bewegung und Ruhe sind die Mittel, deren es sich bedient.</p>
+<p rendition="#et">Das Urprinzip ist hinsichtlich der Erscheinungen oberste Norm; Yen und Yang sind hinsichtlich der Erscheinungen unterste Anlagen.</p>
+<p rendition="#et">Daher wenn wir seine Offenbarungen betrachten, so <pb n="39" facs="#f00030"/> haben Bewegung und Ruhe nicht gleiche Zeiten, Yen und Yang nicht gleichen Standpunkt; dabei ist das Urprinzip allgegenwärtig.</p>
+<p rendition="#et">Wenn wir seinen verborgenen Inhalt betrachten, so ist es dunkel und planlos; dabei ist die Vernunftmässigkeit der Bewegung und Ruhe, des Yen und Yang schon ganz enthalten in ihm.</p>
+<p rendition="#et"><pb n="40" facs="#f00031"/> Gleichwohl, untersuchen wir es nach vorn, so sehen wir nicht sein anfängliches Vereintsein; verfolgen wir es nach hinten, so sehen wir nicht sein endliches Auseinandergehen.</p>
+<p rendition="#et">Daher sagt Tschheng-tsï: ›Bewegung und Ruhe sind ohne Ursprung, Yen und Yang ohne Anfang‹. Wer, der die Norm nicht kennt, vermag dies zu erkennen?</p>
+<pb n="41" facs="#f00032"/> 
+</div>
+
+<div n="3">
+<note type="editorial">3. Die fünf Elemente</note>
+
+<head>§ 3</head>
+<p>Yang verändert sich, Yen gesellt sich hinzu: so erzeugen sie Wasser, Feuer, Holz, Metall und Erde, die fünf Wetterarten vertheilen sich entsprechend, die vier Jahreszeiten wandern.</p>
+<lb/>
+<p rendition="#et"><pb n="42" facs="#f00033"/> Es existirt das Urprinzip; bald bewegt es sich, bald ruht es: so werden die beiden Grundformen geschieden. Es existiren Yen und Yang; bald verändern, bald gesellen sie sich: so werden die fünf Elemente geordnet.</p>
+<p rendition="#et">Aber die fünf Elemente sind es, deren Materie auf<pb n="43" facs="#f00034"/> Erden vorhanden, deren Odem dagegen im Himmel wirksam ist.</p>
+<p rendition="#et">Nehmen wir den Stoff und sprechen wir von der Ordnung ihres Entstehens, so sagen wir: Wasser, Feuer, Holz, Metall und Erde; und Wasser und Holz sind Yang, Feuer und Metall Yen.</p>
+<p rendition="#et">Nehmen wir den Odem und reden wir von der Ordnung <pb n="44" facs="#f00035"/> seines Wirkens, so sagen wir: Holz, Feuer, Erde, Metall und Wasser; und Holz und Feuer sind Yang, Metall und Wasser Yen.</p>
+<p rendition="#et">Wiederum, spricht man vom Ganzen (selbst), so ist Odem Yang, und Materie Yen; und wiederum, spricht man von der Anwendung, so ist Bewegung Yang, und Ruhe Yen.</p>
+<p rendition="#et">Denn der fünf Elemente Veränderungen sind nahezu unerschöpflich.</p>
+<p rendition="#et"><pb n="45" facs="#f00036"/> Aber nichts geschieht wider die Norm des Yen und Yang; und anlangend das, wornach diese (Norm) Yen oder Yang werden lässt, so geschieht es nicht anders als auf Grund des Urprinzipes.</p>
+<p rendition="#et">Wie wäre daher etwas unvollkommen, mangelhaft, zerstückt oder unterbrochen?</p>
+<pb n="46" facs="#f00037"/> 
+</div>
+
+<div n="3">
+<note type="editorial">4. Die Einheit im Urprinzip</note>
+
+<head>§ 4</head>
+<p>Die fünf Elemente sind, vereinigt, Yen und Yang; Yen und Yang sind, vereinigt, das Urprinzip; das Urprinzip ist ursprünglich ohne Prinzip. Die fünf Elemente haben bei ihrer Entstehung ein Jedes seine Natur.</p>
+<lb/>
+<p rendition="#et"><pb n="47" facs="#f00038"/> Sind die fünf Elemente vollständig, so sind der Anlage nach die Mittel des Schaffens und Erhaltens ausnahmslos vorhanden.</p>
+<p rendition="#et"><pb n="48" facs="#f00039"/> Daher auch, geht man dem auf den Grund, dadurch erhellt, dass sie insgesammt eines Wesens sind, dass sie nichts wären ohne das Wunder dessen was kein Prinzip hat, und dass das Wunder dessen was kein Prinzip hat, auch ausnahmslos in jeder Sache ganz enthalten ist.</p>
+<p rendition="#et">Denn haben auch die fünf Elemente verschiedenen Stoff, die vier Jahreszeiten verschiedenen Odem, so können sie doch alle nicht aus Yen <pb n="49" facs="#f00040"/> und Yang heraustreten; haben auch Yen und Yang verschiedenen Standpunkt, Bewegung und Ruhe verschiedene Dauer, so können sie sich doch alle nicht vom Urprinzipe entfernen.</p>
+<p rendition="#et">Anlangend nun das was man das Urprinzip nennt, so kann man es auch als das von Anbeginn Ton- und Geruchlose bezeichnen; dies ist das ursprüngliche Wesen der Natur. Wie gäbe es in der Welt aussernatürliche Dinge?</p>
+<p rendition="#et"><pb n="50" facs="#f00041"/> Aber die fünf Elemente sind bei ihrer Entstehung zufolge Odem und Stoff hinsichtlich ihrer Begabung nicht gleich. Das wird ausgedrückt: jedes hat seine eigene Natur.</p>
+<p rendition="#et">Hat jedes seine eigene Natur, so ist überhaupt des Urprinzipes ganzes Wesen durchaus in jeder einzelnen Sache enthalten, so dass die Allgegenwart der Natur gleichfalls ersichtlich ist.</p>
+<pb n="51" facs="#f00042"/> 
+</div>
+
+<div n="3">
+<note type="editorial">5. Khian und Khun; die Dinge</note>
+
+<head>§ 5</head>
+<p>Die Wahrheit dessen, was kein Prinzip hat, der Zwei und der Fünf Wirkungskraft vereinigen sich wunderbar und gerinnen: des Khian Norm ist das Männliche, des Khun Norm ist das Weibliche; die beiden Odem erregen einander, durch Veränderung erzeugen sie alle Dinge; alle Dinge entstehen durch Erzeugung: so ist Wechsel und Veränderung endlos.</p>
+<lb/>
+<p rendition="#et"><pb n="52" facs="#f00043"/> Also in der Welt giebt es kein aussernatürliches Ding: <pb n="53" facs="#f00044"/> somit ist die Natur allgegenwärtig. Darin beruht, dass das, was kein Prinzip hat, die Zwei und die Fünf sich vermischen und verbinden ohne Unterbrechung. Das nennt man die wunderbare Vereinigung.</p>
+<p rendition="#et">Unter ›Wahrheit‹ ist Vernunft gemeint, das heisst: ohne Verwirrung. Unter ›Wirkungskraft‹ ist Odem gemeint; das sind Namen für nicht Zweierlei. ›Gerinnen‹ ist sich sammeln: der Hauch sammelt sich, da wird er Gestalt.</p>
+<p rendition="#et"><pb n="54" facs="#f00045"/> Denn, wenn die Natur das Herrschende ist, und Yen und Yang gleich Aufzug und Einschlag sich zusammenfügen, so gerinnt und sammelt sich Jedes seiner Art gemäss und wird Gestalt.</p>
+<p rendition="#et"><pb n="55" facs="#f00046"/> Die Stärke am Yang ist das Männliche, also des Vaters Norm; die Gefügigkeit am Yen ist das Weibliche, also der Mutter Norm. Diese sind die bei Beginn der Menschen und Dinge durch den Wechsel des Odems Entstandenen.</p>
+<p rendition="#et">Der Odem sammelt sich und wird Gestalt; also treten Gestalt und Odem in Wechselwirkung; und folglich, indem sich die Gestalten verändern, entstehen Menschen und Dinge durch Erzeugung, und Wechsel und Veränderung sind endlos.</p>
+<p rendition="#et"><pb n="56" facs="#f00047"/> Betrachtet man das Männliche und das Weibliche, so haben das Männliche und das Weibliche jedes seine Natur, allein das Männliche und das Weibliche, sind, vereint, das Urprinzip. Betrachtet man alle Dinge, so hat jedes Ding seine eigene Natur, allein alle Dinge sind, vereint, das Urprinzip.</p>
+<p rendition="#et">Denn spricht man vom Ganzen, so sind alle Dinge<pb n="57" facs="#f00048"/> nach ihrem gemeinsamen Wesen, vereint, das Urprinzip: spricht man von den Einzelnen, so enthält jedes Ding ganz das eine Urprinzip.</p>
+<p rendition="#et">Das heisst: in der Welt ist kein aussernatürliches Ding, sondern die Natur ist allgegenwärtig; darin kann man die Vollkommenheit desselben um so mehr erkennen.</p>
+<p rendition="#et">Tsï-ssï-tsï sagt: ›der Edle spreche von Grossem, – die Welt kann es nicht umfassen, er spreche von Kleinem – <pb n="58" facs="#f00049"/> die Welt kann es nicht zerstückeln‹. Das besagt dasselbe.</p>
+
+</div>
+
+<div n="3">
+<note type="editorial">6. Der Mensch</note>
+
+<head>§ 6</head>
+<p>Allein der Mensch, erreicht er dessen Vollendung, ist vollkommen geisteserfüllt; die Gestalt hat sich gebildet, der Geist schafft Wissen, die <pb n="59" facs="#f00050"/> fünf Naturen erregen und bewegen sich, da unterscheiden sich Gut und Böse und die verschiedenen Handlungsweisen treten hervor.</p>
+<lb/>
+<p rendition="#et">Das besagt: alle Menschen enthalten das Vernunftprinzip der Bewegung und Ruhe, allein stets verfehlen sie es in der Bewegung. Denn Menschen und Dinge besitzen bei ihrer Entstehung sammt und sonders die Norm des Urprinzipes.</p>
+<p rendition="#et"><pb n="60" facs="#f00051"/> Nun aber wechseln Yen und Yang und die fünf Elemente nach Odem und Materie untereinander ab; aber des Menschen Begabung allein erreicht deren Vollendung. Dadurch wird sein Herz vollkommen geisteserfüllt und befähigt die Vollendung seiner Natur nicht zu verfehlen.</p>
+<p rendition="#et"><pb n="61" facs="#f00052"/> Das heisst: des Himmels und der Erde Herz, dabei des Menschen Prinzip. Nun aber entsteht die Gestalt aus Yen, und der Geist entspringt aus Yang; die Natur der fünf Haupttugenden wird durch Berührung der Dinge bewegt: so ist Yang gut und Yen schlecht; auch nach der Art sind sie verschieden.</p>
+<p rendition="#et"><pb n="62" facs="#f00053"/> Die Verschiedenheit aber der fünf Naturen macht durch Vertheilung die verschiedenen Thätigkeiten. Denn die zwei Odem und die fünf Elemente erzeugen durch Veränderung alle Dinge, und ihr Verhalten im Menschen ist dem entsprechend.</p>
+<p rendition="#et">Gesetzt, es würde nicht des heiligen Menschen ganzes Wesen vom Urprinzipe bestimmt, so würden Gelüste <pb n="63" facs="#f00054"/> sich regen, Leidenschaften obsiegen, Uebervortheilung und Unterdrückung wetteifern, des Menschen Prinzip stände nicht fest, und er wäre nicht weit entfernt von den Vögeln und Vierfüsslern.</p>
+
+</div>
+
+<div n="3">
+<note type="editorial">7. Der Heilige</note>
+
+<head>§ 7</head>
+<p>Der heilige Mensch richtet sich nach der Mittelstrasse, Rechtschaffenheit, Wohlwollen und Aufrichtigkeit; <pb n="64" facs="#f00055"/> macht dabei die Ruhe zur Hauptsache ... und stellt des Menschen Prinzip fest. Daher vereinigt der heilige Mensch mit Himmel und Erde seine Tugend, mit Sonne und Mond seine Klarheit, mit den vier Jahreszeiten seine Ordnung, mit Dämonen und Geistern sein Glück und Missgeschick.</p>
+<lb/>
+<p rendition="#et">Des heiligen Menschen Norm besteht lediglich in Wohlwollen, Aufrichtigkeit; Mittelstrasse und Rechtschaffenheit.</p>
+<p rendition="#et">Er ist ohne Gelüste, daher ruhig.</p>
+<p rendition="#et"><pb n="65" facs="#f00056"/> Dies besagt: der heilige Mensch erfüllt die Tugend<pb n="66" facs="#f00057"/> der Bewegung und Ruhe, aber meist gründet er sie auf die Ruhe. Denn der Mensch hat des Yen und Yang und der fünf Elemente feinen Odem empfangen von seiner Geburt her.</p>
+<p rendition="#et">Aber der heilige Mensch empfängt bei seiner Geburt auch das Feinste ihres Feinen; daher ist sein Handeln mittelwegig, sein Verhalten recht, seine Aeusserungen sind wohlwollend, seine Anordnungen billig.</p>
+<p rendition="#et"><pb n="67" facs="#f00058"/> Denn ob er sich bewege, ob er ruhe, immer erfüllt er des Urprinzipes Norm, und in nichts kann er fehlen.</p>
+<p rendition="#et">Wenn also vorhin gesagt wurde, Gelüste würden sich regen, Leidenschaften obsiegen, Uebervortheilung und Unterdrückung wetteifern, so wird dies hiermit bestätiget.</p>
+<p rendition="#et">Nun aber ist die Ruhe als Wiederherstellung der Wahrheit <pb n="68" facs="#f00059"/> die Thatsächlichkeit der Natur. Wenn nicht dies Herz in Stille und ohne Gelüste ruhig wäre, wie sollte es dann (auch) dem Wechsel der Ereignisse und Dinge entsprechen und so die Bewegung der Welt vereinigen?</p>
+<p rendition="#et">Darum, indem des heiligen Menschen Mässigung, Rechtschaffenheit, Wohlwollen und Billigkeit sich bei Bewegung und Ruhe ringsum verbreiten, ist doch seine Bewegung nothwendig von Ruhe beherrscht.</p>
+<p rendition="#et"><pb n="69" facs="#f00060"/> Indem er nun ganz Stellung in der Mitte nimmt, können Himmel und Erde, Sonne und Mond, die vier Jahreszeiten, Dämonen und Geister ihm nicht widerstehen.</p>
+<p rendition="#et"><pb n="70" facs="#f00061"/> Denn sicherlich, steht das Wesen fest, dann kann die Bethätigung erfolgen.</p>
+<p rendition="#et">Wenn Tschheng-tsï, von des Khian und des Khun Bewegung und Ruhe redend, sagt: ›Widmet man sich nicht Einem allein, so kann man nicht zum Ziele kommen, sammelt man sich nicht, so kann man sich nicht entfalten‹: so ist dies auch nur derselbe Gedanke.</p>
+<pb n="71" facs="#f00062"/> 
+</div>
+
+<div n="3">
+<note type="editorial">8. Der edle und der niedere Mensch</note>
+
+<head>§ 8</head>
+<p>Der Edle, es pflegend, ist glücklich; der niedre Mensch, ihm widerstehend, ist elend.</p>
+<lb/>
+<p rendition="#et">Der heilige Mensch ist die völlige Verkörperung des Urprinzipes; ob er sich bewege, ob er ruhe, in keiner Lage ist er anders als auf der Höhe der Mittelstrasse, der Rechtschaffenheit, des Wohlwollens und der Aufrichtigkeit. Denn nicht durch Verstellung oder Kunst ist er so, sondern von selbst.</p>
+<p rendition="#et"><pb n="72" facs="#f00063"/> Ehe es erreicht es pflegen, – dadurch ist der Edle glücklich; ohne es zu kennen ihm widerstehen, – dadurch ist der niedre Mensch elend. Es pflegen oder ihm widerstehen, das beruht auf dem Unterschiede zwischen Achtsamkeit und Trägheit allein.</p>
+<p rendition="#et">Ist man achtsam, so werden die Gelüste schwach und die Vernunft klar. Das Schwache wird durch weitere Verringerung zu nichts: dann ist die Ruhe leer und die Bewegung gerade, und so kann dem heiligen Menschen nachgestrebt werden.</p>
+<pb n="73" facs="#f00064"/> 
+</div>
+
+<div n="3">
+<note type="editorial">9. Die Normen der drei Mächte</note>
+
+<head>§ 9</head>
+<p>Darum heisst es: stellt man des Himmels Norm auf, so spricht man von Yen und Yang; stellt man der Erde Norm auf, so spricht man von Mild und Streng; stellt man des Menschen Norm auf, so spricht man von Wohlwollen und Billigkeit. Auch heisst es: den Anfang ermitteln, das Ende erwägen, dadurch erkennt man des Sterbens und Lebens Verlauf.</p>
+<lb/>
+<p rendition="#et"><pb n="74" facs="#f00065"/> Yen und Yang erhalten Gestalt, dadurch wird des Himmels Norm aufgestellt; Streng und Mild erhalten Materie, dadurch wird der Erde Norm aufgestellt; Wohlwollen und Billigkeit erhalten Beständigkeit, dadurch wird des Menschen Norm aufgestellt.</p>
+<p rendition="#et"><pb n="75" facs="#f00066"/> Die Norm ist nur eine. Sofern sie sich hinsichtlich des Ortes offenbart, besteht der Unterschied der drei Mächte; allein innerhalb dieser hat wiederum Alles Verschiedenheit des Wesens und der Function.</p>
+<p rendition="#et">Ihr Verhalten folgt dem einen Urprinzipe. Yang, Strenge, Wohlwollen sind der Dinge Anfang; Yen, Milde, Billigkeit sind der Dinge Ende.</p>
+<p rendition="#et"><pb n="76" facs="#f00067"/> Man kann ihren Anfang ermitteln und so erkennen wodurch sie entstehen, also auch ihr Ende erwägen und so erkennen wodurch sie untergehen. Sie sind zwischen Himmel und Erde Aufzug und Einschlag, Werden und Wechsel. Sie breiten sich aus ehemals und noch, ein unaussprechliches Wunder.</p>
+<p rendition="#et"><pb n="77" facs="#f00068"/> Heilige Männer verfassten das I (-king); sein grosses Denken geht nicht darüber hinaus. Darum führt er es an um seine Darlegungen zu bekräftigen.</p>
+
+</div>
+
+<div n="3">
+<note type="editorial">10. Das I-king</note>
+
+<head>§ 10</head>
+<p>Gross ist das I (-king), – ja, es ist vollendet!</p>
+<lb/>
+<p rendition="#et"><pb n="78" facs="#f00069"/> Das I ist ein umfassendes und grosses, ganzes und vollständiges Buch. Aber er sagt, dasselbe erreiche den Gipfel. Offenbar erschöpft diese Tafel dasselbe. Ist ihr Sinn nicht tief?</p>
+<p rendition="#et">Auch habe ich gehört, wenn die Brüder Tschheng-tsï bei Tscheu-tsï Unterricht empfingen, so gab Tscheu-tsï ihnen mit der Hand diese Tafel.</p>
+<p rendition="#et"><pb n="79" facs="#f00070"/> Was Tschheng-tsï von der Natur und des Himmels Norm redet, geht grösstentheils von ihr (der Tafel) aus.</p>
+<p rendition="#et">Allein deutlich hat er diese Tafel den Menschen am Ende doch nicht erklärt; sie hat also gewiss einen verborgenen Sinn. Die Studirenden dürfen sie gleichfalls nicht ignoriren.</p>
+<pb n="80" facs="#f00071"/> 
+</div>
+
+</div>
+
+<div n="2">
+<note type="editorial">Anhang</note>
+
+<head><pb n="81" facs="#f00072"/> Als Anhang:</head>
+<head>Tschu-tsï's Auseinandersetzungen über das Urprinzip.</head>
+<p>Bewegung und Ruhe sind ohne Ursprung, Yen und Yang ohne Anfang: das ist des Himmels Norm. Anfangen bei Yang, vollenden mit Yen, wurzeln in Ruhe, sich ausbreiten in Bewegung, ist des Menschen Norm.</p>
+<p rendition="#et"><pb n="82" facs="#f00073"/> Nun aber wurzelt Yang wieder im Yen, gründet die Ruhe sich wieder auf Bewegung. Sein Bewegen und Ruhen ist also auch ohne Ursprung; (sein) Yen und Yang auch ohne Anfang. Also ist der Mensch nicht von Anbeginn verschieden vom Himmel, und der Himmel auch nicht von Anbeginn verschieden vom Menschen.</p>
+<p rendition="#et"><pb n="83" facs="#f00074"/> Das Hauptsächliche, Allgemeine, das Durchdringen der Wahrheit ist Bewegung. Das Angemessene, Tüchtige, die Herstellung der Wahrheit ist Ruhe. Das Hauptsächliche ist der Bewegung Ausgangspunkt, es wurzelt in der Ruhe. Das Tüchtige ist der Ruhe Substanz, es offenbart sich in der Bewegung.</p>
+<p rendition="#et">Bald Bewegung bald Ruhe, der Kreislauf hat kein Ende; aber die Tüchtigkeit ist es, durch die alle Dinge das <pb n="84" facs="#f00075"/> Ende erfüllen und den Anfang erfüllen. Daher der Mensch, wiewohl er nicht bewegungslos sein kann, doch, stellt er das Prinzip des Menschen auf, nothwendig die Ruhe zur Hauptsache macht. Allein, macht er die Ruhe zur Hauptsache, so wird er, offenbart er sie in der Bewegung, stets die (rechte) Gelegenheit treffen und also nicht seine ursprüngliche Ruhe verlieren.</p>
+<p rendition="#et">Die Ruhe ist es, wodurch die Natur feststeht; die Bewegung <pb n="85" facs="#f00076"/> ist es, durch welche das Schicksal wirkt. Nun aber ist thatsächlich die Ruhe auch nur ein Aufhören der Bewegung. Daher ob Bewegung, ob Ruhe, – Beides ist Wirkung des Schicksals; und was Bewegung und Ruhe bewirkt, ist das wahre Wesen der Natur. Daher sagt man: des Himmels Schickung heisst Natur.</p>
+<p rendition="#et">Natur, in welcher sich die Neigungen noch nicht geäussert, nennt man Mittelstrasse, das grosse Fundament der Welt. Die Neigung, in <pb n="86" facs="#f00077"/> welcher die Natur sich geäussert hat, trifft ganz die (rechte) Gelegenheit; sie nennt man Harmonie, der Welt allgemeine Norm.</p>
+<p rendition="#et">Dies Alles ist der himmlischen Vernunft spontan. Ein Herz das die Tugend der Natur und Neigung vollkommen macht, vollendet dadurch die Mittelstrasse und Harmonie, stellt das grosse Fundament fest und schafft so die allgemeine Norm. Das ist der himmlischen Vernunft Meister.</p>
+<p rendition="#et"><pb n="87" facs="#f00078"/> Wenn die Ruhe Alles umfasst, so ist die Natur mittelwegig, still und unbeweglich. Wenn die Bewegung überall die Mitte einhält, so erhalten die Neigungen, geäussert, ihre Angemessenheit, erregt sind sie erfolgreich.</p>
+<p rendition="#et">In der Ruhe stets achtsam sein, in der Bewegung stets einhalten, ist des Herzens Vollkommenheit: still, dabei erregt, – erregt, dabei still.</p>
+
+</div>
+
+</div>
+
+</body></text></TEI>

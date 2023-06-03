@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">1. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="1">1. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden in der Mitte des 5. Jahrhunderts vor Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente</note>
+
+
+<head>Melissos aus Samos</head>
+<head>Fragmente</head>
+<pb n="185" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Aus: Über die Natur oder über das Seiende</note>
+
+<head>Aus: Über die Natur oder über das Seiende</head>
+<p rendition="#et">1. Immerdar war, was da war, und immerdar wird es sein. Denn wär' es entstanden, so müßte es notwendigerweise vor dem Entstehen <pb n="185" facs="#f0002"/> nichts sein. Wenn es nun also nichts war, so könnte unter keiner Bedingung etwas aus nichts entstehen.</p>
+<p rendition="#et">2. Sintemal es nun also nicht entstanden und doch ist und immer war und immer sein wird, so hat es auch keinen Anfang und kein Ende, sondern ist unendlich. Denn wär' es entstanden, so hätte es einen Anfang (denn es müßte ja, wenn entstanden, einmal angefangen haben) und ein Ende (denn es müßte ja, wenn entstanden, einmal geendet haben): hat es also nicht angefangen und nicht geendet, war es vielmehr immer und wird es immer sein, so hat es weder Anfang noch Ende. Denn unmöglich kann etwas immerdar sein, was nicht vollständig im Sein aufgeht.</p>
+<p rendition="#et">3. Sondern gleich wie es immerdar ist, so muß es auch immerdar der Größe nach unendlich sein.</p>
+<p rendition="#et"><pb n="186" facs="#f0003"/> 4. Nichts, was Anfang und Ende hat, ist ewig oder unendlich.</p>
+<p rendition="#et">5. Wäre es nicht eines, so würde es gegen ein anderes eine Grenze bilden.</p>
+<p rendition="#et">6. Denn falls es dies [nämlich unendlich, B 4] wäre, wäre es eins. Denn wäre es zwei Dinge, so könnten sie nicht unendlich sein, sondern bildeten gegen einander Grenzen.</p>
+<p rendition="#et">7. [1] So ist es denn ewig und unendlich und eins und vollständig gleichmäßig. [2] Und es könnte nicht [irgend einmal] untergehen oder <pb n="187" facs="#f0004"/> sich vergrößern oder umgestalten, noch empfindet es Schmerz oder Leid. Denn empfände es dergleichen, so wäre es nicht mehr eines. Wird es nämlich anders, so muß notwendigerweise das, was ist, nicht mehr gleichmäßig vorhanden sein, sondern es muß das, was vorher vorhanden war, untergehen und das, was nicht vorhanden war, entstehen. Wenn es nun also in zehntausend Jahren auch nur um ein Haar anders würde, so muß es in der Ewigkeit vollständig zugrunde gehen. [3] Aber auch eine Umgestaltung ist unmöglich. Denn die frühere Gestaltung geht nicht unter und die nicht vorhandene entsteht nicht. Sintemal aber nichts dazukommt und nichts verloren geht oder anders wird, wie sollte es nach der Umgestaltung noch zu dem Seienden zählen? Denn würde etwas anders, dann wäre es ja bereits umgestaltet. [4] Auch empfindet es keinen Schmerz. Denn es könnte nicht vollständig im Sein aufgehen, wenn es ihn empfände; denn ein Schmerz empfindendes Ding könnte nicht ewig sein und besitzt auch nicht dieselbe Kraft wie ein gesundes. Auch wär' es nicht gleichmäßig vorhanden, wenn es Schmerz <pb n="188" facs="#f0005"/> empfände. Denn es empfände ihn doch über Zu- oder Abgang irgend eines Dinges, und es wäre so nicht mehr gleichmäßig vorhanden. [5] Auch könnte das Gesunde nicht wohl Schmerz empfinden. Denn dann ginge ja das Gesunde und das Vorhandene zu Grunde, und das Nichtvorhandene entstünde. [6] Und für die Leidempfindung gilt der Beweis ebenso. [7] Auch gibt es kein Leeres. Denn das Leere ist nichts, also kann das, was ja nichts ist, nicht vorhanden sein. Und es [das Seiende] kann sich [deswegen] auch nicht bewegen. Denn es kann nirgendshin ausweichen, sondern ist voll. Denn wär' es leer, so wich' es ins Leere aus. Da es nun kein Leeres gibt, so hat es keinen Raum zum Ausweichen. [8] Auch kann es kein Dicht oder Dünn geben. Denn das Dünne kann unmöglich ähnlich voll sein wie das Dichte, sondern durch das Dünne entsteht ja bereits etwas, das leerer ist als das Dichte. [9] Man muß aber folgenden Unterschied annehmen zwischen <pb n="189" facs="#f0006"/> dem Vollen und dem Nichtvollen: faßt nämlich ein Ding etwas oder nimmt es noch etwas in sich auf, so ist es nicht voll; faßt es aber nichts und nimmt es nichts auf, so ist es voll. [10] So muß es demnach voll sein, wenn es nicht leer ist. Ist es also voll, dann bewegt es sich nicht</p>
+<p rendition="#et">8. [1]. Diese Darlegung bildet den wichtigsten Beweis für die Einzigkeit des Seins. Aber auch folgende [Punkte lassen] sich als Beweise [anführen]. [2] Gäb' es viele Dinge, so müßten sie dieselben Eigenschaften besitzen, die ich auch von dem Eins aussage. Wenn es nämlich Erde, Wasser, Luft und Feuer und Eisen und Gold gibt, und das eine lebend, das andere tot und schwarz und weiß und so weiter ist, was die Leute alles für wirklich halten, wenn das also vorhanden ist und wir richtig sehen und hören, so muß jedes von diesen Dingen die <pb n="190" facs="#f0007"/> Eigenschaft besitzen, die wir von Anfang an ihm beigelegt haben, d.h. es darf nicht umschlagen oder anders werden, sondern jedes einzelne muß immerdar so sein, wie es gerade ist. Nun behaupten wir ja aber doch richtig zu sehen, zu hören und zu denken. [3] Und doch scheint uns das Warme kalt und das Kalte warm, das Harte weich und das Weiche hart zu werden und das Lebende zu sterben und aus dem Nichtlebenden [Lebendes] zu entstehen, und alle diese Veränderungen vor sich zu gehen, und nichts, was war und was jetzt ist, sich zu gleichen vielmehr das Eisen trotz seiner Härte in Berührung mit dem Finger sich abzureiben, indem es allmählich verschwindet, und [ebenso] Gold und Stein und alles, was sonst für fest gilt, und aus Wasser Erde und Stein zu entstehen. Daraus ergibt sich, daß wir das Wirkliche weder gehen noch verstehen können. [4] Das stimmt also nicht miteinander. Denn obgleich man behauptet, es gäbe viele ewige Dinge, <pb n="191" facs="#f0008"/> die ihre [bestimmten] Gestalten und ihre Festigkeit besäßen, lehrt uns der Augenschein auf Grund der einzelnen Wahrnehmung, daß alles sich ändert und umschlägt. [5] Es liegt also auf der Hand, daß unser Blick sich täuschte, und daß der Anschein jener Vielheit von Dingen trügerisch ist. Denn wären sie wirklich, so Schlügen sie nicht um, sondern jedes bliebe so wie es vordem aussah. Denn stärker als die wirklich vorhandene Wahrheit ist nichts. [6] Schlägt aber etwas um, so geht das Vorhandene zugrunde und das Nichtvorhandene ist entstanden. So ergibt sich also: gäb' es eine Vielheit von Dingen, so müßten sie genau dieselben Eigenschaften besitzen wie das Eins.</p>
+<p rendition="#et">9. Wenn es also [überhaupt] vorhanden ist, so maß es eins sein. Ist es aber eins, so darf es keinen Körper besitzen. Besäße es Dicke, so besäße es auch Teile und wäre dann nicht mehr eines.</p>
+<p rendition="#et">10. Wenn das Seiende geteilt ist, dann bewegt es sich auch. Wenn es sich aber bewegt, dann hört sein Sein auf.</p>
+
+</div>
+
+</body></text></TEI>

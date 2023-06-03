@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sämtliche Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Platon: Sämtliche Werke. Berlin: Lambert Schneider, [1940].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sämtliche Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Verlag Lambert Schneider</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1940</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden etwa zwischen 399 und 396 v. Chr. Erstdruck (in lateinischer Übersetzung durch Marsilio Ficino) in: Opera, Florenz o. J. (ca. 1482/84). Erstdruck des griechischen Originals in: Hapanta ta tu Platônos, herausgegeben von M. Musoros, Venedig 1513. Erste deutsche Übersetzung durch Johann Friedrich Kleuker unter dem Titel »Von der Poesie« in: Werke, Band 1, Lemgo 1778. Der Text folgt der Übersetzung durch Franz Susemihl von 1856.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Ion</note>
+
+<head>Platon</head>
+<head>Ion</head>
+<head><hi rendition="#i">(Iôn)</hi></head>
+<pb n="129" facs="#f0001"/> <pb n="131" facs="#f0002"/><lb/>
+<head>Sokrates · Ion</head>
+<p><hi rendition="#i">Sokrates:</hi> Dem Ion ein Willkommen! Von wo kommst du uns denn jetzt hergewandert? Doch was frage ich nur! Gewiß aus deiner Heimat Ephesos?</p>
+<p><hi rendition="#i">Ion:</hi> Keineswegs, Sokrates, sondern aus Epidauros vom Asklepiosfeste.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie? Stellen die Epidaurier dem Gotte zu Ehren auch einen Wettkampf von Rhapsoden an?</p>
+<p><hi rendition="#i">Ion:</hi> Ja freilich, und nicht das allein, sondern auch musische Wettkämpfe aller andern Art.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, und wie? Da hat denn auch gewiß unser Freund Ion mitgekämpft? Und mit welchem Erfolge tat er es?</p>
+<p><hi rendition="#i">Ion:</hi> Den ersten Preis trugen wir davon, mein Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Vortrefflich! Sorge denn dafür, daß wir auch in den Panathenaien siegen!</p>
+<p><hi rendition="#i">Ion:</hi> Das soll geschehen, so Gott will.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wahrhaftig schon oft, lieber Ion, habe ich euch Rhapsoden wegen eurer Kunst beneidet; denn wie wäre es nicht beneidenswert, daß ihr einerseits, was euer Äußeres anlangt, dasselbe stets so, daß es der Würde eurer Kunst entspricht, herausschmücken und so stattlich wie möglich angetan auftreten müßt, andererseits in die Notwendigkeit versetzt seid, euch neben vielen andern trefflichen Dichtern mit dem Homeros, dem trefflichsten und göttlichsten von allen, zu beschäftigen, und daß ihr nicht bloß seine Worte auswendig wissen, sondern auch seinen Sinn und Geist kennen müßt! Es kann nämlich doch wohl keiner für einen Rhapsoden gelten, wenn er nicht versteht, was der Dichter meint; denn der Rhapsode soll doch gerade seinen Zuhörern den Sinn und Geist des Dichters zum Verständnis bringen, und das kann er unmöglich gehörig tun, wenn er selber nicht versteht, was der Dichter meint. Dies alles also ist an euch beneidenswert.</p>
+<p><hi rendition="#i">Ion:</hi> Sehr wahr, lieber Sokrates. Mir für mein Teil hat daher <pb n="131" facs="#f0003"/> dies auch die meiste Mühe gemacht bei meiner Kunst. Dafür glaube ich aber auch, daß ich jetzt am besten von allen Menschen über den Homeros zu reden weiß, so daß weder Metrodoros aus Lampsakos noch Stesimbrotos aus Thasos noch Glaukon noch irgend ein anderer, so viele je gelebt haben, so viele schöne Gedanken über den Homeros vorzubringen vermocht hat, als ich es vermag.</p>
+<p><hi rendition="#i">Sokrates:</hi> Das ist ja herrlich, lieber Ion; denn ich darf sonach offenbar zuversichtlich hoffen, daß du mir ein Probestück von ihnen nicht vorenthalten wirst.</p>
+<p><hi rendition="#i">Ion:</hi> Gewiß nicht, und es lohnt auch schon der Mühe zu hören, wie schön ich den Homeros zu verherrlichen weiß, so daß ich wohl meine, ich verdiente von seinen Verehrern mit einem goldenen Kranze bekränzt zu werden.</p>
+<p><hi rendition="#i">Sokrates:</hi> Jedenfalls werde ich mir auch noch die Zeit nehmen, dergleichen von dir zu hören. Für jetzt aber beantworte mir nur die Frage, ob du bloß in bezug auf den Homeros zu solchen Auseinandersetzungen so geschickt bist oder auch in bezug auf Hesiodos und Archilochos?</p>
+<p><hi rendition="#i">Ion:</hi> Keineswegs, sondern nur in bezug auf Homeros, denn das scheint mir ausreichend.</p>
+<p><hi rendition="#i">Sokrates:</hi> Gibt es nun aber nicht Dinge, über welche Homeros und Hesiodos dasselbe sagen?</p>
+<p><hi rendition="#i">Ion:</hi> Ich sollte denken, und zwar viele.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wirst du nun bei solchen Dingen besser das auslegen können, was Homeros sagt, oder das, was Hesiodos sagt?</p>
+<p><hi rendition="#i">Ion:</hi> Nun, wo sie so dasselbe sagen, offenbar beides gleich gut, lieber Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie steht es nun aber bei Dingen, über welche sie nicht dasselbe sagen! So sagt doch wohl z.B. Homeros etwas über die Seherkunst und ebenso wieder Hesiodos etwas?</p>
+<p><hi rendition="#i">Ion:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie nun? Was diese beiden Dichter übereinstimmend mit einander und was sie abweichend von einander über die Seherkunst sagen, würdest du das besser auszulegen imstande sein oder einer von den tüchtigen Sehern?</p>
+<p><hi rendition="#i">Ion:</hi> Einer der letzteren.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn nun aber du selbst ein Seher wärest, würdest du dann nicht, wie du dann das übereinstimmend von <pb n="132" facs="#f0004"/> ihnen Gesagte auszulegen wüßtest, so auch ihre abweichenden Behauptungen auszulegen verstehen?</p>
+<p><hi rendition="#i">Ion:</hi> Offenbar.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie ist es nun aber da in aller Welt möglich, daß du trotzdem jetzt nur hinsichtlich des Homeros die in Rede stehende Geschicklichkeit besitzest, hinsichtlich des Hesiodos aber und der anderen Dichter nicht? Oder spricht Homeros etwa über andere Gegenstände als andere Dichter auch? Handelt er nicht meistens vom Kriege und vom gegenseitigen Verkehre guter und schlechter, unkundiger und kundiger Menschen, von der Art, wie die Götter mit einander, und wie sie mit den Menschen umgehen, von den Begegnissen im Himmel und in der Unterwelt, von den Geburten der Götter und der Helden? Sind das nicht so die Gegenstände, über welche Homeros seine Dichtungen verfaßt hat?</p>
+<p><hi rendition="#i">Ion:</hi> Ganz richtig, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wie? Handeln denn die anderen Dichter nicht von eben denselben Gegenständen?</p>
+<p><hi rendition="#i">Ion:</hi> Ja; aber doch, lieber Sokrates, Homeros und sie nicht gleich gut.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also sie wohl mangelhafter?</p>
+<p><hi rendition="#i">Ion:</hi> Ja, und zwar bei weitem.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und Homeros vortrefflicher?</p>
+<p><hi rendition="#i">Ion:</hi> Ja, beim Zeus, gewiß vortrefflicher.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn nun aber, mein <hi rendition="#i">teueres Haupt</hi> Ion, unter vielen, die über eine Zahl sprechen, einer am besten spricht, da wird es doch auch wohl jemanden geben, der es zu beurteilen vermag, wer derjenige ist, welcher sich richtig über diesen Gegenstand äußert?</p>
+<p><hi rendition="#i">Ion:</hi> Freilich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wird dies nicht derselbe sein, welcher es auch zu beurteilen vermag, wer diejenigen sind, welche sich verkehrt über ihn äußern, oder ein anderer?</p>
+<p><hi rendition="#i">Ion:</hi> Jedenfalls derselbe.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und nicht wahr, der, welcher die Zahlen- und Rechenkunde inne hat, der ist dies?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wie weiter? Wenn unter vielen, welche darüber reden, von welcher Beschaffenheit Speisen sein müssen, <pb n="133" facs="#f0005"/> um der Gesundheit zuträglich zu sein, einer am besten spricht, – wird es da ein anderer sein, welcher diesen letzteren zu erkennen und zu beurteilen vermag, daß er wirklich am besten spricht, und ein anderer, welcher den mangelhafter Sprechenden als solchen erkennt, oder derselbe?</p>
+<p><hi rendition="#i">Ion:</hi> Nun, doch offenbar derselbe.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wer ist dieser? Wie wird der genannt?</p>
+<p><hi rendition="#i">Ion:</hi> Ein Arzt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sollen wir demnach nicht überhaupt sagen, daß stets da, wo viele über denselben Gegenstand sprechen, es ein und derselbe sein wird, welcher zu erkennen und zu beurteilen vermag, wer über ihn richtig, und wer verkehrt redet, und daß, wenn einer den letzteren nicht herauszuerkennen vermag, er offenbar auch den ersteren nicht herauserkennen wird?</p>
+<p><hi rendition="#i">Ion:</hi> So ist es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Also ein und derselbe wird notwendig geschickt nach beiden Seiten hin sein.</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sagtest du nicht, daß Homeros und die anderen Dichter, unter denen auch Hesiodos und Archilochos sind, über dieselben Gegenstände sprächen, aber nicht gleich gut, sondern jener vortrefflich, diese aber mangelhafter?</p>
+<p><hi rendition="#i">Ion:</hi> Und damit sagte ich auch die Wahrheit.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn du nun aber jenen in jener Eigenschaft zu erkennen und zu beurteilen vermagst, so mußt du sonach auch diese in dieser zu erkennen und zu beurteilen vermögen.</p>
+<p><hi rendition="#i">Ion:</hi> So scheint es.</p>
+<p><hi rendition="#i">Sokrates:</hi> Folglich, mein Bester, werden wir keinen Irrtum begehen, wenn wir behaupten, Ion sei gleich geschickt in der Beurteilung und Auslegung des Homeros und in der aller anderen Dichter, sofern er ja doch selbst zugesteht, daß ein und derselbe ein ausreichender Beurteiler aller sein werde, welche über dieselben Gegenstände reden, die Dichter aber redeten so ziemlich alle über dieselben Gegenstände.</p>
+<p><hi rendition="#i">Ion:</hi> Aber was ist denn da wohl in aller Welt der Grund davon, mein Sokrates, daß, wenn jemand über irgend einen anderen Dichter mit mir spricht, ich weder aufmerke noch auch imstande bin, irgend etwas zu diesem Gespräche beizusteuern, sondern geradezu wie im Traume bin, und daß dagegen, wenn <pb n="134" facs="#f0006"/> jemand des Homeros erwähnt, ich sofort wach bin und aufmerke und nie in Verlegenheit darüber bin, was ich reden soll?</p>
+<p><hi rendition="#i">Sokrates:</hi> Das ist nicht schwer zu erraten, Freund; sondern jedermann leuchtet es ein, daß du mit Kunst und Wissenschaft über den Homeros zu sprechen unfähig bist; denn stände es anders, so müßtest du ebenso auch über alle andern Dichter zu reden imstande sein. Es gibt nämlich doch wohl eine Dichtkunst als Ganzes? Nicht wahr?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Findet nun nicht, wenn man ebenso auch eine jede andere Kunst als ein Ganzes nimmt, bei allen Künsten immer dieselbe Betrachtungsweise statt? Doch wie ich das meine, wünschest du wohl erst genauer von mir zu hören, Ion?</p>
+<p><hi rendition="#i">Ion:</hi> Ja, beim Zeus, lieber Sokrates, ich ganz gewiß; denn ich habe meine Freude daran, die Auseinandersetzungen von euch weisen Leuten anzuhören.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ich wollte, du nenntest mich mit Recht so, Ion. Allein weise mögt wohl ihr Rhapsoden und Schauspieler sein und diejenigen, deren Gedichte ihr vortragt; ich aber rede nur eben so schlichthin die Wahrheit, wie es sich eben für einen schlichten Laien geziemt. Wenn du nämlich gleich die Frage nehmen willst, welche ich jetzt eben an dich richtete, so sieh nur, wie schlicht und laienhaft und jedermann verständlich es ist, wenn ich meinte, ob, wenn man eine jede Kunst als ein Ganzes faßt, wohl nicht eine und dieselbe Betrachtungsweise in allen Künsten herrscht. Laß sie uns nur nämlich einmal <hi rendition="#i">so</hi> fassen in unserer Untersuchung: Es gibt doch wohl eine Malerei als Ganzes?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und auch viele gute und schlechte Maler gibt es und hat es gegeben?</p>
+<p><hi rendition="#i">Ion:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Sahst du nun schon jemanden, welcher bei dem Polygnotos, dem Sohne des Aglaophon, fähig dazu war, aufzuzeigen, was er gut und was er schlecht gemalt habe, bei allen andern Malern aber dazu unfähig war, und der, wenn ihm jemand die Werke anderer Maler vorzeigte, wie im Traume war und sich in Verlegenheit befand, was er sagen sollte, und seinerseits nichts zum Gespräche beizusteuern wußte, <pb n="135" facs="#f0007"/> wenn er aber über den Polygnotos, oder welchen anderen einzelnen Maler du sonst willst, seine Meinung äußern sollte, dann wach war und aufmerkte und gar nicht darum verlegen war, was er zu sagen hatte?</p>
+<p><hi rendition="#i">Ion:</hi> Nein, beim Zeus, gewiß nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Oder wie? Steht es nicht ebenso bei der Bildhauerkunst? Oder sahst du schon jemanden, welcher beim Daidalos, dem Sohne des Metion, oder beim Epeios, dem Sohne des Panopeus, oder bei Theodoros aus Samos, oder bei sonst einem einzelnen Bildhauer fähig dazu war, auseinanderzusetzen, was er gut gearbeitet habe, bei den Werken aller anderen Bildhauer aber sich in Verlegenheit befand und wie im Traume war, indem er nicht wußte, was er sagen sollte?</p>
+<p><hi rendition="#i">Ion:</hi> Nein, beim Zeus, auch einen solchen habe ich noch nicht gesehen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und ferner sollte ich denken, auch beim Flöten- und Zitherspiel und beim Gesang zur Zither und bei der Rhapsodenkunst steht es nicht anders: auch da sahst du gewiß niemals einen Mann, welcher fähig dazu war, die Kunst des Olympos oder des Thamyras oder des Orpheus oder des Phemios, des Rhapsoden von Ithaka, auszulegen, bei der des Ion aus Ephesos aber sich in Verlegenheit befand und nichts darüber vorzubringen wußte, inwiefern dieser seine Sache als Rhapsode gut oder schlecht mache.</p>
+<p><hi rendition="#i">Ion:</hi> Ich kann dir darin allerdings nicht widersprechen, Sokrates; aber dessen bin ich mir trotzdem bewußt, daß ich über den Homeros am besten von allen Menschen zu sprechen verstehe und nie um Stoff verlegen bin, und daß auch alle andern mir zugeben, ich wisse gut über ihn zu reden, und daß es dagegen hinsichtlich aller andern Dichter mit mir anders steht. Und so siehe du denn zu, worin hiervon der Grund liegt!</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, das tue ich ja schon, Ion:‡ ich stehe ja schon im Begriffe, dir zu zeigen, worin mir derselbe zu liegen scheint. Wie ich eben bereits sagte, es ist nicht eine Kunst, indem es nicht in deinem eignen Vermögen liegt, über den Homeros gut zu reden; sondern es ist eine göttliche Kraft, welche dich dabei treibt, gerade wie sie in dem Steine liegt, welchen Euripides den Magneten nannte, während er gewöhnlich der herakleiische heißt. Auch dieser Stein nämlich zieht nicht bloß <pb n="136" facs="#f0008"/> selber die eisernen Ringe an, sondern er legt dieselbe Kraft auch in diese Ringe hinein; so daß sie ebendasselbe wie der Stein selbst zu tun vermögen, nämlich andere Ringe anzuziehen, so daß bisweilen eine gar lange Reihe solcher Eisenstücke aneinanderhängt: diesen allen ist dann diese Kraft von jenem Steine angehängt. Ebenso schafft auch die Muse selbst Begeisterte, und indem diese solche Begeisterung weiterverpflanzen, hängt sich an sie eine Kette anderer Begeisterter. Denn alle guten epischen Dichter singen jene ihre schönen Gedichte alle nicht vermöge bewußter Kunst, sondern als Begeisterte und Verzückte, und ebenso steht es mit den guten lyrischen Dichtern: gerade wie die vom Korybantentaumel Befallenen nicht mit klarer Besinnung ihre Tänze und Sprünge machen, so dichten auch sie nicht mit solcher ihre schönen Lieder; sondern wenn die Gewalt der Harmonie und des Rhythmus über sie kommt, so geraten sie gleichsam in einen bakchischen Taumel, – und gerade wie die Bakchantinnen nur im Zustande der Verzückung aus den Strömen Milch und Honig schöpfen, nicht aber wenn sie ihres Bewußtseins mächtig sind, so vermag auch der Liederdichter Seele nur in Begeisterung und Verzückung ein Ähnliches zu tun, wie sie auch selbst behaupten. Denn sie selbst sagen uns ja, daß sie aus honigströmenden Quellen der Musen schöpfen. Sie sagen uns auch, daß sie aus den Gärten und Tälern der Musen Honig sammeln und uns so ihre Lieder bringen wie die Bienen den Honig. Sie sagen uns auch, daß sie gleich den Bienen umherflattern. Und sie haben recht darin. Denn ein Dichter ist ein luftiges, leichtbeschwingtes und heiliges Wesen und nicht eher imstande zu dichten, als bis er in Begeisterung gekommen und außer sich geraten ist und die klare Vernunft nicht mehr in ihm wohnt: solange er aber diese klare Besinnung noch besitzt, ist jeder Mensch unfähig zu dichten und zu weissagen. Indem die Dichter also nicht vermöge menschlicher Kunst dichten und viel Schönes über die von ihnen behandelten Gegenstände sagen, gerade wie du über den Homeros, sondern vermöge göttlicher Führung, so vermag ein jeder das schön zu dichten, wozu die Muse ihn antrieb, der eine bloß Dithyramben, der andere Lobgesänge, der dritte Tanzlieder, der vierte Epen, der fünfte Iamben; zu allem anderen aber ist er untüchtig. Oder wäre dies <pb n="137" facs="#f0009"/> etwa nicht ein Zeichen, daß nicht menschliche Kunst, sondern göttliche Kraft sie zu ihren Schöpfungen befähigt? Wenn sie vermöge bewußter Kunst über einen Gegenstand schön zu reden wüßten, so müßten sie es doch wohl ebenso gut auch wohl über alle anderen können. Deswegen vielmehr bedient sich der Gott, indem er ihnen die klare Besinnung raubt, ihrer sowie auch der göttlichen Wahrsager und Seher als seiner Diener und Werkzeuge, damit wir, die wir sie hören, wissen, daß nicht sie selbst, denen ja ein klares Bewußtsein nicht innewohnt, es sind, welche so Wertvolles zu uns reden, sondern daß der Gott selber es ist, der da redet und durch sie zu uns spricht. Den stärksten Beweis für diese meine Behauptung gibt Tynnichos aus Chalkis, der nie irgend ein anderes Gedicht verfaßte, welches jemand für der Erwähnung wert halten möchte, doch aber jenen Paian, welchen jedermann singt, fast von allen Liedern das schönste, geradezu, wie er selbst sagt, eine Erfindung der Musen. Eben an ihm vor allen scheint mir der Gott gezeigt zu haben, auf daß wir gar nicht daran zweifeln können, daß alle jene schönen Dichtungen nicht menschlicher Art noch Menschenwerk, sondern göttlicher Art und Götterwerk und daß die Dichter nichts anderes als Dolmetsche der Götter sind, jeder ein willenloses Werkzeug des Gottes, der in ihm Sitz genommen. Um dies zu zeigen, sang der Gott absichtlich durch den schlechtesten Dichter das schönste Lied. Oder scheine ich dir nicht recht zu haben, Ion?</p>
+<p><hi rendition="#i">Ion:</hi> Ja, beim Zeus; denn du ergreifst mir, ich weiß nicht wie, mit deinen Reden meine Seele, Sokrates, und es scheinen mir in der Tat die guten Dichter unter göttlicher Führung lediglich die von den Göttern ihnen eingegebenen Gedanken zu verkündigen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Verkündigt nun nicht ihr Rhapsoden uns wiederum die Worte der Dichter?</p>
+<p><hi rendition="#i">Ion:</hi> Auch darin hast du recht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ihr werdet also Verkündiger der Verkündiger und Dolmetscher der Dolmetscher?</p>
+<p><hi rendition="#i">Ion:</hi> Allerdings.</p>
+<p><hi rendition="#i">Sokrates:</hi> Halt, Ion, sage mir auch noch dies und beantworte mir unverhohlen, was ich dich fragen will: Wenn du epische Dichtungen wohl vorträgst und deine Zuhörer am meisten <pb n="138" facs="#f00010"/> hinreißest, sei es nun, daß du vom Odysseus vorträgst, wie er auf die Schwelle springt, sich den Freiern zu erkennen gibt und die Pfeile vor seinen Füßen ausschüttet, oder vom Achilleus, wie er auf den Hektor losstürmt, oder auch etwas Rührendes von der Andromache oder Hekabe oder von Priamos: bist du dann deines völligen Bewußtseins mächtig, oder gerätst du außer dir, so daß deine Seele in ihrer Verzückung bei jenen Ereignissen gegenwärtig zu sein glaubt, mögen sie nun in Ithaka oder in Troia vor sich gehen oder wohin sie sonst das Gedicht versetzt?</p>
+<p><hi rendition="#i">Ion:</hi> Einen wie augenscheinlichen Beweis, lieber Sokrates, gibst du mir da für deine obige Behauptung! Denn ich will ganz unverhohlen zu dir sprechen. Ja doch, freilich, wenn ich etwas Rührendes vortrage, füllen sich meine Augen mit Tränen, und wenn ich vielmehr etwas Furchtbares und Schreckliches vortrage, dann sträuben sich mir die Haare vor Furcht, und es klopft mir das Herz.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und was sollen wir da sagen, Ion? Etwa, derjenige Mensch sei seiner Besinnung mächtig, der da weint, während er doch mit buntem Gewände und goldenen Kränzen geschmückt und, ohne von diesen Herrlichkeiten etwas verloren zu haben, mitten unter frohen Opfern und Festen sich befindet, oder der sich fürchtet, während er doch unter mehr als zwanzigtausend befreundeten Leuten steht und ihn niemand berauben oder ihm sonst eine Unbill zufügen will?</p>
+<p><hi rendition="#i">Ion:</hi> Nein, beim Zeus, Sokrates; das würde sich, um die Wahrheit zu sagen, nicht wohl behaupten lassen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun weißt du aber, daß ihr auch bei den meisten eurer Zuhörer ganz denselben Eindruck hervorbringt.</p>
+<p><hi rendition="#i">Ion:</hi> Sehr wohl weiß ich das; denn ich sehe sie mir jedesmal oben von meiner Bühne herab an, wie sie weinen und finster dreinblicken und meine Erregung über den Inhalt des Vorgetragenen teilen. Es ist nämlich wohl natürlich, daß ich recht genau auf sie acht gebe, da ich, wenn ich sie gehörig zum Weinen gebracht habe, hinterher meinerseits lachen kann, weil ich dann Geld einnehme, wenn ich sie aber zum Lachen gebracht habe, dann hinterher meinerseits weinen muß, indem ich dann Geld einbüße.</p>
+<p><hi rendition="#i">Sokrates:</hi> Erkennst du nun, daß ein solcher Zuhörer der <pb n="139" facs="#f00011"/> letzte von jenen Ringen ist, die, wie gesagt, die von dem Magneten ausgegangene Kraft wiederum von einander annehmen, der mittlere aber ein Rhapsode und Schauspieler, wie du, und der erste der Dichter selbst; Der Gott aber zieht durch alle diese Mittelglieder die Seele der Menschen, wohin er will, indem er seine Kraft auf den einen und dieser wieder auf den andern überträgt und so einer immer am anderen hängt. Und eine gar lange Kette von Ringen ist es auch hier, welche an die Muse als ihren Magnet sich anhängt; denn eine gar lange Reihe von Chorsängern und Chorlehrern und Unterlehrern hängt noch seitwärts neben euch an den Dichtern als den unmittelbar an der Muse hangenden Ringen. Und zwar hängt der eine Dichter an dieser, der andere an jener Muse; wir nennen das zwar: ›er ist von ihr ergriffen‹, aber dies läuft ja auch ziemlich auf dasselbe hinaus, denn er wird doch eben auch von ihr festgehalten. Und ebenso geht es nun auch mit den folgenden Ringen. Andere hängen an anderen Dichtem und werden von ihnen begeistert, ein Teil am Orpheus, ein anderer am Musaios, die meisten aber werden vom Homeros ergriffen und festgehalten. Von diesen bist du, Ion, einer, bist gleichsam ein von Homeros Ergriffener und Besessener, so daß, wenn jemand von irgend einem anderen Dichter etwas vorträgt, du wie im Schlafe bist und nichts darüber zu sagen weißt, wenn aber jemand eine Weise von diesem Dichter ertönen läßt, sogleich wach bist und deine Seele jubelt und dir der Rede Fülle zu Gebote steht. Denn eben, wie gesagt, nicht vermöge menschlicher Kunst und Einsicht vermagst du über den Homeros zu sagen, was du vermagst, sondern vermöge göttlicher Führung und Begeisterung; und gleichwie die vom Korybantentaumel Ergriffenen nur für eine solche Weise ein scharfes Ohr haben, welche von dem Gotte herstammt, von dem sie besessen sind, und wenn eine solche ertönt, in immer neue Gebärden, Bewegungen und Worte ausbrechen und nie um sie in Verlegenheit sind, um alle anderen Weisen aber sich gar nicht kümmern, – ebenso bist daher auch du, Ion, wenn jemand des Homeros gedenkt, nicht in Verlegenheit, was du sagen sollst, wohl aber bei anderen Dichtern. Ich wiederhole also: der Grund dessen, wonach du mich fragst, nämlich weshalb du über den Homeros zu reden gar nicht in Verlegenheit bist, <pb n="140" facs="#f00012"/> wohl aber über die anderen Dichter, – ist der, daß du nicht durch Kunst, sondern durch göttliche Führung ein so gewaltiger Lobredner des Homeros bist.</p>
+<p><hi rendition="#i">Ion:</hi> Das klingt zwar recht schön, Sokrates; indessen sollte es mich doch wundern, wenn es so schön klänge, daß du mich überzeugtest, was ich zur Verherrlichung des Homeros zu sagen weiß, vermöchte ich nur in einem gleichsam besessenen und meiner Besinnung nicht mächtigen Zustande vorzubringen; und ich denke, auch du selbst würdest es nicht glauben, wenn du mich über den Homeros reden hörtest.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nun, ich will dich ja auch hören; zuvor jedoch mußt du mir noch erst folgende Frage beantworten: Über welche von den Gegenständen, von denen Homeros handelt, weißt du gut zu reden? Gewiß doch nicht über alle?</p>
+<p><hi rendition="#i">Ion:</hi> Ja, sei überzeugt, lieber Sokrates, über alle ohne Ausnahme.</p>
+<p><hi rendition="#i">Sokrates:</hi> Doch wohl auch nicht über die, von denen du gerade nichts verstehst und von denen Homeros doch handelt?</p>
+<p><hi rendition="#i">Ion:</hi> Und was wären denn das für Gegenstände, von denen Homeros handelt, ich aber nichts verstehe?</p>
+<p><hi rendition="#i">Sokrates:</hi> Spricht denn nicht Homeros über allerlei Künste an vielen Stellen und vielerlei? Wie z.B. über die Kunst des Wagenlenkens? Wenn ich mich der Verse noch erinnere, will ich sie dir hersagen.</p>
+<p><hi rendition="#i">Ion:</hi> Nein, laß mich sie hersagen, denn ich habe sie im Gedächtnis.</p>
+<p><hi rendition="#i">Sokrates:</hi> So sage mir denn, was Nestor zu seinem Sohne Antilochos spricht, indem er ihn zur Vorsicht im Umlenken beim Wagenrennen zu Ehren des Patroklos ermahnt!</p>
+<p><hi rendition="#i">Ion:</hi></p>
+
+
+<p><hi rendition="#i">Beuge dich selbst alsdann</hi> (sagt er) <hi rendition="#i">in dem zierlich geflochtenen Sessel</hi></p>
+<p><hi rendition="#i">Weniges links vom Gespann, und das Roß zur Rechten ermuntre,</hi></p>
+<p><hi rendition="#i">Treib' es zugleich mit der Geißel und laß ihm freier die Zügel;</hi></p>
+<p><hi rendition="#i">Aber am Zielstein streife das Roß zur Linken so dicht dir,</hi></p>
+<p><hi rendition="#i">Daß beinahe die Nabe des künstlich gebildeten Rades</hi></p>
+<p><hi rendition="#i">Vorn zu berühren ihn scheint; doch hüte dich, daß du den Stein triffst!</hi></p>
+<lb/>
+<p><hi rendition="#i">Sokrates:</hi> Genug! Ob nun, Ion, in diesen Versen Homeros richtig spricht oder nicht, wer wird das besser verstehen, der Arzt oder der Wagenlenker?</p>
+<pb n="141" facs="#f00013"/> <p><hi rendition="#i">Ion:</hi> Jedenfalls der Wagenlenker.</p>
+<p><hi rendition="#i">Sokrates:</hi> Weil er diese Kunst inne hat, oder aus irgend einem anderen Grunde?</p>
+<p><hi rendition="#i">Ion:</hi> Aus keinem anderen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht wahr, jeder Kunst nämlich ist von der Gottheit eine bestimmte Verrichtung zugewiesen, auf welche sie sich versteht? Denn worauf wir uns vermöge der Steuermannskunst verstehen, darauf verstehen wir uns doch wohl nicht auch vermöge der Heilkunst?</p>
+<p><hi rendition="#i">Ion:</hi> Gewiß nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und auch nicht, worauf vermöge der Heilkunst, darauf auch vermöge der Baukunst?</p>
+<p><hi rendition="#i">Ion:</hi> Gewiß nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und so verhält es sich nun doch wohl mit allen Künsten: worauf wir uns vermöge der einen Kunst verstehen, darauf werden wir es nicht vermöge der andern? Nun beantworte mir aber noch erst folgende Frage: Nimmst du an, daß eine Kunst von der andern verschieden sei?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und stimmst du nun auch meiner Erklärung bei, wenn ich die eine Kunst von der anderen insofern unterscheide, als die eine die Kunde von den einen und die andere von anderen Gegenständen ist?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Denn wenn eine jede Kunde von denselben Gegenständen wäre und man also durch eine jede dieselben Gegenstände kennenlernte, aus welchem Grunde sollte man dann wohl die eine mit diesem und die andere mit jenem Namen bezeichnen? Zum Beispiel so gut wie ich weiß, daß dies fünf Finger sind, ebenso gut weißt du hierüber ganz dasselbe wie ich, und wenn ich dich nun fragen wollte, ob wir beide dies vermöge einer und derselben Kunst, nämlich vermöge der Rechenkunst, wissen oder vermöge einer anderen, so würdest du jedenfalls antworten: vermöge einer und derselben.</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Was ich also vorher bereits im Begriffe stand dich zu fragen, das beantworte mir nun, ob du nämlich in bezug auf alle Künste der Meinung bist, daß wir vermöge derselben Kunst notwendig dasselbe erkennen, vermöge einer andern <pb n="142" facs="#f00014"/> aber nicht dasselbe, sondern, wenn sie wirklich eine andere ist, auch notwendig etwas anderes?</p>
+<p><hi rendition="#i">Ion:</hi> Allerdings bin ich dieser Meinung, lieber Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wer also irgend eine Kunst nicht inne hat, der wird auch die Lehren oder Leistungen dieser Kunst nicht richtig zu erfassen vermögen?</p>
+<p><hi rendition="#i">Ion:</hi> Du hast recht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wirst also hinsichtlich der Verse, welche du eben hersagtest, du oder ein Wagenlenker sich besser darauf verstehen, ob Homeros in ihnen sich richtig ausdrückt oder nicht?</p>
+<p><hi rendition="#i">Ion:</hi> Ein Wagenlenker.</p>
+<p><hi rendition="#i">Sokrates:</hi> Du bist nämlich eben ein Rhapsode und kein Wagenlenker.</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und die Kunst des Rhapsoden ist eine andere als die des Wagenlenkers?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wenn eine andere, so ist sie auch eine Kunde von anderen Gegenständen.</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wie weiter: wenn Homeros erzählt, daß dem verwundeten Machaon Hekamede, das Kebsweib des Nestor, einen Mischtrank gereicht habe, und wenn er sich dabei ungefähr folgendermaßen ausdrückt:</p>
+<lb/>
+<p> <hi rendition="#i">Mischte von pramnischem Wein und rieb mit der ehernen Raspel</hi></p>
+<p><hi rendition="#i"> Käse von Ziegen dazu, nebst trunkeinladender Zwiebel, –</hi></p>
+<lb/>
+<p>ist es da nun Sache der Heilkunst oder der Rhapsodenkunst, richtig zu erkennen oder zu beurteilen, ob Homeros sich hier angemessen ausdrückt oder nicht?</p>
+<p><hi rendition="#i">Ion:</hi> Der Heilkunst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und wie, wenn Homeros sagt:</p>
+<lb/>
+<p><hi rendition="#i">Jäh in den Seegrund schoß sie hinab, zu vergleichen dem Senkblei,</hi></p>
+<p><hi rendition="#i">Welches, zunächst am Horne des ländlichen Stieres befestigt,</hi></p>
+<p><hi rendition="#i">Tief hinsinkt, das Verderben den gierigen Fischen zu bringen, –</hi></p>
+<lb/>
+<p>wollen wir da behaupten, daß es mehr Sache der Fischer- oder mehr der Rhapsodenkunst sei, zu beurteilen, was er eigentlich meint, und ob es richtig ist oder nicht?</p>
+<p><hi rendition="#i"><pb n="143" facs="#f00015"/> Ion:</hi> Offenbar, Sokrates, der Fischerkunst.</p>
+<p><hi rendition="#i">Sokrates:</hi> Erwäge nun, wenn jetzt du die Rolle des Fragenden übernähmest und an mich die Frage richtetest: »Da du also, Sokrates, in bezug auf alle diese Künste in Homeros etwas findest, was einer jeden von ihnen allein zusteht zu beurteilen, – wohlan, so mache mir auch in betreff des Sehers und der Seherkunst ausfindig, wie das beschaffen ist, in bezug auf welches diesen die Entscheidung darüber zukommt, ob es gut oder schlecht vom Dichter dargestellt ist«; erwäge, sage ich, wie leicht und zutreffend ich dir diese Frage beantworten werde: Denn an vielen Stellen in der Odyssee handelt Homeros auch von dergleichen Dingen, z.B. wenn er den Theoklymenos, den Seher aus dem Geschlechte des Melampus, zu den Freiern sagen läßt:</p>
+<lb/>
+<p><hi rendition="#i">Ach, welch böses Geschick, unselige Männer, bedroht euch.</hi></p>
+<p><hi rendition="#i">Nacht umhüllt euch Haupt und Gesicht und unten die Kniee,</hi></p>
+<p><hi rendition="#i">Wehklagrufen ertönt, und betränt sind euere Wangen;</hi></p>
+<p><hi rendition="#i">Schattengebilde umdrängen die Tür, umdrängen den Vorhof,</hi></p>
+<p><hi rendition="#i">Die in den Erebos eilen zur Finsternis; Helios' Licht ist</hi></p>
+<p><hi rendition="#i">Völlig am Himmel verlöscht, und heranzieht grausiges Dunkel! –</hi></p>
+<lb/>
+<p>an vielen auch in der Ilias, wie z.B. im Mauergefecht, denn hier heißt es:</p>
+
+
+<p><hi rendition="#i">Nämlich ein Vogel erschien, da sie überzugehn sich entschlossen,</hi></p>
+<p><hi rendition="#i">Ein hochfliegender Adler, das Kriegsheer streifend zur Linken,</hi></p>
+<p><hi rendition="#i">Eine gewaltige Schlang' in den Klauen, mit purpurnem Rücken,</hi></p>
+<p><hi rendition="#i">Lebend annoch und zappelnd, die Kampflust ließ sie nach jetzt nicht;</hi></p>
+<p><hi rendition="#i">Denn wie jener sie hielt, durchstach sie die Brust ihm am Halse,</hi></p>
+<p><hi rendition="#i">Rückwärts drehend das Haupt; da warf er sie weg auf die Erde,</hi></p>
+<p><hi rendition="#i">Hart von Schmerzen gequält; und sie fiel in die Mitte der Heerschar;</hi></p>
+<p><hi rendition="#i">Aber er selbst flog rauschend davon in dem Hauche des Windes.</hi></p>
+<lb/>
+<p>Dies und dem Ähnliches, werde ich sagen, komme dem Seher zu, in Betracht zu ziehen und zu beurteilen.</p>
+<p><hi rendition="#i">Ion:</hi> Und daran tust du recht, lieber Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Ja, und auch du tust ganz recht daran, lieber Ion, mir dies einzuräumen. Und wohlan nun, suche auch du mir, wie ich dir aus der Odyssee und Ilias herausgesucht habe, was Sache des Sehers und was des Arztes und was des Fischers <pb n="144" facs="#f00016"/> ist, – so, sage ich, suche auch du mir, da du ja viel vertrauter mit den Gedichten des Homeros bist, aus ihnen heraus, was Sache des Rhapsoden, lieber Ion, und der Rhapsodenkunst ist, was sich für den Rhapsoden vor allen anderen Menschen in Betracht zu ziehen und zu beurteilen gebührt!</p>
+<p><hi rendition="#i">Ion:</hi> Ich, lieber Sokrates, behaupte: alles ohne Ausnahme.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber vorhin gabst du mir doch zu, Ion: nicht alles. Oder bist du so vergeßlich? Und doch möchte es sich für einen Mann, der als Rhapsode auftritt, nicht ziemen, vergeßlich zu sein.</p>
+<p><hi rendition="#i">Ion:</hi> Was vergesse ich denn?</p>
+<p><hi rendition="#i">Sokrates:</hi> Erinnerst du dich nicht, daß du zugabst, die Kunst des Rhapsoden sei eine andere als die des Wagenlenkers?</p>
+<p><hi rendition="#i">Ion:</hi> Ich erinnere mich.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und gestandest du nicht demgemäß auch zu, daß sie als eine andere sich auch auf anderes verstehen müsse?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Nicht auf alles also wird sich nach deinem eigenen Zugeständnis der Rhapsode und die Rhapsodenkunst verstehen.</p>
+<p><hi rendition="#i">Ion:</hi> Vielleicht aber nur auf solcherlei Dinge nicht, Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Unter diesen solcherlei Dingen verstehst du ja aber notwendig geradezu die Gegenstände aller anderen Künste. Und auf welcherlei Dinge soll sie sich denn verstehen, sofern sie sich ja nicht auf alles versteht?</p>
+<p><hi rendition="#i">Ion:</hi> Darauf, was sich geziemt, dächte ich, für einen Mann zu sprechen und was für ein Weib, was für einen Sklaven, was für einen Freien, was für einen Untertanen, und was für einen Gebieter.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wird sich nun aber darauf, nach deiner Meinung, was sich für den Gebieter eines auf dem Meere vom Sturme bedrängten Schiffes zu sprechen geziemt, der Rhapsode besser verstehen oder der Steuermann?</p>
+<p><hi rendition="#i">Ion:</hi> Darauf freilich der Steuermann.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und was sich für den Gebieter eines Kranken geziemt, darauf der Rhapsode oder der Arzt?</p>
+<p><hi rendition="#i">Ion:</hi> Auch darauf der Rhapsode nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber du meinst, auf das, was sich für einen Sklaven geziemt?</p>
+<p><hi rendition="#i"><pb n="145" facs="#f00017"/> Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Zum Beispiel, was sich für einen Sklaven, der ein Rinderhirte ist, zu sprechen geziemt, um die Rinder, wenn sie wild werden, zu beruhigen, darauf wird sich der Rhapsode verstehen, aber nicht der Rinderhirt?</p>
+<p><hi rendition="#i">Ion:</hi> Keineswegs.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber was sich für eine wollarbeitende Frau geziemt, über Bearbeitung der Wolle zu sprechen?</p>
+<p><hi rendition="#i">Ion:</hi> Nein.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber was sich für einen Mann zu reden geziemt, welcher als Heerführer seine Krieger aufmuntert, darauf muß er sich verstehen?</p>
+<p><hi rendition="#i">Ion:</hi> Ja, auf dergleichen wird und muß der Rhapsode sich verstehen.</p>
+<p><hi rendition="#i">Sokrates:</hi> So? Die Kunst des Rhapsoden ist also zugleich die des Heerführers?</p>
+<p><hi rendition="#i">Ion:</hi> Ich für meine Person würde mich wenigstens schon darauf verstehen, was sich für einen Heerführer zu reden geziemt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Bist du doch vielleicht auch des Heerführens kundig, lieber Ion! Gesetzt nämlich, du verständest dich zugleich auf das Reiten und auf das Zitherspielen, so würdest du wissen, welches gut und welches schlecht zugerittene Pferde sind; wenn ich dich dann aber fragte, vermöge welcher von beiden Künsten weißt du dies zu unterscheiden, vermöge der, durch deren Besitz du ein Reiter bist, oder vermöge der, durch deren Besitz du ein Zitherspieler bist, – was würdest du mir da antworten?</p>
+<p><hi rendition="#i">Ion:</hi> Vermöge der, kraft deren ich ein Reiter bin, würde ich sagen.</p>
+<p><hi rendition="#i">Sokrates:</hi> Und ebenso würdest du, wenn du auch die guten Zitherspieler herauszuerkennen wüßtest, zugeben, es geschehe dies vermöge der Kunst, kraft deren du ein Zitherspieler und nicht ein Reiter bist?</p>
+<p><hi rendition="#i">Ion:</hi> Ja.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wenn anders du dich nun aber auf das Kriegswesen verstehst, geschieht dies dadurch, daß du der Heerführung kundig bist, oder dadurch, daß du ein guter Rhapsode bist?</p>
+<p><hi rendition="#i">Ion:</hi> Das scheint mir für mein Teil keinen Unterschied zu machen.</p>
+<p><hi rendition="#i"><pb n="146" facs="#f00018"/> Sokrates:</hi> Inwiefern meinst du keinen Unterschied? Glaubst du, daß die Kunst des Rhapsoden und die des Heerführers eine und dieselbe ist oder zweierlei?</p>
+<p><hi rendition="#i">Ion:</hi> Mir für mein Teil scheint es nur eine.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wer sonach ein guter Rhapsode ist, der ist auch ein guter Heerführer?</p>
+<p><hi rendition="#i">Ion:</hi> Allerdings, lieber Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dann aber doch ist, wer ein guter Heerführer ist, auch ein guter Rhapsode?</p>
+<p><hi rendition="#i">Ion:</hi> Das scheint mir nun wieder nicht.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber jenes andere scheint dir doch wirklich so, daß, wer ein guter Rhapsode ist, auch ein guter Heerführer sei?</p>
+<p><hi rendition="#i">Ion:</hi> Gewiß.</p>
+<p><hi rendition="#i">Sokrates:</hi> Bist du nun nicht der Hellenen bester Rhapsode?</p>
+<p><hi rendition="#i">Ion:</hi> Und zwar bei weitem, mein Sokrates.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dann, Ion, bist du also auch wohl der beste Heerführer der Hellenen?</p>
+<p><hi rendition="#i">Ion:</hi> Dessen sei gewiß, Sokrates, und zwar habe ich dies eben aus dem Homeros gelernt.</p>
+<p><hi rendition="#i">Sokrates:</hi> Wie geht es nun aber in aller Welt um Gottes willen zu, Ion, daß du, wenn du doch in beidem der beste unter den Hellenen bist, als Feldherr und als Rhapsode, daß du da als Rhapsode umherziehst und nicht vielmehr Heere führst? Oder dünkt dich etwa, daß ein mit goldenem Kranze geschmückter Rhapsode ein dringendes Bedürfnis ist unter den Hellenen, ein Feldherr aber nicht?</p>
+<p><hi rendition="#i">Ion:</hi> Unsere Stadt, Sokrates, wird ja von euch beherrscht und ihre Heere von euch geführt, und sie bedarf daher eines Heerführers schlechterdings nicht. Euer Staat aber und der der Lakedaimonier dürfte mich eben nicht zum Feldherrn wählen; denn dazu glaubt ihr selbst tüchtige Leute genug zu haben.</p>
+<p><hi rendition="#i">Sokrates:</hi> Aber, bester Ion, kennst du denn nicht Apollodoros aus Kyzikos?</p>
+<p><hi rendition="#i">Ion:</hi> Welchen denn?</p>
+<p><hi rendition="#i">Sokrates:</hi> Den, welchen die Athener oftmals zu ihrem Feldherrn gewählt haben, obwohl er ein Fremder war. Ferner den Phanosthenes aus Andres und den Herakleides aus Klazomenai, welche, obwohl sie Fremde sind, doch, nachdem sie <pb n="147" facs="#f00019"/> sich als Männer gezeigt haben, die der Beachtung wert sind, von unserem Staat zu Feldherrnposten und anderen obrigkeitlichen Ämtern erhoben werden. Und doch sollte den Ion aus Ephesos unser Staat nicht zum Feldherrn wählen noch ihm Ehren und Würden übertragen wollen, auch wenn er ihm dazu geeignet erschiene? Und wie? Seid ihr Ephesier denn nicht ursprünglich selbst Athener, und stellt nicht Ephesos keiner anderen Stadt nach? Und wenn du, Ion, wirklich die Wahrheit sagst, daß du mit Kunst und Einsicht den Homeros zu verherrlichen vermagst, so tust du unrecht daran, daß du mir zuerst vorredest, wieviel schöne Dinge du über den Homeros zu sagen wüßtest, und mir ein Probestück davon zu geben versprichst, hinterher aber mich täuschest und, weit entfernt davon, mir ein solches wirklich zu geben, mir nicht einmal sagen willst, worin denn das besteht, worüber du so geschickt bist zu reden, solange ich dir auch darum angelegen habe, sondern geradezu wie Proteus alle möglichen Gestalten annimmst und alle möglichen Windungen nach oben und unten machst, bis du mir endlich entschlüpfst und mir als Heerführer wieder erscheinst, damit du mir eben nur kein Probestück abzulegen brauchst, wie stark du bist in der Weisheit des Homeros. Wenn du also wirklich als Kunstverständiger das eben Gesagte tust, mir erst ein Probestück hinsichtlich des Homeros versprichst und hinterher mich täuschest, so handelst du unrecht; wenn du aber kein Kunstverständiger bist, sondern vermöge göttlicher Führung am Homeros hangend ohne jede wirkliche Erkenntnis viel Schönes über den Dichter zu sagen weißt, wie ich von dir behauptete, so tust du kein Unrecht. Wähle also, ob du lieber von mir für einen ungerechten Mann gehalten sein willst oder für einen gottbegeisterten!</p>
+<p><hi rendition="#i">Ion:</hi> Das ist ein großer Unterschied, Sokrates, denn viel schöner ist es, für einen gottbegeisterten gehalten zu werden.</p>
+<p><hi rendition="#i">Sokrates:</hi> Dies Schönere wird dir demnach von mir zuteil, Ion, du seist ein gottbegeisterter, aber nicht ein kunstverständiger Lobredner des Homeros.</p>
+<pb n="148" facs="#f00020"/> 
+</body></text></TEI>

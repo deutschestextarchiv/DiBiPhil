@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke</title>
+        <title type="volume">Band 3</title>
+        <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Karl Marx, Friedrich Engels: Werke. Herausgegeben vom Institut für
+      Marxismus-Leninismus beim ZK der SED, 43 Bände, Band 3, Berlin: Dietz-Verlag,
+      1958.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke</title>
+      <title level="m" type="volume" n="3">Band 3</title>
+      <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor><persName>Institut für Marxismus-Leninismus beim ZK der SED</persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Dietz-Verlag</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1958</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck der von Friedrich Engels redigierten Fassung der Feuerbach-Thesen als Anhang zu dessen Schrift »Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie«, Stuttgart (J.H.W. Dietz) 1888.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Thesen über Feuerbach</note>
+
+
+
+<div n="1">
+<note type="editorial">[Thesen über Feuerbach]</note>
+
+
+<head>Karl Marx</head>
+<head>[Thesen über Feuerbach]</head>
+<pb n="5" facs="#f0001"/>
+<head>1. ad Feuerbach</head>
+<head>1</head>
+<p rendition="#et">Der Hauptmangel alles bisherigen Materialismus (den Feuerbachschen mit eingerechnet) ist, daß der Gegenstand, die Wirklichkeit, Sinnlichkeit nur unter der Form des <hi rendition="#i">Objekts oder der Anschauung</hi> gefaßt wird; nicht aber als <hi rendition="#i">sinnlich menschliche Tätigkeit, Praxis</hi>, nicht subjektiv. Daher die <hi rendition="#i">tätige</hi> Seite abstrakt im Gegensatz zu dem Materialismus von dem Idealismus – der natürlich die wirkliche, sinnliche Tätigkeit als solche nicht kennt – entwickelt. Feuerbach will sinnliche – von den Gedankenobjekten wirklich unterschiedne Objekte: aber er faßt die menschliche Tätigkeit selbst nicht als <hi rendition="#i">gegenständliche</hi> Tätigkeit. Er betrachtet daher im »Wesen des Christenthums« nur das theoretische Verhalten als das echt menschliche, während die Praxis nur in ihrer schmutzig jüdischen Erscheinungsform gefaßt und fixiert wird. Er begreift daher nicht die Bedeutung der »revolutionären«, der »praktisch-kritischen« Tätigkeit.</p>
+<lb/>
+<p rend="h4">2</p>
+<p rendition="#et">Die Frage, ob dem menschlichen Denken gegenständliche Wahrheit zukomme – ist keine Frage der Theorie, sondern eine <hi rendition="#i">praktische</hi> Frage. In der Praxis muß der Mensch die Wahrheit, i.e. Wirklichkeit und Macht, Diesseitigkeit seines Denkens beweisen. Der Streit über die Wirklichkeit oder Nichtwirklichkeit des Denkens – das von der Praxis isoliert ist – ist eine rein <hi rendition="#i">scholastische</hi> Frage.</p>
+<lb/>
+<p rend="h4">3</p>
+<p rendition="#et">Die materialistische Lehre von der Veränderung der Umstände und der Erziehung vergißt, daß die Umstände von den Menschen verändert und der <pb n="5" facs="#f0002"/> Erzieher selbst erzogen werden muß. Sie muß daher die Gesellschaft in zwei Teile – von denen der eine über ihr erhaben ist – sondieren.</p>
+<p rendition="#et">Das Zusammenfallen des Ändern[s] der Umstände und der menschlichen Tätigkeit oder Selbstveränderung kann nur als <hi rendition="#i">revolutionäre Praxis</hi> gefaßt und rationell verstanden werden.</p>
+<lb/>
+<p rend="h4">4</p>
+<p rendition="#et">Feuerbach geht von dem Faktum der religiösen Selbstentfremdung, der Verdopplung der Welt in eine religiöse und eine weltliche aus. Seine Arbeit besteht darin, die religiöse Welt in ihre weltliche Grundlage aufzulösen. Aber daß die weltliche Grundlage sich von sich selbst abhebt und sich ein selbständiges Reich in den Wolken fixiert, ist nur aus der Selbstzerrissenheit und Sichselbstwidersprechen dieser weltlichen Grundlage zu erklären. Diese selbst muß also in sich selbst sowohl in ihrem Widerspruch verstanden als praktisch revolutioniert werden. Also nachdem z.B. die irdische Familie als das Geheimnis der heiligen Familie entdeckt ist, muß nun erstere selbst theoretisch und praktisch vernichtet werden.</p>
+<lb/>
+<p rend="h4">5</p>
+<p rendition="#et">Feuerbach, mit dem <hi rendition="#i">abstrakten Denken</hi> nicht zufrieden, will die <hi rendition="#i">Anschauung</hi>, aber er faßt die Sinnlichkeit nicht als <hi rendition="#i">praktische</hi> menschlich-sinnliche Tätigkeit.</p>
+<lb/>
+<p rend="h4">6</p>
+<p rendition="#et">Feuerbach löst das religiöse Wesen in das <hi rendition="#i">menschliche</hi> Wesen auf. Aber das menschliche Wesen ist kein dem einzelnen Individuum inwohnendes Abstraktum. In seiner Wirklichkeit ist es das ensemble der gesellschaftlichen Verhältnisse.</p>
+<p rendition="#et">Feuerbach, der auf die Kritik dieses wirklichen Wesens nicht eingeht, ist daher gezwungen:</p>
+<p rendition="#et">1. von dem geschichtlichen Verlauf zu abstrahieren und das religiöse Gemüt für sich zu fixieren, und ein abstrakt – <hi rendition="#i">isoliert </hi>– menschliches Individuum vorauszusetzen.</p>
+<p rendition="#et">2. Das Wesen kann daher nur als »Gattung«, als innere, stumme, die vielen Individuen <hi rendition="#i">natürlich</hi> verbindende Allgemeinheit gefaßt werden.</p>
+<lb/>
+<p rend="h4"><pb n="6" facs="#f0003"/> 7</p>
+<p rendition="#et">Feuerbach sieht daher nicht, daß das »religiöse Gemüt« selbst ein gesellschaftliches Produkt ist und daß das abstrakte Individuum, das er analysiert, einer bestimmten Gesellschaftsform angehört.</p>
+<lb/>
+<p rend="h4">8</p>
+<p rendition="#et">Alles gesellschaftliche Leben ist wesentlich <hi rendition="#i">praktisch</hi>. Alle Mysterien, welche die Theorie zum Mystizism[us] veranlassen, finden ihre rationelle Lösung in der menschlichen Praxis und in dem Begreifen dieser Praxis.</p>
+<lb/>
+<p rend="h4">9</p>
+<p rendition="#et">Das Höchste, wozu der anschauende Materialismus kommt, d.h. der Materialismus, der die Sinnlichkeit nicht als praktische Tätigkeit begreift, ist die Anschauung der einzelnen Individuen und der bürgerlichen Gesellschaft.</p>
+<lb/>
+<p rend="h4">10</p>
+<p rendition="#et">Der Standpunkt des alten Materialismus ist die bürgerliche Gesellschaft, der Standpunkt des neuen die menschliche Gesellschaft oder die gesellschaftliche Menschheit.</p>
+<lb/>
+<p rend="h4">11</p>
+<p rendition="#et">Die Philosophen haben die Welt nur verschieden<hi rendition="#i"> interpretiert</hi>, es kömmt drauf an, sie zu <hi rendition="#i">verändern</hi>.</p>
+<pb n="7" facs="#f0004"/>
+
+</div>
+
+<div n="1">
+<note type="editorial">Thesen über Feuerbach</note>
+
+<pb n="8" facs="#f0005"/> <pb n="533" facs="#f0006"/><lb/>
+<head>Karl Marx</head>
+<head>Thesen über Feuerbach</head>
+<head>[Redigierte Fassung]</head>
+<head>1</head>
+<p rendition="#et">Der Hauptmangel alles bisherigen Materialismus – den Feuerbachschen mit eingerechnet – ist, daß der Gegenstand, die Wirklichkeit, Sinnlichkeit, nur unter der Form des <hi rendition="#i">Objekts</hi> oder der <hi rendition="#i">Anschauung</hi> gefaßt wird; nicht aber als <hi rendition="#i">menschliche sinnliche Tätigkeit, Praxis,</hi> nicht subjektiv. Daher geschah es, daß die <hi rendition="#i">tätige</hi> Seite, im Gegensatz zum Materialismus, vom Idealismus entwickelt wurde – aber nur abstrakt, da der Idealismus natürlich die wirkliche, sinnliche Tätigkeit als solche nicht kennt. Feuerbach will sinnliche, von den Gedankenobjekten wirklich unterschiedene Objekte; aber er faßt die menschliche Tätigkeit selbst nicht als <hi rendition="#i">gegenständliche</hi> Tätigkeit. Er betrachtet daher im »Wesen des Christenthums« nur das theoretische Verhalten als das echt menschliche, während die Praxis nur in ihrer schmutzig-jüdischen Erscheinungsform gefaßt und fixiert wird. Er begreift daher nicht die Bedeutung der »revolutionären«, der »praktisch-kritischen« Tätigkeit.</p>
+<lb/>
+<p rend="h4">2</p>
+<p rendition="#et">Die Frage, ob dem menschlichen Denken gegenständliche Wahrheit zukomme, ist keine Frage der Theorie, sondern eine <hi rendition="#i">praktische</hi> Frage. In der Praxis muß der Mensch die Wahrheit, das heißt die Wirklichkeit und Macht, die Diesseitigkeit seines Denkens beweisen. Der Streit über die Wirklichkeit oder Nichtwirklichkeit eines Denkens, das sich von der Praxis isoliert, ist eine rein <hi rendition="#i">scholastische</hi> Frage.</p>
+<lb/>
+<p rend="h4">3</p>
+<p rendition="#et">Die materialistische Lehre, daß die Menschen Produkte der Umstände und der Erziehung, veränderte Menschen also Produkte anderer Umstände und geänderter Erziehung sind, vergißt, daß die Umstände eben von den Menschen verändert werden und daß der Erzieher selbst erzogen werden <pb n="533" facs="#f0007"/> muß. Sie kommt daher mit Notwendigkeit dahin, die Gesellschaft in zwei Teile zu sondern, von denen der eine über der Gesellschaft erhaben ist. (Z.B. bei Robert Owen.)</p>
+<p rendition="#et">Das Zusammenfallen des Änderns der Umstände und der menschlichen Tätigkeit kann nur als <hi rendition="#i">umwälzende Praxis</hi> gefaßt und rationell verstanden werden.</p>
+<lb/>
+<p rend="h4">4</p>
+<p rendition="#et">Feuerbach geht aus von dem Faktum der religiösen Selbstentfremdung, der Verdopplung der Welt in eine religiöse, vorgestellte und eine wirkliche Welt. Seine Arbeit besteht darin, die religiöse Welt in ihre weltliche Grundlage aufzulösen. Er übersieht, daß nach Vollbringung dieser Arbeit die Hauptsache noch zu tun bleibt. Die Tatsache nämlich, daß die weltliche Grundlage sich von sich selbst abhebt und sich, ein selbständiges Reich, in den Wolken fixiert, ist eben nur aus der Selbstzerrissenheit und dem Sichselbst-Widersprechen dieser weltlichen Grundlage zu erklären. Diese selbst muß also erstens in ihrem Widerspruch verstanden und sodann durch Beseitigung des Widerspruchs praktisch revolutioniert werden. Also z.B., nachdem die irdische Familie als das Geheimnis der heiligen Familie entdeckt ist, muß nun erstere selbst theoretisch kritisiert und praktisch umgewälzt werden.</p>
+<lb/>
+<p rend="h4">5</p>
+<p rendition="#et">Feuerbach, mit dem <hi rendition="#i">abstrakten Denken</hi> nicht zufrieden, appelliert an die <hi rendition="#i">sinnliche Anschauung;</hi> aber er faßt die Sinnlichkeit nicht als <hi rendition="#i">praktische</hi> menschlich-sinnliche Tätigkeit.</p>
+<lb/>
+<p rend="h4">6</p>
+<p rendition="#et">Feuerbach löst das religiöse Wesen in das <hi rendition="#i">menschliche</hi> Wesen auf. Aber das menschliche Wesen ist kein dem einzelnen Individuum innewohnendes Abstraktum. In seiner Wirklichkeit ist es das Ensemble der gesellschaftlichen Verhältnisse.</p>
+<p rendition="#et">Feuerbach, der auf die Kritik dieses wirklichen Wesens nicht eingeht, ist daher gezwungen:</p>
+<p rendition="#et">1. von dem geschichtlichen Verlauf zu abstrahieren und das religiöse Gemüt für sich zu fixieren und ein abstrakt – <hi rendition="#i">isoliert –</hi> menschliches Individuum vorauszusetzen;</p>
+<p rendition="#et">2. kann bei ihm daher das menschliche Wesen nur als »<hi rendition="#i">Gattung</hi>«, als innere, stumme, die vielen Individuen bloß <hi rendition="#i">natürlich</hi> verbindende Allgemeinheit gefaßt werden.</p>
+<lb/>
+<pb n="534" facs="#f0008"/> <p rend="h4">7</p>
+<p rendition="#et">Feuerbach sieht daher nicht, daß das »religiöse Gemüt« selbst ein <hi rendition="#i">gesellschaftliches Produkt</hi> ist und daß das abstrakte Individuum, das er analysiert, in Wirklichkeit einer bestimmten Gesellschaftsform angehört.</p>
+<lb/>
+<p rend="h4">8</p>
+<p rendition="#et">Das gesellschaftliche Leben ist wesentlich <hi rendition="#i">praktisch.</hi> Alle Mysterien, welche die Theorie zum Mystizismus verleiten, finden ihre rationelle Lösung in der menschlichen Praxis und im Begreifen dieser Praxis.</p>
+<lb/>
+<p rend="h4">9</p>
+<p rendition="#et">Das Höchste, wozu der <hi rendition="#i">anschauende</hi> Materialismus es bringt, d.h. der Materialismus, der die Sinnlichkeit nicht als praktische Tätigkeit begreift, ist die Anschauung der einzelnen Individuen in der »bürgerlichen Gesellschaft«.</p>
+<lb/>
+<p rend="h4">10</p>
+<p rendition="#et">Der Standpunkt des alten Materialismus ist die »<hi rendition="#i">bürgerliche</hi>« Gesellschaft; der Standpunkt des neuen, die <hi rendition="#i">menschliche</hi> Gesellschaft, oder die vergesellschaftete Menschheit.</p>
+<lb/>
+<p rend="h4">11</p>
+<p rendition="#et">Die Philosophen haben die Welt nur verschieden<hi rendition="#i"> interpretiert;</hi> es kommt aber darauf an, sie zu <hi rendition="#i">verändern.</hi></p>
+<pb n="535" facs="#f0009"/> 
+
+</div>
+
+</body></text></TEI>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winckelmanns Werke in einem Band</title>
+        <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Winckelmanns Werke in einem Band. Herausgegeben von Helmut Holtzhauer, Berlin und
+      Weimar: Aufbau, 1969 (Bibliothek Deutscher Klassiker).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Winckelmanns Werke in einem Band</title>
+      <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Aufbau-Verlag</name>
+      </publisher><pubPlace>Berlin, Weimar</pubPlace>
+      <date type="publication">1969</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1756/59, Erstdruck in: Geschichte der Kunst des Altertums, Dresden 1764.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Beschreibung des Apollo im Belvedere</note>
+
+
+<head>Johann Joachim Winckelmann</head>
+<head>Beschreibung des Apollo im Belvedere</head>
+
+<p><pb n="62" facs="#f0001"/>
+Die Statue des Apollo ist das höchste Ideal der Kunst unter allen Werken des Altertums, welche der Zerstörung entgangen sind. Der Künstler derselben hat dieses Werk gänzlich auf das Ideal gebaut, und er hat nur eben so viel von der Materie dazu genommen, als nötig war, seine Absicht auszuführen und sichtbar zu machen. Dieser Apollo übertrifft alle andere Bilder desselben so weit als der Apollo des Homerus den, welchen die folgenden Dichter malen. Über die Menschheit erhaben ist sein Gewächs, und sein Stand zeugt von der ihn erfüllenden Größe. Ein ewiger Frühling, wie in dem glücklichen Elysien, bekleidet die reizende Männlichkeit vollkommener Jahre mit gefälliger Jugend und spielt mit sanften Zärtlichkeiten auf dem stolzen Gebäude seiner Glieder. Gehe mit deinem Geiste in das Reich unkörperlicher Schönheiten und versuche, ein Schöpfer einer himmlischen Natur zu werden, um den Geist mit Schönheiten, die sich über die Natur erheben, zu erfüllen; denn hier ist nichts Sterbliches, noch was die menschliche Dürftigkeit erfordert. Keine Adern noch Sehnen erhitzen und regen diesen Körper, sondern ein himmlischer Geist, der sich wie ein sanfter Strom ergossen, hat gleichsam die ganze Umschreibung dieser Figur erfüllt. Er hat den Python, wider welchen er zuerst seinen Bogen gebraucht, verfolgt, und sein mächtiger Schritt hat ihn erreicht und erlegt. Von der Höhe seiner Genugsamkeit geht sein erhabener Blick, wie ins Unendliche, weit über seinen Sieg hinaus. Verachtung sitzt auf seinen Lippen, und der Unmut, welchen er in sich zieht, bläht sich <pb n="62" facs="#f0002"/>
+in den Nüstern seiner Nase und tritt bis in die stolze Stirn hinauf. Aber der Friede, welcher in seiner seligen Stille auf derselben schwebt, bleibt ungestört, und sein Auge ist voll Süßigkeit, wie unter den Musen, die ihn zu umarmen suchen. In allen uns übrigen Bildern des Vaters der Götter, welche die Kunst verehrt, nähert er sich nicht der Größe, in welcher er sich dem Verstande des göttlichen Dichters offenbarte, wie hier in dem Gesichte des Sohnes, und die einzelnen Schönheiten der übrigen Götter treten hier, wie bei der Pandora, in Gemeinschaft zusammen. Eine Stirn des Jupiters, die mit der Göttin der Weisheit schwanger ist, und Augenbrauen, die durch ihr Winken ihren Willen erklären, Augen der Königin der Göttinnen, mit Großheit gewölbt, und ein Mund, welcher denjenigen bildet, der dem geliebten Branchus die Wollüste eingeflößt. Sein weiches Haar spielt wie die zarten und flüssigen Schlingen edler Weinreben, gleichsam von einer sanften Luft bewegt, um dieses göttliche Haupt. Es scheint gesalbt mit dem Öl der Götter und von den Grazien mit holder Pracht auf seinem Scheitel gebunden. Ich vergesse alles andere über dem Anblicke dieses Wunderwerks der Kunst, und ich nehme selbst einen erhabenen Stand an, um mit Würdigkeit anzuschauen. Mit Verehrung scheint sich meine Brust zu erweitern und zu erheben, wie diejenigen, die ich wie vom Geiste der Weissagung aufgeschwellt sehe, und ich fühle mich weggerückt nach Delos und in die lykischen Haine, Orte, welche Apollo mit seiner Gegenwart beehrte, denn mein Bild scheint Leben und Bewegung zu bekommen, wie des Pygmalions Schönheit. Wie ist es möglich, es zu malen und zu beschreiben! Die Kunst selbst müßte mir raten und die Hand leiten, die ersten Züge, welche ich hier entworfen habe, künftig auszuführen. Ich lege den Begriff, welchen ich von diesem Bilde gegeben habe, zu dessen Füßen, wie die Kränze derjenigen, die das Haupt der Gottheiten, welche sie krönen wollten, nicht erreichen konnten.</p>
+<pb n="63" facs="#f0003"/>
+
+</body></text></TEI>

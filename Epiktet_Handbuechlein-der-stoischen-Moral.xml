@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Epiktet's Handbüchlein der stoischen Moral</title>
+        <author><persName ref="http://d-nb.info/gnd/30577">Epiktet</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Epiktet's Handbüchlein der stoischen Moral. Übersetzt und erklärt von
+      Carl Conz. Berlin: Langenscheidt, o. J.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Epiktet's Handbüchlein der stoischen Moral</title>
+      <author><persName ref="http://d-nb.info/gnd/30577">Epiktet</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/68237"><forename>Carl</forename><surname>Conz</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Langenscheidt</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1864</date>
+      <date type="firstPublication">1864</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Von Epiktets Schüler Flavius Arrianus um 120 notierte und aus Epiktets »Diatribai« (Unterhaltungen) zusammengestellte Sammlung. Erstdruck (in lateinischer Übersetzung durch Angelus Politianus) unter dem Titel »Epicteti Stoici Enchiridion«: Bologna 1497. Erstdruck der griechischen Textes, herausgegeben von G. Haloander: Basel 1529. Erste deutsche Übersetzung (anonym) in: Griechischer Sprach- Übung, 2. Bd., Köthen 1620. Der Text folgt der Übersetzung durch Carl Conz von 1864.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Handbüchlein der stoischen Moral</note>
+
+
+<head>Epiktet</head>
+<head>Handbüchlein der stoischen Moral</head>
+<head><hi rendition="#i">(Encheiridion)</hi></head>
+<pb n="17" facs="#f0001"/>
+<head>Unser Eigenthum.</head>
+<p rendition="#et">I, 1. Einige Dinge sind in unserer Gewalt, andere nicht. In unserer Gewalt sind: Meinung, Trieb, Begierde, Widerwille: kurz: Alles, was unser eigenes Werk ist. – Nicht in unserer Gewalt sind: Leib, Vermögen, Ansehen, Aemter, kurz: Alles, was nicht unser eigenes Werk ist.</p>
+<lb/>
+<p rend="h4"><pb n="17" facs="#f0002"/> Vorzüge des Eigenthums.</p>
+<p rendition="#et">I, 2. Und die Dinge, welche in unserer Gewalt stehen, sind von Natur frei; sie können nicht verhindert, noch in Fesseln geschlagen werden. Die Dinge aber, welche nicht in unserer Gewalt stehen, sind schwach, und völlig abhängig; sie können verhindert und entfremdet werden.</p>
+<lb/>
+
+
+<p rend="h4">Verwirrung aus Verwechslung.</p>
+<p rendition="#et">I, 3. Wofern du nun Dinge, die von Natur völlig abhängig sind, für frei, und Fremdes für Eigenthum ansiehst, so vergiß nicht, daß du auf Hindernisse stoßen, in Trauer und Unruhe gerathen, und Götter und Menschen anklagen wirst. Wenn du aber nur, was wirklich dein ist, als dein Eigenthum betrachtest, das Fremde aber so, wie es ist, als Fremdes, so wird dir niemand je Zwang anthun, niemand wird dich hindern; du wirst keinen schelten, keinen anklagen, wirst nichts thun wider Willen, niemand wird dich kränken, du wirst keinen Feind haben, kurz: du wirst keinerlei Schaden leiden.</p>
+<lb/>
+<p rend="h4">Keine Halbheit!</p>
+<p rendition="#et">I, 4. Wenn du nun so Großes begehrst, so bedenke, daß du nicht mit halbem Eifer darnach greifen, sondern <pb n="18" facs="#f0003"/> einiges völlig verleugnen, anderes für jetzt aufschieben mußt. Wofern du aber sowohl jenes begehrst, als auch herrschen und reich sein willst, so wirst du vielleicht nicht einmal dieses letztere erlangen, gerade weil du zugleich nach dem ersteren strebst. Gänzlich verfehlen aber wirst du dasjenige, woraus allein Freiheit und Glückseligkeit entspringt.</p>
+<lb/>
+<p rend="h4">Aeußere Dinge – was gehen sie dich an?</p>
+<p rendition="#et">I, 5. Bestrebe dich, jeder unangenehmen Vorstellung sofort zu begegnen mit den Worten: du bist nur eine Vorstellung, und durchaus nicht das, als was du erscheinst. Alsdann untersuche dieselbe, und prüfe sie nach den Regeln, welche du hast, und zwar zuerst und allermeist nach der, ob es etwas betrifft, was in unserer Gewalt ist, oder etwas, das nicht in unserer Gewalt ist; und wenn es etwas betrifft, das nicht in unserer Gewalt ist, so sprich nur jedesmal sogleich: Geht mich nichts an!</p>
+<lb/>
+<p rend="h4"><pb n="19" facs="#f0004"/> Du hast dein Glück in der Hand.</p>
+<p rendition="#et">II, 1. Bedenke, daß die Begierde verheißt, wir werden erlangen, was wir begehren; der Widerwille aber verheißt, es werde uns nicht widerfahren, was er zu meiden sucht. Wer nun nicht erlangt, was er begehrt, ist unglücklich, und wem widerfährt, was er gerne vermeiden möchte, ist es doppelt. Wenn du aber bloß dasjenige zu meiden suchst, was der Natur der Dinge, die in deiner Gewalt sind, zuwider ist, so wird nichts von dem widerfahren, was du meiden willst. Willst du aber Krankheit meiden, oder Armuth, oder Tod, so wirst du unglücklich sein.</p>
+<lb/>
+<p rend="h4">Das Sicherste für den Anfang.</p>
+<p rendition="#et">II, 2. Hinweg also mit deinem Widerwillen von allem dem, was nicht in unsrer Gewalt ist, und trage ihn über auf das, was der Natur der Dinge, die in unsrer Gewalt sind, zuwider ist. Die Begierde aber entferne vorerst <pb n="20" facs="#f0005"/> ganz. Denn wenn du etwas von dem begehrst, was nicht in unserer Gewalt ist, so mußt du nothwendiger Weise unglücklich sein. Von den Dingen aber, die in unserer Gewalt sind, und welche zu begehren rühmlich wäre, ist dir noch gar nichts bekannt. Nur Trieb und Abneigung laß walten; aber sachte, mit Auswahl und mit Zurückhaltung.</p>
+<lb/>
+
+
+<p rend="h4">Gemüthsruhe.</p>
+<p rendition="#et">III. Bei Allem, was die Seele ergötzt, oder Nutzen schafft, oder dir lieb und werth ist, vergiß nicht, ausdrücklich zu erwägen, welcher Art es sei, und fange beim Geringsten an. Wenn du einen Topf liebst, denke: ich liebe einen Topf. Zerbricht er dann, so wird es dich nicht anfechten. Wenn du dein Kind oder Weib herzest, so sage dir, daß du einen Menschen herzest. Stirbt er, so wird es dich nicht anfechten.</p>
+<lb/>
+<p rend="h4">Wie man die Fassung behauptet.</p>
+<p rendition="#et">IV. Wenn du an ein Geschäft gehen willst, so erinnere dich beiläufig, wie das Geschäft beschaffen sei. – Wenn du zum Baden gehst, stelle dir vor, was im Bad zu geschehen pflegt, wie sie einander mit Wasser spritzen, einander stoßen, schimpfen und bestehlen. So wirst du mit größerer Sicherheit zu Werk gehen, indem du dabei alsbald zu dir selbst sprichst: Ich will jetzt baden, zugleich aber auch meinen <pb n="21" facs="#f0006"/> der Natur gemäßen Grundsatz festhalten. Und so bei jedem Geschäfte. Auf diese Weise wirst du dann, wenn dir beim Baden etwas in den Weg kommt, sogleich den Trost bei der Hand haben: Ich wollte ja nicht dieses allein, sondern auch meinen naturgemäßen Grundsatz festhalten. Ich werde ihn aber nicht festhalten, wenn ich mich über das Vorgefallene ärgere.</p>
+<lb/>
+<p rend="h4">Der schrecklichste der Schrecken.</p>
+<p rendition="#et">V. Nicht die Dinge selbst, sondern die Meinungen von den Dingen beunruhigen die Menschen. So ist z.B. der Tod nichts Schreckliches, sonst wäre er auch dem Sokrates so erschienen; sondern die Meinung von dem Tod, daß er etwas Schreckliches sei, das ist das Schreckliche. Wenn wir nun auf Hindernisse stoßen, oder beunruhigt, oder bekümmert sind, so wollen wir niemals einen andern anklagen, sondern uns selbst, das heißt: unsere eigenen Meinungen. – Sache des Unwissenden ist es, andere wegen seines Mißgeschicks anzuklagen; Sache des Anfängers in der Weisheit, sich selbst anzuklagen; Sache des Weisen, weder einen andern, noch sich selbst anzuklagen.</p>
+<lb/>
+<p><pb n="22" facs="#f0007"/> </p>
+
+<p rend="h4">Thörichter Stolz.</p>
+<p rendition="#et">VI. Sei auf keinen fremden Vorzug stolz. Wenn das Pferd sich stolz erhebend spräche: wie schön bin ich! so könnte man sich das gefallen lassen. Wenn aber du selbst voll Stolz sprächest: welch ein schönes Pferd habe ich! so wisse, daß du auf die Vorzüge deines Pferdes stolz bist. Was ist nun aber dein? – Der Gebrauch deiner Vorstellungen! – Wenn du also von deinen Vorstellungen einen naturgemäßen Gebrauch machst, dann magst du stolz sein; denn alsdann bist du stolz auf einen Vorzug, der dir gehört.</p>
+<lb/>
+<p rend="h4">Zum Sterben fertig!</p>
+<p rendition="#et">VII. Wenn du auf einer Seereise, während das Schiff im Hafen liegt, ausgehst, um Wasser zu schöpfen, so hebst du wohl nebenbei auch ein Muschelchen oder Zwiebelchen am Wege auf; deine Gedanken aber mußt du auf das Schiff gerichtet haben, und fleißig zurückschauen, ob nicht etwa der Steuermann rufe; und wenn er ruft, so mußt du alle jene Dinge zurücklassen, damit du nicht gebunden hineingeworfen werdest, wie die Schafe. So ist's auch im Leben. Wenn dir statt Zwiebelchen und Muschelchen ein Weibchen oder Kindchen geschenkt wird, so wird nichts dagegen einzuwenden sein. Wenn aber der Steuermann ruft, so renne zum Schiff und laß alle jene Dinge zurück, ohne dich auch nur umzuschauen. <pb n="23" facs="#f0008"/> Bist du aber ein Greis, so entferne dich nicht einmal weit vom Schiff, damit du nicht zurückbleibest, wann jener ruft.</p>
+<lb/>
+<p rend="h4">Schwimme nicht gegen den Strom.</p>
+<p rendition="#et">VIII. Verlange nicht, daß die Dinge gehen, wie du es wünschest, sondern wünsche sie so, wie sie gehen, und dein Leben wird ruhig dahin fließen.</p>
+<lb/>
+<p rend="h4">Der Wille ist frei.</p>
+<p rendition="#et">IX. Krankheit ist ein Hinderniß des Körpers, aber nicht des Willens, wenn er nicht selbst will. Lähmung ist ein Hinderniß des Fußes, aber nicht des Willens. Und so denke bei allem, was dir begegnet; denn du wirst finden, daß es wohl ein Hinderniß für etwas anderes ist, aber nicht für dich.</p>
+<lb/>
+
+
+<p rend="h4">Versuchung und Widerstand.</p>
+<p rendition="#et">X. Vergiß nicht, bei jedem Vorfall in dich zu gehen, und zu untersuchen, welches Mittel du besitzest, um daraus Nutzen zu ziehen. Erblickst du einen Schönen oder eine Schöne, so wirst du ein Mittel dagegen finden, – die Selbstbeherrschung. Kommt Anstrengung, so findest du Ausdauer; kommt Schmach, so findest du Kraft zum Erdulden des Bösen. Und wenn du dich so gewöhnst, so wird dich die Vorstellung nicht hinreißen.</p>
+<lb/>
+<p rend="h4"><pb n="24" facs="#f0009"/> Der Weise verliert nichts.</p>
+<p rendition="#et">XI. Sage nie von einem Ding: ich habe es verloren; sondern: ich habe es zurückgegeben. Dein Kind ist gestorben; – es ist zurückgegeben worden. Dein Weib ist gestorben; – es ist zurückgegeben worden. Dein Landgut wurde dir genommen. – Nun also auch dieses ist nur zurückgegeben worden. – »Aber der es dir genommen hat, ist ein Schurke.« – Was geht es aber dich an, durch wen es dir derjenige wieder abgefordert hat, der es dir gab? – So lange er es aber dir überläßt, behandle es als fremdes Gut, so wie die Reisenden die Herberge.</p>
+<lb/>
+<p rend="h4">Fort mit Sorgen.</p>
+<p rendition="#et">XII, 1. Willst du Fortschritte machen, so mußt du Gedanken, wie die folgenden, fahren lassen: Wenn ich das Meinige vernachläßige, so werde ich kein Brod haben; wenn ich meinen Jungen nicht züchtige, so wird er ein Bösewicht werden. Denn besser ist es, Hunger sterben, frei von Traurigkeit und Furcht, als im Ueberfluß leben mit Unruhe im <pb n="25" facs="#f00010"/> Herzen; und besser ist's, daß der Junge ein Bösewicht werde, als daß du unglücklich seiest.</p>
+<lb/>
+<p rend="h4">Was kostet Gemüthsruhe?</p>
+<p rendition="#et">XII, 2. Fange also mit geringfügigen Dingen an. Man verschüttet dir dein Bischen Oel, man stiehlt dir dein Restchen Wein. Denke dabei: so theuer kauft man Gelassenheit, so theuer Gemüthsruhe. Umsonst bekommt man nichts.</p>
+<p rendition="#et">Wenn du deinen Knecht herbeirufst, so denke: es kann sein, daß er es nicht gehört hat; und wenn er es gehört hat, daß er nichts von dem thut, was du haben willst. Aber so gut soll er es nicht haben, daß deine Gemüthsruhe in seine Willkür gestellt wäre.</p>
+<lb/>
+<p rend="h4">Sei ein Thor vor der Welt.</p>
+<p rendition="#et">XIII. Willst du Fortschritte machen, so laß es dir gefallen, daß man dich in Bezug auf äußere Dinge für<pb n="26" facs="#f00011"/> dumm und einfältig hält. Du mußt nicht scheinen wollen, als wissest du etwas. Wenn auch gewisse Leute etwas auf dich halten, so traue dir selbst nicht. Wisse nemlich, daß es nicht leicht ist, die naturgemäßen Grundsätze, die du hast, und zugleich die äußeren Dinge im Auge zu behalten. Vielmehr, wer für das eine sorgen will, muß ganz nothwendig das andere vernachläßigen.</p>
+<lb/>
+<p rend="h4">Begehre nichts Unmögliches.</p>
+<p rendition="#et">XIV, 1. Wenn du willst, daß deine Kinder, dein Weib und deine Freunde ewig leben sollen, so bist du ein Thor. Du willst damit, daß Dinge, die nicht in deiner Gewalt sind, in deiner Gewalt sein sollen, und was nicht dein ist, soll dir gehören.</p>
+<p rendition="#et">So auch, wenn du willst, dein Sohn soll keine Fehler machen, so bist du ein Narr; du willst nemlich, Schlechtigkeit soll nicht Schlechtigkeit sein, sondern etwas anderes. Willst du aber, daß deine Wünsche nicht fehlschlagen, das vermagst du schon. Das Mögliche also – darin übe dich.</p>
+<lb/>
+<p rend="h4">Herr oder Knecht.</p>
+<p rendition="#et">XIV, 2. Ein Herr über alles ist der, welcher die Macht hat, das, was er will, oder nicht will, anzuschaffen oder wegzuschaffen. Wer nun frei sein will, der muß weder etwas wollen, noch etwas nicht wollen von dem, was in anderer Leute Gewalt ist. Wo nicht, so muß er ein Sklave sein.</p>
+<lb/>
+<p rend="h4">Selbstverleugnung.</p>
+<p rendition="#et">XV. Vergiß nicht, daß du dich (im Leben) wie bei einem Gastmahl betragen mußt. Man bietet etwas herum, <pb n="27" facs="#f00012"/> und es gelangt zu dir: – strecke die Hand aus, und nimm bescheiden davon. Es geht an dir vorüber: – halte es nicht auf. Es will immer noch nicht kommen: – blicke nicht aus der Ferne begehrlich darauf hin, sondern warte, bis es an dich kommt. Ebenso halte es in Bezug auf Kinder, Weib, Aemter und Reichthum; dann wirst du einst ein würdiger Tischgenosse der Götter sein. – Wenn du aber selbst von dem, was dir vorgelegt wird, nichts annimmst, sondern darüber wegsiehst, so wirst du nicht bloß mit den Göttern zu Tische sitzen, sondern auch mit herrschen. So handelten Diogenes und Heraklit und ihresgleichen, und deßhalb waren und hießen sie mit Recht göttliche Menschen.</p>
+<lb/>
+<p rend="h4">Spare das Mitleiden.</p>
+<p rendition="#et">XVI. Wenn du jemand weinen siehst aus Betrübniß, entweder weil sein Sohn in die Fremde gegangen ist, oder weil er das Seinige verloren hat, so gib Achtung, daß dich nicht die Vorstellung hinreiße, als sei jener im Unglück durch äußere Ursachen; sondern sprich nur sogleich: jenen drückt nicht das Begegniß selbst, – einen andern drückt es ja auch <pb n="28" facs="#f00013"/> nicht, – sondern was er sich darunter vorstellt. Zögere zwar nicht, dich wenigstens in deinen Worten nach ihm zu richten, und wenn es sich gerade schickt, auch mit ihm zu seufzen. Hüte dich aber, daß du nicht auch innerlich mitseufzest.</p>
+<lb/>
+
+
+<p rend="h4">Vom Schauspieler lerne!</p>
+<p rendition="#et">XVII. Bedenke, daß du Schauspieler bist in einem solchen Stück, wie es eben dem Dichter beliebt; ist es kurz, in einem kurzen; ist es lang, in einem langen. Will er, daß du einen Bettler vorstellen sollst, so stelle auch einen solchen naturgetreu dar. Ebenso einen Lahmen, einen Herrscher, einen gemeinen Mann. Deine Sache ist es nemlich, die Rolle, welche dir übertragen worden ist, gut zu spielen; sie anzuwählen, Sache eines Andern.</p>
+<lb/>
+<p rend="h4">Böses nimm auch für gut.</p>
+<p rendition="#et">XVIII. Wenn ein Rabe durch sein Krächzen Unheil verkündet, so laß dich nicht von der Vorstellung hinreißen; sondern unterscheide sogleich bei dir selbst und sprich: keines von diesen Vorzeichen gilt mir; sondern entweder meinem elenden Leib, oder meinen paar Pfennigen, oder meinem bischen Reputation, oder meinen Kindern, oder meinem Weibe. Mir selbst aber wird lauter Glück geweissagt, sofern ich nur will; denn was immer von jenen Dingen sich ereignen mag, es steht bei mir, Nutzen daraus zu ziehen.</p>
+<lb/>
+<pb n="29" facs="#f00014"/> <lb/>
+<p rend="h4">Sicherer Sieg.</p>
+<p rendition="#et">XIX, 1. Du kannst unüberwindlich sein, wenn du dich in keinen Kampf einlässest, in welchem es nicht in deiner Macht steht, obzusiegen.</p>
+<lb/>
+<p rend="h4">Geistesfreiheit.</p>
+<p rendition="#et">XIX, 2. Wenn du einen hochgeehrten, oder vielvermögenden, oder sonst angesehenen Mann siehst, so hüte dich, daß du nicht, von der Vorstellung hingerissen, ihn glücklich preisest. Denn wenn das wahre Gut in den Dingen besteht, welche in unsrer Gewalt sind, so findet weder Neid noch Eifersucht Raum; und du selbst wirst nicht Heerführer, oder Rathsherr, oder Consul sein wollen, sondern frei. Dazu führt nur <hi rendition="#i">ein</hi> Weg: – Verachtung der Dinge, die nicht in unsrer Gewalt sind.</p>
+<lb/>
+
+
+<p rend="h4">Langsam zum Zorn!</p>
+<p rendition="#et">XX. Bedenke, daß nicht derjenige dich kränkt, welcher dich schmäht, oder schlägt; sondern die Meinung, als liege darin etwas Kränkendes. Wenn dich also jemand ärgert, so wisse, daß dich deine Meinung geärgert hat. Deßhalb versuche es vor Allem, dich nicht von der Vorstellung hinreißen zu lassen. Hast du nur einmal Zeit und Aufschub gefunden, so wirst du dich um so leichter beherrschen.</p>
+<lb/>
+<p rend="h4">Der Tod der Lüste.</p>
+<p rendition="#et">XXI. Tod und Verbannung und Alles, was als schrecklich erscheint, soll dir täglich vor Augen schweben, am meisten <pb n="30" facs="#f00015"/> aber der Tod; so wirst du nie weder an etwas Gemeines denken, noch etwas allzuheftig begehren.</p>
+<lb/>
+
+
+<p rend="h4">Laß die Spötter spotten!</p>
+<p rendition="#et">XXII. Du willst ein Philosoph sein. Mache dich von Stund an darauf gefaßt, daß man dich auslacht, daß dich viele verspotten und sagen: Er ist plötzlich als Philosoph zu uns zurückgekommen; und weßhalb trägt er seinen Kopf gegen uns so hoch? – Du sollst aber den Kopf nicht hoch tragen; sondern was dir das Beste zu sein dünkt, das halte fest, gerade so, als ob du von Gott selbst auf diesen Posten gestellt worden wärest; und bedenke, daß dich, wenn du immer auf dem Gleichen beharrst, diejenigen, welche dich zuerst verlacht haben, zuletzt bewundern werden. Lässest du dich aber von ihnen besiegen, so wirst du zwiefältigen Spott ernten.</p>
+<lb/>
+<p rend="h4">Nach innen schau!</p>
+<p rendition="#et">XXIII. Wenn es dir einmal begegnet, daß du dich nach außen wendest, in der Absicht, irgend einem zu gefallen, so wisse, daß du deine innere Stellung verloren hast. Es genüge dir also durchaus, ein Philosoph zu sein. Willst du aber auch (von jemand) dafür angesehen sein, so sieh dich selbst dafür an. Dies vermagst du.</p>
+<pb n="31" facs="#f00016"/> <lb/>
+<p rend="h4">Tugend verloren – Alles verloren!</p>
+<p rendition="#et">XXIV, 1. Gedanken, wie die folgenden, laß dich nicht anfechten: Ich soll in Schande leben, und als der Garnichts auf der Gotteswelt. Denn wenn die Schande ein Uebel ist, so kann dir das Uebel ebensowenig durch einen andern aufgenöthigt werden, als etwas Sittlich-schlechtes. Ist es etwa dein eigen Werk, mit einem Amte bekleidet, oder zur Tafel gezogen zu werden? Keineswegs. Wie könnte also das eine Schande sein? Und in wiefern wirst du der Garnichtssein, da du doch nur in den Dingen etwas sein sollst, in welchen es ganz bei dir steht, dich auf's höchste auszuzeichnen?</p>
+<p rendition="#et">2. Aber du wirst deine Freunde ohne Unterstützung lassen müssen? – Was soll das heißen: ohne Unterstützung? – Sie werden kein Geld von dir bekommen; du wirst ihnen das römische Bürgerrecht nicht verschaffen können? – Wer hat dir denn gesagt, daß dieß zu den Dingen gehöre, die in unsrer Gewalt sind, und nicht vielmehr etwas sei, das uns fremd ist? – Wer kann einem andern geben, was er selbst nicht hat?</p>
+<p rendition="#et">3. So erwirb, heißt es jetzt, daß wir auch etwas haben! – Wenn ich erwerben kann ohne Verletzung des Ehrgefühls, der Treue und der großherzigen Gesinnung, so zeige mir den Weg, und ich will es thun. Wenn ihr mir aber zumuthet, ich soll die Güter, die mir selbst gehören, verlieren, damit ihr erlanget, was<hi rendition="#i"> kein</hi> Gut ist, so erkennet doch, wie unbillig ihr seid, und wie unverständig. Was wollet ihr <pb n="32" facs="#f00017"/> denn lieber? Geld, oder einen treuen und ehrliebenden Freund? – So verhelfet mir doch lieber zu dem letzteren, und muthet mir nicht zu, etwas zu thun, wodurch ich eben dies verlieren müßte.</p>
+<p rendition="#et">4. Aber das Vaterland, sagt man, wird, wenigstens von mir, keine Unterstützung haben. Ich frage: wie so keine Unterstützung? – Es wird keine Säulengänge und keine Bäder durch dich bekommen. Und was liegt daran? Bekommt es doch auch keine Schuhe vom Schmied, und keine Waffen vom Schuster. – Es genügt aber, wenn jeder <hi rendition="#i">sein</hi> Werk recht thut. Wenn du ihm einen andern zu einem treuen und ehrenhaften Bürger heranbildest, hast du ihm dann nichts genützt? – Ja doch! Also wärest doch auch du nicht so ganz ohne Nutzen für dasselbe!</p>
+<p rendition="#et">5. Welche Stellung werde ich nun im Staate einnehmen? so fragt man. Diejenige, welche du einnehmen kannst, ohne daß du aufhören mußt, beides, ein treuer und ein ehrliebender Mensch zu sein. Wirfst du aber dieses von dir, um dem Staate zu nützen, welchen Nutzen hätte er wohl von dir, wenn du ehr- und treulos geworden wärest? –</p>
+<lb/>
+<p rend="h4">Verkaufst du deine Freiheit um ein Linsengericht?</p>
+<p rendition="#et">XXV, 1. Einem andern ist beim Gastmahl, oder beim Grüßen, oder beim Herbeiziehen zu einer Berathung mehr Ehre widerfahren, als dir? Wenn dieß ein Gut ist, so sollst du dich freuen, daß jener andere es erlangt hat. Ist es aber ein Uebel, so klage nicht, daß es dich nicht betroffen hat. Bedenke übrigens, daß du nicht denselben Lohn ansprechen kannst, wenn du nicht dasselbe thust, um die Dinge zu erlangen, die nicht in unsrer Gewalt sind.</p>
+<p rendition="#et">2. Denn wie kann derjenige, welcher einem andern keine Aufwartung macht, so viel bekommen, wie der, welcher sie macht? oder der, welcher nicht im Gefolge mitgeht, so <pb n="33" facs="#f00018"/> viel wie der, welcher mitgeht, und welcher nicht lobt, so viel wie der, welcher lobt? Du bist also ungerecht und ungenügsam, wenn du, ohne den Preis zu bezahlen, um welchen man jene Dinge verkauft, sie umsonst erlangen willst.</p>
+<p rendition="#et">3. Wie theuer verkauft man den Lattich? Ungefähr um einen Groschen. Wenn nun einer den Groschen bezahlt, und Lattich dafür bekommt, du aber bezahlst nichts, und bekommst nichts, so glaube nicht, daß du weniger habest, als der, welcher etwas bekommen hat. Denn wie jener den Lattich, so hast du den Groschen, den du nicht ausgegeben hast.</p>
+<p rendition="#et">4. Ganz eben so auch hier. Es hat dich einer nicht zur Mahlzeit eingeladen. Du hast eben dem Wirth den Preis nicht bezahlt, um den er sein Gastmahl verkauft. Er verkauft es aber für Lob; er verkauft es für Aufwartung. Bezahle also den Preis, um den es feil ist, wenn es dir taugt. Willst du ihn aber nicht bezahlen, und doch jenes erlangen, so bist du unersättlich und unverständig.</p>
+<p rendition="#et">5. Hast du nun nichts zum Ersatz für das Gastmahl? – Das hast du, daß du den nicht zu loben brauchtest, welchen du nicht loben wolltest, und daß du dir nichts gefallen lassen mußtest von seinen Thürstehern.</p>
+<lb/>
+<p rend="h4">Der Wille der Natur.</p>
+<p rendition="#et">XXVI. Der Wille der Natur läßt sich erkennen aus dem, worüber keine Meinungsverschiedenheit unter uns herrscht. Z.B. wenn der Sklave eines andern ein Trinkglas zerbricht, so sind wir gleich bereit zu sagen: so geht es eben. – Wisse nun, daß du, wenn das deinige ebenfalls zerbricht, dich ebenso betragen mußt, wie wenn das des andern zerbricht.</p>
+<p rendition="#et">Hievon mache nun die Anwendung auch auf Wichtigeres. Eines anderen Kind oder Weib ist gestorben. Da ist keiner, der nicht spräche: »So geht's in der Welt.« Stirbt aber einem sein eigenes, gleich ruft er: »Oh weh mir! <pb n="34" facs="#f00019"/> Ich Armer!« Man sollte aber sich erinnern, welchen Eindruck es auf uns macht, wenn wir dasselbe von einem andern hören.</p>
+<lb/>
+<p rend="h4">Wem es gilt, den trifft's.</p>
+<p rendition="#et">XXVII. Gleichwie ein Ziel nicht zum Verfehlen aufgesteckt wird, so auch nicht die Natur des Uebels in der Welt.</p>
+<lb/>
+<p rend="h4">Körper und Geist.</p>
+<p rendition="#et">XXVIII. Wenn jemand deinen Körper jedem, der dir begegnet, preisgäbe, so würdest du es übel aufnehmen. Daß aber du selbst deinen Geist dem nächsten besten preisgibst, so daß er in Aufregung und Verwirrung geräth, wenn man dich schilt, – schämst du dich dessen nicht?</p>
+<lb/>
+
+
+<p rend="h4">Vorbedacht – Nachgethan!</p>
+<p rendition="#et">XXIX, 1. Bei allem, was du thun willst, achte auf das, was vorangeht, und was nachfolgt, und so mache dich daran. Wo aber nicht, so wirst du wohl anfangs lustig daran gehen, weil du nicht bedacht hast, was nachkommt; hernach aber, wenn sich etliche Schwierigkeiten zeigen, wirst du mit Schanden davon gehen.</p>
+<p rendition="#et">2. Du willst in Olympia siegen? – Auch ich, bei den <pb n="35" facs="#f00020"/> Göttern! denn das bringt Ehre. Aber achte auf das, was vorangeht, und was nachfolgt; dann greife das Werk an. Du mußt geordnet leben, nach Vorschrift essen, der Leckerbissen dich enthalten, dich üben nach fester Regel, zur vorgeschriebenen Stunde, in Hitze und Kälte; nichts Kaltes trinken, keinen Wein zur beliebigen Zeit; kurz, du mußt dich dem Lehrmeister wie einem Arzt übergeben. Sodann beim Kampfe selbst mußt du dich mit Sand überschütten lassen. Möglich ist es auch, daß du dir die Hand verzerrst, den Knöchel verrenkst, und vielen Staub schluckst; möglich, daß du durchgeprügelt, und nach allem diesem noch besiegt wirst.</p>
+<p rendition="#et">3. Das überlege wohl, und wenn du dann noch Lust hast, so gehe zum Kampf. Wo nicht, so wirst du dich wie die Kinder betragen, welche bald die Rolle eines Ringers spielen, bald die eines Fechters, das einemal Trompeten blasen, dann wieder ein Schauspiel aufführen. So auch du! Bald bist du ein Athlet, bald ein Fechter, dann ein Rhetor, dann ein Philosoph, aber nichts von ganzer Seele; sondern wie ein Affe ahmst du jeden Auftritt, den du siehst, nach; und bald gefällt dir dies, bald das. Denn du bist nicht mit Ueberlegung an eine Sache gegangen, und nicht mit Umsicht, sondern auf Gerathewohl, und mit frostigem Interesse.</p>
+<p rendition="#et">4. So wollen manche Leute, wenn Sie einen Philosophen gesehen haben, oder wenn sie jemand reden hörten, wie Euphrates redet (und doch: wer kann so reden, wie er?), selbst auch Philosophen sein.</p>
+<p rendition="#et">5. O Mensch, zuerst überlege, wie die Sache beschaffen ist; dann prüfe auch deine eigene Natur, ob dir die Last nicht zu schwer ist. Willst du ein Pentathlete sein, oder <pb n="36" facs="#f00021"/> nur ein Ringer? Betrachte deine Arme, deine Schenkel, prüfe deine Hüften; denn der eine ist von Natur zu diesem, der andere zu anderem bestimmt.</p>
+<p rendition="#et">6. Glaubst du, du könnest, während du solche Dinge treibst, ebensoviel essen, ebensoviel trinken, eben solche Begierden haben, und ebenso mißvergnügt sein? Wachen muß man, und sich anstrengen, sich von den Hausgenossen zurückziehen, sich von einem Sklaven verachten, und von den Vorübergehenden auslachen lassen, und in allem zurückstehen, in der Achtung, im Amt, im Gericht und in jedem Geschäftchen.</p>
+<p rendition="#et">7. Das überlege dir, ob du um diesen Preis Gelassenheit, Freiheit und Gemüthsruhe eintauschen willst; wo aber nicht, so verzichte darauf. Sei du nicht, wie die Kinder, jetzt ein Philosoph, hernach ein Zolleinnehmer, sodann ein Rhetor, und zuletzt ein kaiserlicher Prokurator. Diese Dinge passen nicht zusammen. Ein Mensch aus <hi rendition="#i">einem</hi> Guß mußt du sein, entweder ein guter, oder ein schlechter. Entweder mußt du den herrschenden Theil deiner selbst ausbilden, oder die äußere Seite, entweder auf das Innere deine Kunst verwenden, oder auf das Aeußere; d.h. entweder die Stellung eines Philosophen, oder die eines gewöhnlichen Menschen einnehmen.</p>
+<lb/>
+<p rend="h4">Sittengesetz und Naturgesetz.</p>
+<p rendition="#et">XXX. Die Pflichten sind so ziemlich überall den Verhältnissen angemessen. Es ist einer Vater: Die Pflicht gebietet, sein zu pflegen, ihm in allem nachzugeben, sein Schimpfen, seine Schläge geduldig hinzunehmen.</p>
+<p rendition="#et"><pb n="37" facs="#f00022"/> Aber der Vater ist ein schlechter Mensch! – Knüpfen dich denn die Bande der Natur an einen <hi rendition="#i">guten</hi> Vater? Nein, sondern an einen Vater. –</p>
+<p rendition="#et">Dein Bruder handelt ungerecht. Behalte Obigem zufolge dein Verhältniß zu ihm im Auge und sieh nicht auf das, was jener thut, sondern wie dein Grundsatz beschaffen sein muß, wenn du naturgemäß handeln willst. Denn ein anderer kann dir nicht schaden, wenn du nicht willst. Dann aber wirst du im Schaden sein, wenn du meinst, du werdest beschädigt.</p>
+<p rendition="#et">Ebenso kannst du nun auch vom Nachbar, vom Bürger, vom Feldherrn herausfinden, was (für ihn) Pflicht ist, wenn du dich gewöhnst, die Verhältnisse zu berücksichtigen.</p>
+<lb/>
+<p rend="h4">Weisheit und Frömmigkeit.</p>
+<p rendition="#et">XXXI, 1. Die Hauptsache in der Frömmigkeit, mußt du wissen, ist dieß, daß man richtige Vorstellungen von den Göttern habe, nemlich, daß es Götter gebe, und daß sie alles gut und gerecht regieren, daß sie dir die Bestimmung gegeben haben, ihnen zu gehorchen, und dich in alles, was geschieht, zu schicken, und willig zu folgen, weil es ja in bester Absicht geschieht. So wirst du niemals die Götter tadeln, noch sie beschuldigen, als bekümmern sie sich nichts um dich.</p>
+<p rendition="#et">2. Anders aber kann dieß gar nicht geschehen, als bis du die Begriffe Gut oder Uebel von denjenigen Dingen lostrennst, welche nicht in unserer Gewalt sind, und sie ausschließlich in dasjenige verlegst, was in unserer Gewalt ist. <pb n="38" facs="#f00023"/> Denn sobald du etwas von den ersteren für ein Gut oder für ein Uebel ansiehst, kann es nicht anders sein, als daß du diejenigen anklagst und hassest, welche schuld daran sind, daß dir etwas entgeht, was du dir wünschest, oder daß dir etwas widerfährt, was du nicht wünschest.</p>
+<p rendition="#et">3. Denn es ist allem, was da lebt, angeboren, das, was ihm schädlich vorkommt, sammt seiner Ursache zu fliehen und zu meiden, das Nützliche aber sammt seiner Ursache zu begehren und zu bewundern. Unmöglich kann einer, der im Schaden zu sein glaubt, an dem, was ihm schädlich scheint, eine Freude haben, wie es auch unmöglich ist, sich zu freuen über den Schaden selbst.</p>
+<p rendition="#et">4. Deßhalb wird selbst ein Vater von seinem Sohne geschmäht, wenn er seinem Kinde nichts von den Dingen mittheilt, die man für Güter hält. Auch den Polynikes und Eteokles entzweite eben das, daß sie die Alleinherrschaft für etwas Gutes hielten. Aus demselben Grunde flucht der Bauer über die Götter, aus demselben der Schiffer, aus demselben der Kaufmann, aus demselben diejenigen, welche Weib und Kind verlieren. Denn so weit ihr Nutzen reicht, reicht auch ihre Frömmigkeit. – Wer also sich befleißigt, nur das zu begehren und zu meiden, was er soll, der befleißigt sich eben damit auch der Frömmigkeit.</p>
+<p rendition="#et">5. Pflicht ist es übrigens in jedem Fall, Trankopfer und Brandopfer und Erstlingsgaben darzubringen nach väterlicher Weise, mit reinem Sinn und nicht gedankenlos, auch nicht gleichgiltig; weder kärglich, noch auch über Vermögen.</p>
+<lb/>
+<p rend="h4">Die Orakel und das Gewissen.</p>
+<p rendition="#et">XXXII, 1. Wenn du zum Orakel gehst, so erinnere dich, daß du nicht weißt, was geschehen wird, sondern daß <pb n="39" facs="#f00024"/> du kommst, um es von dem Seher zu erfahren. Wie aber eine Sache beschaffen ist, das weißt du schon beim Kommen, wenn du ein Philosoph bist. Ist es nemlich etwas von den Dingen, die nicht in unsrer Gewalt sind, so kann es schlechterdings weder ein Gut, noch ein Uebel sein.</p>
+<p rendition="#et">2. Du sollst also zum Seher weder Begierde, noch Widerwillen mitbringen. Auch gehe nicht mit Angst zu ihm, sondern als einer, der weiß, daß alles, was da kommen mag, gleichgiltig ist, und nichts, das dich angienge. Wie es aber auch sein mag, man wird einen guten Gebrauch davon machen können; und das kann dir niemand wehren.</p>
+<p rendition="#et">Gutes Muths also, wie vertrauen Rathgebern, nahe dich den Göttern; und im übrigen, wenn du Rath empfangen hast, so erinnere dich, wer die sind, die du zu Berathern angenommen hast, und wem du ungehorsam wirst, wenn du nicht folgst.</p>
+<p rendition="#et">3. Gehe aber, nach dem Rath des Sokrates, nur wegen solcher Dinge zum Orakel, die nach allem Betracht eine Beziehung auf die Zukunft haben, und bei welchen weder die Vernunft, noch ein anderes Mittel eine Möglichkeit darbietet, zu erkennen, was bevorsteht.</p>
+<p rendition="#et">Wenn du also einem Freund, oder dem Vaterland in der Gefahr beistehen sollst, so frage nicht den Seher, ob du ihnen beistehen sollst. Denn wenn dir auch der Seher sagt, daß die Opferzeichen schlimm ausgefallen seien, so bedeutet dieß zwar augenscheinlich den Tod, oder Verstümmelung eines Glieds an unserem Leibe, oder Verbannung; aber die Vernunft gebietet trotz alledem, dem Freunde beizustehen, und mit dem Vaterlande die Gefahr zu theilen.</p>
+<p rendition="#et">Folge also dem höheren Seher, dem pythischen Gott, welcher den aus dem Tempel hinauswarf, der seinem Freunde nicht zu Hilfe kam, als man ihr mordete.</p>
+<lb/>
+<p><pb n="40" facs="#f00025"/> </p>
+
+<p rend="h4">Vorbild und Nachfolge.</p>
+<p rendition="#et">XXXIII, 1. Stelle dir ein Muster und Vorbild auf, und lebe ihm nach, sowohl wenn du allein bist, als wenn du unter die Leute kommst.</p>
+<lb/>
+<p rend="h4">Schweigen, Reden und Lachen.</p>
+<p rendition="#et">XXXIII, 2. Auch schweige man meistens oder spreche nur, so viel nöthig, und mit wenigen Worten. Bisweilen aber, wenn die Umstände zum Reden auffordern, sollst du reden; aber nicht von jenen alltäglichen Dingen, nicht von Fechterspielen, nicht von Pferderennen, nicht von den Athleten, nicht von Essen und Trinken, wovon man allerorten redet, besonders aber nicht von Personen, weder tadelnd, noch lobend, noch vergleichend.</p>
+<p rendition="#et">3. Wenn es nun in deiner Macht steht, so lenke durch deine Reden auch die der Mitanwesenden auf das Schickliche. Stehst du aber zufällig unter Fremden allein, so schweige.</p>
+<p rendition="#et">4. Lache nicht viel, und nicht über vieles, und nicht ausgelassen.</p>
+<lb/>
+<p rend="h4">Vom Eid.</p>
+<p rendition="#et">XXXIII, 5. Den Eid verweigere, wenn es angeht, ganz; wo aber nicht, doch so viel als möglich.</p>
+<lb/>
+<p rend="h4">Böse Gesellschaft.</p>
+<p rendition="#et">XXXIII, 6. Gastmähler bei Fremden und bei ungebildeten Leuten schlage aus. Kommt aber der Fall einmal <pb n="41" facs="#f00026"/> vor, so mache es dir zum Gesetz, wohl aufzumerken, daß du nicht unversehens in Gemeinheit versinkest. Denn wisse: wenn einer einen unfläthigen Menschen zum Kameraden hat, so muß er, der sich mit ihm einläßt, ebenfalls besudelt werden, auch wenn er selbst vielleicht rein ist.</p>
+<lb/>
+<p rend="h4">Einfacher Sinn.</p>
+<p rendition="#et">XXXIII, 7. In Bezug auf das Leibliche versieh dich nicht weiter, als mit dem schlechthin nothwendigen Bedarf an Speise, Trank, Kleidung, Obdach, Dienerschaft. Was aber zum Gepränge, oder zum Luxus gehört, schneide völlig ab.</p>
+<lb/>
+<p rend="h4">Keuschheit.</p>
+<p rendition="#et">XXXIII, 8. In Bezug auf geschlechtlichen Umgang halte dich vor der Ehe so keusch als möglich. Wer sich aber damit befassen will, genieße ihn, wie es gesetzlich erlaubt ist. Du aber sei nicht unbillig gegen die, welche Gebrauch davon machen, und verdamme sie nicht. Auch führe es nicht bei jeder Gelegenheit an, daß du dich dessen enthaltest.</p>
+<lb/>
+<p rend="h4">Wie man dem Lästerer das Maul stopft.</p>
+<p rendition="#et">XXXIII, 9. Wenn dir jemand hinterbringt, daß der oder jener Schlimmes von dir rede, so vertheidige dich nicht gegen das Gesagte, sondern antworte: Der wußte also nichts von meinen übrigen Fehlern, sonst würde er wohl nicht bloß von diesen gesprochen haben.</p>
+<lb/>
+<p><pb n="42" facs="#f00027"/> </p>
+
+<p rend="h4">Sei ein kühler Beobachter.</p>
+<p rendition="#et">XXXIII, 10. Oft in das Theater zu gehen, ist nicht nothwendig. Kommst du aber zufällig einmal dahin, so laß niemand, als dich selbst, merken, daß du innerlich Antheil nimmst, d.h. wünsche, daß nur das geschehe, was geschieht, und nur der siege, welcher siegt; denn auf diese Weise wird dir alles nach Wunsch gehen. Des Schreiens aber und Beifall-Zulachens, oder häufiger Mitbewegungen enthalte dich gänzlich. Nach dem Weggehen unterhalte dich nicht viel über das Vorgekommene, so weit es nicht zu deiner Besserung beiträgt. Denn hiedurch gewönne es den Anschein, als habest du das Schauspiel bewundert.</p>
+<lb/>
+<p rend="h4">Verschiedene Verhaltungsregeln.</p>
+
+
+<p rend="h4">a) Ueber den Besuch öffentlicher Vorlesungen.</p>
+<p rendition="#et">XXXIII, 11. Zu den Vorträgen gewisser Leute gehe nicht ohne Ursache oder leichtsinnig hin. Gehst du aber hin, so beobachte ein würdevolles, festes, und doch nicht abstoßendes Betragen.</p>
+<lb/>
+<p rend="h4">b) Ueber den Verkehr mit Vornehmen.</p>
+<p rendition="#et">XXXIII, 12. Wenn du im Begriff stehst, dich mit jemand in ein Gespräch einzulassen, besonders mit einem von <pb n="43" facs="#f00028"/> denen, welche für sehr vornehm gelten, so stelle dir vor, was in diesem Fall Sokrates oder Zeno gethan hätte, und du wirst nicht verfehlen, dich den Umständen angemessen zu betragen.</p>
+<p rendition="#et">13. Wenn du zu einem großen Herrn gehst, so stelle dir vor, du werdest ihn nicht zu Hause treffen, man werde vor dir verriegeln, man werde dir die Thüren vor der Nase zuschlagen, er werde sich nichts um dich bekümmern. Ist es bei alledem deine Pflicht, hinzugehen, so gehe hin, und ertrage, was kommt, und sprich nie bei dir selbst: es war nicht der Mühe werth. Denn das wäre gemein, und hieße sich ärgern über äußerliche Dinge.</p>
+<lb/>
+<p rend="h4">c) In Gesellschaft.</p>
+<p rendition="#et">XXXIII, 14. In Gesellschaften vermeide man es, seiner eigenen etwaigen Thaten oder Abenteuer häufig und maßlos zu gedenken. Denn nicht ebenso angenehm, als es dir ist, deiner Abenteuer zu gedenken, ist es den andern, zu hören, was dir zugestoßen ist.</p>
+<p rendition="#et">15. Auch sei es ferne von dir, Lachen zu erregen; denn das ist ein Betragen, das sehr leicht in Gemeinheit übergeht, und zugleich kann es die Wirkung haben, die Achtung deiner Nebenmenschen vor dir zu mindern.</p>
+<p rendition="#et">16. Gefährlich ist es auch, es bis zu garstigen Reden kommen zu lassen. Wenn nun etwas derart geschieht, so gib, wenn es die Umstände erlauben, dem, der so weit gegangen ist, eine Zurechtweisung. Wo nicht, so zeige wenigstens durch Schweigen, durch Erröthen und durch eine tiefernste Miene dein Mißfallen an der Rede.</p>
+<lb/>
+<p><pb n="44" facs="#f00029"/> </p>
+
+<p rend="h4">Der Wahn ist kurz, die Reu' ist lang.</p>
+<p rendition="#et">XXXIV. Wenn du die Vorstellung irgend einer sinnlichen Lust in dich aufnimmst, so hüte dich, wie auch in andern Dingen, daß du nicht von ihr hingerissen werdest; sondern laß die Sache auf dich warten, und nimm dir längere Zeit dazu. Alsdann vergegenwärtige dir die beiden Momente, sowohl denjenigen, da du die Lust genießen, als denjenigen, da du hernach, wenn der Genuß vorüber ist, Reue fühlen, und dir selbst Vorwürfe machen wirst. Und dem stelle nun gegenüber, wie du dich freuen und dich selbst loben wirst, wenn du enthaltsam gewesen bist. Wenn es dir aber schicklich scheint, dich mit der Sache zu befassen, so gib wohl Achtung, daß dich nicht das Reizende, Angenehme und Verführerische derselben überwinde, sondern stelle dir vielmehr vor, wie viel wohler dir das Bewußtsein thun muß, einen solchen Sieg erkämpft zu haben.</p>
+<lb/>
+
+
+<p rend="h4">Thue recht, scheue niemand.</p>
+<p rendition="#et">XXXV. Wenn du etwas thust, wovon du dich überzeugt hast, daß es gethan werden muß, so vermeide es nie, gesehen zu werden, während du es thust, auch wenn der große Haufe anderer Meinung darüber sein sollte. Denn, ist es unrecht, was du thust, so meide die That selbst: ist es aber recht, was fürchtest du dich vor denen, die es unrecht schelten wollen?</p>
+<lb/>
+<p rend="h4">Tischregel.</p>
+<p rendition="#et">XXXVI. Wie die Sätze: »Es ist Tag« und »Es ist Nacht« zwar vortrefflich zu einem disjunktiven Urtheil, dagegen zu einer Conjunktion gar nichts taugen, so mag es <pb n="45" facs="#f00030"/> auch für den Körper einen großen Werth haben, wenn man sich die größte Portion herausnimmt; aber zur geziemenden Beobachtung der gesellschaftlichen Pflichten beim Gastmahl trägt es nichts bei. Wenn du nun bei einem andern zu Gast geladen bist, so vergiß nicht, daß man nicht bloß darauf sehen darf, welchen Werth das Aufgetragene für den Leib hat, sondern daß man auch die Schicklichkeit gegenüber dem Wirth beobachten muß.</p>
+<lb/>
+<p rend="h4">Ne sutor ultra crepidam!</p>
+<p rendition="#et">XXXVII. Wenn du eine Rolle übernimmst, welcher du nicht gewachsen bist, so wirst du sowohl in dieser zu Schanden werden, als auch jene, die du hättest ausfüllen können, vernachläßigen.</p>
+<lb/>
+<p rend="h4">Vorsichtig wandeln.</p>
+<p rendition="#et">XXXVIII. Wie du dich beim Gehen wohl hütest, in einen Nagel zu treten, oder den Fuß zu verrenken, so hüte dich auch, den herrschenden Theil deiner selbst zu beschädigen; und wenn wir dies bei jeder Handlung beobachten, so werden wir um so sicherer zu Werk gehen.</p>
+<lb/>
+<p rend="h4">Maß halten.</p>
+<p rendition="#et">XXXIX. Einem jeden dient sein Leib als Maßstab für den Besitz, wie der Fuß für den Schuh. Wenn du dabei <pb n="46" facs="#f00031"/> stehen bleibst, so wirst du Maß halten. Gehst du aber darüber hinaus, so wirst du unfehlbar vollends wie von einer steilen Höhe heruntergerissen werden. Gerade wie mit dem Schuh! Willst du auf größerem Fuß leben, so kommt zuerst ein vergoldeter Schuh, dann ein purpurner, dann ein gestickter. Denn was einmal über das Maß hinaus ist, hat keine Gränze mehr.</p>
+<lb/>
+<p rend="h4">Der Schmuck der Frauenzimmer.</p>
+<p rendition="#et">XL. Die Frauenzimmer werden sogleich vom vierzehnten Jahre an von den Männern Herrinnen genannt. Wenn sie nun sehen, daß sie kein anderes Verdienst haben, als daß sie bei den Männern wohnen, so fangen sie an, sich zu putzen, und hierauf alle ihre Hoffnungen zu setzen. Es wäre nun wohl der Mühe werth, sie merken zu lassen, daß man sie nur dann ehren wolle, wenn sie sich bescheiden und sittsam aufführen.</p>
+<lb/>
+<p rend="h4">Der Unedle.</p>
+<p rendition="#et">XLI. Es ist das Merkmal einer gemeinen Natur, wenn Einer bei körperlichen Dingen lange verweilt, z.B. lange turnt, lange ißt, lange trinkt, lange abseits geht, lange beim Weibe bleibt. Solches sollte man vielmehr nur nebenher thun; auf den Geist dagegen verwende man seine ganze Sorgfalt.</p>
+<lb/>
+<p rend="h4">Wer hat den Schaden?</p>
+<p rendition="#et">XLII. Wenn dich jemand schlimm behandelt, oder Schlimmes von dir redet, so bedenke, daß er es thut oder redet <pb n="47" facs="#f00032"/> in der Meinung, er sei im Recht. Es ist nun nicht möglich, daß er dem folge, was <hi rendition="#i">du</hi> für richtig hältst, sondern dem, was <hi rendition="#i">er</hi> dafür hält. Wenn nun seine Meinung falsch ist, so hat <hi rendition="#i">er</hi> den Schaden, sofern er sich in einer Täuschung befindet. Denn wenn einer eine richtige Satzverbindung für falsch hält, so schadet dies der Satzverbindung nichts, sondern dem, welcher sich geirrt hat. Davon ausgehend wirst du dich gegen den Lästerer sanftmüthig betragen. Denke nur jedesmal: er war der Meinung u.s.w.</p>
+<lb/>
+<p rend="h4">Zweierlei Handhaben.</p>
+<p rendition="#et">XLIII. Jedes Ding hat zwei Handhaben, eine zum Anfassen, die andere nicht zum Anfassen. Wenn nun dein Bruder Unrecht (an dir) thut, so nimm die Sache nicht von der Seite, daß er Unrecht thut; denn das ist nicht ihre anfaßbare Handhabe, vielmehr von der, daß er dein Bruder ist, daß er mit dir auferzogen worden ist. Das heißt die Sache da nehmen, wo sie anfaßbar ist.</p>
+<lb/>
+<p rend="h4">Schlechte Logik – schlechte Moral.</p>
+<p rendition="#et">XLIV. Folgende Schlüsse sind nicht richtig: »Ich bin reicher, als du, somit besser, als du«; – »ich bin beredter, als du, somit besser, als du«. – Richtiger sind die folgenden: »Ich bin reicher, als du, somit ist mein Besitz mehr werth, als der deinige«; »ich bin beredter, als du, somit ist meine Ausdrucksweise besser, als die deinige«. Du selbst aber bist weder Besitz, noch Ausdrucksweise.</p>
+<lb/>
+<p rend="h4">Urtheile nicht vorschnell.</p>
+<p rendition="#et">XLV. Es badet einer zu frühe; sage nicht: er thut unrecht, sondern: er badet zu frühe. Es trinkt einer viel <pb n="48" facs="#f00033"/> Wein; sage nicht: er thut Unrecht, sondern: er trinkt viel. Denn ehe du die Absicht kennst, woher weißt du, ob er Unrecht thut?</p>
+<p rendition="#et">So wird es dir nicht begegnen, daß die innere Ueberzeugung, welche du gewonnen hast, etwas anderes enthalte, als die handgreifliche sinnliche Wahrnehmung.</p>
+<lb/>
+<p rend="h4">Anspruchslosigkeit.</p>
+<p rendition="#et">XLVI, 1. Niemals nenne dich selbst einen Philosophen. Auch sprich unter Laien nicht viel von den Lehrsätzen der Wissenschaft, sondern handle nach denselben. So sprich z.B. bei der Mahlzeit nicht davon, wie man essen soll, sondern iß, wie man essen soll.</p>
+<p rendition="#et">Erinnere dich, daß auf diese Weise Sokrates alles sich zur Schau stellen von sich abgelegt hat. Es kamen sogar Leute zu ihm, welche von ihm den Philosophen vorgestellt sein wollten, und er führte sie hin. So leicht ertrug er es, übersehen zu werden.</p>
+<lb/>
+<p rend="h4"><pb n="49" facs="#f00034"/> Werke sind besser als Worte.</p>
+<p rendition="#et">XLVI, 2. Wenn man unter Laien auf einen Satz aus der Wissenschaft zu sprechen kommt, so schweige in der Regel. Denn die Gefahr ist groß, daß du sofort wieder ausspeiest, was du noch nicht verdaut hast. Und wenn jemand zu dir sagt, du wissest nichts, und es beißt dich nicht, so wisse, daß du bereits einen Anfang in der Sache gemacht hast. Denn auch die Schafe tragen nicht das Gras her, um den Hirten zu zeigen, wie viel sie fressen, sondern verdauen das Futter in wendig; auswendig aber geben sie Wolle und Milch. So stelle auch du nicht deine Wissenschaft vor den Laien zur Schau, sondern, wenn du sie verdaut hast, die Werke.</p>
+<lb/>
+<p rend="h4">Wahre und falsche Ascese.</p>
+<p rendition="#et">XLVII. Wenn du hinsichtlich deines Körpers an Einfachheit gewöhnt bist, so bilde dir darauf nichts ein. Auch sprich nicht, wenn du Wasser trinkst, bei jeder Gelegenheit: ich trinke Wasser. Und willst du dich einmal üben in anstrengender Arbeit, so thu' es für dich, und nicht vor Fremden. Umarme nicht die Bildsäulen, sondern wenn dich einmal heftig dürstet, so nimm frisches Wasser in den Mund, und speie es wieder aus, und sage es niemand.</p>
+<lb/>
+<p rend="h4">Ein ächter Jünger der Weisheit.</p>
+<p rendition="#et">XLVIII, 1. Der Standpunkt und das Kennzeichen eines gewöhnlichen Menschen ist dies: er erwartet niemals von sich selbst Nutzen oder Schaden, sondern von äußerlichen <pb n="50" facs="#f00035"/> Dingen; der Standpunkt und das Kennzeichen eines Philosophen: er erwartet allen Nutzen und Schaden von sich selbst.</p>
+<p rendition="#et">2. Kennzeichen eines Fortschreitenden sind: er tadelt niemand, er lobt niemand, er beschuldigt niemand, er klagt niemand an, er spricht nicht von sich selbst, als sei er etwas, oder als wisse er etwas. Ist ihm etwas beschwerlich, oder hinderlich, so klagt er sich selbst an. Lobt ihn jemand, so lacht er bei sich selbst über den, der ihn lobt, und wenn er getadelt wird, so vertheidigt er sich nicht. Er geht einher, wie die Kranken und fürchtet sich, etwas, das kaum erst eingerichtet worden ist, zu bewegen, ehe es Festigkeit erlangt hat.</p>
+<p rendition="#et">3. Die Begierde hat er ganz aus sich entfernt, den Widerwillen aber nur auf das gelenkt, was der Natur der Dinge zuwiderläuft, die in unsrer Gewalt sind. Von dem Trieb macht er in allem nur mäßigen Gebrauch. Ob man ihn auch für dumm oder unwissend hielte, er achtet es nicht; und, um es kurz zu sagen, er bewacht sich selbst wie einen Feind, und wie einen, der ihm Netze stellt.</p>
+<lb/>
+
+
+<p rend="h4">Seid Thäter des Worts!</p>
+<p rendition="#et">XLIX. Wenn sich einer groß macht, daß er die Schriften des Chrysippus verstehe und auslegen könne, so sprich du bei dir selbst: Hätte Chrysippus nicht unklar geschrieben, so hätte dieser nichts, womit er sich groß machen könnte. Ich aber, was will ich? Die Natur kennen lernen, und ihr <pb n="51" facs="#f00036"/> folgen. Ich frage nun, wer legt sie mir aus? und wenn ich höre: Chrysippus, so gehe ich zu ihm. Aber ich verstehe seine Schriften nicht. Ich suche also einen Ausleger, und bis dahin ist gar nichts Großes an der Sache. Wenn ich aber den Ausleger gefunden habe, so bleibt noch übrig die Anwendung der Gebote im Leben. Diese letztere allein ist etwas Großes. Bewundere ich aber das Auslegen an sich, was bin ich zuletzt anders, als ein Grammatiker, anstatt ein Philosoph? – Mit dem Unterschied jedoch, daß ich statt des Homer den Chrysipp auslegen kann! – Um so mehr werde ich also erröthen müssen, wenn jemand zu mir sagt: lies mir den Chrysippus vor, und ich bin nicht im Stand, den Worten ähnliche und entsprechende Thaten aufzuweisen.</p>
+<lb/>
+
+
+<p rend="h4">Die Stimme der Weisheit ist Gottes Stimme.</p>
+<p rendition="#et">L. Alles Vorgetragene beobachte wie Gesetze, und als begiengest du eine Gottlosigkeit, wenn du es überträtest. Was man aber auch über dich sagen möge, kehre dich nicht daran; denn dies ist nicht mehr deine Sache.</p>
+<lb/>
+<p rend="h4">Wann wirst du weise werden?</p>
+<p rendition="#et">LI, 1. Wie lange willst du es noch aufschieben, dich der besten Güterwerth zu achten, und in nichts den Aussprüchen der Vernunft zuwider zu handeln? Du hast die Lehrsätze vernommen, nach welchen du dich richten solltest, und hast du dich darnach gerichtet? Auf welchen Lehrmeister wartest du denn noch, um ihm das Werk deiner <pb n="52" facs="#f00037"/> Besserung zu übertragen? Du bist kein Knabe mehr, sondern bereits ein Mann in reifem Alter. Wenn du auch jetzt noch fahrläßig und leichtsinnig bist, immer einen Aufschub um den andern machst, und immer wieder neue Tage festsetzest, nach deren Verfluß du für dich selbst Sorge tragen willst, so wirst du, ohne es zu merken, dahintenbleiben, und bis an's Ende ein Laie bleiben – im Leben und im Sterben.</p>
+<p rendition="#et">2. So halte dich nun endlich dessen werth, zu leben als ein Vollkommener und als Jünger der Weisheit. Alles, was du für das Beste erkannt hast, sei dir unverbrüchliches Gesetz. Und wenn dir etwas Beschwerliches, oder etwas Angenehmes, oder etwas Ruhmvolles, oder etwas Ruhmloses daherkommt, so erinnere dich, daß jetzt die Zeit des Kampfes ist, und die Olympischen Spiele schon da sind und sich nicht aufschieben lassen, und daß an einem einzigen Tag und durch eine einzige Handlung das bisher Gewonnene entweder verloren gehen, oder gesichert werden kann.</p>
+<p rendition="#et">3. Sokrates ist dadurch vollkommen geworden, daß er in allem, was ihm vorkam, auf nichts anderes, als auf die Vernunft achtete. Du aber, wenn du auch noch kein Sokrates bist, solltest doch leben als einer, der wünscht, ein Sokrates zu sein.</p>
+<lb/>
+<p rend="h4">Theorie und Praxis.</p>
+<p rendition="#et">LII, 1. Das erste und nothwendigste Kapitel in der Philosophie ist das von der Anwendung der Lehrsätze im Leben, wie z.B. daß man nicht lügen soll. Erst das zweite ist das von den Beweisen, z.B. aus welchem Grunde man nicht lügen soll. Das dritte dient zur Begründung und Erklärung des vorigen, z.B. aus welchem Grunde dieses ein Beweis ist. Denn was ist ein Beweis? Was eine Folge? Was ein Widerspruch? Was ist wahr, was falsch?</p>
+<p rendition="#et">2. Ist also nicht das dritte Kapitel nothwendig wegen <pb n="53" facs="#f00038"/> des zweiten, das zweite aber wegen des ersten? Das nothwendigste aber, und das, bei welchem man verweilen sollte, ist das erste. Wir aber machen es umgekehrt; denn wir halten uns am dritten Kapitel auf und verwenden auf dieses allen Fleiß, um das erste aber kümmern wir uns ganz und gar nicht; und so kommt es, daß wir zwar lügen, aber wie man beweist, daß man nicht lügen soll, das ist uns ganz geläufig.</p>
+<lb/>
+<p rend="h4">Die Summe der Weisheit.</p>
+<p rendition="#et">LIII. In allen Fällen müssen wir folgende Sätze in Bereitschaft halten:</p>
+<p>1. So führe mich, o Zeus, und göttliches Geschick,</p>
+<p>Wohin es mir von euch zu gehn verordnet ist.</p>
+<p>Ich will euch folgen ohne Zögern; wollt' ich's nicht,</p>
+<p>Wär' ich ein Feigling; aber folgen müßt' ich doch.</p>
+<p>2. Und wer das Unvermeidliche mit Würde trägt,</p>
+<p>Der heißt ein Philosoph uns, ja ein Theolog.</p>
+<p rendition="#et">3. Drum, Krito, wenn es den Göttern also beliebt, so mag's geschehen.</p>
+<p rendition="#et">4. Anytus und Melitus können mich zwar tödten, aber mir schaden, – das können sie nicht.</p>
+<pb n="54" facs="#f00039"/> 
+
+</body></text></TEI>

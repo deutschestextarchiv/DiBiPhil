@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sokratische Denkwürdigkeiten</title>
+        <author><persName ref="http://d-nb.info/gnd/4523X">
+        <forename>Johann Georg</forename>
+        <surname>Hamann</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Johann Georg Hamann: Sokratische Denkwürdigkeiten. Aesthetica in nuce. Mit einem
+      Kommentar herausgegeben von Sven-Aage Jorgensen, Stuttgart: Philipp Reclam jun., 1968
+      (Universal-Bibliothek, Bd. 926).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sokratische Denkwürdigkeiten</title>
+      <title level="m" type="sub">Aesthetica in nuce</title>
+      <author><persName ref="http://d-nb.info/gnd/4523X">
+        <forename>Johann Georg</forename>
+        <surname>Hamann</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/36396">
+        <forename>Sven-Aage</forename>
+        <surname>Jorgensen</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Philipp Reclam jun.</name>
+      </publisher><pubPlace>Stuttgart</pubPlace>
+      <date type="publication">1968</date>
+      <date type="firstPublication">1759</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck: Amsterdam [recte: Königsberg] 1759. – Da die griechischen Zitate in allen neueren Ausgaben der »Denkwürdigkeiten« ohne Spiritus wiedergegeben werden, musste in diesem Fall auf eine Transkription verzichtet werden.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Sokratische Denkwürdigkeiten</note>
+
+
+
+
+<head>Johann Georg Hamann</head>
+<head>Sokratische Denkwürdigkeiten</head>
+<head>für die lange Weile des Publicums</head>
+<head>zusammengetragen</head>
+<head>von einem Liebhaber der langen Weile.</head>
+<head> </head>
+<head>Mit einer doppelten Zuschrift</head>
+<head>an Niemand und an Zween.</head>
+<head> </head>
+<p rendition="#c">O curas hominum! o quantum est in rebus inane!</p>
+<p rendition="#c">Quis leget haec? – – – Min' tu istud ais? – –</p>
+<p rendition="#c">Nemo hercule – – Nemo? –</p>
+<p rendition="#c">Vel DVO vel NEMO – – –</p>
+<p rendition="#right">Pers.</p>
+
+
+
+<div n="1">
+<note type="editorial">An das Publicum, oder Niemand, den Kundbaren</note>
+
+<head><pb n="7" facs="#f0001"/>
+An das Publicum, oder Niemand, den Kundbaren.</head>
+<p><hi rendition="#smaller"> οδ᾽ ΟΥΤΙΣ, που ᾽στιν; – –</hi></p>
+<p rendition="#right"><hi rendition="#smaller"><hi rendition="#i">Eurip. Κυκλωψ</hi></hi></p>
+<lb/>
+<p><hi rendition="#i">Du</hi> führst einen Namen, und brauchst keinen Beweis<hi rendition="#i"> Deines</hi> Daseyns, <hi rendition="#i">Du</hi> findest Glauben, und thust keine Zeichen denselben zu verdienen, <hi rendition="#i">Du</hi> erhältst Ehre, und hast weder Begrif noch Gefühl davon. <hi rendition="#i">Wir wissen, daß es keinen Götzen in der Welt giebt.</hi> Ein Mensch bist <hi rendition="#i">Du</hi> auch nicht; doch must <hi rendition="#i">Du</hi> ein menschlich Bild seyn, das der Aberglaube vergöttert hat. Es fehlt <hi rendition="#i">Dir</hi> nicht an Augen und Ohren, die aber nicht sehen, nicht hören; und das künstliche Auge, das <hi rendition="#i">Du</hi> machst, das künstliche Ohr, das <hi rendition="#i">Du</hi> pflanzest, ist, gleich den <hi rendition="#i">Deinigen</hi>, blind und taub. <hi rendition="#i">Du</hi> must alles wissen, und lernst nichts<note place="end" n="1"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_1</ref></bibl></note>; <hi rendition="#i">Du</hi> must alles richten, und verstehst nichts, lernst immerdar, und kannst nimmer zur Erkenntnis der Wahrheit kommen<note place="end" n="2"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_2</ref></bibl></note>; <hi rendition="#i">Du</hi> dichtest, hast zu schaffen, bist über Feld, oder schläfst vielleicht, wenn <hi rendition="#i">Deine</hi> Priester laut ruffen, und <hi rendition="#i">Du</hi> ihnen und ihrem Spötter mit Feuer antworten solltest.<hi rendition="#i"> Dir</hi> werden täglich Opfer gebracht, die andere auf<hi rendition="#i"> Deine</hi> Rechnung verzehren, um aus <hi rendition="#i">Deinen</hi> starken Mahlzeiten <hi rendition="#i">Dein</hi> Leben wahrscheinlich zu machen. So eckel <hi rendition="#i">Du</hi> bist, nimmst <hi rendition="#i">Du</hi> doch mit allem für lieb, wenn man nur nicht leer vor <hi rendition="#i">Dir</hi> erscheint. Ich werfe mich wie der Philosoph zu den erhörenden Füssen eines Tyrannen. Meine Gabe besteht in nichts als Küchlein, von denen ein <pb n="7" facs="#f0002"/>
+<pb n="9" facs="#f0003"/>Gott, wie <hi rendition="#i">Du</hi>, einst <hi rendition="#i">barst</hi>. Überlaß sie daher einem Paar <hi rendition="#i">Deiner</hi> Anbeter, die ich durch diese Pillen von dem Dienst <hi rendition="#i">Deiner Eitelkeit</hi> zu reinigen wünsche.</p>
+<p rendition="#et">Weil <hi rendition="#i">Du</hi> die Züge menschlicher Unwissenheit und Neugierde an <hi rendition="#i">Deinem</hi> Gesichte trägst; so will ich <hi rendition="#i">Dir</hi> beichten, wer die <hi rendition="#i">Zween</hi> sind, denen ich durch <hi rendition="#i">Deine</hi> Hände diesen frommen Betrug spielen will. Der erste arbeitet am Stein der Weisen, wie ein Menschenfreund, der ihn für ein Mittel ansieht, den Fleiß, die bürgerliche Tugenden und das Wohl des gemeinen Wesens zu befördern. Ich habe für ihn in der mystischen Sprache eines Sophisten geschrieben; weil Weisheit immer das verborgenste Geheimnis der Politick bleiben wird, wenn gleich die Alchymie zu ihren Zweck kommt, alle die Menschen reich zu machen, welche durch des Marqvis von Mirabeau fruchtbare Maximen bald! Frankreich bevölkern müssen. Nach dem heutigen Plan der Welt bleibt die Kunst Gold zu machen also mit Recht das höchste Project und höchste Gut unserer Staatsklugen.</p>
+<p rendition="#et">Der andere möchte einen so allgemeinen Weltweisen und guten Münzwaradein abgeben, als Newton war. Kein Theil der Kritick ist sicherer, als die man für Gold und Silber erfunden hat. Daher kann die Verwirrung in dem Münzwesen Deutschlands so groß nicht seyn, als die in die Lehrbücher eingeschlichen, so unter uns gang und gebe sind. Es fehlt uns an richtigen Verhältnis-Tabellen, die uns bestimmen, wie viellöthig an Korn und Schrot ein Einfall seyn müsse, wenn er eine Wahrheit gelten soll u.s.w.<note place="end" n="3"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_3</ref></bibl></note></p>
+<p rendition="#et"><pb n="9" facs="#f0004"/>
+<pb n="11" facs="#f0005"/>Weil diese Küchlein nicht gekaut, sondern geschluckt werden müssen, gleich denjenigen, so die Cosmische Familie zu Florenz in ihr Wapen aufnahm; so sind sie nicht für den Geschmack gemacht. Was ihre Wirkungen anbetrift; so lernte bey einem ähnlichen Gefühl derselben Vespasian zuerst das Glück<hi rendition="#i"> Deines Namens</hi> erkennen, und soll auf einem Stuhl, der nicht sein Thron war, ausgeruffen haben: VTI PVTO, DEVS FIO!</p>
+<pb n="11" facs="#f0006"/>
+<pb n="13" facs="#f0007"/>
+</div>
+
+<div n="1">
+<note type="editorial">An die Zween</note>
+
+<head>An die Zween</head>
+<p><hi rendition="#smaller"> – – σμικρα μεν τσδ᾽, αλλ᾽ ομως</hi></p>
+<p><hi rendition="#smaller"> α ᾽χω</hi></p>
+<p rendition="#right"><hi rendition="#smaller"><hi rendition="#i">Sophocles in Electra.</hi></hi></p>
+<lb/>
+<p>Das Publicum in Griechenland laß die Denkwürdigkeiten des Aristoteles über die Naturgeschichte der Thiere, und Alexander verstand sie. Wo ein gemeiner Leser nichts als <hi rendition="#i">Schimmel</hi> sehen möchte, wird der Affect der Freundschaft Ihnen, Meine Herren, in diesen Blättern vielleicht ein mikroskopisch Wäldchen entdecken.</p>
+<p rendition="#et">Ich habe über den Sokrates auf eine sokratische Art geschrieben. Die <hi rendition="#i">Analogie</hi><note place="end" n="4"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_4</ref></bibl></note> war die Seele seiner Schlüsse, und er gab ihnen die <hi rendition="#i">Ironie</hi> zu ihrem Leibe. Ungewißheit und Zuversicht mögen mir so eigenthümlich seyn als sie wollen; so müssen sie hier doch als ästhetische Nachahmungen betrachtet werden.</p>
+<p rendition="#et">In den Werken des <hi rendition="#i">Xenophons</hi> herrscht eine abergläubische, und in <hi rendition="#i">Platons</hi> eine schwärmerische Andacht; eine Ader ähnlicher Empfindungen läuft daher durch alle Theile dieser mimischen Arbeit. Es würde mir am leichtesten gewesen seyn denen <hi rendition="#i">Heyden</hi> in ihrer Freymüthigkeit hierin näher zu kommen; ich habe mich aber bequemen müssen meiner Religion den Schleyer zu borgen, den ein patriotischer <hi rendition="#i">St. John</hi> und platonischer <hi rendition="#i">Shaftesbury</hi> für ihren Unglauben und Misglauben gewebt haben.</p>
+<p rendition="#et"><pb n="13" facs="#f0008"/>
+<pb n="15" facs="#f0009"/>Sokrates war, meine Herren, kein gemeiner Kunstrichter. Er unterschied in den Schriften des Heraklitus, dasjenige, was er nicht verstand, von dem, was er darin verstand, und that eine sehr billige und bescheidene Vermuthung von dem Verständlichen auf das Unverständliche. Bey dieser Gelegenheit redete Sokrates von <hi rendition="#i">Lesern</hi>, welche <hi rendition="#i">schwimmen</hi><note place="end" n="5"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_5</ref></bibl></note> könnten. Ein Zusammenfluß von Ideen und Empfindungen in jener lebenden <hi rendition="#i">Elegie</hi> vom Philosophen machte desselben Sätze vielleicht zu einer Menge kleiner Inseln, zu deren Gemeinschaft <hi rendition="#i">Brücken</hi> und Fähren der Methode fehlten.</p>
+<p rendition="#et">Da Sie beyde meine Freunde sind; so wird mir Ihr partheyisch Lob und Ihr partheyischer Tadel gleich angenehm seyn. Ich bin etc.</p>
+<pb n="15" facs="#f00010"/>
+<pb n="17" facs="#f00011"/>
+</div>
+
+<div n="1">
+<note type="editorial">Einleitung</note>
+
+<head>Einleitung</head>
+<p>Der Geschichte der Philosophie ist es wie der Bildsäule des französischen Staatsministers ergangen. Ein grosser Künstler<note place="end" n="6"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_6</ref></bibl></note> zeigte seinen Meissel daran; ein Monarch<note place="end" n="7"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_7</ref></bibl></note>, der <hi rendition="#i">Name</hi> eines ganzen Jahrhunderts, gab die Unkosten zum Denkmal und bewunderte das Geschöpf seines Unterthanen; der Scythe<note place="end" n="8"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_8</ref></bibl></note> aber, der auf sein Handwerk reisete, und wie Noah oder der Galiläer des Projektmachers, Julians, ein <hi rendition="#i">Zimmermann</hi> wurde, um der Gott seines Volks zu seyn, dieser Scythe begieng eine Schwachheit, deren Andenken ihn allein verewigen könnte. Er lief auf den Marmor zu, both grosmüthig dem stummen<note place="end" n="9"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_9</ref></bibl></note> Stein die Hälfte seines weiten Reichs an, wenn er ihn lehren wollte, die andere Hälfte zu regieren. Sollte unsere Historie Mythologie werden; so wird diese Umarmung eines leblosen Lehrers, der ohne Eigennutz Wunder der Erfüllung gethan, in ein Mährchen verwandelt seyn, das den Reliquien von Pygmalions Leben ähnlich sehen wird. Ein <hi rendition="#i">Schöpfer seines Volkes</hi> in der Sprache unsers Witzes wird nach einer undenklichen Zeit eben so poetisch verstanden werden müssen, als ein <hi rendition="#i">Bildhauer seines Weibes</hi>.</p>
+<p rendition="#et">Es giebt in dem Tempel der Gelehrsamkeit würklich einen Götzen, der unter seinem Bilde die Aufschrift der <hi rendition="#i">philosophischen Geschichte</hi> trägt; und dem es an Hohenpriestern und Leviten nicht gefehlt.<hi rendition="#i"><pb n="17" facs="#f00012"/>
+<pb n="19" facs="#f00013"/> Stanley</hi> und <hi rendition="#i">Brucker</hi> haben uns Kolossen geliefert, die eben so sonderbar und unvollendet sind als jenes Bild der Schönheit, das ein Grieche aus den Reitzen aller Schönen, deren Eindruck ihm Absicht und Zufall verschaffen konnte, zusammensetzte. Meisterstücke, die von <hi rendition="#i">gelehrten</hi> Kennern der Künste immer sehr möchten bewundert und <hi rendition="#i">gesucht</hi>; von Klugen hingegen als abentheuerliche Gewächse und Chimären in der Stille belacht oder auch für die lange Weile und in theatralischen Zeichnungen nachgeahmt werden.</p>
+<p rendition="#et">Weil <hi rendition="#i">Stanley</hi> ein Britte und <hi rendition="#i">Brucker</hi> ein Schwabe ist: so haben sie beyde die lange Weile des Publicums zu ihrem Ruhm vertrieben; wiewohl das Publicum auch für die Gefälligkeit, womit es die ungleichen Fehler dieser Nationalschriftsteller übersehen, gelobt zu werden verdient.</p>
+<p rendition="#et"><hi rendition="#i">Deslandes</hi>, ein Autor von <hi rendition="#i">encyclischen</hi><note place="end" n="10"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_10</ref></bibl></note> Witz hat eine chinesische Kaminpuppe für das Kabinet des gallicanischen Geschmacks hervorgebracht. Der<pb n="19" facs="#f00014"/>
+<pb n="21" facs="#f00015"/> Schöpfer der <hi rendition="#i">schönen Natur</hi> scheint die grösten Köpfe Frankreichs, wie Jupiter ehmals die Cyclopen zur Schmiede der Strahlen und Schwärmer verdammt zu haben, die er zum tauben Wetterleuchten und ätherischen Feuerwerken nöthig hat.</p>
+<p rendition="#et">Aus denen Urtheilen, die ich über alle diese ehrliche und feine Versuche von einem kritischen System der philosophischen Geschichte gefällt, läßt sich mehr als wahrscheinlich schlüßen, daß ich keines davon gelesen; sondern blos den Schwung und Ton des gelehrten Haufens nachzuahmen, und denenjenigen, zu deren Besten ich schreibe, durch ihre Nachahmung zu schmäucheln suche. Unterdessen glaube ich zuverläßiger, daß unsere Philosophie eine andere Gestalt nothwendig haben müste, wenn man die Schicksale dieses Namens oder Wortes: <hi rendition="#i">Philosophie</hi>, nach den Schattierungen der Zeiten, Köpfe, Geschlechter und Völker, nicht wie ein Gelehrter oder Weltweiser selbst, sondern als ein müßiger<note place="end" n="11"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_11</ref></bibl></note> Zuschauer ihrer olympischen Spiele studiert hätte oder zu studieren wüßte ως γραφευς τ᾽ αποσταϑεις.<note place="end" n="12"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_12</ref></bibl></note></p>
+<p rendition="#et">Ein <hi rendition="#i">Phrygier</hi>, wie Äsop, der sich nach den Gesetzen seines <hi rendition="#i">Klima</hi>, wie man jetzt redt, Zeit nehmen muste, klug zu werden, und ein so natürlicher Tropf, als ein La Fontaine, der sich besser in die Denkungsart der Thiere als der Menschen zu schicken und zu verwandeln wüste, würden uns an statt gemalter Philosophen oder ihrer zierlich verstümmelter Brustbilder, ganz andere Geschöpfe zeigen, und ihre Sitten und Sprüche, die Legenden ihrer Lehren und Thaten mit Farben nachahmen, die dem Leben näher kämen.</p>
+<p rendition="#et">Doch sind vielleicht die philosophischen Chroniken und Bildergallerien weniger zu tadeln, als der<pb n="21" facs="#f00016"/>
+<pb n="23" facs="#f00017"/> schlechte Gebrauch, den ihre Liebhaber davon machen. Ein wenig Schwärmerey und Aberglauben würde hier nicht nur Nachsicht verdienen, sondern etwas von diesem Sauerteige gehört dazu, um die Seele zu einem philosophischen Heroismus in Gährung zu setzen. Ein durstiger Ehrgeitz nach Wahrheit und Tugend, und eine Eroberungswuth aller Lügen und Laster, die nämlich <hi rendition="#i">nicht</hi> dafür erkannt werden, noch seyn wollen; hierinn besteht der Heldengeist eines Weltweisen.</p>
+<p rendition="#et">Wenn Cäsar Trähnen vergießt bey der Säule des macedonischen Jünglings, und dieser bey dem Grabe Achills mit Eifersucht an einen Herold des Ruhms denkt, wie der blinde Minnesänger war: so biegt ein Erasmus im Spott sein Knie für den heiligen Sokrates, und die hellenistische Muse unsers von Bar muß den komischen Schatten eines <hi rendition="#i">Thomas Diafoirus</hi> beunruhigen, um uns die unterirrdische Wahrheit zu predigen; daß es göttliche Menschen unter den Heyden gab, daß wir die Wolke dieser Zeugen nicht verachten sollen, daß sie der Himmel zu seinen Boten und Dollmetschern salbte, und zu eben den Beruf unter ihrem Geschlechte einweyhte, den die Propheten unter den Juden hatten<note place="end" n="13"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_13</ref></bibl></note>.</p>
+<p rendition="#et">Wie die Natur uns gegeben, unsere Augen zu öfnen; so die Geschichte, unsere Ohren. Einen Körper und eine Begebenheit bis auf ihre ersten Elemente zergliedern, heißt, Gottes unsichtbares Wesen, seine ewige Kraft und Gottheit ertappen wollen. Wer <pb n="23" facs="#f00018"/>
+<pb n="25" facs="#f00019"/>Mose und den Propheten nicht glaubt, wird daher immer ein Dichter, wieder sein Wissen und Wollen, wie <hi rendition="#i">Buffon</hi> über die Geschichte der Schöpfung und <hi rendition="#i">Montesquieu</hi> über die Geschichte des Römischen Reichs.</p>
+<p rendition="#et">Wenn kein junger Sperling ohne unsern Gott auf die Erde fällt; so ist kein Denkmal alter Zeiten für uns verloren gegangen, das wir zu beklagen hätten. Sollte seine Vorsorge sich nicht über Schriften erstrecken, da Er Selbst ein Schriftsteller geworden, und der Geist Gottes so genau gewesen den Werth der ersten verbotenen Bücher aufzuzeichnen, die ein frommer Eyfer unserer Religion dem Feuer geopfert? Wir bewundern es an Pompejus als eine kluge und edle Handlung, daß er die Schriften seines Feindes Sertorius aus dem Wege räumte; warum nicht an unserm Herrn, daß er die Schriften eines Celsus untergehen lassen? Ich meyne also nicht ohne Grund, daß Gott für alle Bücher, woran uns was gelegen, wenigstens so viel Aufmerksamkeit getragen als Cäsar für die beschriebene Rolle, mit der er in die See sprang, oder Paulus für sein Pergamen zu Troada<note place="end" n="14"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_14</ref></bibl></note>.</p>
+<p rendition="#et">Hatte der Künstler, welcher mit einer Linse durch ein Nadelöhr traf, nicht an einen Scheffel Linsen genung zur Übung seiner erworbenen Geschicklichkeit? Diese Frage möchte man an alle Gelehrte thun, wel che die Werke der Alten nicht klüger, als jener die Linsen, zu brauchen wißen. Wenn wir mehr hätten, als uns die Zeit hat schenken wollen; so würden wir selbst genöthiget werden unsere Ladungen über Bord zu werfen, unsere Bibliothecken in Brand zu stecken, oder es wie die Holländer mit dem Gewürz zu machen<note place="end" n="15"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_15</ref></bibl></note>.</p>
+<p rendition="#et"><pb n="25" facs="#f00020"/>
+<pb n="27" facs="#f00021"/>Mich wundert daß noch keiner soviel über die Historie gewagt, als <hi rendition="#i">Bacon</hi> für die Physik gethan. <hi rendition="#i">Bollingbroke</hi> giebt seinem Schüler den Rath, die ältere Geschichte überhaupt wie die heydnische Götterlehre und als ein poetisch Wörterbuch zu studieren. Doch vielleicht ist die ganze Historie mehr Mythologie, als es dieser Philosoph meynt, und gleich der Natur ein versiegelt Buch, ein verdecktes Zeugnis, ein Räthsel, das sich nicht auflösen läßt, ohne mit einem andern Kalbe, als unserer Vernunft zu pflügen.</p>
+<p rendition="#et">Meine Absicht ist es nicht, <hi rendition="#i">ein Historiograph</hi> des Sokrates zu seyn; ich schreibe blos seine Denkwürdigkeiten wie <hi rendition="#i">Düclos</hi> dergleichen zur Geschichte des XVIIIten Jahrhunderts für die lange Weile des schönen Publicums herausgegeben.</p>
+<p rendition="#et">Es liesse sich freylich ein so sinnreicher Versuch über das Leben Sokrates schreiben als <hi rendition="#i">Blackwell</hi> über den Homer geliefert. Sollte der Vater der Weltweisheit nicht dieser Ehre näher gewesen seyn als der Vater der Dichtkunst? Was <hi rendition="#i">Cooper</hi> herausgegeben ist nichts als eine Schulübung, die den Eckel so wohl einer Lob- als Streit-Schrift mit sich führt.</p>
+<p rendition="#et">Sokrates besuchte öfters die Werkstätte eines Gerbers<note place="end" n="16"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_16</ref></bibl></note>, der sein Freund war, und wie der Wirth des Apostel Petrus zu Joppe Simon hieß. Der Handwerker hatte den ersten Einfall die Gespräche des Sokrates aufzuschreiben. Dieser erkannte sich vielleicht in denselben besser als in Platons, bey deren Lesung er gestutzt und gefragt haben soll: <hi rendition="#i">Was hat dieser junge Mensch im Sinn aus mir zu machen?</hi> – – Wenn ich nur so gut als <hi rendition="#i">Simon der Gerber</hi> meinen Held verstehe!</p>
+<pb n="27" facs="#f00022"/>
+<pb n="29" facs="#f00023"/>
+</div>
+
+<div n="1">
+<note type="editorial">1. Abschnitt</note>
+
+<head>Erster Abschnitt</head>
+<p>Sokrates hatte nicht umsonst einen Bildhauer<note place="end" n="17"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_17</ref></bibl></note> und eine Wehmutter zu Eltern gehabt. Sein Unterricht ist Jederzeit mit den Hebammenkünsten<note place="end" n="18"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_18</ref></bibl></note> verglichen worden. Man vergnügt sich noch diesen Einfall zu wiederholen, ohne daß man selbigen als das Saamkorn einer fruchtbaren Wahrheit hätte aufgehen lassen. Dieser Ausdruck ist nicht blos tropisch, sondern zugleich ein Knäuel vortreflicher Begriffe, die jeder Lehrer zum Leitfaden in der Erziehung des Verstandes nöthig hat. Wie der Mensch nach der Gleichheit Gottes erschaffen worden, so scheint <hi rendition="#i">der Leib eine Figur oder Bild der Seelen</hi> zu seyn<note place="end" n="19"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_19</ref></bibl></note>. Wenn uns unser Gebein verholen ist, weil wir im Verborgenen gemacht, weil wir gebildet werden unten in der Erde; wie viel mehr werden unsere Begriffe im Verborgenen gemacht, und können als Gliedmassen unsers Verstandes betrachtet werden. Daß ich sie Gliedmaassen des Verstandes nenne, hindert nicht, jeden Begrif als eine besondere und ganze Geburt selbst anzusehen. Sokrates war also bescheiden genung seine<hi rendition="#i"> Schulweisheit</hi> mit der Kunst eines alten Weibes zu vergleichen, welches blos der Arbeit der Mutter und ihrer zeitigen Frucht zu Hülfe kommt, und beyden Handreichung thut.</p>
+<p rendition="#et">Die Kraft der Trägheit und die ihr entgegengesetzt scheinende Kraft des Stolzes, die man durch so viel Erscheinungen und Beobachtungen veranlasset worden in unserm Willen anzunehmen, bringen die Unwissenheit, und die daraus entspringende <pb n="29" facs="#f00024"/>
+<pb n="31" facs="#f00025"/>Irrthümer und Vorurtheile nebst allen ihren schwesterlichen Leidenschaften hervor. Von dieser Seite ahmte also Sokrates seinen Vater nach, einen Bildhauer, der, <hi rendition="#i">indem er wegnimmt und hauet, was am Holze nicht seyn soll, eben dadurch die Form des Bildes fördert</hi><note place="end" n="20"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_20</ref></bibl></note>. Daher hatten die grossen Männer seiner Zeit zureichenden Grund über ihn zu schreyen, daß er alle Eichen ihrer Wälder fälle, alle ihre Klötzer verderbe, und aus ihrem Holze nichts als <hi rendition="#i">Späne</hi> zu machen verstünde.</p>
+<p rendition="#et">Sokrates wurde vermuthlich ein Bildhauer, weil sein Vater einer war. Daß er in dieser Kunst nicht mittelmässig geblieben, hat man daraus geschlossen, weil zu Athen seine drey Bildsäulen der Gratien aufgehoben worden. Man war ehmals gewohnt gewesen diese Göttinnen zu kleiden; den altväterischen Gebrauch hatte Sokrates nachgeahmt, und seine Gratien wiedersprachen der Costume des damaligen Göttersystems und der sich darauf gründenden schönen Künste. Wie Sokrates auf diese Neuerung gekommen; ob es eine Eingebung seines Genius, oder eine Eitelkeit seine Arbeiten zu unterscheiden, oder die Einfalt einer natürlichen Schaamhaftigkeit gewesen, die einem andächtigen Athenienser wunderlich vorkommen muste; weiß ich nicht. Es ist aber nur gar zu wahrscheinlich, daß diese neugekleideten Gratien so wenig ohne Anfechtung werden geblieben seyn als die neugekleideten Gratien unserer heutigen Dichtkunst.</p>
+<p rendition="#et"><pb n="31" facs="#f00026"/>
+<pb n="33" facs="#f00027"/>Hier ist der Ort die Übersichtigkeit einiger gegen das menschliche Geschlecht und dessen Aufkommen gar zu witzig gesinnter Patrioten zu ahnden, die sich die Verdienste des Bildhauers im Sokrates so groß vorstellen, daß sie den Weisen darüber verkennen, die den Bildhauer vergöttern um desto füglicher über des Zimmermanns Sohn spotten zu können. Wenn sie in Ernst an Sokrates glauben; so sind seine Sprüche Zeugnisse wieder sie. Diese neuen Athenienser sind Nachkommen seiner Ankläger und Giftmischer, abgeschmacktere Verläumder und grausamere Mörder dann ihre Väter.</p>
+<p rendition="#et">Bey der Kunst, in welcher Sokrates erzogen worden, war sein Auge an der Schönheit und ihren Verhältnissen so gewohnt und geübt, daß sein Geschmack an wohlgebildeten Jünglingen uns nicht befremden darf. Wenn man die Zeiten des Heydenthums<note place="end" n="21"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_21</ref></bibl></note> kennt, in denen er lebte; so ist es eine thörichte Mühe ihn von einem Laster weiß zu brennen, das unsere Christenheit an Sokrates übersehen sollte, wie die artige Welt an einem Toußaint die kleinen <hi rendition="#i">Romane seiner Leidenschaften</hi> als Schönfleckchen seiner <hi rendition="#i">Sitten</hi>. Sokrates scheint ein auf richtiger Mann gewesen zu seyn, dessen Handlungen von dem Grund seines Herzens, und nicht von dem Eindruck, den andere davon haben, bestimmt werden. Er leugnete nicht, daß seine verborgene Neigungen mit den <hi rendition="#i">Entdeckungen des Gesichtsdeuters</hi> einträfen; er gestand daß dessen <hi rendition="#i">Brille</hi> recht gesehen hätte. Ein Mensch, der überzeugt ist, daß er nichts weiß, kann, ohne sich selbst Lügen zu strafen, kein Kenner seines guten Herzens seyn. Daß er das ihm beschuldigte Laster gehaßt, wissen wir aus seinem Eyfer gegen dasselbe, und in seiner Geschichte sind Merkmale <pb n="33" facs="#f00028"/>
+<pb n="35" facs="#f00029"/>seiner Unschuld, die ihn bey nahe loßsprechen. Man kann keine lebhafte Freundschaft ohne Sinnlichkeit fühlen, und eine metaphysische Liebe sündigt vielleicht gröber am Nervensaft, als eine thierische an Fleisch und Blut. Sokrates hat also ohne Zweifel für seine Lust an einer Harmonie der äusserlichen und innerlichen Schönheit, in sich selbst leiden und streiten müssen. Überdem wurden Schönheit, Stärke des Leibes und Geistes nebst dem Reichthum an Kindern und Gütern in dem jugendlichen Alter der Welt für Sinnbilder göttlicher Eigenschaften und Fußstapfen göttlicher Gegenwart erklärt. Wir denken letzt zu abstrakt und männlich die menschliche Natur nach dergleichen Zufälligkeiten zu beurtheilen. Selbst die Religion lehrt uns einen Gott, der kein Ansehen der Person hat; ohngeachtet der Misverstand des Gesetzes die Juden an gleiche Vorurtheile hierinn mit den Heyden gebunden hielt. Ihre gesunde Vernunft, woran es den Juden und Griechen so wenig fehlte als unsern Christen und Muselmännern, stieß sich daran, daß der <hi rendition="#i">Schönste unter den Menschenkindern</hi> ihnen zum Erlöser versprochen war, und daß ein Mann der Schmerzen, voller Wunden und Striemen, der Held ihrer Erwartung seyn sollte. Die Heyden waren durch die <hi rendition="#i">klugen Fabeln</hi> ihrer Dichter an dergleichen Wiedersprüchen gewohnt; bis ihre Sophisten, wie unsere, solche als einen Vatermord verdammten, den man an den ersten Grundsätzen der menschlichen Erkenntnis begeht.</p>
+<p rendition="#et">Von solchem Wiederspruch finden wir ein Beyspiel an dem Delphischen Orakel, das denjenigen für den weisesten erkannte, der gleichwol von sich gestand, daß er nichts wisse. Strafte Sokrates das Orakel Lügen, oder das Orakel ihn? Die stärksten Geister unserer Zeit haben für diesmal die Priesterinn für eine Wahrsagerinn gehalten, und sich innerlich <pb n="35" facs="#f00030"/>
+<pb n="37" facs="#f00031"/>über ihre Ähnlichkeit mit dem Vater Sokrates gefreut, der es für gleich anständig hielt einen Idioten zu spielen oder Göttern zu glauben. Ist übrigens der Verdacht gegründet, daß sich Apoll nach den Menschen richte, weil diese zu dumm sind sich nach ihn zu richten: so handelt er als ein Gott, dem es leichter fällt zu philippisiren oder zu sokratisiren als uns Apollos zu seyn.</p>
+<p rendition="#et">Die Überlieferung eines Götterspruches will aber so wenig als ein Komet sagen für einen Philosophen von heutigem Geschmack. Wir müssen nach seiner Meynung in dem Buche, welches das thörichste Volk auf uns gebracht, und in den Überbleibseln der Griechen und Römer, so bald es auf Orakel, Erscheinungen, Träume und dergleichen Meteoren<note place="end" n="22"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_22</ref></bibl></note> ankommt, diese Mährchen unserer Kinder und Ammen (denn Kinder und Ammen sind alle verfloßne Jahrhunderte gegen unser lebendes in der Kunst zu <hi rendition="#i">erfahren</hi> und zu <hi rendition="#i">denken</hi>)<note place="end" n="23"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_23</ref></bibl></note> absondern, oder selbige <pb n="37" facs="#f00032"/>
+<pb n="39" facs="#f00033"/>als die Schnörkel unserer Alpendichter bewundern. Gesetzt, dieses würde alles so reichlich eingeräumt; als man unverschämt seyn könte es zu fordern: so wird <hi rendition="#i">Bayle, einer ihrer Propheten</hi>, zu dessen Füssen diese Kreter<note place="end" n="24"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_24</ref></bibl></note> mit so viel Anstand zu gähnen<note place="end" n="25"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_25</ref></bibl></note> gewohnt sind, weil ihr<hi rendition="#i"> Gamaliel</hi><note place="end" n="26"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_26</ref></bibl></note> gähnt, diesen Zweiflern antworten; daß, wenn alle diese Begebenheiten mit dem Einfluß der Gestirne in gleichem Grade der Falschheit stehen, wenn alles gleichartig erlogen und erdacht ist, dennoch der Wahn, die Einbildung und der Glaube daran zu ihrer Zeit und an ihrem Ort würklich grössere Wunder veranlaßt habe und veranlassen könne, als man den Kometen, Orakelsprüchen und Träumen selbst jemals zugeschrieben hat noch zuschreiben wird. In diesem Verstande sollten aber die Zweifler mehr Recht als unsere Empyriker behalten, weil es menschlicher und Gott anständiger aussieht, uns durch unsere eigene Grillen und Hirngespinste, als durch eine so entfernte und kostbare <hi rendition="#i">Maschinerey</hi> wie das Firmament<note place="end" n="27"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_27</ref></bibl></note> und die Geisterwelt<note place="end" n="28"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_28</ref></bibl></note> unseren blöden Augen vorkommt, zu seinen Absichten zu regieren.</p>
+<pb n="39" facs="#f00034"/>
+<pb n="41" facs="#f00035"/>
+</div>
+
+<div n="1">
+<note type="editorial">2. Abschnitt</note>
+
+<head>Zweyter Abschnitt</head>
+<p>Ein Mann, der Geld zu verlieren hatte, und vermuthlich auch Geld zu verlieren verstand, den die Geschichte <hi rendition="#i">Kriton</hi> nennt, soll die Unkosten getragen haben unsern Bildhauer in einen Sophisten zu verwandeln. Wer der etymologischen Mine seines Namens traut, wird diesen Anschlag einem weitsehenden Urtheil, ein leichtgläubiger Schüler der täglichen Erfahrung hingegen einem blinden Geschmack an Sokrates zu schreiben.</p>
+<p rendition="#et">Die Reyhe der Lehrmeister und Lehrmeisterinnen, die man dem Sokrates giebt, und die Kriton ohne Zweifel besolden muste, ist ansehnlich genung; und doch blieb Sokrates <hi rendition="#i">unwissend</hi><note place="end" n="29"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_29</ref></bibl></note>. Das freche Geständniß darin war gewissermassen eine Beleidigung, die man aber dem aufrichtigen Klienten und Kandidaten scheint vergeben zu haben, weil sie auf ihn selbst am schwersten zurück fiel. Das <hi rendition="#i">Loos</hi> der Unwissenheit und die Blöße derselben macht eben so unversöhnliche Feinde als die Überlegenheit an Verdiensten und die Schau davon. War Sokrates wirklich unwissend, so muste ihm auch die Schande unwissend seyn, die vernünftige Leute sich ergrübeln, unwissend zu scheinen.</p>
+<p rendition="#et">Ein Mensch, der nichts weiß und der nichts hat, sind Zwillinge eines Schicksals. Der Fürwitzige und Argwöhnische zeichnen und foltern den ersten als einen <hi rendition="#i">Betrüger</hi>; wie der Gläubiger und Räuber den letzten, unterdessen der Bauerstolz des reichen Polyhistors beyde verachtet. Eben daher bleibt die philosophische <pb n="41" facs="#f00036"/>
+<pb n="43" facs="#f00037"/>Göttin des Glücks eine bewährte Freundinn des Dummen, und durch ihre Vorsorge entgehen die Einfälle des Armen den Motten länger als blanke Kleider und rauschende Schlafröcke, als die Hypothesen und Formeln der Kalender-System- und Projektmacher der Stern- und Staatsseher.</p>
+<p rendition="#et">Sokrates scheint von seiner Unwissenheit<note place="end" n="30"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_30</ref></bibl></note> so viel geredt zu haben als ein Hypochondriaker von seiner eingebildeten Krankheit. Wie man dies Übel selbst kennen muß um einen Milzsüchtigen zu verstehen und aus ihm klug zu werden; so gehört vielleicht eine Sympathie der Unwissenheit dazu von der sokratischen einen Begrif zu haben.</p>
+<p rendition="#et"><hi rendition="#i">Erkenne dich selbst!</hi><note place="end" n="31"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_31</ref></bibl></note> sagte die Thür jenes berühmten Tempels allen denen, die hereingiengen dem Gott der Weisheit zu opfern und ihn über ihre kleinen Händel um Rath zu fragen. Alle lasen, bewunderten und wüsten <hi rendition="#i">auswendig</hi> diesen Spruch. Man trug ihn wie der Stein, in den er gegraben war, vor der Stirn, ohne den Sinn davon zu begreifen. Der Gott lachte ohne Zweifel unter seinen güldenen Bart, als ihm die küzliche Aufgabe zu Sokrates Zeiten vorgelegt wurde: Wer der weiseste unter allen damals lebenden Menschen wäre? <hi rendition="#i">Sophokles</hi> und <hi rendition="#i">Euripides</hi> würden nicht so grosse Muster für die Schaubühne, ohne Zergliederungskunst des menschlichen Herzens, geworden seyn. <hi rendition="#i">Sokrates</hi> übertraf sie aber beyde an Weisheit, weil er in der Selbsterkenntnis weiter als jene gekommen war, und wüste, daß er nichts wüste. Apoll antwortete jedem schon vor der Schwelle; wer weise wäre und wie man es werden könne? jetzt war die Frage übrig: Wer Sich Selbst erkenne? und woran man sich in <pb n="43" facs="#f00038"/>
+<pb n="45" facs="#f00039"/>dieser Prüfung zu halten hätte? <hi rendition="#i">Geh, Chärephon</hi><note place="end" n="32"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_32</ref></bibl></note><hi rendition="#i">, lern es von Deinem Freunde.</hi> Kein Sterblicher kann die Achtsamkeit und Entäusserung eines Lehrmeisters sittsamer treiben, als womit Apoll seine Anbeter zum Verstande seiner Geheimniße gängelte. Alle diese Winke und Bruchstücke der ältesten Geschichte und Tradition bestätigen die Beobachtung, welche Paulus und Barnabas den Lykaoniern vorhielten, daß Gott auch unter ihnen sich selbst nicht <hi rendition="#i">unbezeuget</hi> gelassen, auch ihnen vom Himmel <hi rendition="#i">Regen und fruchtbare Zeiten</hi> gegeben<note place="end" n="33"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_33</ref></bibl></note>. Mit wie viel Wahrheit singt also nicht unsere Kirche:</p>
+<lb/>
+<p>Wohl uns des <hi rendition="#i">feinen</hi> HErren!</p>
+<lb/>
+<p rendition="#et">Ein sorgfältiger Ausleger muß die Naturforscher nachahmen. Wie diese einen Körper in allerhand willkührliche Verbindungen mit andern Körpern versetzen und künstliche Erfahrungen erfinden, seine Eigenschaften auszuholen; so macht es jener mit seinem Texte. Ich habe des Sokrates Sprüchwort mit der Delphischen Überschrift zusammen gehalten; jetzt will ich einige andere Versuche thun, die Energie desselben sinnlicher zu machen.</p>
+<p rendition="#et">Die Wörter haben ihren Werth, wie die Zahlen von der Stelle, wo sie stehen und ihre Begriffe sind in ihren Bestimmungen und Verhältnissen, gleich den Münzen nach Ort und Zeit wandelbar. Wenn die Schlange der Eva beweiset: <hi rendition="#i">Ihr werdet seyn wie Gott</hi>, und Jehova weissagt: <hi rendition="#i">Siehe! Adam ist worden als Unser einer;</hi> wenn Salomo ausruft: <hi rendition="#i">Alles ist eitel!</hi> und ein alter Geck es ihm nachpfeift: so sieht <pb n="45" facs="#f00040"/>
+<pb n="47" facs="#f00041"/>man, daß einerley Wahrheiten mit einem sehr entgegen gesetzten Geist ausgesprochen werden können.</p>
+<p rendition="#et">Überdem leidet jeder Satz, wenn er auch aus einem Munde und Herzen quillt, unendlich viel Nebenbegriffe, welche ihm die geben, so ihn annehmen, auf eben die Art als die Lichtstrahlen diese oder jene Farbe werden nach der Fläche, von der sie in unser Auge zurück fallen. Wenn Sokrates dem Kriton durch sein: <hi rendition="#i">Nichts weiß ich!</hi> Rechenschaft ablegte, mit eben diesem Worte die gelehrten und neugierigen Athenienser abwieß, und seinen schönen Jünglingen die Verleugnung ihrer Eitelkeit zu erleichtern, und ihr Vertrauen durch seine Gleichheit mit ihnen zu gewinnen suchte: so würden die Umschreibungen, die man nach diesem dreifachen Gesichtspunkte von seinem Wahlspruche machen müste, so ungleich einander aussehen, als bisweilen drey Brüder, die Söhne eines leiblichen Vaters sind.</p>
+<p rendition="#et">Wir wollen annehmen, daß wir einem Unbekannten ein Kartenspiel anböthen. Wenn dieser uns antwortete: <hi rendition="#i">Ich spiele nicht</hi>; so würden wir dies entweder auslegen müssen, daß er das Spiel nicht verstünde, oder eine Abneigung dagegen hätte, die in ökonomischen, sittlichen oder andern Gründen liegen mag. Gesetzt aber ein ehrlicher Mann, von dem man wüste, daß er alle mögliche Stärke im Spiel besässe und in den Regeln so wohl als verbotenen Künsten desselben bewandert wäre, der ein Spiel aber niemals anders als auf den Fuß eines unschuldigen Zeitvertreibes lieben und treiben könnte, würde in einer Gesellschaft von feinen Betrügern, die für gute Spieler gelten, und denen er von beyden Seiten gewachsen wäre, zu einer Parthey mit ihnen aufgefordert. Wenn dieser sagte:<hi rendition="#i"> Ich spiele nicht</hi>, so würden wir mit ihm den Leuten ins Gesicht sehen müssen, mit denen er <pb n="47" facs="#f00042"/>
+<pb n="49" facs="#f00043"/>redet, und seine Worte also ergänzen können: <hi rendition="#i">» Ich spiele nicht</hi>, nämlich, mit solchen als ihr seyd, welche die Gesetze des Spiels brechen und das Glück desselben stehlen. Wenn ihr ein Spiel anbiethet; so ist unser gegenseitiger Vergleich den Eigensinn des Zufalls für unsern Meister zu erkennen, und ihr nennt die Wissenschaft eurer geschwinden Finger <hi rendition="#i">Zufall</hi>, und ich muß ihn dafür annehmen, wenn ich will, oder die Gefahr wagen euch zu beleidigen, oder die Schande wählen euch nachzuahmen. Hättet ihr mir den Antrag gethan mit einander zu versuchen, wer der beste Taschenspieler von uns in Karten wäre; so hätte ich anders antworten, und vielleicht mitspielen wollen, um euch zu zeigen, daß ihr so schlecht gelernt habt Karten <hi rendition="#i">machen</hi>, als ihr versteht die euch gegeben werden nach der Kunst zu werfen.« In diese rauhe Töne läßt sich die Meynung des Sokrates auflösen, wenn er den Sophisten, den Gelehrten seiner Zeit, sagte: Ich weiß nichts. Daher kam es, daß dies Wort ein Dorn in ihren Augen und eine Geissel auf ihren Rücken war. Alle<hi rendition="#i"> Einfälle</hi> des Sokrates, die nichts als <hi rendition="#i">Auswürfe</hi> und<hi rendition="#i"> Absonderungen</hi> seiner <hi rendition="#i">Unwissenheit</hi> waren, schienen ihnen so fürchterlich als die Haare an dem Haupte Medusens, dem Nabel der Egide.</p>
+<p rendition="#et">Die Unwissenheit des Sokrates war <hi rendition="#i">Empfindung</hi>. Zwischen Empfindung aber und einen Lehrsatz ist ein grösserer Unterscheid als zwischen einem lebenden Thier und anatomischen Gerippe desselben. Die alten und neuen Skeptiker mögen sich noch so sehr in die Löwenhaut der sokratischen Unwissenheit einwickeln; so verrathen sie sich durch ihre <hi rendition="#i">Stimme</hi> und <hi rendition="#i">Ohren</hi>. Wissen sie nichts; was braucht die Welt einen gelehrten Beweis davon? Ihr Heucheltrug ist lächerlich und unverschämt. Wer aber so viel Scharfsinn und Beredsamkeit nöthig hat sich selbst von <pb n="49" facs="#f00044"/>
+<pb n="51" facs="#f00045"/>seiner Unwissenheit zu überführen, muß in seinem Herzen einen mächtigen Wiederwillen gegen die Wahrheit derselben hegen.</p>
+<p rendition="#et">Unser eigen Daseyn und die Existentz aller Dinge ausser uns muß geglaubt<note place="end" n="34"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_34</ref></bibl></note> und kann auf keine andere Art ausgemacht werden. Was ist gewisser als des Menschen Ende, und von welcher Wahrheit gibt es eine allgemeinere und bewährtere Erkenntnis? Niemand ist gleichwol so klug solche zu glauben, als der, wie Moses zuverstehen giebt, von Gott selbst gelehrt wird zu bedenken, daß er sterben müsse. Was man glaubt, hat daher nicht nöthig bewiesen zu werden, und ein Satz kann noch so unumstößlich bewiesen seyn, ohne deswegen geglaubt zu werden.</p>
+<p rendition="#et">Es giebt Beweise<note place="end" n="35"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_35</ref></bibl></note> von Wahrheiten, die so wenig taugen als die Anwendung, die man von den Wahrheiten selbst machen kann<note place="end" n="36"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_36</ref></bibl></note>; ja man kann den Beweiß eines Satzes glauben ohne dem Satz selbst Beyfall zu geben. Die Gründe eines <hi rendition="#i">Hume</hi> mögen noch so triftig seyn, und ihre Wiederlegungen immerhin lauter Lehnsätze und Zweifel: so gewinnt und verliert der Glaube gleich viel bey dem geschicktesten Rabulisten und ehrlichsten Sachwalter. Der Glaube ist kein Werk der Vernunft und kann daher auch keinem Angrif derselben unterliegen; weil <hi rendition="#i">Glauben</hi> so wenig durch Gründe geschieht als <hi rendition="#i">Schmecken</hi> und <hi rendition="#i">Sehen</hi>.</p>
+<p rendition="#et"><pb n="51" facs="#f00046"/>
+<pb n="53" facs="#f00047"/>Die Beziehung und Übereinstimmung der Begriffe ist eben dasselbe in einer Demonstration, was Verhältnis und Symmetrie der Zahlen und Linien, Schallwürbel und Farben in der musikalischen Composition und Malerey ist. Der Philosoph ist dem Gesetz der Nachahmung so gut unterworfen als der Poet. Für diesen ist seine Muse und ihr Hieroglyphisches Schattenspiel so wahr als die Vernunft und das Lehrgebäude derselben für jenen. Das Schicksal setze den grösten Weltweisen und Dichter in Umstände, wo sie sich beyde selbst fühlen; so verleugnet der eine seine Vernunft und entdeckt uns, daß er keine beste Welt glaubt, so gut er sie auch beweisen kann, und der andere sieht sich seiner Muse und Schutzengel beraubt, bey dem Tode seiner <hi rendition="#i">Meta</hi>. Die Einbildungskraft, wäre sie ein <hi rendition="#i">Sonnenpferd</hi> und hätte Flügel der Morgenröthe<note place="end" n="37"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_37</ref></bibl></note>, kann also keine Schöpferinn des Glaubens seyn<note place="end" n="38"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_38</ref></bibl></note>.</p>
+<p rendition="#et">Ich weiß für des Sokrates Zeugnis von seiner Unwissenheit kein ehrwürdiger Siegel und zugleich keinen bessern Schlüssel als den Orakelspruch des grossen <hi rendition="#i">Lehrers der Heyden:</hi></p>
+<lb/>
+<p>Ει δε τις δοκει ειδεναι τι ουδεπω ουδεν εγνωκε καϑως δει γνωναι; Ει δε τις αγαπα τον ΘΕΟΝ ουτος εγνωται υπ αυτον.</p>
+<lb/>
+<p><hi rendition="#i">So jemand sich dünken läßt, er wisse etwas, der weiß noch nichts, wie er wissen soll. So aber jemand Gott liebt, der wird von ihm erkannt</hi><note place="end" n="39"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_39</ref></bibl></note>. –</p>
+<lb/>
+<p rendition="#et"><pb n="53" facs="#f00048"/>
+<pb n="55" facs="#f00049"/>– – als Sokrates vom Apoll für einen <hi rendition="#i">Weisen</hi>. Wie aber das Korn aller unserer natürlichen Weisheit verwesen, in Unwissenheit vergehen muß, und wie aus diesem <hi rendition="#i">Tode</hi>, aus diesem <hi rendition="#i">Nichts</hi> das <hi rendition="#i">Leben</hi> und<hi rendition="#i"> Wesen</hi> einer höheren Erkenntniß neugeschaffen hervorkeimen<note place="end" n="40"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_40</ref></bibl></note>; so weit reicht <hi rendition="#i">die Nase</hi> eines Sophisten nicht. Kein Maulwurfshügel, sondern ein <hi rendition="#i">Thurn Libanons</hi> muß es seyn <hi rendition="#i">der nach Damesek gaft</hi><note place="end" n="41"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_41</ref></bibl></note>.</p>
+<p rendition="#et">Was ersetzt bey <hi rendition="#i">Homer</hi> die Unwissenheit der Kunstregeln, die ein Aristoteles nach ihm erdacht, und was bey einem <hi rendition="#i">Shakesspear</hi> die Unwissenheit oder Übertretung jener kritischen Gesetze? Das <hi rendition="#i">Genie</hi> ist die einmüthige Antwort. Sokrates hatte also freylich gut unwissend seyn; er hatte einen Genius, auf dessen Wissenschaft er sich verlassen konnte, den er liebte und fürchtete als seinen Gott, an dessen <hi rendition="#i">Frieden</hi> ihm mehr gelegen war, als an aller Vernunft der Egypter und Griechen, dessen Stimme er glaubte, und durch dessen <hi rendition="#i">Wind</hi>, (wie der erfahrne Wurmdoctor Hill<note place="end" n="42"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_42</ref></bibl></note> uns bewiesen) der leere Verstand eines Sokrates so gut als der Schoos einer reinen Jungfrau, fruchtbar werden kann.</p>
+<p rendition="#et">Ob dieser <hi rendition="#i">Dämon</hi> des Sokrates nichts als eine herrschende Leidenschaft gewesen und bey welchem Namen sie von unsern Sittenlehrern geruffen wird, oder ob er ein Fund seiner Staatslist; ob er ein Engel oder Kobold, eine hervorragende Idea seiner Einbildungskraft, oder ein erschlichner und willkührlich <pb n="55" facs="#f00050"/>
+<pb n="57" facs="#f00051"/>angenommener Begrif einer mathematischen Unwissenheit; ob dieser Dämon nicht vielleicht eine Quecksilberröhre oder den Maschinen ähnlicher gewesen, welchen die Bradleys und Leuwenhoeks ihre Offenbarungen zu verdanken haben; ob man ihn mit dem wahrsagendem Gefühl eines nüchternen Blinden oder mit der Gabe aus Leichdornen und Narben übelgeheilter Wunden die Revolutionen des Wolkenhimmels vorher zu wissen, am bequemsten vergleichen kann: hierüber ist von so vielen Sophisten mit so viel Bündigkeit geschrieben worden, daß man erstaunen muß, wie Sokrates bey der gelobten Erkenntniß seiner Selbst, auch hierinn so unwissend gewesen, daß er einem Simias darauf die Antwort hat schuldig bleiben wollen. Keinem Leser von Geschmack fehlt es in unsern Tagen an Freunden von Genie, die mich der Mühe überheben werden weitläuftiger über den Genius des Sokrates zu seyn.</p>
+<p rendition="#et">Aus dieser sokratischen Unwissenheit flüssen als leichte Folgen die Sonderbarkeiten seiner Lehr- und Denkart. Was ist natürlicher, als daß er sich genöthigt sähe immer zu fragen um klüger zu werden; daß er leichtgläubig that, jedes Meynung für wahr annahm, und lieber die Probe der Spötterey und <hi rendition="#i">guten Laune</hi> als eine ernsthafte Untersuchung anstellte; daß er alle seine Schlüsse sinnlich und nach der Ähnlichkeit machte; Einfälle sagte, weil er keine Dialectick verstand<note place="end" n="43"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_43</ref></bibl></note>; gleichgültig gegen das, was man Wahrheit hieß, auch keine Leidenschaften, <pb n="57" facs="#f00052"/>
+<pb n="59" facs="#f00053"/>besonders diejenigen nicht kannte, womit sich die Edelsten unter den Atheniensern am meisten wusten; daß er wie alle Idioten, oft so zuversichtlich und entscheidend sprach, als wenn er, unter allen Nachteulen seines Vaterlandes, die einzige wäre, welche der Minerva auf ihrem Helm säße – – Es hat den Sokraten unsers Alters, den kanonischen Lehrern des Publicums und Schutzheiligen falsch berühmter Künste und Verdienste noch nicht glücken wollen, ihr Muster in allen süssen Fehlern zu erreichen. Weil sie von der Urkunde seiner Unwissenheit unendlich abweichen; so muß man alle sinnreichen Lesearten und Glossen ihrs antisokratischen Dämons über unsers Meisters Lehren und Tugenden als Schönheiten <hi rendition="#i">freyer</hi> Übersetzungen bewundern; und es ist eben so mislich ihnen zu trauen als nachzufolgen.</p>
+<p rendition="#et">Jetzt fehlt es mir an dem Geheimnisse der Palingenesie, das unsere Geschichtschreiber in ihrer Gewalt haben, aus der Asche jedes gegebenen Menschen und gemeinen Wesens eine geistige Gestalt heraus zu ziehen, die man einen Charakter oder ein historisch Gemälde nennt. Ein solches Gemälde des Jahrhunderts und der Republik, worinn Sokrates lebte, würde uns zeigen, wie künstlich seine Unwissenheit für den Zustand seines Volkes und seiner Zeit, und zu dem Geschäfte seines Lebens ausgerechnet war<note place="end" n="44"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_44</ref></bibl></note>. Ich kann nichts mehr thun als der Arm eines Wegweisers und<pb n="59" facs="#f00054"/>
+<pb n="61" facs="#f00055"/> bin zu hölzern meinen Lesern in dem Laufe ihrer Betrachtungen Gesellschaft zu leisten.</p>
+<p rendition="#et">Die Athenienser waren neugierig. Ein Unwissender ist der beste Arzt für diese Lustseuche. Sie waren, wie alle neugierige, geneigt <hi rendition="#i">mitzutheilen</hi>, es muste ihnen also gefallen, gefragt zu werden. Sie besassen aber mehr die Gabe zu erfinden und vorzutragen, als zu behalten und zu urtheilen; daher hatte Sokrates immer Gelegenheit ihr Gedächtnis und ihre Urtheilskraft zu vertreten, und sie für Leichtsinn und Eitelkeit zu warnen. Kurz, Sokrates lockte seine Mitbürger aus den Labyrinthen ihrer gelehrten Sophisten zu einer <hi rendition="#i">Wahrheit</hi>, die im <hi rendition="#i">Verborgenen liegt</hi>, zu einer <hi rendition="#i">heimlichen Weisheit</hi>, und von den Götzenaltären ihrer andächtigen und staatsklugen Priester zum Dienst eines <hi rendition="#i">unbekannten Gottes</hi>. Plato sagte es den Atheniensern ins Gesicht, daß Sokrates ihnen von den Göttern gegeben wäre sie von ihren Thorheiten zu überzeugen und zu seiner Nachfolge in der Tugend aufzumuntern<note place="end" n="45"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_45</ref></bibl></note>. Wer den Sokrates unter den Propheten nicht leiden will, den muß man fragen: <hi rendition="#i">Wer der Propheten Vater sey?</hi> und ob sich unser Gott nicht einen <hi rendition="#i">Gott der Heyden</hi> genannt und erwiesen?</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">3. Abschnitt</note>
+
+<head>Dritter Abschnitt</head>
+<p>Sokrates soll drey Feldzüge mitgemacht haben. In dem ersten hatte ihm sein <hi rendition="#i">Alcibiades</hi> die Erhaltung des Lebens und der Waffen zu danken, dem er auch den Preis der Tapferkeit, welcher ihm selbst zukam, überließ. In dem zweyten wich er wie ein Parther, fiel seine Verfolger mitten im Weichen an, <pb n="61" facs="#f00056"/>
+<pb n="63" facs="#f00057"/>theilte mehr Furcht aus, als ihm eingejagt wurde<note place="end" n="46"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_46</ref></bibl></note> und trug seinen Freund <hi rendition="#i">Xenophon</hi>, der vom Pferde gefallen war, auf den Schultern aus der Gefahr des Schlachtfeldes. Er entgieng der grossen Niederlage des dritten Feldzuges eben so glücklich wie der Pest, die zu seiner Zeit Athen zweymal heimsuchte.</p>
+<p rendition="#et">Die Ehrfurcht gegen das Wort in seinem Herzen, auf dessen Laut er immer aufmerksam war, entschuldigte ihn Staatsversammlungen beyzuwohnen. Als er lange genung glaubte gelebt zu haben, bot er sich selbst zu einer Stelle im Rath an, worinn er als Mitglied<note place="end" n="47"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_47</ref></bibl></note>, Ältermann<note place="end" n="48"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_48</ref></bibl></note> und Oberhaupt<note place="end" n="49"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_49</ref></bibl></note> gesessen, und wo er sich mit seiner Unschicklichkeit in Sammlung der Stimmen und andern Gebräuchen <hi rendition="#i">lächerlich</hi><note place="end" n="50"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_50</ref></bibl></note>, auch mit seinem Eigensinn, den er dem unrechten Verfahren einer Sache entgegen setzen muste, als ein Aufrührer verdächtig gemacht haben soll.</p>
+<p rendition="#et">Sokrates wurde aber kein Autor, und hierinn handelte er übereinstimmig mit sich selbst<note place="end" n="51"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_51</ref></bibl></note>. Wie der Held von der Leuctrischen<note place="end" n="52"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_52</ref></bibl></note> Schlacht keine Kinder nöthig hatte; so wenig brauchte Sokrates Schriften zu seinem Gedächtnisse. Seine Philosophie schickte sich für jeden Ort und zu jedem Fall. Der Markt, das Feld, ein Gastmal, das Gefängnis waren seine Schulen; und das erste das beste Quodlibet des menschlichen Lebens und Umganges diente ihm den <pb n="63" facs="#f00058"/>
+<pb n="65" facs="#f00059"/>Saamen der Wahrheit auszustreuen. So wenig Schulfüchserey er in seiner Lebensart beschuldigt wird, und so gut er auch die Kunst verstand die besten Gesellschaften selbst von jungen rohen Leuten zu unterhalten, erzählt man gleichwol von ihm, daß er ganze Tage und Nächte unbeweglich gestanden, und einer seiner Bildsäulen ähnlicher als sich selbst gewesen<note place="end" n="53"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_53</ref></bibl></note>. Seine Bücher würden also vielleicht wie diese seine Soliloquien und Selbst-Gespräche ausgesehen haben. Er lobte einen Spatziergang als eine Suppe zu seinem Abendbrodt; er suchte aber nicht wie ein Peripatetiker die Wahrheit im Herumlaufen und hin- und hergehen.</p>
+<p rendition="#et">Daß Sokrates nicht das Talent eines Scribenten gehabt, liesse sich auch aus dem Versuche argwohnen, den er in seinem Gefängnisse auf Angabe eines Traums in der lyrischen Dichtkunst machte. Bey dieser Gelegenheit entdeckte er in sich eine Trockenheit zu erfinden, der er mit den Fabeln des Äsops abzuhelfen wüste. Gleichwol gerieth ihm ein Gesang auf den <hi rendition="#i">Apoll</hi> und die <hi rendition="#i">Diana</hi>.</p>
+<p rendition="#et">Vielleicht fehlte es ihm auch in seinem Hause an der Ruhe, Stille und Heiterkeit, die ein Philosoph zum Schreiben nöthig hat, der sich und andere dadurch lehren und ergötzen will. Das Vorurtheil gegen Xantippe, das durch den ersten Claßischen Autor unserer Schulen<note place="end" n="54"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_54</ref></bibl></note> ansteckend und tief eingewurzelt worden, hat durch die Acta Philosophorum nicht ausgerottet werden können, wie es zum Behuf der <pb n="65" facs="#f00060"/>
+<pb n="67" facs="#f00061"/>Wahrheit und Sittlichkeit zu wünschen wäre. Unterdessen müssen wir fast ein Hauscreutz von dem Schlage annehmen, um einen solchen Weisen als Sokrates zu bilden. Die<hi rendition="#i"> Reitzbarkeit</hi> seiner Einfälle konnte vielleicht aus Mangel und Eckel daran von Xantippen nicht behänder gedämpft werden als durch Grobheiten, Beleidigungen und ihren Nachtspiegel. Einer Frau, welche die Haushaltung eines Philosophen führen, und einem Mann, der die Regierungsgeschäfte <hi rendition="#i">unvermögender</hi> Großviziere verwalten soll, ist freylich die Zeit zu edel, Wortspiele zu ersinnen und Blumen zu reden. Mit eben sowenig Grunde hat man auch als einer Verläumdung einer ähnlichen Erzählung von Sokrates eigener Heftigkeit wiedersprochen, mit der er sich auf dem Markte bisweilen die Haare aus dem Haupte gerauft und wie außer sich gewesen seyn soll. Gab es nicht Sophisten und Priester zu Athen, mit denen Sokrates in einer solchen Verstellung seiner selbst reden muste? Wurde nicht der <hi rendition="#i">sanftmüthige</hi> und <hi rendition="#i">herzlich demüthige Menschen-Lehrer</hi> gedrungen ein Wehe über das andere gegen die Gelehrten und frommen Leute seines Volkes auszustossen?</p>
+<p rendition="#et">In Vergleichung eines <hi rendition="#i">Xenophons</hi> und <hi rendition="#i">Platons</hi> würde vielleicht der Styl des Sokrates nach den Meissel eines Bildhauers ausgesehen haben und seine Schreibart mehr plastisch als <hi rendition="#i">malerisch</hi> gewesen seyn. Die Kunstrichter waren mit seinen Anspielungen nicht zufrieden, und tadelten die Gleichnisse seines mündlichen Vertrages bald als zu weit hergeholt, bald als pöbelhaft. Alcibiades<note place="end" n="55"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_55</ref></bibl></note> aber verglich seine<pb n="67" facs="#f00062"/>
+<pb n="69" facs="#f00063"/> Parabeln gewissen heiligen Bildern der Götter und Göttinnen, die man nach damaliger Mode in einem kleinen Gehäuse trug, auf denen nichts als die Gestalt eines ziegenfüßigen Satyrs zu sehen war.</p>
+<p rendition="#et">Hier ist ein Beispiel davon. Sokrates verglich sich<note place="end" n="56"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_56</ref></bibl></note> mit einem Arzte, der in einem gemeinen Wesen von Kindern die Kuchen und Leckerbissen verbiethen wollte. Wenn diese Hofbecker, sagte er, den Arzt vor einem Gerichte verklagen möchten, das aus lauter Kindern bestünde: so wäre sein Schicksal entschieden. Man machte zu Athen so viel Anschläge an der Ruhe der Götter Theil zu nehmen, und gleich ihnen weise und glücklich zu werden, als man heut zu Tage macht nach Brodt- und Ehren-Stellen. Jeder neue Götzendienst war eine Finanzgrube der Priester, welche das öffentliche Wohl vermehren sollte; jede neue Secte der Sophisten versprach eine Encyclopedie der gesunden Vernunft und Erfahrung. Diese Projecte waren die Näschereyen, welche Sokrates seinen Mitbürgern zu vereckeln suchte.</p>
+<p rendition="#et">Athen, das den Homer als einen <hi rendition="#i">Rasenden</hi> zu einer Geldbusse verdammt haben soll, verurtheilte den Sokrates als einen <hi rendition="#i">Missethäter</hi> zum Tode.</p>
+<p rendition="#et">Sein erstes Verbrechen war, daß er die Götter nicht geehrt und neue<note place="end" n="57"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_57</ref></bibl></note> hätte einführen wollen. Plato läßt ihn gleichwol in seinen Gesprächen öfterer bey den Göttern schwören als ein verliebter Stutzer bey seiner Seele oder ein irrender Ritter bey den Furien seiner Ahnen lügt. In den letzten Augenblicken seines Lebens, da Sokrates schon die Kräfte des Gesundbrunnens in seinen Gliedern fühlte, ersuchte er <pb n="69" facs="#f00064"/>
+<pb n="71" facs="#f00065"/>noch aufs inständigste seinen Kriton einen <hi rendition="#i">Hahn</hi> zu bezahlen und dem Äskulap zu opfern. Sein zweytes Verbrechen war ein Verführer der Jugend gewesen zu seyn, durch seine freye und anstössige Lehren.</p>
+<p rendition="#et">Sokrates antwortete auf diese Beschuldigungen, mit einem Ernst und Muth, mit einem Stolz und Kaltsinn, daß man ihn nach seinem Gesichte eher für einen Befehlshaber seiner Richter, als für einen Beklagten hätte ansehen sollen.</p>
+<p rendition="#et">Sokrates verlor, sagt man, einen giftigen Einfall<note place="end" n="58"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_58</ref></bibl></note>, und die gewissenhaften Areopagiten die Gedult. Man wurde also hierauf bald über die Strafe einig, der er würdig wäre, so wenig man sich vorher darüber hatte vergleichen können.</p>
+<p rendition="#et">Ein Fest zu Athen, an dem es nicht erlaubt war ein Todesurtheil zu vollziehen, legte Sokrates die schwere Vorbereitung eines dreyssigtägigen Gefängnisses zu seinem Tode<note place="end" n="59"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_59</ref></bibl></note> auf.</p>
+<p rendition="#et">Nach seinem Tode soll er noch einem Chier, Namens <hi rendition="#i">Kyrsas</hi> erschienen seyn, der sich unweit seines Grabes niedergesetzt hatte und darüber eingeschlafen war. Die Absicht seiner Reise nach Athen bestand, Sokrates zu sehen, der damals nicht mehr lebte; nach dieser Unterredung also mit desselben Gespenste, kehrte er in sein Vaterland zurück, das bey den Alten wegen seines herrlichen Weins bekannt ist.</p>
+<p rendition="#et">Plato macht die freywillige Armuth des Sokrates zu einem Zeichen seiner göttlichen Sendung. Ein grösseres ist seine Gemeinschaft an dem letzten Schicksale<pb n="71" facs="#f00066"/>
+<pb n="73" facs="#f00067"/> der <hi rendition="#i">Propheten</hi> und <hi rendition="#i">Gerechten</hi><note place="end" n="60"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_60</ref></bibl></note>. Ein Bildsäule von Lysippus war das Denkmal, das die Athenienser seiner Unschuld und dem Frevel ihres eigenen Blutgerichts setzen liessen.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Schlußrede</note>
+
+<head>Schlußrede</head>
+<p>Wer nicht von <hi rendition="#i">Brosamen</hi><note place="end" n="61"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_61</ref></bibl></note> und <hi rendition="#i">Allmosen</hi>, noch vom<hi rendition="#i"> Raube</hi> zu leben, und für ein <hi rendition="#i">Schwert</hi><note place="end" n="62"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnoten_62</ref></bibl></note> alles zu entbehren weiß, ist nicht geschickt zum Dienst der Wahrheit; Der werde frühe! ein vernünftiger, brauchbarer, artiger Mann in der Welt, oder lerne Bücklinge machen und Teller lecken: so ist er für Hunger und Durst, für Galgen und Rad sein Lebenlang sicher.</p>
+<p rendition="#et">Ist es wahr, daß GOtt Selbst, wie es in dem <hi rendition="#i">guten Bekenntnisse</hi> lautet, das er vor Pilatus ablegte; ist es wahr, sage ich, daß Gott Selbst, <hi rendition="#i">dazu</hi> ein Mensch wurde und <hi rendition="#i">dazu</hi> in die Welt kam, <hi rendition="#i">daß er die Wahrheit zeugen möchte:</hi> so brauchte es keine Allwissenheit vorher zu sehen, daß er nicht so gut wie ein Sokrates von der Welt kommen, sondern eines schmählichern und grausameren Todes sterben würde, als der<hi rendition="#i"> Vatermörder des allerchristlichsten Königes</hi>, Ludwich des <hi rendition="#i">Vielgeliebten</hi>, der ein Urenkel Ludwich des<hi rendition="#i"> Grossen</hi> ist.</p>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/An das Publicum, oder Niemand, den Kundbaren#Fußnote_1</ref>1</bibl> Sp. Sal. IX. 13.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/An das Publicum, oder Niemand, den Kundbaren#Fußnote_2</ref>2</bibl> 2 Tim. III. 7.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/An das Publicum, oder Niemand, den Kundbaren#Fußnote_3</ref>3</bibl> Ο Ζευ, τι δη κρυσου μεν ος κιβδηλος η,</note>
+<p>Τεκμηρί ανϑρωποισιν ωπασας σαφη;</p>
+<p>Ανδρως δ᾽ οτω χῥ τον κακον διειδεναι</p>
+<p>Ουδεις καρακϑρ εμπεφυκε σωματι;</p>
+<lb/>
+<p rendition="#right">Euripides Medea.</p>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/An die Zween#Fußnote_4</ref>4</bibl> <hi rendition="#i">Analogy</hi>, man's surest guide below. <hi rendition="#i">Young</hi>. Night 6.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/An die Zween#Fußnote_5</ref>5</bibl> Atque hic tam docilis ad cetera, natare nesciit. Sueton de Caligula.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_6</ref>6</bibl> Girardon.</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_7</ref>7</bibl> Ludwig XIV.</note>
+<lb/>
+<note place="end" n="8"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_8</ref>8</bibl> Peter der Große.</note>
+<lb/>
+<note place="end" n="9"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_9</ref>9</bibl> Habacuc III, 19.</note>
+<lb/>
+<note place="end" n="10"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_10</ref>10</bibl> S. Wolken [N II 94, 11–25].</note>
+<lb/>
+<note place="end" n="11"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_11</ref>11</bibl> Ein Mensch <hi rendition="#i">ohne Geschäfte</hi> heißt auf griechisch <hi rendition="#i">Argus.</hi></note>
+<lb/>
+<note place="end" n="12"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_12</ref>12</bibl> Eurip. Hecuba.</note>
+<lb/>
+<note place="end" n="13"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_13</ref>13</bibl> Ce St. Thomas de l'Ecole n'auroit-il point été choisi pour etre <hi rendition="#i">l'Apôtre</hi> de la Nation des Peripateticiens, qui n'etoit pas encore bien assujettie et bien domtée? Nation presdomptueuse, et mutine, qui defère si peu à l'autorité, qui se fonde toujours en raison, qui demande toujours <hi rendition="#i">pourquoi cela est. – –</hi> Il me semble, que cette dernière <hi rendition="#i">Mission</hi> n'a pas été inutile. <hi rendition="#i">Socrate Chretien</hi> par <hi rendition="#i">Balzac</hi> Discours V.</note>
+<lb/>
+<note place="end" n="14"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_14</ref>14</bibl> 2 Tim. IV. 13.</note>
+<lb/>
+<note place="end" n="15"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_15</ref>15</bibl> V. Melanges interessans et curieux. Tom. X.</note>
+<lb/>
+<note place="end" n="16"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Einleitung#Fußnote_16</ref>16</bibl> S. Wolken [N II 95, 14–27].</note>
+<lb/>
+<note place="end" n="17"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_17</ref>17</bibl> Sophroniscum Socrates exspirare non patitur. Seneca de Benef. Lib. III.</note>
+<lb/>
+<note place="end" n="18"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_18</ref>18</bibl> προσφερου ουν προς με ως προς μαιας υιον και αυτον μαιευτικον pp. Socrates zum Thaetet im Plato.</note>
+<lb/>
+<note place="end" n="19"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_19</ref>19</bibl> Siehe die folgende Anmerkung.</note>
+<lb/>
+<note place="end" n="20"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_20</ref>20</bibl> Worte unsers Kirchenvaters Martin Luthers, bey dessen Namen ein richtig und fein denkender Schwärmer jüngst uns erinnert hat, daß wir von diesem grossen Mann nicht nur in der deutschen Sprache, sondern überhaupt nicht so viel gelernt als wir hätten sollen und können. Klopstock im Nordischen Aufseher.</note>
+<lb/>
+<note place="end" n="21"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_21</ref>21</bibl> Röm. I.</note>
+<lb/>
+<note place="end" n="22"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_22</ref>22</bibl> Plinius lib. 28. c. 2 machte schon den Schluß:<hi rendition="#i"> ostentorum vires</hi> in nostra potestate esse, ac prout quaeque accepta sint, ita valere – – In <hi rendition="#i">Augurum</hi> certe disciplina constat, neque diras neque vlla auspicia pertinere ad eos, qui quamque rem ingredientes, obseruare se ea negauerint. Quo <hi rendition="#i">munere diuinae indulgentiae</hi> maius nullum est.</note>
+<lb/>
+<note place="end" n="23"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_23</ref>23</bibl> Das heißt <hi rendition="#i">Eßays</hi> und <hi rendition="#i">Pensees</hi> der <hi rendition="#i">Loisirs</hi> zu schreiben.</note>
+<lb/>
+<note place="end" n="24"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_24</ref>24</bibl> ϑιλοσοφια εστι παλαιοταϑ τε και πλεισϑ των Ελληνων εν Κῥϑ τε και εν Λακεδαιμονι, και σοφισται πλειστοι γης εκει ειστιν; αλλ᾽ εξαρνουνται και σχματιζονται αμαϑεις ειναι, ινα μη καταδηλοι ωσιν, οτι σοφια των Ελληνων περιεισιν. Sokrates in Platons <hi rendition="#i">Protagoras</hi>.</note>
+<lb/>
+<note place="end" n="25"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_25</ref>25</bibl> Critias in Platons <hi rendition="#i">Charmides</hi>. ο Κριτιας ακουσας ταυτα και ιδων με απορουντα, ωσπερ οι τους χασμωμενους κατ᾽ αντικρυ ορωντες ταυτον τουτο ξυμπασχουσι, κακεινος εδοξε μοι υπ᾽ εμου απορουντος αναγκασϑηναι και αυτος αλωναι υπο αποριας.</note>
+<lb/>
+<note place="end" n="26"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_26</ref>26</bibl> Bayle eyferte für die Religionsduldung wie dieser Pharisäer Act. V.</note>
+<lb/>
+<note place="end" n="27"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_27</ref>27</bibl> Matth. II. 2.</note>
+<lb/>
+<note place="end" n="28"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/1. Abschnitt#Fußnote_28</ref>28</bibl> Luc. II. 9. 13.</note>
+<lb/>
+<note place="end" n="29"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_29</ref>29</bibl> κιδυνευομεν, ω Μενων, εγω τε και συ φαυλοι τινες ειναι ανδρες, και σε τε Γοργιας, ουχ ικανως πεπαιδευκεναι και εμε Προδικος. Sokrates in Platons<hi rendition="#i"> Menon</hi>.</note>
+<lb/>
+<note place="end" n="30"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_30</ref>30</bibl> Alcibiades in Platons Symposio.</note>
+<lb/>
+<note place="end" n="31"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_31</ref>31</bibl> Kritias in Platons Charmides.</note>
+<lb/>
+<note place="end" n="32"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_32</ref>32</bibl> Χαιρεφων η νυκτερις <hi rendition="#i">Aristoph</hi>. Ορνιϑες – – Σωκραϑς ο Μηλιος και Χαιρεφων, ος οιδε τα υυλλων ιχνη. Id.</note>
+<lb/>
+<note place="end" n="33"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_33</ref>33</bibl> Apostelgesch. XIV.</note>
+<lb/>
+<note place="end" n="34"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_34</ref>34</bibl> Δει γαρ πιστευειν τον μανϑανοντα. Aristoteles περι σοφιστικων ελεγχ lib. 1. cap. 2.</note>
+<lb/>
+<note place="end" n="35"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_35</ref>35</bibl> Δυο ειδη ϑωμεν πειϑους, το μεν πιστιν παρεχομενον ανευ του ειδεναι (πειϑους πιστευτικης) το δε επισϑμην (πειϑους διδασκαλικης) Sokrates in Platons Gorgia.</note>
+<lb/>
+<note place="end" n="36"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_36</ref>36</bibl> Ein Philosoph laß über die Unsterblichkeit der Seelen so überzeugend, daß seine Zuhörer vor Freuden Selbstmörder wurden, wie uns Lactanz erzählt. Augustinus de Civit. Dei I. 22. Cic. Tusc. Quaest. I. 39.</note>
+<lb/>
+<note place="end" n="37"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_37</ref>37</bibl> <hi rendition="#i">Fidei</hi> hoc cum <hi rendition="#i">crepusculo</hi> commune obtigit, quod ad utrumque tenebrarum admixtio necessaria sit, quum alias copiosiori accedente luce, illa in <hi rendition="#i">scientiam</hi>, hoc in <hi rendition="#i">diem</hi> transeat. Quaedam mysteria – in quibus Fides intellectui felicius facem praeferre soleat – quam hic ad procreandam fidem viam munire. Rob. Boyle Cogitationes de S. S. Stylo.</note>
+<lb/>
+<note place="end" n="38"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_38</ref>38</bibl> Socrates im Phädro.</note>
+<lb/>
+<note place="end" n="39"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_39</ref>39</bibl> 1 Kor. VIII.</note>
+<lb/>
+<note place="end" n="40"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_40</ref>40</bibl> Dans son propre neant il puise la sagesse. Poesies diverses. Epitre V. à d' Argens.</note>
+<lb/>
+<note place="end" n="41"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_41</ref>41</bibl> Hohelied Salom. VII. Apostelgesch. IX. 3. Kein Ort in der Welt kann eine so wunderbare Verbindung von Marmor und Unflat, von Grösse und Niedrigkeit aufweisen als Damaskus; sagt <hi rendition="#i">Maundrell</hi> in seiner Reisebeschreibung von Aleppo nach Jerusalem.</note>
+<lb/>
+<note place="end" n="42"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_42</ref>42</bibl> Lucina sine concubitu.</note>
+<lb/>
+<note place="end" n="43"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_43</ref>43</bibl> Thrasymachus in Platons Buch von der Staatskunst. – – nihil ipse (Socrates) afferre ad persuadendum volebat, sed ex eo, quod sibi ille dederat, quicum disputabat, aliquid conficere malebat, quod ille ex eo, quod jam concessisset, necessario approbare deberet. Cicero de Inv. Rhet. Lib. I. – – Dum ad discendum semper se pauperem credidit, ad docendum fecit se locupletissimum. Valer. Max. Lib. VIII. Cap. 7.</note>
+<lb/>
+<note place="end" n="44"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_44</ref>44</bibl> Parrhasius verfertigte, wie es scheint, ein <hi rendition="#i">hogarthsches</hi> Gemälde, welches das <hi rendition="#i">Publicum</hi> zu Athen vorstellen sollte, und wovon uns folgender Kupferstich oder Schattenriß in Plinius übrig geblieben: Pinxit &amp; δημον Atheniensium, argumento quoque ingenioso. Volebat namque <hi rendition="#i">varium, iracundum, iniustum inconstantem:</hi> eundem <hi rendition="#i">exorabilem, clementem, misericordem, excelsum, gloriosum, humilem, ferocem, fugacemque &amp; omnia pariter</hi> ostendere. Hist. Nat. Lib. XXXV. Cap. X.</note>
+<lb/>
+<note place="end" n="45"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/2. Abschnitt#Fußnote_45</ref>45</bibl> Vergl. Platons <hi rendition="#i">Euthydemus, Alcibiad</hi>. δευτερον,<hi rendition="#i"> Philebum, Protagoram, Kritian</hi> und <hi rendition="#i">Clitophon</hi>.</note>
+<lb/>
+<note place="end" n="46"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_46</ref>46</bibl> Laches in Platon.</note>
+<lb/>
+<note place="end" n="47"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_47</ref>47</bibl> Prytan.</note>
+<lb/>
+<note place="end" n="48"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_48</ref>48</bibl> Proedrus.</note>
+<lb/>
+<note place="end" n="49"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_49</ref>49</bibl> Epistates. Die Prytanen mussten die Versammlung zusammenberufen, die Proedri den Vortrag thun, und der Epistates die Stimmen sammeln und nach deren Mehrheit sprechen. Real im allgem. Grundriss der Staatskunst p. 262.</note>
+<lb/>
+<note place="end" n="50"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_50</ref>50</bibl> Sokrates in Platons Gorgia.</note>
+<lb/>
+<note place="end" n="51"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_51</ref>51</bibl> S. den <hi rendition="#i">Phädrus</hi> und <hi rendition="#i">Gorgias</hi>.</note>
+<lb/>
+<note place="end" n="52"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_52</ref>52</bibl> S. Wolken [N II 95, 9 f.].</note>
+<lb/>
+<note place="end" n="53"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_53</ref>53</bibl> Alcibiades in Platons Gastmal.</note>
+<lb/>
+<note place="end" n="54"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_54</ref>54</bibl> Xantippe war ein' arge H – –</note>
+<p>und 10 mal 10 macht hundert nur.</p>
+<lb/>
+<p>Sokrates soll in der Bigamie gelebt haben; Xantippe die Mutter des Lamprocles, und Myrto (welche ihm Gesner abspricht) die Mutter des Sophroniscus und Menexenus gewesen seyn.</p>
+<lb/>
+<note place="end" n="55"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_55</ref>55</bibl> S. <hi rendition="#i">Hippias</hi>, Callicles in Platons <hi rendition="#i">Gorgias</hi> und das Symposion. Hierocles soll gesagt haben, κυβοις εοικεναι τους του Σωκρατου λογους, απτωτας γαρ ειναι πανταχου, οπου αν πεσωσι. <hi rendition="#i">Suidas</hi>. Ορϑως γε τουτ᾽ Αλκιβιαδης ετραυλισεν Aristophanes Σφηκες.</note>
+<lb/>
+<note place="end" n="56"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_56</ref>56</bibl> Conf. <hi rendition="#i">Gorgias</hi>.</note>
+<lb/>
+<note place="end" n="57"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_57</ref>57</bibl> το ΧΑΟΣ τουτι και τας ΝΕΦΕΛΑΣ και ϑν ΓΑΩΤΤΑΝ. ΤΡΙΑ ταυτι Aristoph. Nubes. Plato de republica Lib. III.</note>
+<lb/>
+<note place="end" n="58"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_58</ref>58</bibl> Er dictirte sich im Scherz selbst die Strafe auf Unkosten des Staats zu Tode gefüttert zu werden.</note>
+<lb/>
+<note place="end" n="59"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_59</ref>59</bibl> Sokrates soll den Giftbecher an eben dem Tage, als der Tempel zu Ephesus das erstemal abgebrannt, ausgetrunken haben.</note>
+<lb/>
+<note place="end" n="60"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/3. Abschnitt#Fußnote_60</ref>60</bibl> Matth. XXIII, 29.</note>
+<lb/>
+<note place="end" n="61"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnote_61</ref>61</bibl> S. den Schluss von Hippias major.</note>
+<lb/>
+<note place="end" n="62"><bibl><ref>/Philosophie/M/Hamann, Johann Georg/Sokratische Denkwürdigkeiten/Schlußrede#Fußnote_62</ref>62</bibl> <hi rendition="#i">Μαχαιραν;</hi> αστειον γε κερδος - - -</note>
+<p>Υπερβολος δ᾽ ουκ των λυχνων πλειν η ταλαντα πολλα</p>
+<p>Ειληφε δια πονηριαν, αλλ᾽ ου μα Δι᾽ ου <hi rendition="#i">μαχαιραν</hi>. </p>
+<p rendition="#right">Aristoph. Nubes.</p>
+
+</div>
+
+</body></text></TEI>

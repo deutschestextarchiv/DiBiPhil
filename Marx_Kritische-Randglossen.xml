@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Karl Marx, Friedrich Engels: Werke. Herausgegeben vom Institut für
+      Marxismus-Leninismus beim ZK der SED, 43 Bände, Band 1, Berlin: Dietz-Verlag,
+      1956.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor><persName>Institut für Marxismus-Leninismus beim ZK der SED</persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Dietz-Verlag</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Rheinische Zeitung (Köln), Nr. 289 vom 16. 10. 1842.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Der Kommunismus und die Augsburger »Allgemeine Zeitung«</note>
+
+<head>[Karl Marx]</head>
+<head>Der Kommunismus und die Augsburger »Allgemeine Zeitung«</head>
+<p rendition="#et"><hi rendition="#sub">*</hi><hi rendition="#sup">*</hi><hi rendition="#sub">*</hi> <hi rendition="#i">Köln,</hi> 15. Oktober. Die Nr. 284 der <hi rendition="#i">Augsburger Zeitung</hi> ist so ungeschickt, in der <hi rendition="#i">»Rheinischen Zeitung«</hi> eine preußische <hi rendition="#i">Kommunistin</hi> zu entdecken, zwar keine wirkliche Kommunistin, aber doch immer eine Person, die mit dem Kommunismus phantastisch kokettiert und platonisch liebäugelt.</p>
+<p rendition="#et">Ob diese unartige Phantasterei der Augsburgerin uneigennützig, ob diese müßige Gaukelei ihrer aufgeregten Einbildungskraft mit Spekulationen und diplomatischen Geschäften zusammenhängt, mag der Leser entscheiden – nachdem wir das angebliche corpus delicti vorgeführt haben.</p>
+<p rendition="#et">Die »Rheinische Zeitung«, erzählt man, habe einen kommunistischen Aufsatz über die Berliner Familienhäuser in ihr Feuilleton aufgenommen und mit folgender Bemerkung begleitet: Diese Mittellungen <hi rendition="#i">»dürften für die Geschichte dieser wichtigen Zeitfrage nicht ohne Interesse sein«</hi>; folgt daher nach der Augsburger Logik, daß die »Rheinische Zeitung«<hi rendition="#i"> »dergleichen ungewaschenes Zeug empfehlend aufgetischt«.</hi> Also wenn ich z.B. sage: »folgende Mitteilungen des ›Mefistofeles‹ über den innern Haushalt der Augsburger Zeitung dürften <hi rendition="#i">nicht ohne Interesse</hi> für die Geschichte dieser wichtigtuenden Dame sein«, so empfehle ich die <hi rendition="#i">schmutzigen »Zeuge«,</hi> aus denen die Augsburgerin ihre bunte Garderobe zusammenschneidet? Oder sollten wir den Kommunismus schon deshalb für keine wichtige Zeitfrage halten, weil er keine courfähige Zeitfrage ist, weil er schmutzige Wäsche trägt und nicht nach Rosenwasser duftet?</p>
+<p rendition="#et">Allein mit Recht grollt die Augsburgerin unserm Mißverstand. Die Wichtigkeit des Kommunismus besteht nicht darin, daß er eine Zeitfrage von höchstem Ernst für Frankreich und England bildet. Der Kommunismus besitzt die <hi rendition="#i">europäische Wichtigkeit,</hi> von der Augsburger Zeitung zu einer Phrase <pb n="105" facs="#f0001"/> benutzt worden zu sein. Einer ihrer Pariser Korrespondenten, ein Konvertit, der die Geschichte behandelt wie ein Konditor die Botanik, hat jüngst einmal den Einfall gehabt: die Monarchie müsse die sozialistisch – kommunistischen Ideen in ihrer Weise sich anzueignen suchen. Versteht ihr nun den Unmut der Augsburgerin, die uns nie verzeihen wird, daß wir den Kommunismus in seiner <hi rendition="#i">ungewaschenen</hi> Nacktheit dem Publikum bloßgestellt; versteht ihr die verbissene <hi rendition="#i">Ironie,</hi> die uns zuruft: so <hi rendition="#i">empfehlt</hi> ihr den Kommunismus, der schon einmal die glückliche Eleganz besaß, eine Phrase der Augsburger Zeitung zu bilden!</p>
+<p rendition="#et">Der zweite Vorwurf, der die »Rheinische Zeitung« trifft, ist der Schluß eines Referats aus Straßburg über die bei dem dortigen Kongreß gehaltenen kommunistischen Reden, denn die beiden Stiefschwestern hatten sich in die Beute so geteilt, daß der <hi rendition="#i">Rheinländerin</hi> die <hi rendition="#i">Verhandlungen</hi> und der <hi rendition="#i">Bayerin</hi> die <hi rendition="#i">Mahlzeiten</hi> der Straßburger Gelehrten zufielen. Die inkriminierte Stelle lautet wörtlich also:</p>
+<p rendition="#et"><hi rendition="#blue">»Es ist heute mit dem Mittelstande so wie mit dem Adel im Jahre 1789; damals nahm der Mittelstand die Privilegien des Adels in Anspruch und erhielt sie,<hi rendition="#i"> heute verlangt der Stand, der nichts besitzt, teilzunehmen am Reichtume der Mittelklassen, die jetzt am Ruder sind.</hi> Der Mittelstand hat sich nun heute gegen eine Überrumpelung besser vorgesehen als der Adel im Jahre 89, und es steht zu erwarten, daß das Problem auf friedlichem Wege wird gelöst werden.«</hi></p>
+<p rendition="#et">Daß Sieyès' Prophezeiung eingetroffen und daß der tiers état alles geworden ist und alles sein will – Bülow-Cummerow, das ehemalige »Berliner politische Wochenblatt«, Dr. Kosegarten, sämtliche feudalistische Schriftsteller bekennen es mit wehmütigster Entrüstung. Daß der Stand, der heute nichts besitzt, am Reichtum der Mittelklassen teilzunehmen <hi rendition="#i">verlangt,</hi> das ist ein Faktum, welches ohne das Straßburger Reden und trotz dem Augsburger Schweigen in Manchester, Paris und Lyon auf den Straßen jedem sichtbar umherläuft. Glaubt etwa die Augsburgerin, ihr Unwillen und ihr Schweigen widerlegten die Tatsachen der Zeit? Die Augsburgerin ist <hi rendition="#i">impertinent im Fliehen.</hi> Sie reißt aus vor verfänglichen Zeiterscheinungen und glaubt, der Staub, den sie beim Ausreißen hinter sich aufwirbelt, sowie die ängstlichen Schmähworte, welche sie auf der Flucht zwischen den Zähnen hinmurmelt, blendeten und verwirrten die unbequeme Zeiterscheinung wie den bequemen Leser.</p>
+<p rendition="#et">Oder grollt die Augsburgerin der Erwartung unseres Korrespondenten, die unleugbare Kollision werde sich »auf <hi rendition="#i">friedlichem</hi> Wege« lösen? Oder wirft sie uns vor, daß wir nicht sofort ein probates Rezept verschrieben und <pb n="106" facs="#f0002"/> einen sonnenklaren Bericht über die unmaßgebliche Lösung des Problems dem überraschten Leser in die Tasche spielten? Wir besitzen nicht die Kunst, mit <hi rendition="#i">einer</hi> Phrase Probleme zu bändigen, an deren Bezwingung <hi rendition="#i">zwei</hi> Völker arbeiten.</p>
+<p rendition="#et">Aber liebste, beste Augsburgerin, Sie geben uns bei Gelegenheit des Kommunismus zu verstehen, daß Deutschland jetzt arm ist an unabhängigen Existenzen, daß neun Zehntel der gebildeteren Jugend den Staat anbetteln um Brot für ihre Zukunft, daß unsere Ströme vernachlässigt, daß die Schifffahrt darniederliegt, daß unsern ehemals blühenden Handelsstädten der alte Flor fehlt, daß die freien Institutionen erst auf langsamem Wege in Preußen erstrebt werden, daß der Überfluß unserer Bevölkerung hilflos umherirrt, um in fremden Nationalitäten als Deutsche unterzugehen, und für alle diese Probleme kein einziges Rezept, kein Versuch, <hi rendition="#i">»klarer über die Mittel zur Ausführung«</hi> der großen Tat zu werden, die uns von all diesen Sünden erlösen soll! Oder erwarten Sie keine friedliche Lösung? Fast scheint ein anderer Artikel derselben Nummer, von Karlsruhe datiert, dahin zu deuten, wo selbst in bezug auf den Zollverein die verfängliche Frage an Preußen gerichtet wird: <hi rendition="#i">»Glaubt man, eine solche Krisis würde vorübergehen wie eine Rauferei um das Tabakrauchen im Tiergarten?«</hi> Der Grund, den Sie für Ihren Unglauben debütieren, ist ein <hi rendition="#i">kommunistischer. »Nun lasse man eine Krisis über die Industrie</hi> losbrechen, <hi rendition="#i">lasse Millionen an Kapital verlorengehen, Tausende von Arbeitern brotlos werden.«</hi> Wie ungelegen kam unsere <hi rendition="#i">»friedliche Erwartung«,</hi> da Sie einmal beschlossen hatten, eine blutige Krisis <hi rendition="#i">losbrechen zu lassen,</hi> weshalb wohl in Ihrem Artikel Großbritannien auf den demagogischen Arzt Dr. M'Douall, der nach Amerika ausgewandert, weil<hi rendition="#i"> »mit diesem königschen Geschlecht doch nichts anzufangen sei«</hi>, nach Ihrer eigenen Logik <hi rendition="#i">empfehlend</hi> nachgewiesen wird.</p>
+<p rendition="#et">Eh' wir uns von Ihnen trennen, möchten wir Sie noch vorübergehend auf Ihre eigene Weisheit aufmerksam machen, da es bei Ihrer Methode der Phrasen nicht wohl zu umgehen ist, harmloserweise hie und da einen Gedanken zwar nicht zu <hi rendition="#i">haben,</hi> aber eben deshalb <hi rendition="#i">auszusprechen.</hi> Sie finden, daß die Polemik des Herrn Hennequin aus Paris gegen die Parzellierung des Grundbesitzes denselben mit den Auto nomen in eine überraschende Harmonie bringt! Die Überraschung, sagt Aristoteles, ist der Anfang des Philosophierens. Sie haben beim Anfang geendet. Würde Ihnen sonst die überraschende Tatsache entgangen sein, daß kommunistische Grundsätze in Deutschland nicht von den Liberalen, sondern von Ihren <hi rendition="#i">reaktionären</hi> Freunden verbreitet werden?</p>
+<p rendition="#et">Wer spricht von <hi rendition="#i">Handwerkerkorporationen?</hi> Die Reaktionäre. Der Handwerkerstand soll einen Staat im Staat bilden. Finden Sie es auffallend, daß <pb n="107" facs="#f0003"/> solche Gedanken, modern ausgedrückt, also lauten: »Der Staat soll sich in den Handwerkerstand verwandeln«? Wenn dem Handwerker sein Stand der Staat sein soll, wenn aber der moderne Handwerker, wie jeder moderne Mensch, den Staat nur als die all seinen Mitbürgern gemeinsame Sphäre versteht und verstehen kann, wie wollen Sie anders beide Gedanken synthesieren als in einen <hi rendition="#i">Handwerkerstaat?</hi></p>
+<p rendition="#et">Wer polemisiert gegen die <hi rendition="#i">Parzellierung des Grundbesitzes?</hi> Die Reaktionäre. Man ist in einer ganz kurz erschienenen feudalistischen Schrift (Kosegarten über Parzellierung) so weit gegangen, das <hi rendition="#i">Privateigentum</hi> ein <hi rendition="#i">Vorrecht</hi> zu nennen. Das ist <hi rendition="#i">Fouriers</hi> Grundsatz. Sobald man über die Grundsätze einig ist, läßt sich nicht über die Konsequenzen und die Anwendung streiten?</p>
+<p rendition="#et">Die »Rheinische Zeitung«, die den kommunistischen Ideen in ihrer jetzigen Gestalt nicht einmal<hi rendition="#i"> theoretische Wirklichkeit</hi> zugestehen, also noch weniger ihre <hi rendition="#i">praktische Verwirklichung</hi> wünschen oder auch nur für möglich halten kann, wird diese Ideen einer gründlichen Kritik unterwerfen. Daß aber Schriften, wie die von Leroux, Considérant und vor allen das scharfsinnige Werk Proudhons, nicht durch oberflächliche Einfälle des Augenblicks, sondern nur nach lang anhaltendem und tief eingehendem Studium kritisiert werden können, würde die Augsburgerin einsehen, wenn sie mehr verlangte und mehr vermöchte als Glacéphrasen. Um so ernster haben wir solche<hi rendition="#i"> theoretischen</hi> Arbeiten zu nehmen, als wir nicht mit der Augsburger übereinstimmen, welche die <hi rendition="#i">»Wirklichkeit« der</hi> kommunistischen <hi rendition="#i">Gedanken</hi> nicht bei<hi rendition="#i"> Plato,</hi> sondern bei ihrem <hi rendition="#i">obskuren Bekannten</hi> findet, der nicht ohne Verdienst in einigen Richtungen wissenschaftlicher Forschung sein ganzes ihm damals zur Verfügung stehendes Vermögen hingab und seinen Verbündeten Teller und Stiefel nach dem Willen des Vaters Enfantin putzte. Wir haben die feste Überzeugung, daß nicht der <hi rendition="#i">praktische Versuch,</hi> sondern die<hi rendition="#i"> theoretische Ausführung</hi> der kommunistischen Ideen die eigentliche <hi rendition="#i">Gefahr</hi> bildet, denn auf praktische Versuche, und seien es <hi rendition="#i">Versuche in Masse,</hi> kann man durch <hi rendition="#i">Kanonen</hi> antworten, sobald sie gefährlich werden, aber <hi rendition="#i">Ideen,</hi> die unsere Intelligenz besiegt, die unsere Gesinnung erobert, an die der Verstand unser Gewissen geschmiedet hat, das sind Ketten, denen man sich nicht entreißt, ohne sein Herz zu zerreißen, das sind Dämonen, welche der Mensch nur besiegen kann, indem er sich ihnen unterwirft. Doch die Augsburger Zeitung hat die <hi rendition="#i">Gewissensangst,</hi> welche eine Rebellion der subjektiven Wünsche des Menschen gegen die objektiven Einsichten seines eigenen Verstandes hervorruft, wohl nie kennengelernt, <hi rendition="#i">da sie weder eigenen Verstand noch eigene Einsichten noch auch ein eigenes Gewissen besitzt.</hi></p>
+<pb n="108" facs="#f0004"/> 
+
+</body></text></TEI>

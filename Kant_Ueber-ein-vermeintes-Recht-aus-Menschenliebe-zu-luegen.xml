@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in zwölf Bänden</title>
+        <title type="volume">Band 8</title>
+        <author><persName ref="http://d-nb.info/gnd/59796">
+        <forename>Immanuel</forename>
+        <surname>Kant</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Immanuel Kant: Werke in zwölf Bänden. Herausgegeben von Wilhelm Weischedel.
+      Frankfurt am Main: Suhrkamp, 1977.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in zwölf Bänden</title>
+      <title level="m" type="volume" n="8">Band 8</title>
+      <author><persName ref="http://d-nb.info/gnd/59796">
+        <forename>Immanuel</forename>
+        <surname>Kant</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/6635X">
+        <forename>Wilhelm</forename>
+        <surname>Weischedel</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Suhrkamp</name>
+      </publisher><pubPlace>Frankfurt a. M.</pubPlace>
+      <date type="publication">1977</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Berlinische Blätter, 1. Jg., 1797, S. 301-314.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Über ein vermeintes Recht aus Menschenliebe zu lügen</note>
+
+
+<head>Immanuel Kant</head>
+<head>Über ein vermeintes Recht aus Menschenliebe zu lügen</head>
+<pb n="637" facs="#f0001"/>
+<p rendition="#et">In der Schrift: <hi rendition="#i">Frankreich</hi> im Jahr 1797, Sechstes Stück, Nr. I: Von den politischen Gegenwirkungen, von <hi rendition="#i">Benjamin Constant</hi>, ist Folgendes S. 123 enthalten.</p>
+<p rendition="#et">»Der sittliche Grundsatz: es sei eine Pflicht, die Wahrheit zu sagen, würde, wenn man ihn unbedingt und vereinzelt nähme, jede Gesellschaft zur Unmöglichkeit machen. Den Beweis davon haben wir in den sehr unmittelbaren Folgerungen, die ein deutscher Philosoph aus diesem Grundsatze gezogen hat, der so weit geht zu behaupten: daß die Lüge gegen einen Mörder, der uns fragte, ob unser von ihm verfolgter Freund sich nicht in unser Haus geflüchtet, ein Verbrechen sein würde.<note place="end" n="1"><bibl><ref>/Philosophie/M/Kant, Immanuel/Über ein vermeintes Recht aus Menschenliebe zu lügen#F1784</ref></bibl></note>«</p>
+<p>Der französische Philosoph widerlegt S. 124 diesen Grundsatz auf folgende Art. »Es ist eine Pflicht, die Wahrheit zu sagen. Der Begriff von Pflicht ist unzertrennbar von dem Begriff des Rechts. Eine Pflicht ist, was bei einem Wesen den Rechten eines anderen entspricht. Da, wo es keine Rechte gibt, gibt es keine Pflichten. Die Wahrheit zu sagen, ist also eine Pflicht; aber nur gegen denjenigen, welcher ein Recht auf die Wahrheit hat. Kein Mensch aber hat Recht auf eine Wahrheit, die anderen schadet.«</p>
+<p>Das <hi rendition="#i">prôton pseudos</hi> liegt hier in dem Satze: <hi rendition="#i">»Die Wahrheit zu sagen ist eine Pflicht, aber nur gegen denjenigen, welcher ein Recht auf die Wahrheit hat«.</hi></p>
+<p>Zuerst ist anzumerken, daß der Ausdruck: ein Recht auf die Wahrheit haben, ein Wort ohne Sinn ist. Man muß vielmehr sagen: der Mensch habe ein Recht auf seine eigene <hi rendition="#i">Wahrhaftigkeit</hi> (veracitas), d.i. auf die subjektive Wahrheit in seiner Person. Denn objektiv auf eine Wahrheit ein <pb n="637" facs="#f0002"/> Recht haben, würde so viel sagen als: es komme, wie überhaupt beim Mein und Dein, auf seinen <hi rendition="#i">Willen</hi> an, ob ein gegebener Satz wahr oder falsch sein solle; welches dann eine seltsame Logik abgeben würde.</p>
+<p>Nun ist die <hi rendition="#i">erste Frage</hi>: ob der Mensch, in Fällen, wo er einer Beantwortung mit Ja oder Nein nicht ausweichen kann, die <hi rendition="#i">Befugnis</hi> (das Recht) habe, unwahrhaft zu sein. Die <hi rendition="#i">zweite Frage</hi> ist: ob er nicht gar verbunden sei, in einer gewissen Aussage, wozu ihn ein ungerechter Zwang nötigt, unwahrhaft zu sein, um eine ihn bedrohende Missetat an sich oder einem anderen zu verhüten.</p>
+<p>Wahrhaftigkeit in Aussagen, die man nicht umgehen kann, ist formale Pflicht des Menschen gegen jeden,<note place="end" n="2"><bibl><ref>/Philosophie/M/Kant, Immanuel/Über ein vermeintes Recht aus Menschenliebe zu lügen#F1785</ref></bibl></note> es mag ihm oder einem andern daraus auch noch so großer Nachteil erwachsen; und, ob ich zwar dem, welcher mich ungerechter weise zur Aussage nötigt, nicht Unrecht tue, wenn ich sie verfälsche, so tue ich doch durch eine solche Verfälschung, die darum auch (obzwar nicht im Sinn des Juristen) Lüge genannt werden kann, im wesentlichsten Stücke der Pflicht <hi rendition="#i">überhaupt</hi> Unrecht: d.i. ich mache, so viel an mir ist, daß Aussagen (Deklarationen) überhaupt keinen Glauben finden, mithin auch alle Rechte, die auf Verträgen gegründet werden, wegfallen und ihre Kraft einbüßen; welches ein Unrecht ist, das der Menschheit überhaupt zugefügt wird.</p>
+<p>Die Lüge also, bloß als vorsätzlich unwahre Deklaration gegen einen andern Menschen definiert, bedarf nicht des Zusatzes, daß sie einem anderen schaden müsse; wie die Juristen es zu ihrer Definition verlangen (mendacium est falsiloquium in praeiudicium alterius). Denn sie schadet jederzeit einem anderen, wenn gleich nicht einem andern Menschen, doch der Menschheit überhaupt, indem sie die Rechtsquelle unbrauchbar macht.</p>
+<pb n="638" facs="#f0003"/> <p>Diese gutmütige Lüge <hi rendition="#i">kann</hi> aber auch durch einen<hi rendition="#i"> Zufall</hi> (casus) strafbar werden, nach bürgerlichen Gesetzen; was aber bloß durch den Zufall der Straffälligkeit entgeht, kann auch nach äußeren Gesetzen als Unrecht abgeurteilt werden. Hast du nämlich einen eben itzt mit Mordsucht Umgehenden <hi rendition="#i">durch eine Lüge</hi> an der Tat verhindert, so bist du für alle Folgen, die daraus entspringen möchten, auf rechtliche Art verantwortlich. Bist du aber strenge bei der Wahrheit geblieben, so kann dir die öffentliche Gerechtigkeit nichts anhaben; die unvorhergesehene Folge mag sein welche sie wolle. Es ist doch möglich, daß, nachdem du dem Mörder, auf die Frage, ob der von ihm Angefeindete zu Hause sei, ehrlicherweise mit Ja geantwortet hast, dieser doch unbemerkt ausgegangen ist, und so dem Mörder nicht in den Wurf gekommen, die Tat also nicht geschehen wäre; hast du aber gelogen, und gesagt, er sei nicht zu Hause, und er ist auch wirklich (obzwar dir unbewußt) ausgegangen, wo denn der Mörder ihm im Weggehen begegnete und seine Tat an ihm verübte: so kannst du mit Recht als Urheber des Todes desselben angeklagt werden. Denn hättest du die Wahrheit, so gut du sie wußtest, gesagt: so wäre vielleicht der Mörder über dem Nachsuchen seines Feindes im Hause von herbeigelaufenen Nachbarn ergriffen, und die Tat verhindert worden. Wer also <hi rendition="#i">lügt</hi>, so gutmütig er dabei auch gesinnt sein mag, muß die Folgen davon, selbst vor dem bürgerlichen Gerichtshofe, verantworten und dafür büßen: so unvorhergesehen sie auch immer sein mögen; weil Wahrhaftigkeit eine Pflicht ist, die als die Basis aller auf Vertrag zu gründenden Pflichten angesehn werden muß, deren Gesetz, wenn man ihr auch nur die geringste Ausnahme einräumt, schwankend und unnütz gemacht wird.</p>
+<p>Es ist also ein heiliges, unbedingt gebietendes, durch keine Konvenienzen einzuschränkendes Vernunftgebot; in allen Erklärungen <hi rendition="#i">wahrhaft</hi> (ehrlich) zu sein.</p>
+<p>Wohldenkend und zugleich richtig ist hiebei Hrn. Constants Anmerkung über die Verschreiung solcher strenger und sich vorgeblich in unausführbare Ideen verlierender, hiemit aber verwerflicher Grundsätze. – »Jedesmal (sagt er <pb n="639" facs="#f0004"/> S. 123 unten) wenn ein als wahr bewiesener Grundsatz unanwendbar scheint, so kömmt es daher, daß wir den <hi rendition="#i">mittlern Grundsatz</hi> nicht kennen, der das Mittel der Anwendung enthält.« Er führt (S. 121) die Lehre von der <hi rendition="#i">Gleichheit</hi> als den ersten die gesellschaftliche Kette bildenden Ring an: »Daß (S. 122) nämlich kein Mensch anders als durch solche Gesetze gebunden werden kann, zu deren Bildung er mit beigetragen hat. In einer sehr ins Enge zusammengezogenen Gesellschaft kann dieser Grundsatz auf unmittelbare Weise angewendet werden, und bedarf, um ein gewöhnlicher zu werden, keines mittleren Grundsatzes. Aber in einer sehr zahlreichen Gesellschaft muß man einen neuen Grundsatz zu demjenigen noch hinzufügen, den wir hier anführen. Dieser mittlere Grundsatz ist: daß die einzelnen zur Bildung der Gesetze entweder in eigener Person oder durch<hi rendition="#i"> Stellvertreter</hi> beitragen können. Wer den ersten Grundsatz auf eine zahlreiche Gesellschaft anwenden wollte, ohne den mittleren dazu zu nehmen, würde unfehlbar ihr Verderben zuwege bringen. Allein dieser Umstand, der nur von der Unwissenheit oder Ungeschicklichkeit des Gesetzgebers zeugte, würde nichts gegen den Grundsatz beweisen.« – Er beschließt S. 125 hiemit: »Ein als wahr anerkannter Grundsatz muß also niemal verlassen werden: wie anscheinend auch Gefahr dabei sich befindet«. (Und doch hatte der gute Mann den unbedingten Grundsatz der Wahrhaftigkeit, wegen der Gefahr, die er für die Gesellschaft bei sich führe, selbst verlassen; weil er keinen mittleren Grundsatz entdecken konnte, der diese Gefahr zu verhüten diente, und hier auch wirklich keiner einzuschieben ist.)</p>
+<p>Wenn man die Namen der Personen, sowie sie hier aufgeführt werden, beibehalten will: so verwechselte »der französische Philosoph« die Handlung, wodurch jemand einem anderen <hi rendition="#i">schadet</hi> (nocet), indem er die Wahrheit, deren Geständnis er nicht umgehen kann, sagt, mit derjenigen, wodurch er diesem <hi rendition="#i">Unrecht</hi> tut (laedit). Es war bloß ein <hi rendition="#i">Zufall</hi> (casus), daß die Wahrhaftigkeit der Aussage dem Einwohner des Hauses schadete, nicht eine freie <hi rendition="#i">Tat</hi> (in juridischer Bedeutung). Denn aus seinem Rechte, von einem <pb n="640" facs="#f0005"/> anderen zu fordern, daß er ihm zum Vorteil lügen solle, würde ein aller Gesetzmäßigkeit widerstreitender Anspruch folgen. Jeder Mensch aber hat nicht allein ein Recht, sondern sogar die strengste Pflicht zur Wahrhaftigkeit in Aussagen, die er nicht umgehen kann: sie mag nun ihm selbst oder andern schaden. Er selbst <hi rendition="#i">tut</hi> also hiemit dem, der dadurch leidet, eigentlich nicht Schaden, sondern diesen <hi rendition="#i">verursacht</hi> der Zufall. Denn jener ist hierin gar nicht frei, um zu wählen; weil die Wahrhaftigkeit (wenn er einmal sprechen muß) unbedingte Pflicht ist. – Der »deutsche Philosoph« wird also den Satz (S. 124): »Die Wahrheit zu sagen ist eine Pflicht, aber nur gegen denjenigen, welcher <hi rendition="#i">ein Recht auf die Wahrheit</hi> hat«, nicht zu seinem Grundsatze annehmen: erstlich wegen der undeutlichen Formel desselben, indem Wahrheit kein Besitztum ist, auf welchen dem einen das Recht verwilligt, anderen aber verweigert werden könne; dann aber vornehmlich, weil die Pflicht der Wahrhaftigkeit (als von welcher hier allein die Rede ist) keinen Unterschied zwischen Personen macht, gegen die man diese Pflicht haben, oder gegen die man sich auch von ihr lossagen könne, sondern weil es <hi rendition="#i">unbedingte Pflicht</hi> ist, die in allen Verhältnissen gilt.</p>
+<p>Um nun von einer <hi rendition="#i">Metaphysik</hi> des Rechts (welche von allen Erfahrungsbedingungen abstrahiert) zu einem Grundsatze der <hi rendition="#i">Politik</hi> (welcher diese Begriffe auf Erfahrungsfälle anwendet), und vermittelst dieses zur Auflösung einer Aufgabe der letzteren, dem allgemeinen Rechtsprinzip gemäß, zu gelangen: wird der Philosoph 1) ein <hi rendition="#i">Axiom</hi>, d.i. einen apodiktisch-gewissen Satz, der unmittelbar aus der Definition des äußern Rechts (Zusammenstimmung der <hi rendition="#i">Freiheit</hi> eines jeden mit der Freiheit von jedermann nach einem allgemeinen Gesetze) hervorgeht, 2) ein <hi rendition="#i">Postulat</hi> (des äußeren öffentlichen <hi rendition="#i">Gesetzes</hi>, als vereinigten Willens aller nach dem Prinzip der <hi rendition="#i">Gleichheit</hi>, ohne welche keine Freiheit von jedermann Statt haben würde), 3) ein <hi rendition="#i">Problem</hi> geben, wie es anzustellen sei, daß in einer noch so großen Gesellschaft dennoch Eintracht nach Prinzipien der Freiheit und Gleichheit erhalten werde (nämlich vermittelst <pb n="641" facs="#f0006"/> eines repräsentativen Systems); welches dann ein Grundsatz der <hi rendition="#i">Politik</hi> sein wird, deren Veranstaltung und Anordnung nun Dekrete enthalten wird, die, aus der Erfahrungserkenntnis der Menschen gezogen, nur den Mechanism der Rechtsverwaltung, und wie dieser zweckmäßig einzurichten sei, beabsichtigen. – – Das Recht muß nie der Politik, wohl aber die Politik jederzeit dem Recht angepaßt werden.</p>
+<p>»Ein als wahr anerkannter (ich setze hinzu: a priori anerkannter, mithin apodiktischer) Grundsatz muß niemal verlassen werden, wie anscheinend auch Gefahr sich dabei befindet«, sagt der Verfasser. Nur muß man hier nicht die Gefahr (zufälligerweise) zu <hi rendition="#i">schaden</hi>, sondern überhaupt <hi rendition="#i">Unrecht zu tun</hi> verstehen: welches geschehen würde, wenn ich die Pflicht der Wahrhaftigkeit, die gänzlich unbedingt ist und in Aussagen die oberste rechtliche Bedingung ausmacht, zu einer bedingten und noch andern Rücksichten untergeordneten mache; und, obgleich ich durch eine gewisse Lüge in der Tat niemanden Unrecht tue, doch das Prinzip des Rechts in Ansehung aller unumgänglich notwendigen Aussagen <hi rendition="#i">überhaupt</hi> verletze (formaliter, obgleich nicht materialiter, Unrecht tue): welches viel schlimmer ist als gegen irgend jemanden eine Ungerechtigkeit begehn, weil eine solche Tat nicht eben immer einen Grundsatz dazu im Subjekte voraussetzt.</p>
+<p>Der, welcher die Anfrage, die ein anderer an ihn ergehen läßt: ob er in seiner Aussage, die er itzt tun soll, wahrhaft sein wolle oder nicht? nicht schon mit Unwillen über den gegen ihn hiemit geäußerten Verdacht, er möge auch wohl ein Lügner sein, aufnimmt, sondern sich die Erlaubnis ausbittet, sich erst auf mögliche Ausnahmen zu besinnen, ist schon ein Lügner (in potentia); weil er zeigt, daß er die Wahrhaftigkeit nicht für Pflicht an sich selbst anerkenne, sondern sich Ausnahmen vorhält von einer Regel, die ihrem Wesen nach keiner Ausnahme fähig ist, weil sie sich in dieser geradezu selbst widerspricht.</p>
+<p>Alle rechtlich-praktische Grundsätze müssen strenge Wahrheit enthalten, und die hier sogenannten mittleren <pb n="642" facs="#f0007"/> können nur die nähere Bestimmung ihrer Anwendung auf vorkommende Fälle (nach Regeln der Politik), aber niemal Ausnahmen von jenen enthalten; weil diese die Allgemeinheit vernichten, derentwegen allein sie den Namen der Grundsätze führen.</p>
+<lb/>
+<p>Königsberg. </p>
+<p rendition="#right">I. Kant.</p>
+<pb n="643" facs="#f0008"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Kant, Immanuel/Über ein vermeintes Recht aus Menschenliebe zu lügen#N1784</ref>1</bibl> »<hi rendition="#i">I. D. Michaelis</hi> in Göttingen hat diese seltsame Meinung noch früher vorgetragen als <hi rendition="#i">Kant</hi>. Daß <hi rendition="#i">Kant</hi> der Philosoph sei, von dem diese Stelle redet, hat mir der Verfasser dieser Schrift selbst gesagt.</note>
+<p rendition="#right"><hi rendition="#i">K. Fr. Cramer.«</hi></p>
+<p>Daß dieses wirklich an irgend einer Stelle, deren ich mich aber itzt nicht mehr besinnen kann, von mir gesagt worden, gestehe ich hiedurch.</p>
+<p rendition="#right"><hi rendition="#i">I. Kant</hi>.</p>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Kant, Immanuel/Über ein vermeintes Recht aus Menschenliebe zu lügen#N1785</ref>2</bibl> Ich mag hier nicht den Grundsatz bis dahin schärfen, zu sagen: »Unwahrhaftigkeit ist Verletzung der Pflicht gegen sich selbst«. Denn dieser gehört zur Ethik; hier aber ist von einer Rechtspflicht die Rede. – Die Tugendlehre sieht in jener Übertretung nur auf die <hi rendition="#i">Nichtswürdigkeit</hi>, deren Vorwurf der Lügner sich selbst zuzieht.</note>
+
+</body></text></TEI>

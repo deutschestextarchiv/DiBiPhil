@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">1. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="1">1. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden im 5. Jahrhundert vor. Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente.</note>
+
+
+<head>Anaxagoras aus Klazomenae</head>
+<head>Fragmente</head>
+<pb n="399" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Aus: Über die Natur</note>
+
+<head>Aus: Über die Natur</head>
+<p rendition="#et">1. Alle Dinge waren zusammen, unendlich der Menge wie der Kleinheit nach. Denn das Kleine war eben unendlich. Und solange alle Dinge zusammen waren, konnte man wegen ihrer Kleinheit keines darin deutlich unterscheiden. Denn Dunst und Äther, beides unendliche Stoffe, hielten alles [andere] nieder. Denn dies sind die nach Menge und Größe hervorragendsten Stoffe, die in der Gesamtmasse enthalten sind.</p>
+<p rendition="#et">2. Denn Dunst und Äther scheiden sich aus der umgebenden Masse, und dieses Umgebende eben ist der Menge nach unendlich.</p>
+<p rendition="#et"><pb n="399" facs="#f0002"/> 3. Denn bei dem Kleinen gibt es ja kein Allerkleinstes, sondern stets ein noch Kleineres. Denn es ist unmöglich, daß das Seiende zu sein aufhöre. Aber auch bei dem Großen gibt es immer ein noch Größeres. Und es ist gerade so zahlreich vertreten wie das Kleine. Jedes Ding aber ist an sich sowohl groß wie klein.</p>
+<p rendition="#et">4. Wenn sich dies so verhält, so muß man annehmen, daß in allem, was sich vereinigt, viele, mannigfache [Stoffe] enthalten sind und Keime von allen Dingen, die mannigfache Gestalten, Färben und Geschmäcke <pb n="400" facs="#f0003"/> haben. Und daß sich so auch Menschen zusammenfügen und alle sonstigen Lebewesen, die eine Seele besitzen. Und daß diese Menschen nun auch bewohnte Städte und angebaute Äcker besitzen wie bei uns, und auch Sonne und Mond und die übrigen [Gestirne] haben wie bei uns, und daß ihr Land ihnen viele mannigfache Pflanzen hervorbringt, wovon sie das beste in ihr Haus zusammenbringen und davon leben. Dies ist meine Darlegung über die Ausscheidung, daß eine solche nicht nur bei uns, sondern auch anderswo stattgefunden hat.</p>
+<p rendition="#et">Vor dieser Ausscheidung nun, als noch alles zusammen war, ließ sich auch keine Farbe deutlich erkennen. Denn das verhinderte die Vermischung aller Dinge, des Feuchten und Trockenen, des Warmen und Kalten, des Hellen und Dunklen, zumal auch viel Erde, sich darin befand und eine unendliche Anzahl von Keimen, die einander völlig unähnlich waren. Denn auch von den übrigen Stoffen gleicht keiner dem anderen. Da sich dies nun so verhält, so muß man annehmen, daß alle Dinge in der Gesamtmasse enthalten sind.</p>
+<p rendition="#et"><pb n="401" facs="#f0004"/> 5. Nachdem dies in dieser Weise geschieden ist, muß man erkennen, daß die Gesamtheit sich weder vermindern noch vermehren kann [denn mehr als alles kann es unmöglich geben], sondern alles stets gleich bleibt.</p>
+<p rendition="#et">6. Und da vom Großen und vom Kleinen gleichviel Teilchen vorhanden sind, so ist auch nach dieser Auffassung alles in allem enthalten. Auch kann es kein Sonderdasein geben, sondern alles hat an allem teil. Da es kein Kleinstes geben kann, so kann es sich niemals absondern und für sich leben, sondern alles [muß] wie anfangs so auch jetzt zusammen sein. In allen Dingen aber sind viele [Grundstoffe] enthalten, und zwar ebensoviele in den größeren wie in den kleineren der [aus der Urmischung] sich ausscheidenden Dinge.</p>
+<p rendition="#et">7. Daher können wir die Menge der sich ausscheidenden Stoffe weder durch die Vernunft noch durch die Wirklichkeit wissen.</p>
+<p rendition="#et"><pb n="402" facs="#f0005"/> 8. Die in unserem einheitlichen Weltsystem enthaltenen [Stoffe] sind nicht voneinander gesondert oder mit dem Beile abgehauen, weder das Warme vom Kalten noch das Kalte vom Warmen.</p>
+<p rendition="#et">9. . . . während diese Stoffe so umherwirbeln und sich ausscheiden infolge der Wucht und Schnelligkeit. Wucht aber verleiht ihnen die Schnelligkeit. Ihre Schnelligkeit aber läßt sich mit der Schnelligkeit keines der jetzt in der Menschenwelt vorhandenen Dinge vergleichen, sondern ist durchaus ein Vielfaches davon.</p>
+<p rendition="#et">10. Denn wie sollte Haar aus Nicht-Haar und Fleisch aus Nicht-Fleisch entstehen können?</p>
+<p rendition="#et"><pb n="403" facs="#f0006"/> 11. In jedem ist ein Teil von jedem enthalten, mit Ausnahme des Geistes. In einigen ist aber auch Geist enthalten.</p>
+<p rendition="#et">12. Das Übrige hat Anteil an jedem, der Geist aber ist unendlich und selbstherrlich und mit keinem Dinge vermischt, sondern allein, selbständig, für sich. Denn wenn er nicht für sich, sondern mit irgend etwas anderem vermischt wäre, so hätte er an allen Dingen teil, vorausgesetzt nämlich, er wäre mit irgend etwas vermischt. Denn in jedem ist ein Teil von jedem enthalten, wie ich im Vorigen gesagt habe; und dann würden ihn die beigemischten Stoffe hindern, so daß er nicht ebenso gut die Herrschaft über jegliches Ding ausüben könnte wie allein für sich. Denn er ist das dünnste aller Dinge und das reinste und er besitzt jegliche Einsicht über jegliches Ding und die größte Kraft. Und über alles was nur eine Seele hat, Großes wie Kleines, hat der Geist die Herrschaft. So hat er auch die Herrschaft über die gesamte Wirbelbewegung, so daß er dieser Bewegung den Anstoß gibt. Und zuerst fing dieser Wirbel von einem gewissen kleinen Punkte an, er <pb n="404" facs="#f0007"/> greift aber weiter und wird noch weiter greifen. Und alles was sich da mischte und absonderte und voneinander schied, kannte der Geist. Und alles ordnete der Geist an, wie es in Zukunft werden sollte und wie es [vordem] war [was jetzt nicht (mehr) vorhanden ist] und wie es [gegenwärtig] ist. So auch diesen Wirbel, den jetzt die Gestirne, die Sonne, der Mond und die Duft- und Ätherstoffe, die sich abscheiden, vollführen. Ihre Abscheidung aber ist gerade eine Folge jenes Wirbels. Und zwar scheidet sich vom Dünnen das Dichte, vom Kalten das Warme, vom Dunkeln das Helle und vom Feuchten das Trockne. Dabei sind viele Teile von vielen Stoffen vorhanden. Vollständig aber scheidet sich nichts vom andern ab oder auseinander, abgesehen vom Geiste. Jeder Geist aber ist von gleicher Art, der größere wie der kleinere. Sonst aber ist nichts dem anderen gleichartig, sondern wovon am meisten in einem Dinge vorhanden ist, dies bildet und bildete als das deutlichst Erkennbare das einheitliche Einzelding.</p>
+<p rendition="#et"><pb n="405" facs="#f0008"/> 13. Und als der Geist die Bewegung eingeleitet hatte, begann die Ausscheidung von allem, was da in Bewegung gesetzt wurde; und soviel der Geist in Bewegung gesetzt hatte, das wurde alles voneinander geschieden. Während dar Bewegung und Scheidung aber bewirkte der Wirbel eine noch viel stärkere Scheidung [der Dinge] voneinander.</p>
+<p rendition="#et">14. Der Geist, der ewig ist, ist doch fürwahr auch jetzt da, wo alles andere ist, in der umgebenden [noch ungeschiedenen] Masse und in dem, was sich [von dem vorher Ausgeschiedenen wieder] daran ansetzte, und in dem [bereits] Ausgeschiedenen.</p>
+<p rendition="#et">15. Das Dichte und Feuchte und Kalte und Dunkle drängte sich auf die Stelle zusammen, wo jetzt die Erde ist, das Dünne und das Warme und das Trockne aber drang hinaus in das Weite des Äthers.</p>
+<p rendition="#et">16. Aus diesen Ausscheidungen gerinnt die Erde. Denn aus den <pb n="406" facs="#f0009"/> Wolken scheidet sich das Wasser aus, aus dem Wasser die Erde, aus der Erde gerinnen die Steine unter Einwirkung der Kälte. Diese aber drängen sich mehr heraus als das Wasser.</p>
+<p rendition="#et">17. In bezug auf das Entstehen und Vergehen haben die Hellenen einen unrichtigen Sprachgebrauch. Denn kein Ding entsteht oder vergeht, sondern es mischt sich oder scheidet sich von bereits vorhandenen Dingen. Und so würden sie demnach richtig statt von Entstehen von Mischung und statt von Vergeben von Scheidung reden.</p>
+<p rendition="#et">18. Die Sonne verleiht dem Monde seinen Glanz.</p>
+<p rendition="#et">19. Regenbogen nennen wir den Widerschein der Sonne in den Wolken. Das ist nun ein Sturmvorzeichen. Denn das um die Wolke sich ergießende Wasser pflegt Wind zu erregen oder Regen auszugießen.</p>
+<p rendition="#et"><pb n="407" facs="#f00010"/> 21. Wegen ihrer [der Sinne] Schwäche sind wir nicht imstande die Wahrheit zu schauen.</p>
+<p rendition="#et">21<hi rendition="#sup">a</hi>. Das Sichtbare erschließt den Blick in das Unsichtbare.</p>
+<p rendition="#et">21<hi rendition="#sup">b</hi>. [In Kraft und Schnelligkeit stehen wir den Tieren nach,] allein wir benutzen die uns eigene Erfahrung und Gedächtniskraft und Weisheit und Kunst [und so zeideln und melken wir und bringen auf alle Weise ihren Besitz in unsere Scheunen.]</p>
+<p rendition="#et"><pb n="408" facs="#f00011"/> 22. [A. behauptet in seiner Physik] unter der [sprichwörtlich] sogenannten Vogelsmilch [habe man] das Weiße im Ei [zu verstehen].<pb n="409" facs="#f00012"/></p>
+
+</div>
+
+</body></text></TEI>

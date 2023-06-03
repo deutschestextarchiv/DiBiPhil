@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kleine philosophische Schriften (1842-1845)</title>
+        <author><persName ref="http://d-nb.info/gnd/32758">
+        <forename>Ludwig</forename>
+        <surname>Feuerbach</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Ludwig Feuerbach: Kleine philosophische Schriften (1842-1845). Herausgegeben von Max
+      Gustav Lange, Leipzig: Felix Meiner, 1950 (Philosophische Bibliothek, Bd. 227).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Kleine philosophische Schriften (1842-1845)</title>
+      <author><persName ref="http://d-nb.info/gnd/32758">
+        <forename>Ludwig</forename>
+        <surname>Feuerbach</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/27020">
+        <forename>Max Gustav</forename>
+        <surname>Lange</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Felix Meiner</name>
+      </publisher><pubPlace>Leipzig</pubPlace>
+      <date type="publication">1950</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1842. Erstdruck in: Das literarische Comptoir (Zürich und Winterthur) 1843.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Vorläufige Thesen zur Reform der Philosophie</note>
+
+
+<head>Ludwig Feuerbach</head>
+<head>Vorläufige Thesen zur Reform der Philosophie</head>
+<pb n="55" facs="#f0001"/>
+<p rendition="#et">Das Geheimnis der <hi rendition="#i">Theologie</hi> ist die <hi rendition="#i">Anthropologie</hi>, das Geheimnis aber der <hi rendition="#i">spekulativen Philosophie</hi> die <hi rendition="#i">Theologie</hi> – die <hi rendition="#i">spekulative</hi> Theologie, welche sich dadurch von der <hi rendition="#i">gemeinen</hi> unterscheidet, daß sie das von dieser aus Furcht und Unverstand in das Jenseits entfernte göttliche Wesen ins Diesseits versetzt, d.h. <hi rendition="#i">vergegenwärtigt, bestimmt, realisiert</hi>.</p>
+
+<p rendition="#et"><hi rendition="#i">Spinoza</hi> ist der eigentliche Urheber der modernen spekulativen Philosophie, <hi rendition="#i">Schelling</hi> ihr Wiederhersteller, <hi rendition="#i">Hegel</hi> ihr Vollender.</p>
+
+<p rendition="#et">Der <hi rendition="#i">»Pantheismus«</hi> ist die <hi rendition="#i">notwendige Konsequenz</hi> der Theologie (oder des Theismus) – die <hi rendition="#i">konsequente</hi> Theologie; der »<hi rendition="#i">Atheismus</hi>« die <hi rendition="#i">notwendige Konsequenz</hi> des »Pantheismus«, der <hi rendition="#i">konsequente</hi> »Pantheismus.«<note place="end" n="1"><bibl><ref>/Philosophie/M/Feuerbach, Ludwig/Vorläufige Thesen zur Reform der Philosophie#F4675</ref></bibl></note></p>
+<p rendition="#et">Das Christentum ist der <hi rendition="#i">Widerspruch</hi> von <hi rendition="#i">Polytheismus</hi> und <hi rendition="#i">Monotheismus</hi>.</p>
+
+<p rendition="#et">Der Pantheismus ist der <hi rendition="#i">Monotheismus</hi> mit dem<hi rendition="#i"> Prädikate</hi> des Polytheismus, d.h. der Pantheismus macht die selbständigen Wesen des Polytheismus zu Prädikaten, Attributen des einen selbständigen Wesens. So machte Spinoza das Denken, als den Inbegriff der denkenden Dinge, und die Materie, als den Inbegriff der ausgedehnten Dinge, zu Attributen der Substanz, d.i. Gottes. Gott ist ein denkendes Ding, Gott ist ein ausgedehntes Ding.</p>
+
+<p rendition="#et">Die Identitätsphilosophie unterschied sich nur dadurch von der Spinozischen, daß sie das tote, phlegmatische Ding der Substanz mit dem Spiritus des Idealismus begeisterte. Hegel insbesondere machte<pb n="55" facs="#f0002"/> die Selbsttätigkeit, die Selbstunterscheidungskraft, das Selbstbewußtsein zum Attribut der Substanz. Der paradoxe Satz Hegels: »das Bewußtsein von Gott ist das Selbstbewußtsein Gottes«, beruht auf <hi rendition="#i">demselben Fundament</hi>, als der paradoxe Satz Spinozas: »die Ausdehnung oder Materie ist ein Attribut der Substanz«, und hat keinen anderen Sinn, als: das Selbstbewußtsein ist ein Attribut der Substanz oder Gottes, Gott ist Ich. Das Bewußtsein, welches der Theist im Unterschiede vom <hi rendition="#i">wirklichen</hi> Bewußtsein Gott zuschreibt, ist nur eine Vorstellung der Realität. Der Satz Spinozas aber: die Materie ist <hi rendition="#i">Attribut</hi> der Substanz, sagt nichts weiter aus, als die Materie ist substanzielle göttliche Wesenheit: ebenso der Satz Hegels nichts weiter als: das Bewußtsein ist göttliches Wesen.</p>
+
+<p rendition="#et">Die Methode der reformatorischen Kritik der <hi rendition="#i">spekulativen Philosophie überhaupt</hi> unterscheidet sich nicht von der bereits in der <hi rendition="#i">Religionsphilosophie</hi> angewandten. Wir dürfen nur immer das <hi rendition="#i">Prädikat</hi> zum<hi rendition="#i"> Subjekt</hi>, und so als <hi rendition="#i">Subjekt</hi> zum <hi rendition="#i">Objekt</hi> und Prinzip machen – also die spekulative Philosophie nur <hi rendition="#i">umkehren</hi>, so haben wir die unverhüllte, die pure, blanke Wahrheit.</p>
+
+<p rendition="#et">Der »Atheismus« ist der umgekehrte »Pantheismus«.</p>
+
+<p rendition="#et">Der Pantheismus ist <hi rendition="#i">die Negation der Theologie auf dem Standpunkt der Theologie</hi>.</p>
+
+<p rendition="#et">Wie nach Spinoza (Ethic. P. I. Defin. 3 u. Propos. 10.) das Attribut oder Prädikat der Substanz die Substanz selbst ist, so ist auch nach Hegel das <hi rendition="#i">Prädikat</hi> des Absoluten, des Subjektes überhaupt das <hi rendition="#i">Subjekt selbst</hi>. Das Absolute ist nach Hegel <pb n="56" facs="#f0003"/> Sein, Wesen, Begriff (Geist, Selbstbewußtsein). Das Absolute aber, als Sein nur gedacht, ist gar <hi rendition="#i">nichts anderes</hi> als Sein; das Absolute, inwiefern es unter dieser oder jener Bestimmtheit, Kategorie gedacht wird, geht <hi rendition="#i">ganz</hi> in diese Kategorie, diese Bestimmtheit auf, so daß es<hi rendition="#i"> abgesehen</hi> davon ein bloßer Name ist. Aber dessen ungeachtet, liegt doch noch das Absolute <hi rendition="#i">als Subjekt</hi> zugrunde, hat das wahre Subjekt, <hi rendition="#i">das</hi>, wodurch das Absolute nicht ein bloßer Name, sondern <hi rendition="#i">Etwas</hi> ist, die <hi rendition="#i">Determination</hi> doch noch immer die Bedeutung eines bloßen Prädikates, gerade wie bei Spinoza das Attribut.</p>
+
+<p rendition="#et">Das Absolute oder Unendliche der spekulativen Philosophie ist, psychologisch betrachtet, nichts anderes als das nicht Determinierte, Unbestimmte – die Abstraktion von allem Bestimmten, gesetzt als ein von dieser Abstraktion unterschiedenes, zugleich aber wieder mit derselben identifiziertes Wesen; historisch betrachtet aber nichts anderes als das alte theologisch-metaphysische <hi rendition="#i">nicht</hi> endliche, <hi rendition="#i">nicht</hi> menschliche,<hi rendition="#i"> nicht</hi> materielle, <hi rendition="#i">nicht</hi> bestimmte, <hi rendition="#i">nicht</hi> beschaffene Wesen oder Unwesen, – das vorweltliche Nichts gesetzt <hi rendition="#i">als Akt</hi>.</p>
+
+<p rendition="#et">Die Hegelsche Logik ist die zur <hi rendition="#i">Vernunft</hi> und <hi rendition="#i">Gegenwart</hi> gebrachte, zur <hi rendition="#i">Logik</hi> gemachte <hi rendition="#i">Theologie. Wie das göttliche Wesen der Theologie der ideale oder abstrakte Inbegriff aller Realitäten, d.i. aller Bestimmungen, aller Endlichkeiten ist, so die Logik</hi>. Alles, was auf Erden, findet sich wieder im Himmel der Theologie – so auch <hi rendition="#i">alles, was in der Natur, im Himmel der göttlichen Logik</hi>: Qualität, Quantität, Maß, Wesen, Chemismus, Mechanismus, Organismus. Alles haben wir <hi rendition="#i">zweimal</hi> in der Theologie, <pb n="57" facs="#f0004"/> das eine Mal in abstracto, das andere Mal in concreto. – Alles <hi rendition="#i">zweimal</hi> in der Hegelschen Philosophie; als Objekt der Logik, und dann wieder als Objekt der Natur-und Geistesphilosophie.</p>
+
+<p rendition="#et">Das Wesen der Theologie ist das <hi rendition="#i">transzendente</hi>, außer den Menschen hinausgesetzte Wesen des Menschen; das Wesen der Logik Hegels das <hi rendition="#i">transzendente</hi> Denken, das Denken des Menschen <hi rendition="#i">außer den Menschen gesetzt</hi>.</p>
+
+<p rendition="#et">Wie die Theologie den Menschen entzweit und <hi rendition="#i">entäußert</hi>, um dann das entäußerte Wesen wieder mit ihm zu identifizieren, so <hi rendition="#i">vervielfältigt</hi> und <hi rendition="#i">zersplittert</hi> Hegel das <hi rendition="#i">einfache, mit sich identische Wesen</hi> der Natur und des Menschen, um das gewaltsam Getrennte dann wieder gewaltsam zu vermitteln.</p>
+
+<p rendition="#et">Die Metaphysik oder Logik ist nur dann eine <hi rendition="#i">reelle, immanente</hi> Wissenschaft, wenn sie nicht vom sogenannten <hi rendition="#i">subjektiven Geiste abgetrennt</hi> wird. Die Metaphysik ist die <hi rendition="#i">esoterische Psychologie</hi>. Welche Willkür, welche Gewalttat, die Qualität für sich, die Empfindung für sich zu betrachten, beide in besondere Wissenschaften entzwei zu reißen, als wäre die Qualität etwas ohne Empfindung, die Empfindung etwas ohne Qualität.</p>
+
+<p rendition="#et">Der <hi rendition="#i">absolute Geist</hi> Hegels ist nichts anderes, als der <hi rendition="#i">abstrakte</hi>, von sich selbst abgesonderte, sogenannte <hi rendition="#i">endliche</hi> Geist, wie das unendliche Wesen der Theologie nichts anderes ist, als das <hi rendition="#i">abstrakte</hi> endliche Wesen.</p>
+
+<p rendition="#et">Der absolute Geist offenbart oder realisiert sich nach Hegel in der Kunst, in der Religion, in der Philosophie. Das heißt auf deutsch: der <hi rendition="#i">Geist der <pb n="58" facs="#f0005"/> Kunst, der Religion, der Philosophie ist der absolut Geist.</hi> Aber die Kunst und Religion kann man nicht von der menschlichen Empfindung, Phantasie und Anschauung, die Philosophie nicht vom Denken, kurz den absoluten Geist nicht vom subjektiven Geiste oder Wesen des Menschen absondern, ohne sich wieder auf den alten Standpunkt der Theologie zurückzuversetzen, ohne sich den absoluten Geist als einen <hi rendition="#i">anderen</hi>, vom menschlichen Wesen unterschiedenen Geist, d.h. ein außer uns existierendes Gespenst von uns selbst vorzuspiegeln.</p>
+
+<p rendition="#et">Der »absolute Geist« ist der »abgeschiedene Geist« der Theologie, welcher in der Hegelschen Philosophie noch als <hi rendition="#i">Gespenst</hi> umgeht.</p>
+
+<p rendition="#et">Die Theologie ist <hi rendition="#i">Gespensterglaube</hi>. Die <hi rendition="#i">gemeine</hi> Theologie hat aber ihre Gespenster in der sinnlichen Imagination, die <hi rendition="#i">spekulative</hi> Theologie in der unsinnlichen Abstraktion.</p>
+
+<p rendition="#et">Abstrahieren heißt das <hi rendition="#i">Wesen</hi> der Natur <hi rendition="#i">außer die Natur</hi>, das <hi rendition="#i">Wesen</hi> des Menschen <hi rendition="#i">außer den Menschen</hi>, das <hi rendition="#i">Wesen</hi> des Denkens <hi rendition="#i">außer den Denkakt</hi> setzen. Die Hegelsche Philosophie hat den Menschen<hi rendition="#i"> sich selbst entfremdet</hi>, indem ihr ganzes System auf diesen Abstraktionsakten beruht. Sie identifiziert zwar wieder, was sie trennt, aber nur auf eine selbst wieder <hi rendition="#i">trennbare, mittelbare</hi> Weise. Der Hegelschen Philosophie fehlt <hi rendition="#i">unmittelbare Einheit, unmittelbare Gewißheit, unmittelbare Wahrheit.</hi></p>
+
+<p rendition="#et">Die unmittelbare, sonnenklare, truglose Identifikation des durch die Abstraktion vom Menschen entäußerten Wesens des Menschen <hi rendition="#i">mit</hi> dem Menschen kann nicht auf positivem Wege, kann nur als die <hi rendition="#i">Negation</hi> <pb n="59" facs="#f0006"/> der Hegelschen Philosophie aus ihr abgeleitet, kann überhaupt <hi rendition="#i">nur begriffen</hi>, nur <hi rendition="#i">verstanden</hi> werden, wenn sie <hi rendition="#i">als die totale Negation</hi> der spekulativen Philosophie begriffen wird, ob sie gleich die<hi rendition="#i"> Wahrheit</hi> derselben ist. Alles steckt zwar in der Hegelschen Philosophie, aber immer zugleich mit seiner<hi rendition="#i"> Negation</hi>, seinem <hi rendition="#i">Gegensatze</hi>.</p>
+
+<p rendition="#et">Der <hi rendition="#i">augenfällige</hi> Beweis, daß der absolute Geist der sogenannte endliche, subjektive Geist ist, also jener nicht von diesem abgesondert werden kann und darf – ist die <hi rendition="#i">Kunst</hi>. Die Kunst geht aus dem Gefühl hervor, daß das diesseitige Leben das wahre Leben, das <hi rendition="#i">Endliche</hi> das <hi rendition="#i">Unendliche</hi> ist – aus der Begeisterung für ein <hi rendition="#i">bestimmtes, wirkliches</hi> Wesen als das<hi rendition="#i"> höchste</hi>, das <hi rendition="#i">göttliche</hi> Wesen. Der <hi rendition="#i">christliche Monotheismus</hi> hat <hi rendition="#i">kein Prinzip der künstlerischen</hi> und<hi rendition="#i"> wissenschaftlichen Bildung in sich</hi>. Nur der <hi rendition="#i">Polyteismus</hi>, der sogenannte <hi rendition="#i">Götzendienst</hi> ist die Quelle der<hi rendition="#i"> Kunst und Wissenschaft</hi>. Die Griechen erhoben sich nur dadurch zur Vollendung der plastischen Kunst, daß ihnen unbedingt und <hi rendition="#i">unbedenklich</hi> die menschliche Gestalt für die höchste Gestalt, für die Gestalt der Gottheit galt. Die Christen kamen erst da zur Poesie, als sie die <hi rendition="#i">christliche Theologie praktisch negierten</hi>, das <hi rendition="#i">weibliche</hi> Wesen als <hi rendition="#i">göttliches</hi> Wesen verehrten. Die Christen waren im <hi rendition="#i">Widerspruch</hi> mit dem Wesen ihrer Religion, wie sie es vorstellten, wie es <hi rendition="#i">Gegenstand</hi> ihres Bewußtseins war, Künstler und Poeten. Petrarca <hi rendition="#i">bereute</hi> aus Religion die Gedichte, in denen er seine Laura vergöttert hatte. Warum haben die Christen nicht wie die Heiden ihren religiösen Vorstellungen adäquate Kunstwerke? Warum kein sie vollkommen befriedigendes Christusbild? <pb n="60" facs="#f0007"/> Weil die religiöse Kunst der Christen scheitert an dem verderblichen <hi rendition="#i">Widerspruch</hi> zwischen ihrem <hi rendition="#i">Bewußtsein</hi> und der <hi rendition="#i">Wahrheit</hi>. Das Wesen der christlichen Religion ist in Wahrheit das menschliche, im Bewußtsein der Christen aber ein <hi rendition="#i">anderes</hi>, ein <hi rendition="#i">nicht</hi> menschliches. Christus soll Mensch und wieder nicht Mensch sein; er ist eine Amphibolie. Die Kunst kann aber nur das Wahre, <hi rendition="#i">Unzweideutige</hi> darstellen.</p>
+
+<p rendition="#et">Das entschiedene, zu Fleisch und Blut gewordene Bewußtsein, daß das Menschliche das Göttliche, das Endliche das Unendliche, ist die Quelle einer neuen Poesie und Kunst, die an Energie, Tiefe und Feuer alle bisherigen übertreffen wird. Der Glaube an das Jenseits Ist ein absolut unpoetischer Glaube. Der Schmerz ist die Quelle der Poesie. Nur wer den Verlust eines endlichen Wesens als einen unendlichen Verlust empfindet, hat die Kraft zu lyrischem Feuer, Nur der schmerzliche Reiz der Erinnerung an das, was <hi rendition="#i">nicht mehr ist</hi>, ist der erste Künstler, der erste Idealist im Menschen. Aber der Glaube an das Jenseits macht jeden Schmerz zum Scheine, zur Unwahrheit.</p>
+
+<p rendition="#et">Die Philosophie, welche das Endliche aus dem Unendlichen, das Bestimmte aus dem Unbestimmten ableitet, <hi rendition="#i">bringt es nie zu einer wahren Position des Endlichen und Bestimmten</hi>. Das Endliche wird aus dem Unendlichen abgeleitet – das heißt: das Unendliche, das Unbestimmte wird bestimmt, <hi rendition="#i">negiert</hi>; es wird eingestanden, daß das Unendliche <hi rendition="#i">ohne Bestimmung, d.h. ohne Endlichkeit nichts</hi> ist, als die <hi rendition="#i">Realität</hi> des Unendlichen also das <hi rendition="#i">Endliche</hi> gesetzt. Aber das negative Unwesen des Absoluten bleibt zugrundeliegen; <pb n="61" facs="#f0008"/> die gesetzte Endlichkeit wird daher immer wieder aufgehoben. Das <hi rendition="#i">Endliche</hi> ist die <hi rendition="#i">Negation</hi> des <hi rendition="#i">Unendlichen</hi>, und wieder das <hi rendition="#i">Unendliche</hi> die <hi rendition="#i">Negation</hi> des<hi rendition="#i"> Endlichen</hi>. Die Philosophie des Absoluten ist ein <hi rendition="#i">Widerspruch</hi>.</p>
+
+<p rendition="#et">Wie in der Theologie der <hi rendition="#i">Mensch</hi> die <hi rendition="#i">Wahrheit, Realität</hi> Gottes ist – denn alle Prädikate, die Gott als Gott realisieren, Gott zu einem <hi rendition="#i">wirklichen Wesen</hi> machen, wie Macht, Weisheit, Güte, Liebe, selbst Unendlichkeit und Persönlichkeit, als welche den <hi rendition="#i">Unterschied</hi> vom Endlichen zur Bedingung haben, werden erst in und mit dem Menschen gesetzt – ebenso ist in der spekulativen Philosophie die <hi rendition="#i">Wahrheit</hi> des <hi rendition="#i">Unendlichen</hi> das <hi rendition="#i">Endliche</hi>.</p>
+
+<p rendition="#et">Die Wahrheit des Endlichen wird von der absoluten Philosophie nur auf <hi rendition="#i">indirekte, verkehrte</hi> Weise ausgesprochen. Wenn das Unendliche nur ist, nur<hi rendition="#i"> Wahrheit</hi> und <hi rendition="#i">Wirklichkeit</hi> hat, wenn es <hi rendition="#i">bestimmt</hi>, d.h. wenn es nicht als Unendliches, sondern <hi rendition="#i">Endliches</hi> gesetzt wird, so ist ja in Wahrheit das <hi rendition="#i">Endliche</hi> das <hi rendition="#i">Unendliche</hi>.</p>
+
+<p rendition="#et">Die Aufgabe der wahren Philosophie ist nicht, das Unendliche als das Endliche, sondern das Endliche als das nicht Endliche, als das Unendliche zu erkennen, oder <hi rendition="#i">nicht</hi> das Endliche in das Unendliche, sondern das Unendliche in das Endliche zu setzen.</p>
+
+<p rendition="#et">Der Anfang der Philosophie ist nicht Gott, nicht das Absolute, nicht das Sein als <hi rendition="#i">Prädikat</hi> des Absoluten oder der Idee – der Anfang der Philosophie <pb n="62" facs="#f0009"/> ist das Endliche,<note place="end" n="2"><bibl><ref>/Philosophie/M/Feuerbach, Ludwig/Vorläufige Thesen zur Reform der Philosophie#F4676</ref></bibl></note> das Bestimmte, das <hi rendition="#i">Wirkliche</hi>. Das Unendliche kann gar nicht gedacht werden <hi rendition="#i">ohne</hi> das Endliche. Kannst <hi rendition="#i">Du die</hi> Qualität denken, definieren, ohne an eine <hi rendition="#i">bestimmte Qualität</hi> zu denken? Also ist nicht das Unbestimmte, sondern das Bestimmte das erste, denn die <hi rendition="#i">bestimmte</hi> Qualität ist nichts anderes als die wirkliche Qualität; der gedachten Qualität geht die wirkliche voraus.</p>
+
+<p rendition="#et">Der <hi rendition="#i">subjektive</hi> Ursprung und Gang der Philosophie ist auch ihr <hi rendition="#i">objektiver</hi> Gang und Ursprung. Ehe Du die Qualität denkst, <hi rendition="#i">fühlst</hi> Du die Qualität. Dem Denken geht das <hi rendition="#i">Leiden</hi> voran.</p>
+
+<p rendition="#et">Das Unendliche ist das <hi rendition="#i">wahre Wesen</hi> des Endlichen – das wahre Endliche. Die wahre Spekulation oder Philosophie ist nichts als die <hi rendition="#i">wahre</hi> und <hi rendition="#i">universale Empirie</hi>.</p>
+
+<p rendition="#et">Das Unendliche der Religion und Philosophie ist und war nie etwas anderes als irgendein <hi rendition="#i">Endliches</hi>, irgendein Bestimmtes, aber <hi rendition="#i">mystifiziert, d.h</hi>. ein Endliches, ein Bestimmtes, <hi rendition="#i">mit dem Postulat, nichts</hi> Endliches, <hi rendition="#i">nichts</hi> Bestimmtes zu sein. Die spekulative Philosophie hat sich <hi rendition="#i">desselben Fehlers</hi> schuldig gemacht als die Theologie, – die Bestimmungen der Wirklichkeit oder Endlichkeit nur durch die <hi rendition="#i">Negation</hi> der Bestimmtheit, in welcher <pb n="63" facs="#f00010"/> sie sind, <hi rendition="#i">was sie sind</hi>, zu Bestimmungen, Prädikaten des Unendlichen gemacht.</p>
+
+<p rendition="#et">Ehrlichkeit und Redlichkeit sind zu allen Dingen nütze – auch zur Philosophie. Ehrlich und redlich ist aber nur die Philosophie, wenn sie die Endlichkeit ihrer spekulativen Unendlichkeit eingesteht – eingesteht also, daß z.B. das Geheimnis der Natur in Gott nichts anderes ist als das Geheimnis der menschlichen Natur, daß die <hi rendition="#i">Nacht</hi>, die sie in Gott setzt, um aus ihr das Licht des Bewußtseins zu erzeugen, nichts ist, als ihr eigenes, <hi rendition="#i">dunkles, instinktartiges</hi> Gefühl von der Realität und Unentbehrlichkeit der Materie.</p>
+
+<p rendition="#et">Der bisherige Gang der spekulativen Philosophie vom Abstrakten zum Konkreten, vom Idealen zum Realen ist ein verkehrter. Auf diesem Wege kommt man nie zur <hi rendition="#i">wahren, objektiven</hi> Realität, sondern immer nur zur <hi rendition="#i">Realisation seiner eigenen Abstraktionen</hi>, und eben deswegen nie zur wahren <hi rendition="#i">Freiheit</hi> des Geistes; denn <hi rendition="#i">nur die Anschauung der Dinge und Wesen in ihrer objektiven Wirklichkeit macht den Menschen frei und ledig aller Vorurteile</hi>. Der Übergang vom Idealen zum Realen hat seinen Platz nur in der praktischen Philosophie.</p>
+
+<p rendition="#et">Die Philosophie ist die Erkenntnis dessen, <hi rendition="#i">was ist</hi>. Die Dinge und Wesen <hi rendition="#i">so</hi> zu denken, <hi rendition="#i">so</hi> zu erkennen,<hi rendition="#i"> wie sie sind</hi> – dies ist das höchste Gesetz, die höchste Aufgabe der Philosophie.</p>
+
+<p rendition="#et">Das, was ist, <hi rendition="#i">so, wie</hi> es ist – also das Wahre <hi rendition="#i">wahr</hi> ausgesprochen, <hi rendition="#i">scheint oberflächlich</hi>; das, was ist,<hi rendition="#i"> so, wie es nicht ist</hi> – also das <pb n="64" facs="#f00011"/> Wahre <hi rendition="#i">unwahr, verkehrt</hi> ausgesprochen, <hi rendition="#i">scheint tief</hi> zu sein.</p>
+
+<p rendition="#et"><hi rendition="#i">Wahrhaftigkeit, Einfachheit, Bestimmtheit</hi> sind die formellen. Kennzeichen der <hi rendition="#i">reellen</hi> Philosophie.</p>
+
+<p rendition="#et">Das Sein, mit dem die Philosophie beginnt, kann nicht vom Bewußtsein, das Bewußtsein nicht vom Sein abgetrennt werden. Wie die Realität der Empfindung die Qualität und umgekehrt die Empfindung die Realität der Qualität ist, so ist auch das Sein die Realität des Bewußtseins, aber ebenso umgekehrt das Bewußtsein die Realität des Seins – das Bewußtsein erst das <hi rendition="#i">wirkliche</hi> Sein. Die <hi rendition="#i">reelle</hi> Einheit von Geist und Natur ist nur das Bewußtsein.</p>
+
+<p rendition="#et">Alle die Bestimmungen, Formen, Kategorien oder wie man es sonst nennen will, welche die spekulative Philosophie vom Absoluten abgestreift und in das Gebiet des <hi rendition="#i">Endlichen, Empirischen</hi> verstoßen hat, enthalten gerade das <hi rendition="#i">wahre Wesen</hi> des Endlichen, das<hi rendition="#i"> wahre Unendliche</hi>, die <hi rendition="#i">wahren und letzten Mysterien</hi> der Philosophie.</p>
+
+<p rendition="#et"><hi rendition="#i">Raum</hi> und <hi rendition="#i">Zeit</hi> sind die Existenzformen alles Wesens. Nur die Existenz in Raum und Zeit ist <hi rendition="#i">Existenz</hi>. Die Negation von Raum und Zeit ist immer nur die<hi rendition="#i"> Negation ihrer Schranken, nicht ihres Wesens</hi>. Eine zeitlose Empfindung, ein zeitloser Wille, ein zeitloser Gedanke, ein zeitloses Wesen sind Undinge. Wer keine Zeit überhaupt, hat auch keine Zeit, keinen Drang zum Wollen, zum Denken.</p>
+
+<p rendition="#et">Die Negation von Raum und Zeit in der Metaphysik, im Wesen der Dinge hat die verderblichsten praktischen Folgen. Nur wer <hi rendition="#i">überall</hi> auf dem Standpunkte <pb n="65" facs="#f00012"/> der Zeit und des Raumes steht, hat auch im Leben <hi rendition="#i">Takt</hi> und <hi rendition="#i">praktischen Verstand</hi>. Raum und Zeit sind die ersten Kriterien der Praxis. Ein Volk, welches aus seiner Metaphysik die Zeit ausschließt, die ewige, d.h. <hi rendition="#i">abstrakte</hi>, von der Zeit abgesonderte Existenz vergöttert, das schließt konsequent auch aus seiner Politik die Zeit aus, vergöttert das rechts- und vernunftswidrige, antigeschichtliche Stabilitätsprinzip.</p>
+
+<p rendition="#et">Die spekulative Philosophie hat die von der <hi rendition="#i">Zeit abgesonderte Entwicklung</hi> zu einer Form, einem Attribut des Absoluten gemacht. Diese Absonderung der Entwicklung von der Zeit ist aber ein wahres Meisterstück <hi rendition="#i">spekulativer Willkür</hi> und der schlagende Beweis, daß die spekulativen Philosophen es ebenso gemacht haben mit ihrem Absoluten, wie die Theologen mit ihrem Gott, der alle Affekte des Menschen hat<hi rendition="#i"> ohne Affekte</hi>, liebt <hi rendition="#i">ohne Liebe</hi>, zürnt <hi rendition="#i">ohne Zorn</hi>. Entwicklung ohne Zeit ist so viel als Entwicklung <hi rendition="#i">ohne Entwicklung</hi>. Der Satz: das absolute Wesen entwickelt sich aus sich – ist übrigens nur <hi rendition="#i">umgekehrt</hi> ein wahrer, vernünftiger. Es muß also heißen: nur ein sich entwickelndes, sich zeitlich entfaltendes Wesen ist ein <hi rendition="#i">absolutes</hi>, d.i. <hi rendition="#i">wahres, wirkliches</hi> Wesen.</p>
+
+<p rendition="#et">Raum und Zeit sind die Offenbarungsformen des<hi rendition="#i"> wirklichen</hi> Unendlichen.</p>
+
+<p rendition="#et"><hi rendition="#i">Wo keine Grenze, keine Zeit, keine Not, da ist auch keine Qualität, keine Energie, kein Spiritus, kein Feuer, keine Liebe</hi>. Nur das <hi rendition="#i">notleidende</hi> Wesen ist das <hi rendition="#i">notwendige</hi> Wesen. <hi rendition="#i">Bedürfnislose</hi> Existenz ist <hi rendition="#i">überflüssige</hi> Existenz. Was frei ist von Bedürfnissen überhaupt, hat auch kein Bedürfnis der Existenz. Ob es ist oder nicht <pb n="66" facs="#f00013"/> ist, das ist eins – eins für es selbst, eins für andere. Ein Wesen ohne Not ist ein Wesen ohne <hi rendition="#i">Grund</hi>. Nur was <hi rendition="#i">leiden</hi> kann, verdient zu existieren. Nur das <hi rendition="#i">schmerzensreiche Wesen ist göttliches Wesen</hi>. Ein Wesen <hi rendition="#i">ohne Leiden</hi> ist ein Wesen<hi rendition="#i"> ohne Wesen</hi>. Ein Wesen ohne Leiden ist aber nichts anderes, als ein Wesen <hi rendition="#i">ohne Sinnlichkeit, ohne Materie</hi>.</p>
+
+<p rendition="#et">Eine Philosophie, welche kein <hi rendition="#i">passives Prinzip</hi> in sich hat, eine Philosophie, welche spekuliert über Existenz <hi rendition="#i">ohne Zeit</hi>, über das Dasein <hi rendition="#i">ohne Dauer</hi>, über die Qualität <hi rendition="#i">ohne Empfindung</hi> über das Wesen<hi rendition="#i"> ohne Wesen</hi>, über das Leben <hi rendition="#i">ohne Leben</hi>, ohne Fleisch und Blut – eine solche Philosophie, wie die des Absoluten überhaupt, hat, als eine durchaus <hi rendition="#i">einseitige, notwendig</hi> die Empirie zu ihrem Gegensatz. Spinoza hat die Materie wohl zu einem Attribut der Substanz gemacht, aber nicht als ein Prinzip des Leidens, sondern gerade deswegen, weil sie <hi rendition="#i">nicht</hi> leidet, weil sie einzig, unteilbar, unendlich ist, weil sie insofern die <hi rendition="#i">nämlichen</hi> Bestimmungen hat, als das ihr<hi rendition="#i"> entgegengesetzte</hi> Attribut des Denkens, kurz, weil sie eine <hi rendition="#i">abstrakte</hi> Materie, eine Materie <hi rendition="#i">ohne Materie</hi> ist, gleichwie das Wesen der Hegelschen Logik das Wesen der Natur und des Menschen ist, aber <hi rendition="#i">ohne Wesen, ohne Natur, ohne Mensch</hi>.</p>
+
+<p rendition="#et">Der Philosoph muß das im Menschen, was <hi rendition="#i">nicht</hi> philosophiert, was vielmehr <hi rendition="#i">gegen</hi> die Philosophie ist, dem abstrakten Denken opponiert, das also, was bei Hegel nur zur <hi rendition="#i">Anmerkung</hi> herabgesetzt ist, in den<hi rendition="#i"> Text</hi> der Philosophie aufnehmen. Nur so wird die Philosophie zu einer <hi rendition="#i">universalen, gegensatzlosen, unwiderleglichen, unwiderstehlichen <pb n="67" facs="#f00014"/> Macht</hi>. Die Philosophie hat daher nicht <hi rendition="#i">mit sich</hi>, sondern mit ihrer <hi rendition="#i">Antithese</hi>, mit der <hi rendition="#i">Nichtphilosophie</hi> zu beginnen. Dieses vom Denken unterschiedene, unphilosophische, absolut <hi rendition="#i">antischolastische</hi> Wesen in uns ist das Prinzip des <hi rendition="#i">Sensualismus</hi>.</p>
+
+<p rendition="#et">Die wesentlichen Werkzeuge, Organe der Philosophie sind der <hi rendition="#i">Kopf</hi>, die Quelle der Aktivität, der Freiheit, der metaphysischen Unendlichkeit, des Idealismus, und das <hi rendition="#i">Herz</hi>, die Quelle der Leiden, der Endlichkeit, des Bedürfnisses, des Sensualismus – theoretisch ausgedrückt: <hi rendition="#i">Denken und Anschauung</hi>; denn das <hi rendition="#i">Denken</hi> ist das <hi rendition="#i">Bedürfnis</hi> des <hi rendition="#i">Kopfes</hi>, die <hi rendition="#i">Anschauung</hi>, der <hi rendition="#i">Sinn</hi> das <hi rendition="#i">Bedürfnis</hi> des <hi rendition="#i">Herzens</hi>. Das Denken ist <hi rendition="#i">das Prinzip</hi> der Schule, des Systems, die Anschauung das <hi rendition="#i">Prinzip des Lebens</hi>. In der Anschauung werde ich <hi rendition="#i">bestimmt</hi> vom Gegenstande, im Denken <hi rendition="#i">bestimme</hi> ich den Gegenstand; im Denken bin ich <hi rendition="#i">Ich</hi>, in der Anschauung <hi rendition="#i">Nicht-Ich</hi>. Nur aus der <hi rendition="#i">Negation</hi> des Denkens, aus dem <hi rendition="#i">Bestimmtsein</hi> vom Gegenstande, aus der <hi rendition="#i">Passion</hi>, aus der Quelle aller Lust und Not erzeugt sich der wahre, objektive Gedanke, die wahre, objektive Philosophie. Die Anschauung gibt das mit der <hi rendition="#i">Existenz unmittelbar identische</hi>, das Denken das durch die <hi rendition="#i">Unterscheidung</hi>, die <hi rendition="#i">Absonderung</hi> von der Existenz <hi rendition="#i">vermittelte</hi> Wesen. Nur da also, wo sich mit dem Wesen die Existenz, mit dem Denken die Anschauung, mit der Aktivität die Passivität, mit dem <hi rendition="#i">scholastischen Phlegma der deutschen Metaphysik</hi> das <hi rendition="#i">antischolastische, sanguinische Prinzip des französischen Sensualismus</hi> und <hi rendition="#i">Materialismus</hi> vereinigt, nur da ist <hi rendition="#i">Leben</hi> und <hi rendition="#i">Wahrheit</hi>.</p>
+<p rendition="#et"><pb n="68" facs="#f00015"/> Wie die Philosophie, so der Philosoph, und umgekehrt: die Eigenschaften des Philosophen, die <hi rendition="#i">subjektiven Bedingungen</hi> und <hi rendition="#i">Elemente</hi> der Philosophie sind auch ihre <hi rendition="#i">objektiven</hi>. Der wahre, der <hi rendition="#i">mit dem Leben, dem Menschen identische</hi> Philosoph muß<hi rendition="#i"> gallo-germanischen</hi> Geblütes sein. Erschreckt nicht, ihr keuschen Deutschen, über diese Vermischung! Schon Anno 1716 haben diesen Gedanken die Acta Philosophorum ausgesprochen. »Wenn wir die <hi rendition="#i">Deutschen</hi> und <hi rendition="#i">Franzosen</hi> gegeneinanderhalten, so haben zwar dieser ihre ingenia mehr Hurtigkeit, jene aber mehr Solidität, und man könnte füglich sagen, das temperamentum Gallico-germanicum schicke sich am besten zur Philosophie, oder ein Kind, welches einen<hi rendition="#i"> Franzosen</hi> zum Vater und eine <hi rendition="#i">Deutsche</hi> zur Mutter hat, müßte (caeteris paribus) ein gut ingenium philosophicum bekommen.« Ganz richtig; nur müssen wir die Mutter zur Französin, den Vater zum Deutschen machen. Das Herz – das weibliche Prinzip, der <hi rendition="#i">Sinn</hi> für das Endliche, der Sitz des Materialismus – ist<hi rendition="#i"> französisch gesinnt</hi>; der <hi rendition="#i">Kopf</hi> – das männliche Prinzip, der Sitz des Idealismus – <hi rendition="#i">deutsch</hi>. Das Herz revolutioniert, der Kopf reformiert; der Kopf bringt die Dinge <hi rendition="#i">zustande</hi>, das Herz in <hi rendition="#i">Bewegung</hi>. Aber nur wo Bewegung, Wallung, Leidenschaft, Blut, Sinnlichkeit, da ist auch <hi rendition="#i">Geist</hi>. Nur der Esprit Leibniz, sein sanguinisches, <hi rendition="#i">materialistisch</hi>-idealistisches Prinzip war es, was zuerst die Deutschen aus ihrem philosophischen Pedantismus und Scholastizismus herausriß.</p>
+
+<p rendition="#et">Das Herz galt bisher in der Philosophie für die Brustwehr der Theologie. Aber gerade das Herz ist das schlechterdings <hi rendition="#i">antitheologische</hi>, das im Sinn der Theologie ungläubige, atheistische Prinzip <pb n="69" facs="#f00016"/> im Menschen. Denn es glaubt an <hi rendition="#i">nichts anderes</hi>, als <hi rendition="#i">an sich selbst</hi>, glaubt nur an die unumstößliche, göttliche, absolute Realität <hi rendition="#i">seines</hi> Wesens. Aber der Kopf, welcher das Herz <hi rendition="#i">nicht</hi> versteht, verwandelt, weil Trennen, Unterscheiden in Subjekt und Objekt seine Sache ist, das eigene Wesen des Herzens in ein vom Herzen<hi rendition="#i"> unterschiedenes, objektives, äußerliches</hi> Wesen. Allerdings ist dem Herzen ein <hi rendition="#i">anderes</hi> Wesen ein Bedürfnis, jedoch nur ein solches Wesen, welches seinesgleichen, <hi rendition="#i">nicht</hi> vom Herzen unterschieden ist,<hi rendition="#i"> nicht</hi> dem Herzen widerspricht. Die Theologie <hi rendition="#i">leugnet</hi> die <hi rendition="#i">Wahrheit</hi> des <hi rendition="#i">Herzens</hi>, die <hi rendition="#i">Wahrheit</hi> des <hi rendition="#i">religiösen Affektes</hi>. Der religiöse Affekt, das Herz, sagt z.B.: »<hi rendition="#i">Gott leidet</hi>«; die Theologie dagegen sagt: Gott leidet <hi rendition="#i">nicht</hi>, d.h. das Herz <hi rendition="#i">leugnet</hi> den <hi rendition="#i">Unterschied</hi> Gottes vom Menschen, die Theologie <hi rendition="#i">behauptet</hi> ihn.</p>
+
+<p rendition="#et">Der Theismus beruht auf dem <hi rendition="#i">Zwiespalt</hi> von <hi rendition="#i">Kopf und Herz</hi>; der Pantheismus ist die Aufhebung dieses Zwiespaltes im <hi rendition="#i">Zwiespalt</hi> – denn er macht das göttliche Wesen nur <hi rendition="#i">als transzendentes</hi> immanent –; der Anthropotheismus <hi rendition="#i">ohne Zwiespalt</hi>. Der Anthropotheismus ist das zu <hi rendition="#i">Verstand</hi> gebrachte Herz; er spricht im Kopf nur auf Verstandesweise aus, was das Herz in seiner Weise sagt. Die Religion ist nur Affekt, Gefühl, Herz, Liebe, d.h. die Negation, <hi rendition="#i">Auflösung Gottes</hi> im Menschen. Die neue Philosophie ist daher, als die <hi rendition="#i">Negation der Theologie</hi>, welche die Wahrheit des religiösen Affektes leugnet, die <hi rendition="#i">Position der Religion</hi>. Der Anthropotheismus ist die <hi rendition="#i">selbstbewußte Religion</hi> – die Religion, <hi rendition="#i">die sich selbst versteht</hi>. Die Theologie dagegen <hi rendition="#i">negiert</hi> die Religion <hi rendition="#i">unter dem Scheine</hi>, als wenn sie sie <hi rendition="#i">ponierte</hi>.</p>
+<p rendition="#et"><hi rendition="#i"><pb n="70" facs="#f00017"/> Schelling</hi> und <hi rendition="#i">Hegel</hi> sind <hi rendition="#i">Gegensätze</hi>. Hegel repräsentiert das männliche Prinzip der Selbstständigkeit, der Selbsttätigkeit, kurz, das idealische Prinzip; Schelling das weibliche Prinzip der Rezeptivität, der Empfänglichkeit; – erst rezipierte er Fichte, dann Plato und Spinoza, endlich J. Böhme – kurz, das materialistische Prinzip. H. fehlt es an <hi rendition="#i">Anschauung</hi>, S. an <hi rendition="#i">Denk-, an Bestimmungskraft</hi>. S. ist Denker nur im <hi rendition="#i">Allgemeinen</hi>; aber wie es zur Sache kommt, im Besonderen, Bestimmten, verfällt er in den Somnambulismus der Imagination. Der Rationalismus bei S. ist nur <hi rendition="#i">Schein</hi>, der Irrationalismus <hi rendition="#i">Wahrheit</hi>. H. bringt es nur zu einer <hi rendition="#i">abstrakten</hi>, dem irrationalen Prinzip, S. nur zu einer dem rationellen Prinzip widersprechenden, <hi rendition="#i">mystischen imaginären</hi> Existenz und Realität. H. ergänzt den Mangel am Realismus durch <hi rendition="#i">derbsinnliche</hi>, S. durch <hi rendition="#i">schöne</hi> Worte. H. drückt das Ungemeine gemein, S. das Gemeine ungemein aus. H. macht die <hi rendition="#i">Dinge zu bloßen Gedanken</hi>, S. bloße <hi rendition="#i">Gedanken</hi> – z.B. die Aseität in Gott – zu <hi rendition="#i">Dingen</hi>. H. täuscht die denkenden Köpfe, S. die <hi rendition="#i">nicht</hi> denkenden. H. macht die Unvernunft zur Vernunft, S. umgekehrt die Vernunft zur Unvernunft. S. ist die Realphilosophie <hi rendition="#i">im Traume</hi>, H. schon im <hi rendition="#i">Begriffe</hi>. S. negiert das abstrakte Denken <hi rendition="#i">in der Phantasie</hi>, H. im <hi rendition="#i">abstrakten Denken</hi>. H. ist als die <hi rendition="#i">Selbstnegation</hi> des negativen Denkens, als die Vollendung der alten Philosophie der negative Anfang der neuen; S. ist die alte Philosophie <hi rendition="#i">mit der Einbildung, der Illusion</hi>, die neue Realphilosophie zu sein.</p>
+
+<p rendition="#et">Die Hegelsche Philosophie ist die Aufhebung des Widerspruches von Denken und Sein, wie ihn insbesondere <hi rendition="#i">Kant</hi> ausgesprochen, aber wohlgemerkt! <pb n="71" facs="#f00018"/> nur die Aufhebung dieses Widerspruches <hi rendition="#i">innerhalb des Widerspruches</hi> – innerhalb des <hi rendition="#i">einen</hi> Elementes – <hi rendition="#i">innerhalb des Denkens</hi>. Der <hi rendition="#i">Gedanke</hi> ist bei H. das<hi rendition="#i"> Sein</hi>; – der <hi rendition="#i">Gedanke</hi> das <hi rendition="#i">Subjekt</hi>, das <hi rendition="#i">Sein</hi> das <hi rendition="#i">Prädikat</hi>. Die Logik ist das Denken im Element des Denkens oder der sich selbstdenkende Gedanke – der Gedanke als <hi rendition="#i">prädikatloses Subjekt</hi> oder der Gedanke, der <hi rendition="#i">zugleich Subjekt, zugleich das Prädikat von sich</hi> ist. Das Denken aber im Element des Denkens ist noch abstraktes; es realisiert, es entäußert sich daher. Dieser realisierte, entäußerte Gedanke ist die Natur, überhaupt das Reale, das Sein. Was ist aber das wahre Reale in diesem Realen? Der Gedanke – welcher darum auch alsbald das Prädikat der Realität wieder von sich abstreift, um seine Prädikatlosigkeit als sein wahres Wesen herzustellen. Aber deswegen ist H. nicht zum <hi rendition="#i">Sein als Sein</hi>, zum freien, selbständigen, in sich selber glücklichen Sein gekommen. H. hat die Objekte nur gedacht als <hi rendition="#i">Prädikate</hi> des sich selbst denkenden Gedankens. Der nun eingestandene Widerspruch zwischen der <hi rendition="#i">seienden</hi> und <hi rendition="#i">gedachten</hi> Religion in der Hegelschen Religionsphilosophie kommt nur daher, daß auch hier, wie anderwärts, der Gedanke zum Subjekt, der Gegenstand, die Religion aber zu einem bloßen <hi rendition="#i">Prädikat</hi> des Gedankens gemacht wird.</p>
+
+<p rendition="#et"><hi rendition="#i">Wer die Hegelsche Philosophie nicht aufgibt, der gibt nicht die Theologie auf</hi>. Die Hegelsche Lehre, daß die Natur, die Realität von der Idee <hi rendition="#i">gesetzt</hi> – ist nur der <hi rendition="#i">rationelle</hi> Ausdruck von der theologischen Lehre, daß die Natur von Gott, das materielle Wesen von einem immateriellen, d.i. abstrakten Wesen geschaffen ist. Am Ende der Logik bringt es die absolute Idee sogar zu einem <pb n="72" facs="#f00019"/> nebulosen »<hi rendition="#i">Entschluß</hi>«, um eigenhändig ihre Abkunft aus dem theologischen Himmel zu dokumentieren.</p>
+
+<p rendition="#et"><hi rendition="#i">Die Hegelsche Philosophie ist der letzte Zufluchtsort, die letzte rationelle Stütze der Theologie</hi>. Wie einst die katholischen Theologen de facto Aristoteliker wurden, um den Protestantismus, so müssen jetzt die protestantischen Theologen de jure <hi rendition="#i">Hegelianer</hi> werden, um den »Atheismus« bekämpfen zu können.</p>
+
+<p rendition="#et">Das wahre Verhältnis vom Denken zum Sein ist nur dieses: das <hi rendition="#i">Sein</hi> ist <hi rendition="#i">Subjekt</hi>, das <hi rendition="#i">Denken Prädikat</hi>. Das Denken ist aus dem Sein, aber das Sein nicht aus dem Denken. Sein ist aus sich und durch sich – Sein wird nur durch Sein gegeben, – Sein hat seinen Grund in sich, weil nur Sein Sinn, Vernunft, Notwendigkeit, Wahrheit, kurz alles in allem ist. – Sein ist, weil Nichtsein Nichtsein, d.h. nichts, <hi rendition="#i">Unsinn</hi> ist.</p>
+
+<p rendition="#et">Das Wesen des Seins <hi rendition="#i">als Sein</hi> ist das Wesen der Natur. Die zeitliche Genesis erstreckt sich nur auf die Gestalten, nicht auf das Wesen der Natur.</p>
+
+<p rendition="#et">Das Sein wird nur da vom Denken abgeleitet, wo die <hi rendition="#i">wahre Einheit</hi> von Denken und Sein <hi rendition="#i">zerrissen</hi> ist, wo man erst dem Sein seine <hi rendition="#i">Seele</hi>, sein <hi rendition="#i">Wesen</hi> durch die Abstraktion genommen und dann hintendrein wieder in dem vom Sein abgezogenen Wesen den <hi rendition="#i">Sinn</hi> und <hi rendition="#i">Grund</hi> dieses für sich selbst leeren Seins findet; gleichwie nur da die Welt aus Gott abgeleitet wird und werden muß, wo man das Wesen der Welt von der Welt willkürlich absondert.</p>
+
+<p rendition="#et">Wer nach einem <hi rendition="#i">besonderen</hi> Realprinzip der Philosophie spekuliert, wie die sogenannten positiven<pb n="73" facs="#f00020"/> Philosophen:</p>
+<lb/>
+<p> Ist wie ein <hi rendition="#i">Tier</hi> auf <hi rendition="#i">dürrer Heide</hi></p>
+<p> Von einem <hi rendition="#i">bösen Geist</hi> im <hi rendition="#i">Kreis</hi> herum geführt,</p>
+<p> Und rings umher liegt <hi rendition="#i">schöne, grüne Weide</hi>.</p>
+<lb/>
+<p>Diese schöne, grüne Weide ist die Natur und der Mensch, denn beide gehören zusammen. Schaut die Natur an, schaut den Menschen an! Hier habt ihr die Mysterien der Philosophie vor euern Augen.</p>
+<lb/>
+<p rendition="#et">Die Natur ist das von der <hi rendition="#i">Existenz ununterschiedene</hi>, der Mensch das von der Existenz sich <hi rendition="#i">unterscheidende Wesen</hi>. Das nicht unterscheidende Wesen ist der Grund des unterscheidenden – die Natur also der Grund des Menschen.</p>
+
+<p rendition="#et">Die neue, die allein positive Philosophie ist die <hi rendition="#i">Negation aller Schulphilosophie</hi>, ob sie gleich das Wahre derselben in sich enthält, ist die Negation der Philosophie <hi rendition="#i">als einer abstrakten, partikularen</hi>, d.h.<hi rendition="#i"> scholastischen</hi> Qualität: sie hat kein <hi rendition="#i">Schibolet</hi>, keine<hi rendition="#i"> besondere</hi> Sprache, keinen <hi rendition="#i">besonderen</hi> Namen, kein<hi rendition="#i"> besonderes</hi> Prinzip; sie ist der <hi rendition="#i">denkende Mensch</hi> selbst – der Mensch, der <hi rendition="#i">ist</hi> und <hi rendition="#i">sich weiß</hi> als das selbstbewußte Wesen der Natur, als das Wesen der Geschichte, als das Wesen der Staaten, als das Wesen der Religion – der Mensch, der <hi rendition="#i">ist</hi> und <hi rendition="#i">sich weiß</hi> als die <hi rendition="#i">wirkliche</hi> (nicht imaginäre) <hi rendition="#i">absolute Identität</hi> aller Gegensätze und Widersprüche, aller aktiven und passiven, geistigen und sinnlichen, politischen und sozialen Qualitäten – <hi rendition="#i">weiß</hi>, daß das <hi rendition="#i">pantheistische</hi> Wesen, welches die spekulativen Philosophen oder vielmehr Theologen vom Menschen <hi rendition="#i">absonderten</hi>, als ein <hi rendition="#i">abstraktes</hi> Wesen vergegenständlichten, nichts anderes ist als sein <hi rendition="#i">eigenes</hi>, <hi rendition="#i"><pb n="74" facs="#f00021"/> unbestimmtes</hi>, aber <hi rendition="#i">unendlicher Bestimmungen</hi> fähiges Wesen.</p>
+
+<p rendition="#et">Die neue Philosophie ist die <hi rendition="#i">Negation</hi> ebensowohl des <hi rendition="#i">Rationalismus</hi>, als des <hi rendition="#i">Mystizismus</hi>, ebensowohl des <hi rendition="#i">Pantheismus</hi>, als des <hi rendition="#i">Personalismus</hi>, ebensowohl des <hi rendition="#i">Atheismus</hi>, als des <hi rendition="#i">Theismus</hi>; sie ist die <hi rendition="#i">Einheit aller dieser antithetischen Wahrheiten</hi> als eine <hi rendition="#i">absolut selbständige</hi> und <hi rendition="#i">lautere Wahrheit</hi>.</p>
+
+<p rendition="#et">Die neue Philosophie hat sich bereits als Religionsphilosophie ebenso <hi rendition="#i">negativ als positiv</hi> ausgesprochen. Man darf nur die <hi rendition="#i">Konklusionen</hi> ihrer Analyse zu <hi rendition="#i">Prämissen</hi> machen, um in ihnen die Prinzipien einer positiven Philosophie zu erkennen. Aber die neue Philosophie buhlt nicht um die Gunst des Publikums. Ihrer selbst gewiß, verschmäht sie es, das zu <hi rendition="#i">scheinen</hi>, was sie ist; muß aber eben deswegen unserer Zeit, welcher in den wesentlichsten Interessen der Schein für Wesen, die Illusion für Realität, der Name für die Sache gilt, das <hi rendition="#i">sein</hi>, was sie <hi rendition="#i">nicht</hi> ist. So ergänzen sich die. Gegensätze! Wo das <hi rendition="#i">Nichts</hi> für<hi rendition="#i"> Etwas</hi>, die <hi rendition="#i">Lüge</hi> für <hi rendition="#i">Wahrheit</hi> gilt. da muß konsequenterweise das <hi rendition="#i">Etwas</hi> für <hi rendition="#i">Nichts</hi>, die <hi rendition="#i">Wahrheit</hi> für<hi rendition="#i"> Lüge</hi> gelten. Und wo man – komischerweise gerade in dem Moment, wo die Philosophie in einem entscheidenden, universalen <hi rendition="#i">Selbstenttäuschungsakt</hi> begriffen ist – den bisher unerhörten Versuch macht, eine Philosophie lediglich auf die <hi rendition="#i">Gunst</hi> und <hi rendition="#i">Meinung</hi> des<hi rendition="#i"> Zeitungspublikums</hi> zu gründen, da muß man auch ehrlicher und christlicher Weise philosophische Werke nur dadurch <hi rendition="#i">zu widerlegen</hi> suchen, daß man sie in der Augsburger Allgemeinen Zeitung beim Publikum <hi rendition="#i">verleumdet</hi>. O wie ehrbar, wie sittlich sind doch die öffentlichen Zustände Deutschlands!</p>
+<p rendition="#et"><pb n="75" facs="#f00022"/> Ein neues Prinzip tritt immer mit einem <hi rendition="#i">neuen Namen</hi> auf; d.h. es erhebt einen Namen aus einem niedrigen, zurückgesetzten Stand in den Fürstenstand – macht ihn zur Bezeichnung des Höchsten. Wenn man den Namen der neuen Philosophie, den Namen Mensch mit <hi rendition="#i">Selbstbewußtsein übersetzt</hi>: so legt man die neue Philosophie im Sinne der alten aus, versetzt sie wieder auf den alten Standpunkt zurück, denn das Selbstbewußtsein der alten Philosophie <hi rendition="#i">als abgetrennt vom Menschen</hi> ist eine <hi rendition="#i">Abstraktion ohne Realität</hi>. Der Mensch <hi rendition="#i">ist</hi> das Selbstbewußtsein.</p>
+
+<p rendition="#et">Der Sprache nach ist der Name Mensch wohl ein besonderer, aber der Wahrheit nach der Name aller Namen. Dem Menschen gebührt das Prädikat <hi rendition="#i">polyônymos</hi>. Was der Mensch auch immer nennt und ausspricht – immer spricht er sein eigenes Wesen aus. Die Sprache ist daher das Kriterium, wie hoch oder wie niedrig der Grad der Bildung der Menschheit. Der Name Gottes ist nur der Name dessen, was dem Menschen für die höchste Kraft, das höchste Wesen, d.h. für das höchste Gefühl, den höchsten Gedanken gilt.</p>
+
+<p rendition="#et">Der Name Mensch bedeutet insgemein nur den Menschen mit seinen Bedürfnissen, Empfindungen, Gesinnungen – den Menschen als Person, im Unterschied von seinem Geist, überhaupt seinen allgemeinen öffentlichen Qualitäten – im Unterschied z.B. vom Künstler, Denker, Schriftsteller, Richter, gleich als wäre es nicht eine <hi rendition="#i">charakteristische, wesentliche Eigenschaft des Menschen</hi>, daß er Denker, daß er Künstler, daß er Richter usw. ist, gleich als wäre der Mensch in der Kunst, in der Wissenschaft usw. <hi rendition="#i">außer sich</hi>. Die spekulative Philosophie hat diese Absonderung der wesentlichen Qualitäten des <pb n="76" facs="#f00023"/> Menschen vom Menschen theoretisch fixiert und dadurch lauter abstrakte Qualitäten als selbständige Wesen vergöttert. So heißt es z.B. im Hegelschen Naturrecht § 190: »Im Rechte ist der Gegenstand die <hi rendition="#i">Person</hi>, im moralischen Standpunkt das <hi rendition="#i">Subjekt</hi>, in der Familie das Familienglied, in der bürgerlichen Gesellschaft überhaupt der Bürger (als bourgeois), hier auf dem Standpunkt der Bedürfnisse ist es das Konkretum der <hi rendition="#i">Vorstellung</hi> (?), das man <hi rendition="#i">Mensch</hi> nennt, es ist also erst hier und auch eigentlich nur hier vom Menschen in diesem Sinne die Rede.« In <hi rendition="#i">diesem</hi> Sinne: also handelt es sich auch, wenn die Rede ist vom Bürger, vom Subjekt, vom Familienglied, von der Person, in Wahrheit immer nur von dem <hi rendition="#i">einen</hi> und <hi rendition="#i">selben</hi> Wesen, den Menschen, nur in einem anderen Sinne, nur in einer anderen Qualität.</p>
+
+<p rendition="#et">Alle Spekulation über das Recht, den Willen, die Freiheit, die Persönlichkeit ohne den Menschen, außer dem oder gar über dem Menschen ist eine Spekulation <hi rendition="#i">ohne Einheit, ohne Notwendigkeit, ohne Substanz, ohne Grund, ohne Realität</hi>. Der Mensch ist die Existenz der Freiheit, die Existenz der Persönlichkeit, die Existenz des Rechtes. Nur der Mensch ist der <hi rendition="#i">Grund</hi> und <hi rendition="#i">Boden</hi> des Fichteschen Ichs, der <hi rendition="#i">Grund</hi> und<hi rendition="#i"> Boden</hi> der Leibnizschen Monade, der <hi rendition="#i">Grund</hi> und<hi rendition="#i"> Boden</hi> des Absoluten.</p>
+
+<p rendition="#et">Alle Wissenschaften müssen sich auf die <hi rendition="#i">Natur</hi> gründen. Eine Lehre ist so lange nur eine <hi rendition="#i">Hypothese</hi>, so lange nicht ihre <hi rendition="#i">natürliche Basis</hi> gefunden ist. Dieses gilt insbesondere von der <hi rendition="#i">Lehre der Freiheit</hi>. Nur der neuen Philosophie wird es gelingen, die Freiheit, die bisher eine <hi rendition="#i">anti- und supranaturalistische Hypothese</hi> war, <hi rendition="#i">zu naturalisieren</hi>.</p>
+<p rendition="#et"><hi rendition="#i"><pb n="77" facs="#f00024"/> Die Philosophie muß sich wieder mit der Naturwissenschaft, die Naturwissenschaft mit der Philosophie verbinden.</hi> Diese auf gegenseitiges Bedürfnis, auf innere Notwendigkeit gegründete Verbindung wird dauerhafter, glücklicher und fruchtbarer sein, als die <hi rendition="#i">bisherige Mesalliance</hi> zwischen der Philosophie und der Theologie.</p>
+
+<p rendition="#et">Der Mensch ist das <hi rendition="#i">Hen kai pan</hi> des Staates. Der Staat ist die realisierte, ausgebildete, explizierte Totalität des menschlichen Wesens. Im Staat werden die wesentlichen Qualitäten oder Tätigkeiten des Menschen in besonderen Ständen verwirklicht, aber in der Person des Staatsoberhauptes wieder zur Identität zurückgeführt. Das Staatsoberhaupt hat alle Stände ohne Unterschied zu vertreten; vor ihm sind sie alle gleich notwendig, gleich berechtigt. Das Staatsoberhaupt ist der Repräsentant des universalen Menschen.</p>
+
+<p rendition="#et">Die christliche Religion hat den Namen des Menschen mit dem Namen Gottes in den einen Namen des Gottmenschen verbunden – den Namen des Menschen also zu einem Attribut des höchsten Wesens erhoben. Die neue Philosophie hat der Wahrheit gemäß dieses Attribut zur Substanz, das Prädikat zum Subjekt gemacht – die neue Philosophie ist die <hi rendition="#i">realisierte Idee</hi> – <hi rendition="#i">die Wahrheit</hi> des Christentums. Aber eben weil sie das <hi rendition="#i">Wesen</hi> des Christentums in sich hat, gibt sie den <hi rendition="#i">Namen</hi> des Christentums auf. Das Christentum hat die Wahrheit nur <hi rendition="#i">im Widerspruch mit der Wahrheit</hi> ausgesprochen. Die widerspruchslose, reine, unverfälschte Wahrheit ist eine <hi rendition="#i">neue Wahrheit</hi> – eine <hi rendition="#i">neue, autonomische</hi> Tat der Menschheit.</p>
+<pb n="78" facs="#f00025"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Feuerbach, Ludwig/Vorläufige Thesen zur Reform der Philosophie#N4675</ref>1</bibl> Diese <hi rendition="#i">theologischen</hi> Bezeichnungen werden hier nur im <hi rendition="#i">Sinn trivialer Spitznamen</hi> gebraucht.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Feuerbach, Ludwig/Vorläufige Thesen zur Reform der Philosophie#N4676</ref>2</bibl> Das Wort Endlich brauche ich immer nur im Sinn der »absoluten« Philosophie, welcher vom Standpunkt des Absoluten das Reale, das Wirkliche als das Unwirkliche, Nichtige erscheint, weil ihr das Unwirkliche, das Unbestimmte für das Reale gilt, ob Ihr gleich andererseits wieder vom <hi rendition="#i">Standpunkt der Nichtigkeit</hi> aus das Endliche, das Nichtige, als das Reale erscheint – ein Widerspruch, der besonders in der früheren Schellingschen Philosophie hervortritt, aber auch der Hegelschen noch <hi rendition="#i">zugrunde</hi> liegt.</note>
+
+</body></text></TEI>

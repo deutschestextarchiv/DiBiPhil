@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sämtliche Werke</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Platon: Sämtliche Werke. Berlin: Lambert Schneider, [1940].</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Sämtliche Werke</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Verlag Lambert Schneider</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1940</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden vermutlich nach 360 v. Chr. Erstdruck (in lateinischer Übersetzung durch Marsilio Ficino) in: Opere, Florenz o. J. (ca. 1482/84). Erstdruck des griechischen Originals in: Hapanta ta tu Platônos, herausgegeben von M. Musoros, Venedig 1513. Erste deutsche Übersetzung durch Johann Friedrich Kleuker in: Werke, 5. Band, Lemgo 1792. Der Text folgt der Übersetzung durch Franz Susemihl von 1865.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Parmenides</note>
+
+<head><pb n="482" facs="#f0001"/> Platon</head>
+<head>Parmenides</head>
+<head><hi rendition="#i">(Parmenidês)</hi></head>
+<pb n="483" facs="#f0002"/> <pb n="485" facs="#f0003"/><lb/>
+<head>Kephalos erzählt</head>
+<head>In seiner Erzählung treten auf:</head>
+<head>Adeimantos · Glaukon · Antiphon · Pythodoros · Sokrates · Zenon · Parmenides · Aristoteles</head>
+<p rendition="#et">Als wir aus unserer Heimat Klazomenai nach Athen gekommen waren, trafen wir dort auf dem Markte Adeimantos und Glaukon. Und Adeimantos, mich bei der Hand fassend, sprach: Sei gegrüßt, Kephalos, und wenn ich dir hier mit etwas dienen kann, was in meinen Kräften steht, so sage es!</p>
+<p rendition="#et">Ei, erwiderte ich, gerade zu dem Zwecke bin ich ja hierher gekommen, um euch um etwas zu bitten.</p>
+<p rendition="#et">So sprich uns denn deine Bitte aus, versetzte er.</p>
+<p rendition="#et">Und ich fragte ihn: Wie hieß doch gleich euer Bruder von mütterlicher Seite? Denn ich habe seinen Namen vergessen. Er war nämlich noch ziemlich ein Kind, als ich das vorige Mal aus Klazomenai hierher zum Besuche gekommen war, und viele Zeit ist schon seitdem verstrichen. Sein Vater indes hieß, dünkt mich, Pyrilampes.</p>
+<p rendition="#et">Jawohl, antwortete er, und er selbst heißt Antiphon. Doch weshalb fragst du eigentlich hiernach?</p>
+<p rendition="#et">Diese da, entgegnete ich, sind Landsleute von mir und der Philosophie in hohem Grade ergeben, und da haben sie denn nun erfahren, daß dieser Antiphon viel mit einem gewissen Pythodoros, einem Freund und Jünger des Zenon, verkehrt und die Unterredung, die einst Sokrates mit dem Zenon und Parmenides gepflogen, durch wiederholtes Anhören derselben aus dem Munde des Pythodoros seinem Gedächtnis angeeignet habe.</p>
+<p rendition="#et">Ja, so verhält sich die Sache, erwiderte er.</p>
+<p rendition="#et">Nun, eben diese Unterredung, sprach ich, wünschen wir von ihm mitgeteilt zu hören.</p>
+<p rendition="#et">Nun, das wird ohne Schwierigkeiten vonstatten gehen, versetzte er; denn als ein heranreifender Jüngling hat er sie mit <pb n="485" facs="#f0004"/> großem Eifer sich eingeprägt, während er jetzt freilich nach dem Vorbilde seines gleichnamigen Großvaters sich vielmehr meistens mit der Reitkunst zu beschäftigen pflegt. Also wenn es sein muß, laßt uns zu ihm gehen: denn gerade eben ist er von hier nach Hause gegangen, und er wohnt hier in der Nähe in Melite.</p>
+<p rendition="#et">Nachdem wir nun solches miteinander verhandelt hatten, machten wir uns auf und trafen den Antiphon zu Hause, wo er eben dem Schmiede einen Zaum zur Ausbesserung übergab. Nachdem er nun diesen abgefertigt hatte, teilten seine Brüder ihm mit, weshalb wir gekommen waren, und er erkannte mich noch wieder von meinem vorigen Aufenthalte her und hieß mich willkommen. Und als wir ihn nun baten, uns jene Unterredung mitzuteilen, sträubte er sich anfangs: denn es sei das, sagte er, eine schwierige Aufgabe; dann aber ließ er sich denn doch dazu herbei.</p>
+<p rendition="#et">Und so erzählte denn Antiphon, wie Pythodoros ihm mitgeteilt habe, es seien einst zu den großen Panathenaien Zenon und Parmenides gekommen. Parmenides nun sei schon hoch bejahrt und ganz grau gewesen, aber noch immer schön und stattlich von Ansehen, gegen fünfundsechzig Jahre und darüber alt; Zenon habe deren aber damals nahe an vierzig gezählt, sei schlank und von anmutigem Äußeren gewesen und habe dafür gegolten, einst der Geliebte des Parmenides gewesen zu sein. Eingekehrt aber waren sie, wie Antiphon sagte, bei Pythodoros außerhalb der Stadt in Kerameikos, und dahin seien denn auch Sokrates und viele andere mit ihm gekommen, in der Absicht, den Zenon seine Schrift vorlesen zu hören, denn diese sei damals auf diese Weise zuerst in Athen bekannt geworden, indem jene beiden Männer sie zu diesem Zwecke mitgebracht; Sokrates sei damals aber noch sehr jung gewesen.</p>
+<p rendition="#et">Vorgelesen nun habe ihnen Zenon sie selbst; Parmenides aber sei gerade außer Hause gewesen; und es sei nur noch sehr wenig von der Vorlesung übrig gewesen, als Pythodoros selbst, wie er sagte, von draußen hereingetreten sei und mit ihm Parmenides und Aristoteles, welcher später zu den Dreißig gehörte, und so hätten sie nur noch wenig von dem Buche gehört. Indessen habe er selbst schon früher den Zenon es ihm vorlesen hören.</p>
+<p rendition="#et"><pb n="486" facs="#f0005"/> Da habe denn nun Sokrates, nachdem er es angehört, den Zenon gebeten, die erste Voraussetzung der ersten Erörterung noch einmal zu lesen und, als dies geschehen war, gesagt: Wie, Zenon, meinst du dies, wenn das Seiende Vieles ist, daß es dann doch notwendig sowohl ähnlich als unähnlich sein müsse und dies doch unmöglich sei? Denn das Unähnliche könne doch unmöglich ähnlich und das Ähnliche unmöglich unähnlich sein: sind das nicht deine Worte?</p>
+<p rendition="#et">Ja, habe Zenon geantwortet.</p>
+<p rendition="#et">Also, wenn unmöglich das Unähnliche ähnlich und das Ähnliche unähnlich sein könne, so sei es auch unmöglich, daß Vieles sei: denn wenn Vieles wäre, so würde ihm jenes Unmögliche widerfahren. Nicht wahr, das ist es, was deine Beweisführungen bezwecken: sie sollen allem gewöhnlich Angenommenen zuwider dartun, daß es keine Vielheit gibt? Und du glaubst, daß hierfür jede von den Erörterungen deines Buches je <hi rendition="#i">einen</hi> Beweis liefert, so daß du demnach meinst, ebensoviele Beweise gegeben zu haben, als die Zahl der Erörterungen ist, in welche deine Schrift zerfällt, dafür daß es eben keine Vielheit gibt? Nicht wahr, so ist deine Meinung, oder verstehe ich dich nicht richtig?</p>
+<p rendition="#et">Nein, habe Zenon erwidert, sondern du hast ganz richtig die Absicht meiner ganzen Schrift begriffen.</p>
+<p rendition="#et">Ich erkenne also wohl, Parmenides, habe sich Sokrates jetzt an den letzteren gewandt, daß Zenon nicht bloß durch alle anderen Bande der Freundschaft ganz dein eigen sein will, sondern auch durch diese Schrift. Denn er hat gewissermaßen nur gerade dasselbe geschrieben wie du und versucht bloß, indem er die Sache vom entgegengesetzten Ende anfaßt, uns zu täuschen und uns glauben zu machen, er sage etwas anderes. Du nämlich sagst im deinem Gedicht, das All sei Eins, und bringst dafür schöne und treffende Beweise bei; er aber sagt nun wieder, es sei nicht Vieles, und liefert dafür auch seinerseits gar viele und starke Beweise.</p>
+<p rendition="#et">Dies nun, daß der eine behauptet, es gebe nur Eins, und der andere, es gebe nicht Vieles, und daß jeder von beiden sich so ausdrückt, daß er in keinem Stücke dasselbe gesagt zu haben scheint wie der andere, während sie doch nahezu in allem dasselbe sagen, – das ist offenbar für uns andere zu hoch, und diese <pb n="487" facs="#f0006"/> Art einer Beweisführung geht über unseren Gesichtskreis hinaus.</p>
+<p rendition="#et">Du magst wohl recht haben, Sokrates, habe da Zenon bemerkt, nur aber hast du denn doch den wahren Standpunkt meiner Schrift nicht durchweg richtig erkannt, so sehr du auch wie ein tüchtiger lakonischer Jagdhund die Fährten meiner Darstellung verfolgst und ihr bis in ihre Schlupfwinkel nachspürst. Denn zuvörderst bist du darin im Irrtum: meine Schrift will gar nicht so ernst und großartig auftreten, als wollte sie, während sie wirklich in der von dir angegebenen Absicht geschrieben ist, den Leuten diesen ihren Zweck verbergen und sie glauben machen, als führe sie noch etwas ganz Besonderes im Schilde. Vielmehr ist dies nur ein ganz zufälliger Schein von ihr, und in Wahrheit ist sie dazu bestimmt, eben dem Satze des Parmenides zu Hilfe zu kommen gegen diejenigen, die glauben, ihn lächerlich machen zu können, indem sie meinen, der Satz, es gebe nur Eines, verwickle sich notwendig in vielerlei Ungereimtheiten und Widersprüche mit sich selbst. Eben deshalb wendet sich also diese Schrift gegen diejenigen, die da vielmehr behaupten, es gebe Vieles, und gibt ihnen jene ihre Vorwürfe in noch verstärktem Maße zurück, indem sie zu zeigen sucht, daß ihre Voraussetzung, es gebe Vieles, noch weit größere Ungereimtheiten nach sich zieht, wenn man ihr nur gehörig zu Leibe geht, als die, es gebe nur Eines.</p>
+<p rendition="#et">In solcher Art von Streitlust ward sie von mir, da ich noch Jüngling war, geschrieben, und da entwendete mir jemand das Manuskript, so daß mir nicht einmal erst zu überlegen vergönnt war, ob ich es überhaupt ans Licht ziehen solle oder nicht. In der Beziehung also mindestens, Sokrates, bist du im Irrtum, daß du dies Buch nicht von der Streitlust eines Jünglings, sondern von dem Ehrgeiz eines gereiften Mannes geschrieben glaubst, obgleich du im übrigen, wie schon bemerkt, es nicht übel abgeschildert hast.</p>
+<p rendition="#et">Wohl, ich nehme das an, habe Sokrates erwidert, und glaube, daß es sich so verhält, wie du angibst; das aber sage mir: Bist du nicht der Ansicht, daß es einen Begriff der Ähnlichkeit an und für sich gibt und auf der anderen Seite wiederum etwas diesem Entgegengesetztes, das, was wahrhaft unähnlich ist, und<pb n="488" facs="#f0007"/> daß an diesen beiden sowohl ich als auch du und alles andere, was wir Vieles nennen, teil haben, und daß dasjenige, was an der Ähnlichkeit teil hat, eben dadurch ähnlich wird, insoweit und bis zu dem Grade, als es an ihr teil hat, was aber an der Unähnlichkeit teil hat, eben dadurch unähnlich, und was an beidem teil hat eben dadurch beides? Und wenn da nun alles an diesen beiden doch eben einander entgegengesetzten Begriffen teil hat und durch eben diese Teilnahme an beiden untereinander zugleich ähnlich und unähnlich ist, was ist daran zu verwundern? Freilich, wenn jemand nachwiese, daß das Ähnliche an sich unähnlich und das Unähnliche an sich ähnlich werde, das wäre, meine ich, ein Wunder; wenn aber dem, was an beidem teil hat, auch beides widerfährt, so scheint mir wenigstens, Zenon, dies keineswegs auffallend zu sein, ebensowenig wie wenn jemand zeigt, daß alles Eins durch die Teilnahme an dem Eins an sich und zugleich auch wiederum Vieles durch die Teilnahme an der Vielheit an sich sei; aber wenn jemand jenes wahrhaft so zu nennende Eins selber als Vieles und ebenso jene wahrhafte Vielheit als Eins aufwiese, das allerdings würde mich wundernehmen. Und mit allem anderen steht es ebenso: wenn jemand darzutun vermöchte, daß die Gattungs- und Artbegriffe oder Ideen selbst die ihnen geradeswegs entgegengesetzten Beschaffenheiten und Zustände in sich aufnähmen und an sich trügen, so würde das verwundernswert sein; wenn aber jemand dartut, daß ich zugleich Einer und Vieles bin, was ist daran zu verwundern? Wenn er, um nachzuweisen, daß ich Vieles bin, geltend macht, daß ja ein anderes dasjenige ist, was sich an meiner rechten, und ein anderes, was sich an meiner linken, ein anderes, was sich an der vordern, und ein anderes, was sich an der hinteren Seite meines Körpers, ein anderes ebenso, was sich oben, und ein anderes, was sich unten an ihm befindet? Denn ich habe ja eben Wirklich, sollte ich denken, an der Vielheit teil. Und wenn er dartun will, daß ich Eins bin, so wird er sagen, daß ich hier unter uns sieben eben <hi rendition="#i">ein</hi> Mensch bin; denn ich habe ja auch an dem Eins teil; und so wird sein Nachweis für beides zutreffend sein. Wenn daher jemand dergleichen Dinge wie z.B. Steine, Hölzer und sonst derartiges als Einheiten und Vielheiten zugleich aufzuweisen unternimmt, <pb n="489" facs="#f0008"/> so werden wir zugeben, er habe sie uns wirklich als Vieles und Eines zugleich erwiesen, aber nicht das Eine selbst als Vieles und das Viele selbst als Eines, und er behauptet damit gar nichts Besonderes, sondern nur das, was jedermann zugeben wird. Falls aber jemand in der von mir eben bereits bezeichneten Weise zuvörderst die Ideen selber von den Dingen absonderte und sie als an und für sich seiend hinstellte, wie z.B. die der Ähnlichkeit und Unähnlichkeit, der Vielheit und Einheit, der Ruhe und Bewegung und so fort, und falls er dann bewiese, daß diese selber mit einander vermischt und von einander getrennt werden könnten, dann würde ich für mein Teil mich gar erstaunlich wundern, lieber Zenon. Jene deine Auseinandersetzungen scheinen mir nun allerdings gar wacker durchgeführt; aber doch würde ich, wie gesagt, noch weit mehr denjenigen bewundern, der eben dieselbe Schwierigkeit auch als in die Ideen selbst auf mannigfache Weise verflochten, der sie, ebenso wie du in dem mit den Sinnen Wahrnehmbaren, so auch in dem nur mit der Vernunft Erfaßbaren aufzudecken vermöchte.</p>
+<p rendition="#et">Als Sokrates so gesprochen, erzählte Pythodoros, habe er seinerseits geglaubt, daß Parmenides und Zenon alles, was er vorgebracht, Stück für Stück unwillig aufnehmen würden; allein beide hätten dem Sokrates nicht bloß große Aufmerksamkeit geschenkt, sondern auch häufig beifällig lächelnd einander angeblickt und so ihre Bewunderung desselben zu erkennen gegeben. Und Parmenides habe diese denn auch, als jener geendet, mit Worten ausgedrückt, indem er sprach: O Sokrates, wie sehr verdienst du Bewunderung um deines Forschertriebes willen! Und nun sage mir: Hast du selbst jene Sonderung gemacht, die du eben aussprachst, indem du als ein Gesondertes jenes etwas hinstellst, was du an sich seiende Ideen nennst, und wiederum als ein Gesondertes die Dinge, welche an ihnen bloß Anteil haben, und scheint dir wirklich die Ähnlichkeit an sich etwas zu sein gesondert von derjenigen Ähnlichkeit, welche wir an uns tragen, und ebenso die Einheit und Vielheit und alles, was du sonst eben von Zenon hörtest?</p>
+<p rendition="#et">Allerdings, habe Sokrates erwidert.</p>
+<p rendition="#et">Und denkst du auch, habe Parmenides gefragt, über alles, was von folgender Artist, ebenso: Nimmst du auch eine für sich bestehende <pb n="490" facs="#f0009"/> Idee des Gerechten, des Schönen, des Guten und alles anderen an, was dahin gehört?</p>
+<p rendition="#et">Ja, habe Sokrates geantwortet.</p>
+<p rendition="#et">Und ferner auch eine Idee des Menschen gesondert von uns, und andere ähnliche Ideen gesondert von allem, was unseresgleichen ist, nicht bloß eine Idee des Menschen also, sondern z.B. auch eine Idee des Feuers und auch des Wassers?</p>
+<p rendition="#et">Ich war oftmals, habe jener versetzt, in Zweifel darüber, Parmenides, ob ich auch in betreff dieser Gegenstände ebenso urteilen solle als in betreff jener oder anders.</p>
+<p rendition="#et">Und gewiß bist du auch über solche Dinge, bei denen es sogar lächerlich scheinen könnte, wie z.B. über Haar, Kot, Schmutz und was sonst recht verachtet und geringfügig ist, in Verlegenheit, ob es auch von einem jeglichen unter ihnen eine für sich bestehende Idee gebe, die verschieden ist von diesen Gegenständen selbst, die wir mit Händen greifen können, oder aber nicht?</p>
+<p rendition="#et">Keineswegs, habe Sokrates geantwortet, vielmehr meine ich, daß diese Dinge wohl eben dasselbe auch sind, wie wir sie sehen, und daß es doch allzu seltsam herauskommen würde, wenn man auch von ihnen besondere Ideen annehmen wollte. Freilich hat mich hin und wieder schon der Gedanke beunruhigt, ob sich die Sache nicht bei allen Dingen ganz auf die gleiche Art verhalte; in der Folge aber, wenn ich bei diesen Dingen zu stehen komme, wende ich ihnen schnell wieder den Rücken, aus Furcht, hier in einen wahren Abgrund der Albernheit zu versinken und darin umzukommen; und wenn ich dagegen wieder dann bei jenen angelangt bin, von denen wir soeben behaupteten, es gebe von ihnen Ideen, so beschäftige ich mich gern mit ihnen und verweile bei ihnen mit Freuden.</p>
+<p rendition="#et">Du bist eben noch jung, Sokrates, habe da Parmenides gesprochen, und die Philosophie hat dich noch nicht so ergriffen, wie sie dich, glaube ich, einst noch ergreifen wird, wenn du keins dieser Dinge mehr geringschätzest; jetzt aber nimmst du noch zu viel Rücksichten auf Menschenmeinungen infolge deiner Jugend. – Das nun aber sage mir: Scheint es dir also wirklich so, wie du sagst, daß es gewisse begriffliche Wesenheiten gebe, von denen alles andere, was wir hier wahrnehmen, infolge <pb n="491" facs="#f00010"/> seiner Teilnahme an ihnen seinen Namen trägt, wie z.B. dasjenige, was an der Ähnlichkeit teil hat, eben dadurch auch ähnlich, und was an der Größe teil hat, groß, und was an der Gerechtigkeit und Schönheit teil hat, gerecht und schön wird?</p>
+<p rendition="#et">Allerdings, habe Sokrates erwidert.</p>
+<p rendition="#et">Nun muß aber doch wohl alles, was auf diese Weise teilnimmt, entweder an der ganzen Idee teilnehmen oder an einem Teile derselben? Oder ist außerdem noch eine dritte Art der Teilnahme möglich?</p>
+<p rendition="#et">Nein, wie wäre das denkbar? habe Sokrates geantwortet.</p>
+<p rendition="#et">Scheint dir also die ganze Idee, da sie doch nur Eine ist, in jedem Einzelnen von dem Vielen zu sein? Oder wie denkst du dir die Sache?</p>
+<p rendition="#et">Nun, was hindert daran, Parmenides, so habe die Erwiderung des Sokrates gelautet, daß dem also sei?</p>
+<p rendition="#et">Als eine und dieselbe also soll sie in den vielen gesondert von einander Bestehenden zugleich ganz und gar enthalten sein! Wird sie denn nicht so von sich selber gesondert sein?</p>
+<p rendition="#et">Das doch wohl nicht, habe Sokrates gemeint, sofern ja doch auch der Tag als einer und derselbe an vielen Orten zugleich und darum doch um nichts mehr von sich selber gesondert ist. Kann denn nicht so auch jede besondere Idee in allen Dingen zugleich diese eine und selbige sein?</p>
+<p rendition="#et">Recht niedlich, lieber Sokrates, sei die Antwort des Parmenides gewesen, machst du das Eine zu Demselben an vielen Orten zugleich, denn auf diese Weise könntest du ja auch viele Menschen mit einem Segeltuche bedecken und dann sagen, daß dies Eine ganz über Vielen sei; oder meinst du, daß du es nicht geradeso machst?</p>
+<p rendition="#et">Du magst recht haben, habe jener zugegeben.</p>
+<p rendition="#et">Und nun sage einmal: Wäre wohl das Segeltuch über jedem ganz, oder vielmehr nur ein Teil desselben über den einen und ein anderer über den anderen?</p>
+<p rendition="#et">Das letztere.</p>
+<p rendition="#et">Teilbar also, habe Parmenides fortgefahren, lieber Sokrates, wären danach die Ideen selbst; und das, was an ihnen teil hat, hätte nur an einem Teile von ihnen teil, und nicht mehr wäre in jedem Einzelnen die ganze Idee, sondern nur ein Teil von einer jeden.</p>
+<p rendition="#et"><pb n="492" facs="#f00011"/> So kommt es allerdings heraus.</p>
+<p rendition="#et">Möchtest du nun wohl behaupten, lieber Sokrates, daß uns die einheitliche Idee in Wahrheit teilbar sei? Und wird sie dann noch wirklich Eins sein?</p>
+<p rendition="#et">Keineswegs, habe Sokrates geantwortet.</p>
+<p rendition="#et">Siehe nämlich zu, habe Parmenides weiter bemerkt, wenn du die Größe selbst teilen willst, und ein jedes von den vielen großen Dingen durch einen kleineren Teil, als die Große selbst groß sein soll, ob damit wohl nicht etwas Sinnloses zutage kommen wird?</p>
+<p rendition="#et">Allerdings, habe Sokrates zugegeben.</p>
+<p rendition="#et">Und ferner, wenn etwas einen kleinen Teil vom Gleichen an sich erhält, dann soll es dadurch etwas besitzen, wodurch es, obwohl dieses kleiner ist als das Gleiche selbst, irgend etwas gleich ist?</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Und gesetzt, es habe jemand von uns einen Teil von dem Kleinen, so wird doch das Kleine größer sein als eben dieser Teil, eben weil dieser nur ein Teil von ihm ist, und so wird denn das Kleine selber größer werden, und dasjenige, dem der von dem Kleinen hinweggenommene Teil hinzugefügt wird, soll durch denselben kleiner werden und nicht größer als zuvor.</p>
+<p rendition="#et">Auch das dürfte unmöglich sein, habe Sokrates eingeräumt.</p>
+<p rendition="#et">Auf welche Weise also, lieber Sokrates, habe nun Parmenides gesprochen, soll am den Ideen nach deiner Meinung das andere teil haben, wenn es doch weder an Teilen noch auch an dem Ganzen derselben teil zu haben vermag?</p>
+<p rendition="#et">Ja, beim Zeus, habe jener erwidert, es scheint mir keineswegs leicht, hierüber etwas Bestimmtes festzusetzen.</p>
+<p rendition="#et">Und wie nun, was meinst du zu Folgendem?</p>
+<p rendition="#et">Nun?</p>
+<p rendition="#et">Ich denke, daß du aus folgendem Gründe annimmst, jede Idee sei eine Einheit: Sobald dir vielerlei Dinge groß zu sein scheinen, so dünkt es mir doch wohl, wenn du sie im ganzen überblickst, in allen eine und dieselbe Form zu sein, und deshalb nimmst du an, das Große sei nur Eines.</p>
+<p rendition="#et">Du hast ganz recht, habe Sokrates versetzt.</p>
+<p rendition="#et">Wie aber ist es nun mit der Größe an sich und mit den anderen <pb n="493" facs="#f00012"/> großen Dingen? Wenn du beide wiederum ebenso mit dem Auge des Geistes überblickst, wird es dir da nicht so vorkommen müssen, als gebe es andererseits ein drittes Großes, durch welches diese beiden als groß erscheinen?</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Noch eine andere Idee der Größe wird also auf diese Weise zum Vorschein kommen, neben dieser Größe an sich und den großen Dingen, die an ihr teil haben, und über diesen noch wieder eine andere, durch welche dies alles groß ist: indes wird dir auf diese Weise eine jede von den Ideen nicht mehr eine einzige sein, sondern unermeßlich an Vielheit.</p>
+<p rendition="#et">Aber, lieber Parmenides, habe Sokrates eingewandt, ob nicht etwa jede von diesen Ideen eben nur ein Gedanke ist und ihr eben als solchem nirgends anders zu sein zukommt als in der Seele? Denn auf diese Weise bliebe eine jede eine Einheit und erlitte nicht mehr das, was sich eben herausstellte.</p>
+<p rendition="#et">Aber wie? habe dagegen Parmenides bemerkt; wäre nun jeder von diesen Gedanken Eins, aber dabei ein Gedanke von Nichts?</p>
+<p rendition="#et">Das ist unmöglich, habe der andere entgegnet.</p>
+<p rendition="#et">Sondern vielmehr von Etwas?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und zwar von etwas Seiendem oder von etwas Nichtseiendem?</p>
+<p rendition="#et">Das erstere.</p>
+<p rendition="#et">Und zwar von einem gewissen Einen, welches jener Gedanke als in allen jenen Dingen befindlich bemerkt, als eine und dieselbe Gestaltung? Nicht wahr?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und ferner die Idee selber wird eben dies sein, was so vom Gedanken als Eins erkannt wird, indem es immer dasselbe in allen jenen Dingen ist. Nicht wahr?</p>
+<p rendition="#et">Das scheint wiederum notwendig.</p>
+<p rendition="#et">Und wie nun? habe Parmenides weiter bemerkt; wenn du doch behauptest, daß alles Andere an den Ideen teil habe, mußt du da nicht notwendig annehmen, entweder daß ein jegliches von diesem anderen mit Gedanken begabt sei und daß so alles denke, oder aber daß es Gedanken in sich tragen könne, ohne doch zu denken?</p>
+<p rendition="#et"><pb n="494" facs="#f00013"/> Nein freilich, habe Sokrates zugegeben, auch das hat keinen Sinn. Aber, lieber Parmenides, eigentlich scheint es sich mir damit so zu verhalten: diese Ideen stehen gleichsam als die Musterbilder im Bereiche des Daseins da, alles andere aber ist ihnen ähnlich und als ihre Abbilder anzusehen, und jene Teilnahme desselben an den Ideen ist keine andere als eben die, daß es ihnen nachgebildet ist.</p>
+<p rendition="#et">Wenn nun, habe Parmenides entgegnet, etwas der Idee ähnlich ist, ist es da wohl möglich, daß nicht auch diese letztere jenem ihr Nachgebildeten insoweit ähnelt, als jenes ihr ähnlich gemacht worden ist? Oder gibt es irgend ein Mittel, um zu bewirken, daß etwas demjenigen ähnlich sein könne, welches nicht selbst wieder ihm ähnlich ist?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Muß also nicht ganz notwendigerweise auf diese Art das Ähnliche mit dem Ähnlichen an einer und derselben gemeinsamen Idee teil haben?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Nun war aber doch wohl das, woran das Ähnliche teil haben muß, um eben ähnlich zu sein, eben nichts anderes als die Idee selber?</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Allein nun ist es sonach ganz unmöglich, daß etwas der Idee ähnlich sei und die Idee etwas anderem: denn sonst wird stets neben der Idee noch wieder eine andere Idee zum Vorschein kommen und, wenn diese irgend etwas ähnlich ist, abermals eine andere. Und so wird unaufhörlich immer wieder eine neue Idee hervortreten, wenn die Idee demjenigen, was an ihr teil hat, ähnlich ist.</p>
+<p rendition="#et">Du hast ganz recht.</p>
+<p rendition="#et">Also auch nicht durch Ähnlichkeit nimmt alles andere an den Ideen teil, sondern man muß nach einer anderen Art und Weise suchen, wie es an ihnen teilnimmt.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Siehst du also, Sokrates, habe Parmenides gesagt, wie groß die Schwierigkeit ist, wenn jemand Ideen als gesonderte an und für sich seiende Wesenheiten aufstellt?</p>
+<p rendition="#et">Ja freilich.</p>
+<p rendition="#et">Wisse denn, habe er fortgefahren, daß du, um es geradeherauszusagen, <pb n="495" facs="#f00014"/> die ganze Schwierigkeit noch nicht einmal ahnst, die damit verbunden ist, wenn du jedesmal eine Idee von den betreffenden Dingen absondern und als eine in sich geschlossene Einheit auf stellen willst.</p>
+<p rendition="#et">Wieso denn? habe Sokrates gefragt.</p>
+<p rendition="#et">Es lassen sich noch viele Bedenken hiergegen geltend machen, habe jener versetzt; das größte aber ist folgendes: Wenn jemand behauptete, daß den Ideen nicht einmal die Erkennbarkeit zukomme, falls sie diejenige Beschaffenheit an sich trügen, welche wir für ihnen notwendig beiwohnend erklärten, so würde man diese Behauptung nicht als unrichtig zu erweisen vermögen, es sei denn, daß der Widersacher ein vielseitig durchgebildeter und wohlerfahrener Mann und nicht ohne hohe Gaben wäre und sich demzufolge geneigt zeigte, einer gar umfänglichen und weit ausholenden Auseinandersetzung zu folgen. Auf jede andere Weise möchte derjenige, welcher behauptet, daß die Ideen notwendig unerkennbar seien, vom Gegenteil nicht zu überzeugen sein.</p>
+<p rendition="#et">Warum denn, Parmenides? habe Sokrates gefragt.</p>
+<p rendition="#et">Weil ich glaube, Sokrates, daß du und jeder andere, der einer jeden von ihnen ein an und für sich bestehendes Sein zuschreibt, zuvörderst dies zugeben muß, daß keine dieser Wesenheiten sich in und bei uns befinde.</p>
+<p rendition="#et">Gewiß, denn wie könnte sonst jede an und für sich sein? habe Sokrates geantwortet.</p>
+<p rendition="#et">Wohl gesprochen! habe hierauf jener bemerkt. Ferner aber haben auch diejenigen Ideen, die nur in Wechselbeziehung auf einander dasjenige sind, was sie sind, dieses ihr Wesen lediglich unter sich, und nicht in Beziehung auf diese Abbilder hier bei uns oder wofür man sie sonst erklären will, von demjenigen, welches, je nach dem Anteile, den wir an ihm haben, uns unsere jedesmaligen Benennungen verleiht; und ebenso stehen diese ihnen gleichnamigen Gegenstände hier bei uns lediglich in Beziehung unter sich und nicht auf die Ideen, und gehören einander und nicht Jenen an, die ihrerseits auch mit ihnen den gleichen Namen führen.</p>
+<p rendition="#et">Wie meinst das das? habe Sokrates gefragt.</p>
+<p rendition="#et">Wenn z.B., habe Parmenides geantwortet, hier unter uns jemand der Herr oder der Sklave eines andern ist, so ist er doch <pb n="496" facs="#f00015"/> wohl nicht der Sklave des Herrn an sich, der das wahrhafte Wesen alles Herrentums in sich faßt, noch der Herr des Sklaven an sich, der das wahre Wesen des Sklaventums in sich schließt: sondern beides, Herr wie Sklave, ist er als Mensch in bezug auf einen anderen Menschen; und ebenso ist andererseits das Herrentum an sich dasjenige, was es ist, in Beziehung auf das Sklaventum an sich, und desgleichen das Sklaventum ist Sklaventum am sich in Rücksicht auf das Herrentum an sich; und nicht üben die hier bei uns bestehenden Verhältnisse in Beziehung auf die unter den Ideen bestehenden noch die letzteren in Beziehung auf die ersteren ihre Wirksamkeit aussondern, wie gesagt, die Ideen sind rein an und für sich und stehen nur unter sich in Verhältnis, und hier mit den Dingen bei uns geht es ebenso. Oder verstehst du nicht, was ich meine?</p>
+<p rendition="#et">Jawohl, habe Sokrates erwidert, ich verstehe es durchaus.</p>
+<p rendition="#et">Wird demnach, habe Parmenides fortgefahren, nicht die Erkenntnis an sich, die das wahre Wesen alles Erkennens in sich faßt, Erkenntnis derjenigen Wahrheit und Wirklichkeit, die eigentlich so zu heißen verdient, der Wahrheit und Wirklichkeit an sich sein?</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Und jede Sondererkenntnis, die wahrhaft so zu heißen verdient, wird demnach Erkenntnis eines besonderen von den. wahrhaft wirklichen Gegenständen sein: nicht wahr?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Unsere menschliche Erkenntnis aber, muß sich die nicht hiernach lediglich auf diese unsere Wahrheit und Wirklichkeit beziehen und ferner jede unserer Sondererkenntnisse lediglich, die Erkenntnis von irgend einem besonderen unter den Dingen. unserer Welt sein?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Nun aber gehörten doch die Ideen selbst, wie du zugegeben; hast, nicht zu unsern Besitztümern, und es ist unmöglich, daß sie sich hier bei uns und unter den Dingen unserer Welt befinden.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Erkannt aber werden von der an sich seienden Idee der Erkenntnis alle die an sich seienden Gattungen des Seins jede nach ihrer Besonderheit?</p>
+<p rendition="#et"><pb n="497" facs="#f00016"/> Ja.</p>
+<p rendition="#et">Diese Idee aber besitzen wir nicht.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Folglich wird von uns keine der Ideen erkannt, eben weil die Erkenntnis an sich uns nicht zuteil geworden ist.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Unerkennbar also ist uns das wahre Wesen des Schönen an sich und des Guten und überhaupt alles dasjenige, was wir als an sich seiende Ideen annehmen.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Und nun erwäge auch folgendes, was noch schlimmer ist!</p>
+<p rendition="#et">Nun?</p>
+<p rendition="#et">Wirst du behaupten oder nicht, wenn anders es eine rein an sich seiende Idee der Erkenntnis gibt, daß diese viel genauer als unsere Erkenntnis ist, und wird nicht jene Art von Schönheit weit vollkommener sein als die, welche sich unter uns findet, und wird es nicht mit allem anderen ebenso stehen?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Wirst du also nicht, wofern überhaupt irgend etwas der Erkenntnis an sich teilhaftig ist, niemandem sonst als Gott selber diese allergenaueste und allervollkommenste Erkenntnis zuschreiben?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Wird nun aber andererseits Gott vermögen, die Dinge hier bei uns zu erkennen, wenn er die Erkenntnis an sich besitzt?</p>
+<p rendition="#et">Warum denn nicht?</p>
+<p rendition="#et">Weil, habe Parmenides versetzt, wir dahin übereingekommen sind, lieber Sokrates, daß weder die Ideen in Beziehung auf die Dinge hier bei uns die ihnen eigentümliche Wirksamkeit ausüben, noch die letzteren in Beziehung auf jene, sondern jeder von beiden Teilen lediglich unter sich.</p>
+<p rendition="#et">Ja freilich, das sind wir übereingekommen.</p>
+<p rendition="#et">Wenn also bei Gott die an sich seiende allervollkommenste Herrschaft und die an sich seiende allervollkommenste Erkenntnis ist, so wird weder diese lediglich über jene Wesenheiten sich erstreckende Herrschaft jemals uns beherrschen können, noch diese Erkenntnis uns erkennen oder irgend ein anderes von den Dingen unserer Welt; sondern in gleicher Weise wie wir vermöge der Herrschaft hier bei uns jene nicht zu beherrschen <pb n="498" facs="#f00017"/> und von dem Göttlichen nichts mit unserer Erkenntnis zu erkennen vermögen, sind anderer seits jene aus dem gleichen Grunde auch nicht Herrn über uns, und als Götter vermögen sie nichts von den menschlichen Dingen und Angelegenheiten zu erkennen.</p>
+<p rendition="#et">Aber, habe Sokrates bemerkt, das wäre doch wohl eine gar zu wunderliche Behauptung, wenn man die Gottheit des Wissens berauben wollte.</p>
+<p rendition="#et">Gleichwohl, Sokrates, habe Parmenides entgegnet, muß dies und dazu noch gar vieles andere notwendig von den Ideen gelten, wenn solche Ideen der Dinge wirklich vorhanden sein sollen und man jede derselben als etwas für sich Bestehendes von den Dingen absondert, so daß jeder, der dies vernimmt, bedenklich und entweder dazu gebracht wird, zu bestreiten, daß es solche Wesenheiten gibt, oder aber doch anzunehmen, falls sie ja vorhanden wären, daß sie doch ganz notwendig für die menschliche Natur unerkennbar sein würden, und damit wirklich etwas vorbringt, was Erwägung verdient und, wie vorhin bemerkt, ganz gewaltig schwer zu widerlegen ist, so daß es eines gar hoch begabten Mannes dazu bedarf, um es sich begreiflich machen zu lassen, wie es wirklich eine Idee von jeglichem geben könne und eine an und für sich bestehende Wesenheit, und eines noch bewundernswerteren Mannes, um dies selber auffinden und einem andern in gehöriger Auseinandersetzung alles, was dahin gehört, begreiflich machen zu können.</p>
+<p rendition="#et">Ich stimme dir bei, Parmenides, habe da Sokrates gesagt, du sprichst ganz nach meinem Sinne.</p>
+<p rendition="#et">Aber dennoch, habe Parmenides fortgefahren, wenn man andererseits wiederum keine Ideen der Dinge zulassen will, in Berücksichtigung aller der eben gegen diese Annahme erhobenen und noch vieler anderer ähnlichen Schwierigkeiten, und nicht für jede besondere Klasse der Dinge auch eine besondere Idee festsetzen will, so wird man keinen Gegenstand mehr haben, auf den man sein Nachdenken richten kann, indem man ja damit für eine jede Klasse der Dinge ihre gemeinsame, sich immer gleichbleibende Gestaltung aufhebt. Und so wird man denn auf diese Weise alles Vermögen zu wissenschaftlicher Untersuchung vollständig zerstören. Und so etwas ähnliches <pb n="499" facs="#f00018"/> scheint auch dir bei ihrer Annahme hauptsächlich vorgeschwebt zu haben.</p>
+<p rendition="#et">Da hast recht, habe Sokrates erwidert.</p>
+<p rendition="#et">Was denkst du also zu tun in betreff der Philosophie? Wohin willst du dich wenden, wenn dir diese Frage ungelöst bleibt?</p>
+<p rendition="#et">Ja, ich vermag das zur Zeit noch nicht recht abzusehen.</p>
+<p rendition="#et">Nun, Sokrates, habe ihm Parmenides zugeredet, du unternimmst es nur eben allzufrüh, bevor du noch die nötige Vorübung betrieben, zu bestimmen, was das Wesen des Schönen und Gerechten und Guten sei und was man sich unter einer jeden einzelnen Idee zu denken habe. Ich habe das schon neulich bemerkt, als ich dich hier mit dem Aristoteles da dich unterreden hörte. Rühmlich und göttlicher Art, dessen sei gewiß, ist nun allerdings der glühende Eifer, mit welchem du den wissenschaftlichen Untersuchungen nachgehst; aber du mußt dir noch erst die gehörige Spannkraft geben und dich erst weit mehr üben vermöge jener insgemein für unnütz geltenden und von den meisten als leeres Geschwätz bezeichneten Geistestätigkeit, solange du noch jung bist: denn sonst wird die Wahrheit dir doch entgehen.</p>
+<p rendition="#et">Und welches ist denn die Art und Weise, habe Sokrates gefragt, lieber Parmenides, sich zu üben?</p>
+<p rendition="#et">Eben die, sei die Antwort gewesen, welche du von Zenon gehört hast. Doch hat mich das an dir erfreut, daß du wiederum gegen diesen auftratest und ihm erklärtest, wie du nicht sowohl gesonnen seiest, an den Sinnendingen und in bezug auf diese den Kreuz- und Querzügen der Forschung nachzugehen als vielmehr in bezug auf dasjenige, was man vor allem nur mit der Vernunft zu erfassen vermöge und als Ideen zu bezeichnen habe.</p>
+<p rendition="#et">Ja freilich, habe Sokrates erwidert, scheint es mir auf die erstere Weise gar nicht schwer nachzuweisen, daß den Gegenständen Ähnlichkeit und Unähnlichkeit zugleich und alles mögliche sonst zukomme.</p>
+<p rendition="#et">Darin hast du auch ganz recht, habe jener erklärt. Du mußt nur außerdem auch noch so verfahren, daß du dabei nicht bloß von der Voraussetzung »wenn etwas <hi rendition="#i">ist</hi>« ausgehst und so die aus ihr sich ergebenden Folgerungen in Betracht ziehst; sondern du mußt ebensogut auch die entgegengesetzte Voraussetzung<pb n="500" facs="#f00019"/> »wenn eben dieses etwas <hi rendition="#i">nicht ist</hi>« zugrunde legen, wofern du besser dich üben willst.</p>
+<p rendition="#et">Wie meinst du das? habe da jener gefragt.</p>
+<p rendition="#et">Wenn du willst z.B., habe die Antwort gelautet, in bezug auf die Voraussetzung, die Zenon zugrunde gelegt hat, »wenn Vieles ist«, mußt du untersuchen, was sich aus ihr notwendig ergibt sowohl für das Viele in Beziehung auf sich selbst sowie in Beziehung auf das Eine als auch für das Eins in Beziehung auf sich selbst sowie auf das Viele, und dann wiederum untersuchen, »wenn nun aber Vieles nicht ist«, was sich daraus ergeben wird sowohl für das Eine als auch für das Viele sowohl an sich genommen als in Beziehung aufeinander. Und ebenso wieder, falls du die Voraussetzung zugrunde legst, »ob es eine Ähnlichkeit gibt oder nicht gibt«, mußt du prüfen, was aus jeder von beiden Annahmen folgen wird sowohl für das Angenommene selbst als auch für sein Gegenteil, sowohl an sich als auch in Beziehung aufeinander. Und dieselbe Regel gilt in betreff des Unähnlichen und der Bewegung und Ruhe und des Entstehens und Vergehens und des Seins selber und des Nichtseins. Mit<hi rendition="#i"> einem</hi> Wort, in bezug auf jeden Gegenstand, in betreff dessen du immer voraussetzen willst, daß er sei oder nicht sei oder irgend etwas anderes erleide, mußt du stets in Betracht ziehen, was sich aus der einen wie aus der andern Voraussetzung ergibt, in Beziehung auf das Vorausgesetzte selbst und in Beziehung auf jedes einzelne andere, was du immer herausheben willst, und auf mehreres von denselben und auf alles insgesamt ebenso, und auch was sich für alles andere ergibt sowohl in Beziehung auf sich selber als auf jenes erstere, was immer du dir dazu gewählt hast, und magst du als seiend eben jenes nämliche, was du der ganzen Voraussetzung zugrunde legtest, vorausgesetzt haben oder als nicht seiend. So mußt du verfahren, wenn du vollkommen geübt die Wahrheit gründlich durchschauen willst.</p>
+<p rendition="#et">Eine unsäglich schwere Aufgabe, Parmenides, habe Sokrates gesprochen, legst du mir da auf, und noch fasse ich sie nicht recht. Wie wäre es also, wenn du mir in dieser Weise selber irgend eine Voraussetzung durchführtest, damit ich die Sache besser begreife?</p>
+<p rendition="#et">Eine mühselige Arbeit, habe Parmenides versetzt, lieber Sokrates, <pb n="501" facs="#f00020"/> verlangst du da von mir, und das noch dazu in meinen Jahren.</p>
+<p rendition="#et">Nun aber du, Zenon, so habe sich Sokrates jetzt an diesen gewandt, so gib du mir ein solches Beispiel!</p>
+<p rendition="#et">Zenon aber, erzählte Pythodoros, habe lachend erwidert: Nein, Sokrates, bitten wir nur den Parmenides selbst: denn es ist wirklich nichts Geringes, was er uns da beschrieben hat, – oder siehst du wirklich nicht, was für ein Großes es ist, was du da verlangst! Wären wir nun freilich hier in größerer Anzahl, so würde es sich nicht schicken, mit Bitten in ihn zu dringen: denn es ist unpassend, dergleichen vor vielen abzuhandeln, zumal für einen so hochbejahrten Mann. Denn die meisten begreifen es nicht, daß es unmöglich ist, ohne solche Kreuz- und Querzüge durch das ganze Gebiet der Möglichkeiten die Wahrheit zu treffen und zur richtigen Einsicht zu gelangen; so aber, mein Parmenides, vereinige ich meine Bitten mit denen des Sokrates, damit auch ich nach so langer Zeit dich einmal wieder höre.</p>
+<p rendition="#et">Als nun Zenon so gesprochen, da habe Pythodoros, wie mir Antiphon nach seiner Mitteilung erzählte, gleichfalls den Parmenides gebeten, und nicht minder hätten es auch Aristoteles und alle anderen getan, ihnen eine Probe davon zu geben, wie er es meine, und ihnen dies doch ja nicht abzuschlagen.</p>
+<p rendition="#et">Da habe nun Parmenides erwidert: So muß ich euch denn wohl nachgeben, wiewohl ich fürchte, daß es mir ebenso ergehen wird wie dem Rosse bei Ibykos, das zwar wohlgeübt im Wettkampfe, aber doch schon etwas bei Jahren, wenn es das Wagenrennen noch einmal bestehen soll, eben vermöge seiner Erfahrung vor dem Erfolge zittert, und dem er sich selbst vergleicht, indem er singt, daß ebenso auch er, so alt schon, wider seinen Willen gezwungen werde, von neuem die Rennbahn der Liebe zu betreten. Dessen eingedenk glaube auch ich wohl Grund zu der Furcht zu haben, wie ich in meinem Alter einen solchen und so gewaltigen Wogenschwall der Erörterungen durchschwimmen soll; aber dennoch sei es drum! Ich muß euch euren Willen tun, sind wir ja doch auch, wie schon Zenon bemerkt hat, hier unter uns. – Womit also wollen wir beginnen, und welche Voraussetzung zuerst zugrunde legen? Oder ist es euch recht, wenn ich denn doch dies <pb n="502" facs="#f00021"/> mühevolle Spiel durchführen soll, daß ich mit mir selbst und mit meiner eigenen Voraussetzung beginne, indem ich das Eins selbst zugrunde lege und so untersuche: wenn das Eins ist und wenn das Eins nicht ist, was ergibt sich notwendig daraus?</p>
+<p rendition="#et">Jawohl, habe Zenon erwidert.</p>
+<p rendition="#et">Wer will mir denn antworten? habe Parmenides gefragt: doch wohl der Jüngste? Denn der wird am wenigsten Umschweife machen und am ehesten so antworten, wie er denkt; zugleich aber würden mir seine Antworten jedesmal einen Ruhepunkt gestatten.</p>
+<p rendition="#et">Ich bin bereit dazu, Parmenides, habe da Aristoteles gesagt, denn wenn du den Jüngsten nennst, so nennst du damit mich. Frage mich also und sei meiner Antworten gewärtig!</p>
+<p rendition="#et">Wohlan, habe jetzt Parmenides begonnen, wenn Eins ist, so kann doch wohl das Eins nicht Vieles sein?</p>
+<p rendition="#et">Wie sollte es?</p>
+<p rendition="#et">Dann aber darf es auch weder Teile desselben geben noch darf es selber ein Ganzes sein.</p>
+<p rendition="#et">Warum nicht?</p>
+<p rendition="#et">Der Teil ist doch wohl ein Teil vom Ganzen?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und was ist das Ganze? Wird nicht dasjenige, dem kein Teil abgeht, ein Ganzes sein?</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">In beiden Fällen also würde das Eins aus Teilen bestehen: wenn es ein Ganzes wäre und wenn es Teile hätte.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">In beiden Fällen würde also das Eins dergestalt Vieles sein und nicht Eins?</p>
+<p rendition="#et">Das ist wahr.</p>
+<p rendition="#et">Es soll aber doch eben nicht Vieles, sondern Eins sein?</p>
+<p rendition="#et">Das soll es.</p>
+<p rendition="#et">Es darf also weder ein Ganzes sein noch Teile haben, wenn anders das Eins wirklich Eins sein soll.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Wenn es aber keine Teile hat, so hat es auch nicht Anfang noch Ende noch Mitte: denn dies wären ja eben schon Teile desselben.</p>
+<p rendition="#et"><pb n="503" facs="#f00022"/> Richtig.</p>
+<p rendition="#et">Nun sind aber Anfang und Ende die Grenze eines jeden.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Unbegrenzt ist also das Eins, wenn es weder Anfang noch Ende hat.</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Und dann auch ohne Gestalt, denn weder am Geraden noch am Runden kann es demnach teil haben.</p>
+<p rendition="#et">Warum nicht?</p>
+<p rendition="#et">Rund ist doch wohl dasjenige, dessen Enden von der Mitte überall gleich weit abstehen?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und gerade ist doch wohl das, dessen Mitte die beiden Enden deckt?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Also würde das Eins Teile haben und mithin Vieles sein, wenn es an der geraden oder an der runden Gestalt teil hätte?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Es hat nun aber keine Teile, und mithin ist es weder gerade noch rund.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und wenn es so beschaffen ist, so kann es nirgends sein; denn weder daß es in einem anderen noch daß es in sich selber sei, ist dann möglich.</p>
+<p rendition="#et">Warum denn?</p>
+<p rendition="#et">Wenn es in einem anderen wäre, so würde es rund umher von demselben eingeschlossen sein und dasselbe vielfach und an vielen Orten berühren; da nun aber das Eins sowohl ohne Teile ist als auch am Runden keinen Anteil hat, so kann es unmöglich rund umher an vielen Stellen berührt werden.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Wenn es aber in sich selber wäre, so müßte es sich selber und nicht ein anderes es umschließen, denn daß etwas in etwas wäre, was es nicht umgibt, ist unmöglich.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Nun muß aber doch wohl ein anderes das es Umschließende und ein anderes das von ihm Umschlossene sein: denn unmöglich kann dasselbe als Ganzes beides zugleich leiden und tun; und so wäre denn das Eins nicht mehr Eins, sondern Zwei.</p>
+<p rendition="#et"><pb n="504" facs="#f00023"/> Freilich.</p>
+<p rendition="#et">Es ist also das Eins nirgends, indem es sich weder in sich selbst befindet noch in etwas anderem.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Siehe denn nun zu, ob ihm, wenn es also mit ihm steht, möglich ist zu ruhen oder sich zu bewegen.</p>
+<p rendition="#et">Warum sollte es denn nicht?</p>
+<p rendition="#et">Weil es, wenn es sich bewegte, entweder im Räume fortgetrieben werden oder sich verwandeln müßte: denn nur diese beiden Arten von Bewegung gibt es.</p>
+<p rendition="#et">Ja, in der Tat.</p>
+<p rendition="#et">Wenn nun aber das Eins sich verwandelte, so wäre es ja eben nicht mehr das Eins, sondern ein Anderes.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Seitens der Verwandlung also zunächst bewegt es sich nicht.</p>
+<p rendition="#et">Offenbar nicht.</p>
+<p rendition="#et">Aber etwa seitens des Fortgetriebenwerdens im Raume?</p>
+<p rendition="#et">Vielleicht.</p>
+<p rendition="#et">Sollte nun dem Eins dies begegnen, so müßte es doch entweder in demselben Raume im Kreise umgetrieben werden, oder es müßte seinen Ort Verändern.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Was im Kreise umgetrieben wird, muß doch notwendig in seiner Mitte ruhen und außerdem alles dasjenige, was sich um diese Mitte herumbewegt, noch als andere Teile in sich haben. Wie soll dagegen dasjenige, dem weder Mitte noch Teile zukommen, je dahin gebracht werden, sich im Kreise um seine Mitte zu drehen?</p>
+<p rendition="#et">Auf keine Weise.</p>
+<p rendition="#et">Soll aber das Eins sich durch Ortswechsel bewegen, dann ist es notwendig zu verschiedenen Zeiten an verschiedenen Orten.</p>
+<p rendition="#et">Ja, wenn es sich überhaupt bewegen soll, so ist es nur so noch denkbar.</p>
+<p rendition="#et">Hat es sich nun aber nicht als unmöglich gezeigt, daß das Eins irgendwo sei?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und wird es nicht also noch viel unmöglicher sein, daß es irgendwohin komme?</p>
+<p rendition="#et">Ich begreife nicht, inwiefern.</p>
+<p rendition="#et"><pb n="505" facs="#f00024"/> Nun, wenn etwas an irgend einen Ort kommt, ist es da nicht notwendig einerseits, daß es sich noch nicht innerhalb desselben befindet, weil es ja erst in ihn hineinkommt, andererseits aber auch nicht mehr ganz außerhalb desselben, weil es ja eben schon in ihn hineinkommt?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Wenn nun dies überhaupt irgend einem Gegenstande widerfahren soll, so kann es doch demjenigen allein widerfahren, welcher Teile hat. Denn nur von diesem kann zugleich etwas innerhalb eines Ortes und etwas außerhalb desselben sein; was aber keine Teile hat, wird wohl auf keine Weise vermögen, ganz zugleich sowohl innerhalb als außerhalb eines Ortes zu sein.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und das vollends, was weder Teile hat noch auch ein Ganzes ist, wird noch weit weniger dazu imstande sein, in irgend einen Ort hineinzukommen, da es eben weder teilweise noch ganz in ihn eintreten kann?</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Weder vermag also das Eins irgendwohin zu kommen noch in irgend einen Raum einzudringen und mithin seinen Ort zu verändern, noch auch sich in demselben Räume herumzubewegen, noch endlich sich zu verwandeln.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Unbeweglich also ist es hinsichtlich jeder Art von Bewegung, die es gibt.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Aber auch das haben wir für unmöglich erklärt, daß es sich in irgend etwas befinde.</p>
+<p rendition="#et">Das haben wir.</p>
+<p rendition="#et">Dann befindet es sich aber auch nie in Einem und Demselben.</p>
+<p rendition="#et">Warum das?</p>
+<p rendition="#et">Weil es ja dann doch <hi rendition="#i">in</hi> demjenigen wäre, in welchem es sich als in demselben befände.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Aber es kann weder in sich selbst noch in etwas anderem, wie wir sahen, sein.</p>
+<p rendition="#et">Allerdings nicht.</p>
+<p rendition="#et">Niemals befindet also das Eins sich in Einem und Demselben und also nicht innerhalb desselben Raumes.</p>
+<p rendition="#et"><pb n="506" facs="#f00025"/> So scheint es.</p>
+<p rendition="#et">Was aber sich niemals innerhalb desselben Raumes befindet, das ruht auch nicht noch steht es stille.</p>
+<p rendition="#et">Nein, das ist unmöglich.</p>
+<p rendition="#et">Folglich ist das Eins weder ruhend noch bewegt.</p>
+<p rendition="#et">Das ist offenbar.</p>
+<p rendition="#et">Aber es wird auch nicht einerlei sein weder mit einem anderen noch mit sich selbst, ebensowenig aber auch verschieden weder von sich selbst noch von etwas anderem.</p>
+<p rendition="#et">Wieso das?</p>
+<p rendition="#et">Wäre es verschieden von sich selbst, so wäre es eben verschieden vom Eins und folglich nicht mehr Eins.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und wäre es einerlei mit einem anderen, so wäre es eben damit dieses andere und nicht mehr es selbst, es wäre also so nicht mehr dasjenige, was es ist, Eins, sondern verschieden vom Eins.</p>
+<p rendition="#et">Unleugbar.</p>
+<p rendition="#et">Einerlei also mit etwas anderem oder verschieden von sich selbst kann es nicht sein.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Es wird aber auch nicht verschieden von einem anderen sein, solange es Eins ist: denn nicht dem Eins kommt es zu, verschieden von etwas zu sein, sondern allein dem Verschiedenen und nichts anderem.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Inwiefern es also Eins ist, kann es nicht verschieden sein, oder meinst du?</p>
+<p rendition="#et">Nicht doch.</p>
+<p rendition="#et">Wenn aber nicht insofern, dann auch nicht, inwiefern es <hi rendition="#i">Esselbst</hi> ist; wenn aber nicht, inwiefern es Esselbst ist, dann auch selbst nicht; wenn es aber selbst in keiner Weise verschieden ist, so wird es auch; von nichts verschieden sein.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Aber es wird auch nicht einerlei mit sich selbst sein.</p>
+<p rendition="#et">Wie sollte es denn nicht?</p>
+<p rendition="#et">Nun, es ist die Natur des Eins doch wohl nicht ganz dieselbe wie die des Einerlei?</p>
+<p rendition="#et">Warum nicht?</p>
+<p rendition="#et"><pb n="507" facs="#f00026"/> Weil ja nicht, wenn etwas einerlei mit etwas wird, es dadurch auch Eins wird.</p>
+<p rendition="#et">Ist das denn nicht der Fall?</p>
+<p rendition="#et">Nein; denn wenn es einerlei mit dem Vielen wird, so muß es ganz notwendigerweise dadurch Vieles werden und nicht Eins.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Wenn aber das Eins und das Einerlei gar nicht verschieden sein sollten, so müßte, sooft etwas einerlei wird, es damit auch Eins werden, und sooft Eins, auch einerlei.</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Mithin könnte das Eins, wenn es einerlei mit sich selbst sein sollte, nicht Eins mit sich selbst sein, und so wäre es denn als Eins zugleich nicht Eins.</p>
+<p rendition="#et">Das ist nun freilich unmöglich.</p>
+<p rendition="#et">Unmöglich ist es also für das Eins auch, verschieden von etwas anderem und einerlei mit sich selbst zu sein.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Und so ist denn das Eins weder verschieden von sich wie von etwas anderem noch auch einerlei mit sich wie mit etwas anderem.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und auch ebenso wenig ähnlich als unähnlich ist es mit etwas, mit sich selbst so wenig wie mit etwas anderem.</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Weil nur dasjenige mit etwas ähnlich ist, welchem nach irgend einer Seite hin Einerleiheit mit demselben zuteil geworden ist.</p>
+<p rendition="#et">In der Tat.</p>
+<p rendition="#et">Nun aber zeigte sich uns doch vom Eins als gesondert ihrer Natur nach die Einerleiheit und als etwas anderes als das Eins.</p>
+<p rendition="#et">So zeigte es sich uns allerdings.</p>
+<p rendition="#et">Wenn nun aber dem Eins noch irgend etwas anderes außer dem Eins zuteil geworden wäre, so wäre ihm zuteil geworden, mehr zu sein als Eins: das ist aber unmöglich.</p>
+<p rendition="#et">In der Tat.</p>
+<p rendition="#et">Folglich kann die Einerleiheit in keiner Weise dem Eins zuteil werden weder mit etwas anderem noch mit sich selbst.</p>
+<p rendition="#et">Offenbar nicht.</p>
+<p rendition="#et"><pb n="508" facs="#f00027"/> Und auch ähnlich kann es mithin nicht sein, weder mit etwas anderem noch mit ach selbst.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Aber auch der Verschiedenheit kann das Sein niemals teilhaftig werden; denn auch so würde es dessen teilhaftig werden, mehr zu sein als Eins.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Dasjenige aber, welchem eine Verschiedenheit zuteil geworden ist, entweder von sich selbst oder von etwas anderem, wird dadurch unähnlich sein sei es sich selbst oder etwas anderem, wenn anders doch dasjenige, welchem die Einerleiheit zuteil geworden, eben dadurch ähnlich ist.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Das Eins also, wie es scheint, da es eben in keiner Weise der Verschiedenheit teilhaftig werden kann, ist auch in keiner Weise unähnlich weder sich selbst noch etwas anderem?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Weder ähnlich noch unähnlich sei es mit einem andern, sei es mit sich selbst ist sonach das Eins.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Und zufolge dieser seiner ganzen Beschaffenheit wird es ferner auch weder gleich noch ungleich sein weder mit sich selbst noch mit etwas anderem.</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Nun, etwas, was gleich ist mit etwas, hat doch wohl dieselben Maße wie dasjenige, mit welchem es gleich ist?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und wenn etwas größer oder kleiner ist als etwas, so wird es doch wohl mehr Maßeinheiten haben als das Kleinere und weniger als das Größere, wenn man diese Maßeinheiten von demjenigen hernimmt, mit welchem es gleiche Maße hat.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Wenn man aber die Maßeinheiten von demjenigen hernimmt, mit welchem es nicht von gleichen Maßen ist, dann wird es kleinere als das Größere und größere als das Kleinere haben.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Ist es nun aber nicht unmöglich, daß dasjenige, welches überhaupt keinen teil hat an dem Einerlei, einerlei Maße oder was du irgend sonst willst habe?</p>
+<p rendition="#et"><pb n="509" facs="#f00028"/> Unmöglich.</p>
+<p rendition="#et">Dann kann es aber auch weder mit sich selbst noch mit etwas anderem gleich sein, wenn es doch eben nicht von einerlei Maßen ist.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Und wenn es mehr oder weniger Maßeinheiten hat, wird es dann nicht, wieviel Maßeinheiten, so viel auch Teile haben, und so eben wiederum nicht mehr Eins sein, sondern so Vieles, als es eben Maßeinheiten hat.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Wenn es aber nur <hi rendition="#i">eines</hi> Maßes wäre, so wäre es eben damit dem Maße gleich; das aber hat sich schon als unmöglich gezeigt, daß es irgend etwas gleich sei.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Da es also weder <hi rendition="#i">eines</hi> Maßes noch vieler noch weniger Maße, da es überhaupt des Einerlei unteilhaftig ist, so wird es, wie es scheint, niemals weder sich selber noch etwas anderem gleich und ebensowenig größer oder kleiner als es selbst oder als ein anderes sein.</p>
+<p rendition="#et">Ganz und gar verhält es sich so.</p>
+<p rendition="#et">Und ferner: Scheint dir das Eins älter oder jünger als etwas oder von einerlei Alter mit etwas sein zu können?</p>
+<p rendition="#et">Warum denn nicht?</p>
+<p rendition="#et">Weil es, wenn es etwa einerlei Alter sei es mit sich selbst, sei es mit einem andern haben sollte, eben damit auch Anteil empfangen würde an der Gleichheit oder Ähnlichkeit der Zeit nach, während wir doch eben ausgemacht haben, daß es schlechthin aller Ähnlichkeit und Gleichheit unteilhaftig sei.</p>
+<p rendition="#et">Allerdings haben wir das ausgemacht.</p>
+<p rendition="#et">Ebensogut haben wir aber auch andererseits ausgemacht, daß es auch aller Unähnlichkeit und Ungleichheit unteilhaftig sei.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Wie sollte nun aber etwas älter oder jünger sein können als etwas oder einerlei Alter mit ihm haben, falls es so mit jenem bestellt ist?</p>
+<p rendition="#et">In keiner Weise.</p>
+<p rendition="#et">Also auch nicht jünger oder älter oder von einerlei Alter dürfte das Eins sein, weder in Vergleich zu sich selbst noch zu etwas anderem.</p>
+<p rendition="#et"><pb n="510" facs="#f00029"/> Offenbar nicht.</p>
+<p rendition="#et">Dann aber ist es doch wohl notwendig auch gar nicht in der Zeit, wenn es so mit ihm steht; oder muß nicht schlechterdings, wenn etwas in der Zeit ist, dieses mit der Zeit auch immer älter werden, als es zuvor war, und mithin älter als es selbst?</p>
+<p rendition="#et">Ja, schlechterdings.</p>
+<p rendition="#et">Nun aber ist das ältere doch stets älter als ein Jüngeres?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Was also irgendwie älter wird als es selbst, wird eben damit zugleich auch jünger als es selbst, wenn anders es doch etwas haben muß, im Vergleiche zu dem es älter wird.</p>
+<p rendition="#et">Wie meinst du das?</p>
+<p rendition="#et">So: Etwas, was von etwas anderem schon verschieden <hi rendition="#i">ist</hi>, braucht von diesem nicht erst verschieden zu<hi rendition="#i"> werden</hi>; vielmehr muß es von dem, von welchem es schon verschieden <hi rendition="#i">ist</hi>, auch schon verschieden sein, und von dem, von welchem es dies <hi rendition="#i">geworden ist</hi>, es eben <hi rendition="#i">geworden sein</hi>, und von dem, von welchem es dies erst in <hi rendition="#i">Zukunft sein wird</hi>, es auch erst in Zukunft sein, von demjenigen aber, von welchem es dies gerade <hi rendition="#i">wird</hi>, kann es weder verschieden <hi rendition="#i">geworden sein</hi> noch <hi rendition="#i">in Zukunft sein</hi> noch schon <hi rendition="#i">gegenwärtig sein</hi>, sondern es eben nur <hi rendition="#i">werden</hi> und sich nicht anders ihm gegenüber verhalten.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Nun ist aber das Altere verschieden von dem Jüngeren und von nichts anderem.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Was also älter wird als es selbst, muß notwendig auch jünger werden als es selbst.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Andererseits kann es aber doch wiederum weder längere noch kürzere Zeit werden als es selbst, sondern muß notwendig immer die gleiche Zeit mit sich selbst (also eben so alt als es selbst) sowohl werden als auch sein und geworden sein und sein werden.</p>
+<p rendition="#et">Auch dies ist allerdings notwendig.</p>
+<p rendition="#et">Notwendig also, wie es scheint, muß alles, was sich in der Zeit befindet und den zeitlichen Verhältnissen unterworfen ist, eben sowohl einerseits immer mit sich selbst das gleiche Alter <pb n="511" facs="#f00030"/> haben als auch andererseits zugleich älter und jünger werden als es selbst.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Nun aber hat es sich gezeigt, daß das Eins aller dieser Vorkommenheiten unteilhaftig ist.</p>
+<p rendition="#et">So hat sich gezeigt.</p>
+<p rendition="#et">Folglich hat es auch keinen Anteil an der Zeit und ist nicht in einer Zeit.</p>
+<p rendition="#et">Gewiß nicht, wie die Untersuchung nachweist.</p>
+<p rendition="#et">Wie nun? Scheint dir nicht das War und das Wargeworden und das Wurde eine Teilnahme an der einst gewesenen Zeit zu bezeichnen?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und ferner das Wirdsein und das Wirdgewordensein und das Wirdwerden an der irgendwie hernachkommenden?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und das Ist und das Istgeworden und das Wird an der jetzt gegenwärtigen?</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Wenn also das Eins in keinem Betracht an irgend einer Zeit teilhat, so war es auch weder jemals <hi rendition="#i">geworden</hi> oder <hi rendition="#i">wurde</hi> oder war jemals noch <hi rendition="#i">ist</hi> es jetzt <hi rendition="#i">geworden</hi> oder <hi rendition="#i">wird</hi> oder <hi rendition="#i">ist</hi> noch <hi rendition="#i">wird</hi> es hernach <hi rendition="#i">werden</hi> oder <hi rendition="#i">geworden sein</hi> oder <hi rendition="#i">sein</hi>.</p>
+<p rendition="#et">Sehr wahr.</p>
+<p rendition="#et">Kann nun aber wohl irgend etwas am Sein teil haben auf eine andere Weise als auf eine von diesen?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">In keiner Weise also hat das Eins am Sein teil.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Auf keine Weise also <hi rendition="#i">ist</hi> das Eins.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Es ist also nicht einmal in <hi rendition="#i">der</hi> Weise, daß es <hi rendition="#i">Eins</hi> ist, denn dann wäre es immer noch seiend und des Seins teilhaftig. Vielmehr <hi rendition="#i">ist</hi> das Eins weder noch ist es Eins, wenn anders man diesem Schlüsse trauen darf.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Wenn aber etwas nicht ist, kann da wohl diesem Nichtseienden überhaupt etwas zukommen oder ihm angehören?</p>
+<p rendition="#et"><pb n="512" facs="#f00031"/> Wie wäre das möglich?</p>
+<p rendition="#et">Dann aber kommt ihm auch gar kein Name zu und keine Aussage über dasselbe und keine Erkenntnis noch Wahrnehmung noch Vorstellung von ihm.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Man kann es also weder benennen noch von ihm reden und etwas aussagen noch es sich vorstellen noch es erkennen noch auch etwas, was es an sich hätte, wahrnehmen.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Ist es nun aber möglich, daß es sich mit dem Eins wirklich so verhalte?</p>
+<p rendition="#et">Mir scheint, nein.</p>
+<p rendition="#et">Willst du also, daß wir unsere Voraussetzung wieder von vorne aufnehmen und zusehen, ob uns nicht, wenn wir diese von neuem in Betracht ziehen, ganz andere Folgerungen sich aus ihr ergeben werden?</p>
+<p rendition="#et">Ja, sehr ist das mein Wunsch.</p>
+<p rendition="#et">Also wenn Eins ist, das ist unsere Voraussetzung, und wir sind willens, alles, was sich aus ihr für dies Eins ergibt, wie es auch aussehen möge, zuzugeben; nicht wahr?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">So betrachte dir die Sache noch einmal wieder von vorne an: Wenn Eins <hi rendition="#i">ist</hi>, ist es da wohl möglich, daß es <hi rendition="#i">ist</hi> und doch keinen Anteil am Sein hat?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Also gibt es auch ein Sein des Eins, welches nicht einerlei ist mit dem Eins. Denn sonst wäre es ja nicht das Sein des Eins, und das Eins wäre dann nicht bloß dieses Seins teilhaftig, sondern es wäre gleich, ob man sagte. <hi rendition="#i">Eins ist</hi> oder <hi rendition="#i">Eins Eins</hi>. Nun aber lautet unsere Voraussetzung nicht so: wenn <hi rendition="#i">Eins Eins</hi>, was folgt daraus mit Notwendigkeit? – sondern vielmehr: wenn <hi rendition="#i">Eins ist</hi>; nicht wahr?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und somit dahin, daß das <hi rendition="#i">Ist</hi> etwas anderes bezeichnet als das <hi rendition="#i">Eins</hi>?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Wird also wohl, wenn man sich in der Kürze so ausdrückt: »Eins ist«, der genauere Sinn dieser Rede ein anderer sein als der: »Das Eins hat teil am Sein«?</p>
+<p rendition="#et"><pb n="513" facs="#f00032"/> Nein, kein anderer.</p>
+<p rendition="#et">Noch einmal also wollen wir untersuchen, wenn Eins ist, was sich daraus ergeben wird: Gib also acht, ob nicht diese Voraussetzung notwendig das Eins als solches bezeichnet, welches Teile hat?</p>
+<p rendition="#et">Inwiefern?</p>
+<p rendition="#et">Insofern: Wenn das Ist von dem seienden Eins und das Eins von dem Einsseienden ausgesagt wird, und wenn nun das Sein und das Eins nicht einerlei ist, beides aber einerlei Gegenstand zukommt, nämlich eben dem von uns vorausgesetzten seienden Eins, – muß da nicht notwendig das Ganze dies seiende Eins selber sein und das Eins und das Sein seine Teile werden?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Werden wir nun jeden dieser beiden Teile bloß Teil nennen, oder muß nicht alles, was Teil ist, auch Teil des Ganzen genannt werden?</p>
+<p rendition="#et">Das muß es.</p>
+<p rendition="#et">Sowohl ein Ganzes ist demnach, was Eins ist, als auch hat es Teile.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und wie nun weiter? Wird nun wohl einer von diesen beiden Teilendes seienden Eins, dem Eins und dem Sein, – wird, sage ich, einerseits das Eins als Teil sich wohl je vom Sein ablösen lassen und andererseits das Seiende als Teil vom Eins?</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Wiederum also enthält auch jeder dieser beiden Teile das Eins und das Sein in sich, und so entsteht jeder zum mindesten wieder aus zwei Teilen, und ebenso geht es immer weiter fort: jeder Teil des Teils hat immer wieder diese beiden Teile in sich, denn das Eins faßt immer wieder das Sein in sich und das Sein das Eins, so daß es notwendig immer Zwei wird und niemals Eins ist.</p>
+<p rendition="#et">Ja, schlechterdings.</p>
+<p rendition="#et">Unermeßlich an Menge wird also auf diese Weise das Eins?</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Wohlan nun, betrachte es auch von dieser Seite!</p>
+<p rendition="#et">Nun?</p>
+<p rendition="#et">Wir behaupten, am Sein habe das Eins teil, eben weil es <hi rendition="#i">ist</hi>?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et"><pb n="514" facs="#f00033"/> Und eben infolgedessen zeigte sich, daß das Eins Vieles ist.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Wie nun aber weiter? Wird denn wohl selbst das Eins an sich, von dem wir behaupten, daß es des Seins teilhaftig sei, wenn wir es in unserem Verstände rein für sich nehmen, ohne dasjenige, dessen es nach unterer Behauptung teilhaftig ist, uns bloß als Eins erscheinen oder auch so zugleich als Vieles?</p>
+<p rendition="#et">Nun, ich dächte doch als Eins.</p>
+<p rendition="#et">Nun, wir wollen zusehen: Etwas anderes und von ihm Verschiedenes muß doch wohl notwendig das Sein desselben sein und etwas Verschiedenes es selbst, wenn anders doch das Eins nicht das Sein ist, sondern nur als Eins am Sein teil hat.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Wenn nun aber das Sein und das Eins zwei verschiedene Dinge sind, so ist weder das Eins durch das Einssein verschieden vom Sein, noch das Sein dadurch, daß es Sein ist, etwas anderes als das Eins, sondern durch die Verschiedenheit und das Anderssein sind beide verschieden von einander.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Mithin ist die Verschiedenheit nicht einerlei weder mit dem Sein noch mit dem Eins.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Wie also? Wenn wir nun von ihnen herausnehmen, was du willst, das Sein und die Verschiedenheit, oder das Sein und das Eins, oder das Eins und die Verschiedenheit, – haben wir nicht in jedem Falle immer herausgenommen, was man mit dem Ausdruck »<hi rendition="#i">die beiden</hi>« zu bezeichnen berechtigt ist?</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Höre nur! Kann man sagen »Sein«?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und ebenso wiederum »Eins«?</p>
+<p rendition="#et">Ja, gleichfalls.</p>
+<p rendition="#et">Und nicht wahr, so hat man jedes von ihnen gesondert genannt?</p>
+<p rendition="#et">Freilich.</p>
+<p rendition="#et">Wenn ich nun aber sage »Sein und Eins«, nenne ich da nicht beide zusammen?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und auch wenn ich sage »Sein und Verschiedenheit«, oder »Verschiedenheit <pb n="515" facs="#f00034"/> und Eins«, auch in jedem solchen Falle nenne ich durchaus immer beide zusammen und kann mich auch des Ausdrucks »<hi rendition="#i">beide</hi>« bedienen?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Alle diejenigen Dinge nun aber, auf welche der Ausdruck »<hi rendition="#i">beide</hi>« paßt, – ist es möglich, daß die nur »<hi rendition="#i">beide</hi>« zu heißen verdienen und nicht auch »<hi rendition="#i">zwei</hi>«?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Wo aber zwei Gegenstände sind, ist es da eine Möglichkeit, daß nicht jeder von ihnen Eins sei?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Wenn also beide verbunden <hi rendition="#i">zwei</hi> sind, so ist auch jedes Einzelne Eins?</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Wenn aber jedes Einzelne von ihnen Eins ist, wird da nicht, wenn man ein jedes beliebige Eins mit einer beliebigen Zweiheit zusammensetzt, das Ganze zu einer Drei?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Drei aber ist ungerade und Zwei gerade?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und nun ferner, wenn Zwei sind, muß da nicht notwendig auch ein Zweimal vorhanden sein, und wenn Drei, ein Dreimal, sofern doch eben dem Zwei das Zweimaleins und dem Drei das Dreimaleins zugrunde liegt?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Wenn aber Zwei und ein Zweimal da sind, müssen dann nicht notwendig auch Zweimalzwei, und wenn Drei und ein Dreimal, so auch Dreimaldrei sein?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und ferner, wenn Drei und ein Zweimal, und desgleichen Zwei und ein Dreimal, dann auch Zweimaldrei und Dreimalzwei?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Also überhaupt Gerades gerademal und Ungerades ungerademal und Gerades ungerademal und Ungerades gerademal?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wenn sich dies aber so verhält, meinst du da, daß noch irgend eine Zahl übrig bleibe, die nicht notwendig vorhanden sein muß?</p>
+<p rendition="#et"><pb n="516" facs="#f00035"/> Keineswegs.</p>
+<p rendition="#et">Wenn also Eins <hi rendition="#i">ist</hi>, so muß notwendig auch <hi rendition="#i">Zahl</hi> sein.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Und wenn Zahl, dann auch Vieles und eine unendliche Menge des Seienden. Oder wird nicht so auch eine unendlich große Zahl des Seins teilhaftig?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und wenn jede Zahl des Seins teilhaftig ist, so muß auch jeder Teil der Zahl desselben teilhaftig sein?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Unter alles also, was Vieles ist, ist das Sein verteilt, und keinem von allem, was <hi rendition="#i">ist</hi>, ist es ferne, weder vom Kleinsten noch vom Größten. Nicht wahr? Oder ist es nicht töricht, danach auch nur zu fragen? Denn wie sollte das Sein irgend einem von dem, was<hi rendition="#i"> ist</hi>, ferne sein?</p>
+<p rendition="#et">Auf keine Weise.</p>
+<p rendition="#et">Zerstückelt also ist es nach Möglichkeit in das Größte und Kleinste und allerwärts Seiende und ist von allem am meisten geteilt, und es gibt unzählig viele Teile des Seins.</p>
+<p rendition="#et">So verhält es sich.</p>
+<p rendition="#et">Mehr als alles andere also hat es Teile?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und wie nun? Kann sich wohl unter diesen einer befinden, der ein Teil des Seins und doch kein <hi rendition="#i">Teil</hi> ist?</p>
+<p rendition="#et">Wie wäre so etwas möglich?</p>
+<p rendition="#et">Wofern er aber überhaupt <hi rendition="#i">ist</hi>, denke ich, muß er doch notwendig, solange er <hi rendition="#i">ist</hi>, irgend Eins sein und nicht Keins.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Jedem einzelnen Teile des Seins haftet also notwendig das Eins an, und weder dem größten noch dem kleinsten noch sonst irgend einem dieser Teile bleibt es fern.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Kann nun aber irgend etwas, was Eins ist, an vielen Stellen zugleich ganz sein? Überlege dir das!</p>
+<p rendition="#et">Ich habe mir das schon überlegt und sehe, daß es unmöglich ist.</p>
+<p rendition="#et">Wenn aber nicht ganz, so jedenfalls geteilt, und anders als geteilt kann es in keiner Weise allen Teilen des Seins zugleich einwohnen.</p>
+<p rendition="#et"><pb n="517" facs="#f00036"/> Richtig.</p>
+<p rendition="#et">Das Geteilte aber muß doch wohl ganz notwendig ein so Vielfaches sein, als es Teile hat?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Nicht richtig war es also, wenn wir vorhin behaupteten, daß das Sein in mehr Teile geteilt sei als irgend etwas anderes: denn es ist nicht in mehr Teile geteilt als das Eins, sondern in gerade ebenso viele, wie es scheint; denn weder läßt sich das Sein vom Eins trennen noch das Eins vom Sein, vielmehr findet sich von diesen beiden stets in allem gleichviel.</p>
+<p rendition="#et">Ganz offenbar.</p>
+<p rendition="#et">Das Eins selbst ist also auch rein an sich betrachtet zerstückelt vom Sein und somit Vieles und unbegrenzt an Menge.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Nicht bloß das seiende Eins also ist Vieles, sondern auch das reine Eins an sich ist ganz notwendig vom Sein geteilt und mithin Vieles.</p>
+<p rendition="#et">Ja, ganz notwendig.</p>
+<p rendition="#et">Und da doch die Teile immer Teile des Ganzen sind, so wird das Eins als Ganzes betrachtet auch begrenzt sein. Oder werden nicht die Teile vom Ganzen umfaßt?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Und das Umfassende wird doch wohl die Grenze sein?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Das Eins, wenn es <hi rendition="#i">ist</hi>, ist also Eines und Vieles, Ganzes und Teile, begrenzt und von unbegrenzter Menge.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Wenn es nun aber begrenzt ist, wird es da nicht auch Enden haben?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Und ferner auch als Ganzes, wird es da nicht Anfang, Mitte und Ende haben müssen? Oder kann es ein Ganzes geben ohne diese drei? Und wenn irgend eins von ihnen einem Gegenstände mangelt, wird dieser dann noch Anspruch darauf haben, ein Cannes zu sein?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Also auch Anfang, Ende und Mitte hat das Eins.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et"><pb n="518" facs="#f00037"/> Die Mitte ist aber nun gleich weit von beiden Enden entfernt, – nicht wahr, sonst kann sie nicht Mitte sein?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">So aber trägt das Sein, wie es scheint, notwendig auch irgend eine Gestalt an sich, sei es eine gerade oder eine runde oder eine aus beiden gemischte.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und steht es so min ihm, wird es da nicht sowohl in sich selbst als in einem anderen sein?</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Von den Teilen ist doch wohl ein jeder in dem Ganzen und keiner von ihnen außer diesem?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und alle Teile werden vom Ganzen umschlossen?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Nun ist aber doch das Eins nichts anderes als alle seine Teile zusammen, und nicht mehr oder weniger als diese alle?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Aber auch das Ganze ist doch wohl das Eins?</p>
+<p rendition="#et">Wie sollte es nicht?</p>
+<p rendition="#et">Wenn nun alle Teile im Ganzen sind, ebensowohl aber alle Teile als auch das Ganze selbst das Eins sind und alle Teile vom Ganzen umfaßt und umschlossen werden, so wird damit das Eins vom Eins Umschlossen, und so muß denn doch wohl das Eins in sich selbst sein?</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Andererseits aber ist wiederum das Ganze nicht in den Teilen, weder in allen noch in einigen. Denn wenn es in allen wäre, so müßte es auch in <hi rendition="#i">einem</hi> sein: denn wenn es in irgendeinem nicht wäre, so könnte es nicht mehr in allen sein. Wenn nun aber dieser eine Teil doch nur einer von ihnen allen ist und das Ganze schon in diesem Teile enthalten ist, wie soll es da erst in allen Teilen enthalten sein?</p>
+<p rendition="#et">Auf keine Weise.</p>
+<p rendition="#et">Aber es ist auch nicht in einigen Teilen. Denn wenn das Ganze in einigen wäre, so wäre das Mehrere in dem Wenigeren, und das ist unmöglich.</p>
+<p rendition="#et">Jawohl, unmöglich.</p>
+<p rendition="#et">Wenn aber das Ganze weder in mehreren noch in<hi rendition="#i"> einem</hi> noch <pb n="519" facs="#f00038"/> in allen Teilen ist, muß es da nicht not wendig in irgend einem andern oder aber überhaupt nirgends sein?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Wenn es nun aber nirgends wäre, so wäre es überhaupt Nichts: da es aber etwas, nämlich ein Ganzes ist, so muß es notwendig, da es in sich selber nicht ist, in einem anderen sein.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Sofern als das Eins ein Ganzes ist, ist es in etwas anderem; insofern es aber mit allen seinen Teilen gleich ist, ist es in sich selbst; und so muß denn das Sein notwendig sowohl in sich selbst als auch in einem anderen sein.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Wenn es aber so mit dem Eins steht, muß es da nicht notwendig auch sowohl sich bewegen als ruhen?</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Sofern es in sich selbst ist, ruht es doch wohl? Denn wenn es im Eins ist und diesen seinen Aufenthalt nicht verläßt, so befindet es sich doch wohl damit immer an demselben Orte, nämlich in sich selbst.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Was sich aber immer in demselben Orte befindet, das muß doch wohl notwendig ruhen und stille stehen.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Wie aber? Was sich immer in etwas anderem befindet, das kann sich doch wohl nie in demselben Orte befinden, und was sich nie in demselben Orte befindet, das kann doch nicht ruhen; was aber nicht ruht, muß sich doch wohl notwendig bewegen?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Es muß also das Eins, da es stets sowohl in sich selbst als auch in einem andern ist, auch stets sowohl bewegt als auch ruhend sein.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Und ebenso muß es auch sowohl einerlei mit sich selbst als verschieden von sich selbst und desgleichen einerlei mit allem anderen und verschieden von allem anderen sein, wenn anders ihm wirklich das ihm vorhin Zugeschriebene zukommt.</p>
+<p rendition="#et">Inwiefern?</p>
+<p rendition="#et">Jegliches verhält sich doch wohl zu jeglichem so: es ist entweder <pb n="520" facs="#f00039"/> einerlei mit ihm oder verschieden von ihm, oder, wenn es beides nicht ist, so wird es ein Teil von demjenigen sein, im Verhältnis zu welchem es beides nicht ist, oder aber es wird sich zu diesem wie das Ganze zum Teile verhalten.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Ist nun etwa das Eins sein eigener Teil?</p>
+<p rendition="#et">In keiner Weise.</p>
+<p rendition="#et">Es wird sich also auch nicht zu sich selbst wie das Ganze zum Teile verhalten, so daß es selber dieser Teil wäre.</p>
+<p rendition="#et">Nein, das ist unmöglich.</p>
+<p rendition="#et">Ist nun aber ferner wohl das Eins vom Eins verschieden?</p>
+<p rendition="#et">Gewiß nicht.</p>
+<p rendition="#et">Also auch von sich selbst verschieden ist es nicht?</p>
+<p rendition="#et">Allerdings nicht.</p>
+<p rendition="#et">Wenn es sich nun zu sich selbst nicht als ein Verschiedenes noch als ein Ganzes noch als ein Teil verhält, muß es da nicht notwendig einerlei sein mit sich selbst?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Wie nun aber andererseits? Dasjenige, was sich stets in einem andern Orte befindet als es selbst, welches stets innerhalb desselben Ortes, nämlich in sich selbst, ist, muß das nicht notwendig verschieden von sich selbst sein, wenn anders es doch zugleich in sich selbst und in einem anderen Orte sein soll?</p>
+<p rendition="#et">Mir wenigstens scheint es so.</p>
+<p rendition="#et">Eben diese Beschaffenheit ergab sich nun aber doch vorhin für das Eins, daß es zugleich in sich selbst und in einem andern ist.</p>
+<p rendition="#et">Ja, so ergab es sich.</p>
+<p rendition="#et">Verschieden also ist offenbar insofern das Eins von sich selbst.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Und wie nun? Wenn etwas verschieden von etwas ist, wird es da nicht verschieden sein von allem, was von ihm verschieden ist?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Alles nun, was nicht Eins ist, ist doch. wohl insgesamt verschieden vom Eins und das Eins verschieden von allem Nichteins?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Verschieden also ist das Eins von allem anderen.</p>
+<p rendition="#et"><pb n="521" facs="#f00040"/> So ist es.</p>
+<p rendition="#et">Nun so gib denn acht! Das Einerlei an sich und das Verschiedene an sich sind doch Gegensätze?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Wird also sich wohl das Einerlei jemals an dem Verschiedenen oder das Verschiedene an dem Einerlei befinden können?</p>
+<p rendition="#et">Nein, niemals.</p>
+<p rendition="#et">Nun, wenn denn das Verschiedene sich niemals an dem Einerlei finden wird, so kann es auch keinen Gegenstand geben, an welchem sich das Verschiedene zu irgend einer Zeit fände: denn wenn es lügend einer Zeit sich an irgend einem Gegenstande fände, so würde es sich eben diese Zeit über an Einerlei finden. Ist es nicht so?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Da es nun aber jemals an Einerlei sich findet, so kann es auch zu keiner Zeit sich überhaupt an irgend einem Gegenstande finden.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Also weder im Eins noch in allem Nichteins kann es enthalten sein.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Nicht durch die Verschiedenheit also ist das Eins von allem Nichteins und alles Nichteins vom Eins verschieden.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Aber auch durch sich selbst kann doch beides unmöglich von einander verschieden sein, wenn beides an der Verschiedenheit keinen Anteil hat.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Wenn es aber weder durch sich selbst noch durch die Verschiedenheit von einander verschieden ist, so geht damit doch wohl überhaupt das Verschiedensein von einander von dannen?</p>
+<p rendition="#et">In der Tat.</p>
+<p rendition="#et">Nun hat aber doch alles Nichteins auch gar keinen Teil am Eins, denn so wäre es eben nicht mehr Nichteins, sondern gewissermaßen Eins.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Dann aber ist das Nichteins auch gar keine Zahl: denn selbst so wäre es nicht mehr schlechterdings Nichteins, wenn es die Zahl an sich trüge.</p>
+<p rendition="#et"><pb n="522" facs="#f00041"/> Allerdings nicht.</p>
+<p rendition="#et">Und wie ferner? Bildet etwa alles Nichteins Teile des Eins? Oder würde vielmehr auch so das Nichteins Anteil am Eins haben?</p>
+<p rendition="#et">Es würde.</p>
+<p rendition="#et">Folglich, wenn letzteres schlechthin Eins sein soll und ersteres Nichteins, so kann weder das Eins ein Teil von allem Nichteins sein noch sich zu diesem wie ein Ganzes zu Teilen von sich verhalten, noch auch umgekehrt das Nichteins in einem dieser beiden Verhältnisse zum Eins stehen.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Nun behaupteten wir aber doch, daß dasjenige, was sich weder wie Teile und Ganzes zu einander verhält, noch auch verschieden von einander ist, einerlei mit einander sei.</p>
+<p rendition="#et">So behaupteten wir.</p>
+<p rendition="#et">Müssen wir nun nicht demnach hieraus schließen, daß auch das Eins, da es in keinem dieser Verhältnisse zu allem Nichteins steht, einerlei mit demselben ist?</p>
+<p rendition="#et">Ja, es scheint dies offenbar aus dieser Auseinandersetzung zu folgen.</p>
+<p rendition="#et">Sollte dasselbe nun wohl auch nicht sowohl ähnlich als auch unähnlich mit sich selbst sowie mit allem Anderen sein?</p>
+<p rendition="#et">Vielleicht.</p>
+<p rendition="#et">Wenigstens sofern es sich als verschieden von allem Anderen zeigte, dürfte auch wohl alles Andere verschieden von ihm sein.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und es wird ebenso weit verschieden von allem Anderen sein wie alles Andere von ihm und weder mehr noch minder?</p>
+<p rendition="#et">Wie sonst?</p>
+<p rendition="#et">Wenn aber weder mehr noch minder, so auf gleiche Weise.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Insoweit es also ihm zukommt, verschieden von dem Anderen, und dem Anderen, gleichermaßen verschieden von ihm zu sein, insoweit kommt dem Eins einerlei mit allem Anderen und allem Anderen einerlei mit dem Eins zu.</p>
+<p rendition="#et">Wie meinst du das?</p>
+<p rendition="#et">So: Mit jedem Namen benennst du doch etwas?</p>
+<p rendition="#et">Gewiß.</p>
+<p rendition="#et"><pb n="523" facs="#f00042"/> Wie nun? Kennst du denselben Namen nur einmal, oder kannst du ihn auch öfter aussprechen?</p>
+<p rendition="#et">Das letztere.</p>
+<p rendition="#et">Wenn du ihn nun nur einmal aussprichst, bezeichnest du dann mit ihm dasjenige, dessen Namen er ist, wenn aber öfter, dann nicht? Oder ist es nicht schlechterdings notwendig, daß, magst du denselben Namen nur einmal oder öfter aussprechen, du damit immer auch denselben Gegenstand bezeichnest?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Nun ist doch auch wohl »das Verschiedene« ein Name für etwas?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Magst du nun diesen Ausdruck nur einmal oder öfter gebrauchen, immer wirst du ihn damit in bezug auf nichts anderes gebrauchen und wirst nichts anderes mit ihm bezeichnen als dasjenige, dessen eigentümlicher Name dieser Ausdruck ist.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Wenn wir also behaupten, alles Andere sei verschieden vom Eins und das Eins sei verschieden von allem Anderen, und so zweimal den Ausdruck »verschieden« gebrauchen, so bezeichnen wir doch mit ihm beide Male keinen anderen Begriff, sondern eben den, dem diese Benennung eigentümlich ist.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Insoweit also das Eins von allem Anderen verschieden ist und alles Andere vom Eins, insoweit kommt beiden, dem Eins und allem Anderen, vermöge eben jenes ihnen sonach zukommenden Verschiedenseins selbst, nicht ein anderes zu, sondern ganz Einerlei. Dasjenige aber, welchem Einerlei mit etwas anderem zukommt, dürfte diesem anderen ähnlich sein. Nicht wahr?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Insoweit es also dem Eins zukommt, verschieden von allem Anderen zu sein, insoweit wird überhaupt alles und jedes allem und jedem ähnlich sein; denn jeder Gegenstand ist ja von jedem anderen Verschieden.</p>
+<p rendition="#et">Das ist klar.</p>
+<p rendition="#et">Nun ist aber doch das Ähnliche dem Unähnlichen entgegengesetzt.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Also auch das Verschiedene dem Einerlei.</p>
+<p rendition="#et"><pb n="524" facs="#f00043"/> Auch das.</p>
+<p rendition="#et">Und auch das hat sich gezeigt, daß das Eins einerlei ist mit allem Anderen und verschieden von allem Anderen.</p>
+<p rendition="#et">Ja freilich.</p>
+<p rendition="#et">Einerlei sein mit allem Anderen ist aber doch ein gerade entgegengesetzter Zustand wie verschieden sein von allem Anderen.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Insofern nun als das Eins verschieden ist von allem Anderen, hat es sich als ähnlich mit diesem gezeigt.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Insofern also als es einerlei mit ihm ist, wird es ihm unähnlich sein, infolge dessen, daß jene erstere Beschaffenheit derjenigen, die es ähnlich mit ihm macht, entgegengesetzt ist. Denn diese letztere war ja eben die Verschiedenheit von ihm.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Unähnlich machen also wird es die Einerleiheit mit allem Anderen, oder sie müßte sonst aufhören, den Gegensatz der Verschiedenheit zu bilden.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Ähnlich mithin und unähnlich wird das Eins allem Anderen sein, und zwar ähnlich, insofern es verschieden von demselben, unähnlich aber, insofern es einerlei mit ihm ist.</p>
+<p rendition="#et">Es hat, wie es scheint, in der Tat auch eine solche Bewandtnis mit ihm.</p>
+<p rendition="#et">Ja, und auch folgende...</p>
+<p rendition="#et">Nun?</p>
+<p rendition="#et">Insofern ihm Einerleiheit zukommt, ist es nicht anders geartet, wenn aber nicht anders geartet, so auch nicht unähnlich, und wenn nicht unähnlich, so ähnlich; insofern ihm aber Verschiedenheit zukommt, ist es anders geartet und, insofern anders geartet, unähnlich.</p>
+<p rendition="#et">Du hast recht.</p>
+<p rendition="#et">Weil also das Eins mit allem Anderen zugleich einerlei und von ihm verschieden ist in beidem Betracht und in jeder dieser beiden Beziehungen für sich genommen ist es allem Anderen auch sowohl ähnlich als unähnlich.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und desgleichen wird es sonach auch sich selbst ganz auf dieselbe <pb n="525" facs="#f00044"/> Weise, da es ja sowohl als verschieden von sich selbst wie auch als einerlei mit sich selbst sich ergab, sowohl in beiderlei Betracht wie in je einer von beiden Beziehungen sich als ähnlich und unähnlich ergeben.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Und nun ferner: Wie steht es mit der Berührung und Nichtberührung des Eins mit sich selber und mit allem Anderen? Gib acht!</p>
+<p rendition="#et">Das tue ich.</p>
+<p rendition="#et">Es ergab sich uns doch wohl das Eins als in sich selber als Ganzem befindlich.</p>
+<p rendition="#et">In der Tat.</p>
+<p rendition="#et">Und auch in allem Anderen zeigte sich uns das Eins?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Insofern es nun in allem Anderen ist, dürfte es doch alles Andere berühren: inwiefern es aber in sich selbst ist, dürfte es abgehalten sein, alles Andere zu berühren, wohl aber sich selbst berühren.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Sonach berührt also das Eins sowohl sich selbst als auch alles Andere.</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Wie nun aber? Muß nicht ein jedes, welches etwas berühren soll, demjenigen zunächst liegen, das es berühren soll, indem es denjenigen Platz einnimmt, der unmittelbar angrenzt an den, an welchem das von ihm Berührte liegt?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Auch das Eins also, wenn es sich selbst berühren will, muß unmittelbar rieben sich selbst liegen, indem es denjenigen Raum einnimmt, der an den stößt, in welchem es sich befindet.</p>
+<p rendition="#et">Ja, so verhält es sich.</p>
+<p rendition="#et">Nun würde aber das Eins dies doch nur dann tun und sich nur dann dergestalt an zwei Stellen zugleich befinden können, wenn es Zwei wäre; solange es aber Eins ist, wird es dies nicht zulassen.</p>
+<p rendition="#et">Nein, gewiß nicht.</p>
+<p rendition="#et">Mit derselben Notwendigkeit also, nach welcher das Eins nicht Zwei sein kann, kann es auch nicht sich selbst berühren.</p>
+<p rendition="#et"><pb n="526" facs="#f00045"/> Richtig.</p>
+<p rendition="#et">Es berührt aber auch alles Andere nicht.</p>
+<p rendition="#et">Warum denn nicht?</p>
+<p rendition="#et">Weil, wie schon gejagt, dasjenige, was etwas berühren soll, sich außerhalb des von ihm zu Berührenden befinden, aber zugleich unmittelbar angrenzen muß, und ein Drittes zwischen beiden nicht liegen darf.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Zwei Gegenstände gehören also zum mindesten dazu, wenn eine Berührung stauenden soll.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wenn nun aber zu diesen beiden Berührungsgegenständen noch ein Drittes in derselben Reihe hinzutritt, so werden der Berührungsgegenstände drei, der Berührungen aber zwei sein.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und so wird stets, wenn <hi rendition="#i">ein</hi> neuer Gegenstand hinzutritt, auch <hi rendition="#i">eine</hi> Berührung hinzutreten, und es bleibt das Ergebnis, daß der Berührungen immer um <hi rendition="#i">eine</hi> weniger sind als die jedesmalige Menge der Zahlen von Berührungsgegenständen. Denn um wieviel die beiden ersten von diesen Gegenständen die Zahl der Berührungen übertrafen, gerade um so viel übertrifft notwendig auch die nachmalige Gesamtzahl von ihnen die Gesamtheit der Berührungen, sofern ja auch in der Folge immer zugleich <hi rendition="#i">ein</hi> neuer Gegenstand zu jener Zahl hinzutritt und <hi rendition="#i">eine</hi> neue Berührung zu den Berührungen.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">So groß also die Zahl der Gegenstände auch sein mag, so sind ihre Berührungen immer um <hi rendition="#i">eine</hi> weniger.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wenn aber bloß Eins da ist und keine Zweiheit vorhanden, so findet auch keine Berührung statt.</p>
+<p rendition="#et">Nein, das ist unmöglich.</p>
+<p rendition="#et">Nun ist aber doch nach unserer Behauptung das, was etwas anderes ist als das Eins, weder Eins noch hat es teil an ihm, wofern es wirklich etwas anderes sein soll.</p>
+<p rendition="#et">Freilich.</p>
+<p rendition="#et">Und es wohnt sonach auch Zahl allem Anderen nicht ein, weil ihm eben das Eins nicht innewohnt.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et"><pb n="527" facs="#f00046"/> Weder Eins ist also das Andere noch Zwei, noch darf es mit dem Namen irgend einer anderen Zahl bezeichnet werden.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Das Eins also allein ist vorhanden, und eine Zweiheit gibt es nicht.</p>
+<p rendition="#et">Offenbar nicht.</p>
+<p rendition="#et">Folglich gibt es auch keine Berührung, wenn es doch eben keine Zwei gibt.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und wenn es keine Berührung gibt, so berührt denn auch weder das Eins das Andere noch das Andere das Eins.</p>
+<p rendition="#et">Nein, das ist unmöglich.</p>
+<p rendition="#et">Und so berührt denn nach allem diesem das Eins sowohl das Andere als sich selbst und berührt es auch nicht.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Und ist es nicht auch ebensowohl gleich als auch ungleich sowohl sich selbst wie allem Anderen?</p>
+<p rendition="#et">Wieso denn das?</p>
+<p rendition="#et">Wenn das Eins größer oder kleiner wäre als das Andere oder umgekehrt das Andere größer oder kleiner als das Eins, so wäre doch weder das Eins da durch, daß es Eins ist, noch das Andere dadurch, daß es anderes ist als das Eins, ich sage, beide wären nicht durch eben dieses ihr Wesen größer oder kleiner im Vergleich zu einander; sondern vielmehr, wenn beide außer diesem ihrem eigentümlichen Wesen auch noch Gleichheit an sich trügen, so wären sie gleich, und wenn das eine von ihnen Größe, das andere aber Kleinheit an sich trüge, sei es nun, daß das Eins diese, das Andere aber jene oder auch umgekehrt das Eins Größe, das Andere aber Kleinheit an sich trüge, so wird diejenige von beiden Wesenheiten, der die Große beigesellt ist, größer und diejenige, der die Kleinheit beigesellt ist, kleiner sein.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Es sind das also wirklich zwei Ideen, die Größe und die Kleinheit? Denn wären sie es nicht wirklich, so könnten sie auch nicht einander entgegengesetzt sein und dem Seienden einwohnen.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Wenn nun aber dem Eins Kleinheit einwohnt, so muß sie <pb n="528" facs="#f00047"/> doch entweder dem Ganzen desselben oder einem Teile von ihm einwohnen.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Wie, wenn sie null dem Ganzen einwohnte? Müßte sie da nicht entweder völlig gleichlaufend mit dem Eins sich durch das Ganze desselben erstrecken oder aber dasselbe in sich einschließen?</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Wenn nun die Kleinheit dem Eins völlig gleichliefe, wäre sie da nicht demselben gleich, wenn sie es aber in sich einschlösse und umgäbe, größer als dasselbe?</p>
+<p rendition="#et">Es kann nicht anders sein.</p>
+<p rendition="#et">Ist es nun wohl möglich, daß die Kleinheit mit irgend etwas gleich ist oder größter als irgend etwas, und daß sie so die Rolle der Größe und der Gleichheit und nicht ihre eigene spielt?</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">In dem ganzen Eins daher kann die Kleinheit nicht enthalten sein, sondern, wenn überhaupt, nur in einem Teile desselben.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Aber auch wieder nicht einmal in dem Ganzen eines solchen Teiles, denn sonst würde sie wieder dasselbe bewirken wie in bezug auf das ganze Eins: sie würde wiederum diesem Teile, dem sie jedesmal innewohnt, entweder gleich oder größer als derselbe sein.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Überhaupt wird sonach in keinem Gegenstande Kleinheit enthalten sein, da sie weder einem Teile noch einem Ganzen einwohnen kann, und es gibt nichts, was klein ist, außer der Kleinheit an sich.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Aber auch Größe kann keinem Gegenstände innewohnen: denn dann wäre etwas anderes größer selbst als die Größe an sich, nämlich dasjenige, in welchem die Größe sich befände, und das noch dazu, während doch dabei für dasselbe ein Kleines, das doch Notwendig von ihm überragt werden müßte, wenn es groß sein soll, gar nicht vorhanden ist; denn dies ist unmöglich, da ja Kleinheit in nichts enthalten ist.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Nun ist aber doch die Größe an sich nicht in bezug auf etwas <pb n="529" facs="#f00048"/> anderes großen als auf die Kleinheit an sich und die Kleinheit an sich in Bezug auf etwas anderes kleiner als auf die Größe an sich.</p>
+<p rendition="#et">Gewiß nicht.</p>
+<p rendition="#et">Somit ist denn alles Andere weder größer als das Eins noch kleiner, da es ebensowenig Größe wie Kleinheit in sich trägt, und diese letzteren beiden selbst haben jene ihre Beschaffenheit zu überragen sind überragt zu werden nicht in bezug auf das Eins, sondern in bezug aufeinander, und das Eins ist weder größer noch kleiner, weder als diese beiden noch als alles Andere, da es weder Große noch Kleinheit hat.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Wenn nun aber das Eins weder größer noch kleiner ist als alles Andere, so kann es notwendig weder das letztere überragen noch von ihm überragt werden.</p>
+<p rendition="#et">Notwendigerweise nicht.</p>
+<p rendition="#et">Dasjenige aber, was etwas weder überragt noch von ihm überragt wird, muß doch wohl notwendig ganz gleiche Verhältnisse mit ihm haben und, wenn dies der Fall ist, ihm gleich sein?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und so dürfte denn auch das Eins sich zu sich selber verhalten: da es weder Größe noch Kleinheit an sich trägt und daher von sich selbst weder überragt wird noch auch sich selbst überragt, so muß es gleiche Verhältnisse mit sich selber haben und folglich sich selber gleich sein.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Das Eins ist also sich selber und allem anderen gleich.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Wenn es aber andererseits in sich selbst ist, so muß es auch sich selber von außen umgeben und, indem es so sich selbst umschließt, größer sein als es selbst, indem es aber so auch von sich selber umschlossen wird, auch kleiner, und mithin größer und kleiner zugleich als es selbst.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Ist nicht aber auch dies notwendig, daß es nichts weiter gibt außer dem Eins und allem Anderen?</p>
+<p rendition="#et">Wie sollte es nicht?</p>
+<p rendition="#et">Alles, was ist, muß aber doch stets auch irgendwo sein?</p>
+<p rendition="#et"><pb n="530" facs="#f00049"/> Ja.</p>
+<p rendition="#et">Und wird nun nicht dasjenige, was sich in irgend etwas befindet, sich in demselben befinden wie das Kleinere im Größeren, denn auf eine andere Weise kann sich doch wohl nicht das eine in einem anderen befinden?</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Wenn es nun aber nichts weiter gibt außer dem Eins und allem Anderen, und sich beide in irgend etwas befinden müssen, ist es da nicht notwendig, daß sie sich in einander befinden, das Andere in dem Eins und das Eins in dem Anderen, oder aber daß sie nirgends sind?</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Soweit nun demgemäß das Eins in dem Anderen ist, wird das Andere größer sein als das Eins, indem es dieses umschließt, und das Eins kleiner als das Andere, indem es von diesem umschlossen wird; insofern aber das Andere im Eins, so das Eins aus dem gleichen Grunde größer als das Andere und das Andere kleiner als das Eins.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Das Eins ist also gleich groß und größer und kleiner als es selbst und als das Andere.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Und wenn es größer, kleiner und gleich groß in dieser Weise ist, so hat es auch gleiche und größere und kleinere Maßeinheiten als es selbst und das Andere, und wenn Maßeinheiten, so auch Teile.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und wenn es von gleichen und kleineren und größeren Maßen ist, so ist es auch der Zahl nach weniger und mehr und ebenso gleichviel als es selbst und das Andere.</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Wenn etwas größer ist als etwas, so hat es auch eine größere Zahl von Maßeinheiten, und wieviel Maßeinheiten, so viel auch Teile, und wenn es kleiner sowie wenn es gleich groß ist, so steht die Sache entsprechend.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wenn also etwas größer, kleiner und gleich groß ist als es selbst, so hat es auch gleiche, größere und kleinere Maßeinheiten als es selbst, und wenn Maßeinheiten, so auch Teile.</p>
+<p rendition="#et"><pb n="531" facs="#f00050"/> Wie anders?</p>
+<p rendition="#et">Wenn nun aper etwas an Teilen ganz sich selber gleich ist, dann wird auch die Menge seiner Teile dieselbe sein wie die seiner selbst, und wenn es größer an Teilen ist, so dürfte es eine größere, und wenn es kleiner an Teilen ist, eine kleinere Zahl von Teilen haben als es selbst.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">So wird sich mithin das Eins zu sich selbst, ebenso aber auch zu dem Anderen verhalten: insofern es größer erscheint als dies, muß notwendig auch die Zahl seiner Teile eine größere sein, insofern es kleiner erscheint, eine kleinere, und insofern es gleich groß erscheint, eine gleiche.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Also ist denn, wie es scheint, das Eins auch gleichviel und mehr und weniger an Zahl als es selbst und als das Andere.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Hat nun ferner wohl das Eins auch nicht an der Zeitteil und wird jünger und älter als es selbst und als das Andere, und zugleich weder jünger noch älter als es selbst und als das Andere, vermöge eben dieser Teilnahme an der Zeit?</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Nun, das »Es ist« muß ihm doch wohl zukommen, wenn anders es wirklich Eins <hi rendition="#i">ist</hi>.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">»Es ist«, das heißt aber doch nichts anderes als: es nimmt teil am Sein in der gegenwärtigen Zeit, geradeso wie »es war« sein Teilhaben am Sein in der vergangenen und »es wird sein« in der zukünftiger Zeit bezeichnet?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wofern es also <hi rendition="#i">ist</hi>, hat es auch an der Zeitteil.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Also auch an der fortschreitenden Zeit?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Beständig also wird es älter, wenn es mit der Zeit fortgeht.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Nun erinnerst du dich aber wohl, daß wir feststellten, alles, was älter wird, werde dies in Vergleich zu etwas, was jünger wird?</p>
+<p rendition="#et">Ich erinnere mich.</p>
+<p rendition="#et"><pb n="532" facs="#f00051"/> Wenn daher das Eins älter wird als es selbst, so wird es danach zugleich jünger als es selbst.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Auf diese Weise wird es also zugleich älter und jünger als es selbst.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Ist es nun aber nicht dann älter, wenn es in diesem Werden in der Jetztzeit sich befindet, die in der Mitte liegt zwischen dem »War« und dem »Wirdsein«? Denn schwerlich wird es im Fortgange aus dem Vorher in das Nachher das Jetzt überspringen.</p>
+<p rendition="#et">Schwerlich.</p>
+<p rendition="#et">Hält es nun aber nicht dann ein, älter zu werden, wenn es im Jetzt anlangt, und <hi rendition="#i">wird</hi> dann nicht mehr älter, sondern <hi rendition="#i">ist</hi> es schon? Denn wenn es dann nicht damit innehielte, sondern weiter darin vorrückte, so könnte es niemals von dem Jetzt erfaßt werden. Verhält sich ja doch das in der Zeit Vorrückende zu bei den, dem Jetzt und dem Nachher, so, daß es eben das Jetzt verläßt und dem Nachher zustrebt und so zwischen beide tritt.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Wenn denn aber sonach alles, was wird, das Jetzt nicht umgehen kann, so hält es auch, sobald es bei diesem angelangt ist, mit dem Werden an und <hi rendition="#i">ist</hi> nunmehr das, was es vorher <hi rendition="#i">ward</hi>.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Auch das Eins mithin, sobald es in seinem Älterwerden beim Jetzt anlangt, hält dann mit diesem Werden ein und <hi rendition="#i">ist</hi> dann älter.</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Und es ist dann älter als dasjenige, als welches es bis dahin älter <hi rendition="#i">ward</hi>; und dies war eben es selbst.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Alles Altere aber ist älter als ein Jüngeres?</p>
+<p rendition="#et">Das ist es.</p>
+<p rendition="#et">Auch jünger <hi rendition="#i">ist</hi> somit dann das Eins, wenn es in jenem seinem Älterwerden beim Jetzt anlangt.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Das Jetzt aber wohnt doch dem Eins bei während seines ganzen Seins. Denn es ist immer <hi rendition="#i">jetzt</hi>, solange es ist.</p>
+<p rendition="#et"><pb n="533" facs="#f00052"/> Wie anders?</p>
+<p rendition="#et">Beständig also ist und wird das Eins älter und jünger als es selbst.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Ist oder wird es nun aber längere Zeit hindurch als es selbst oder die gleiche Zeit?</p>
+<p rendition="#et">Die gleiche.</p>
+<p rendition="#et">Wenn etwas aber die gleiche Zeit hindurch mit etwas wird oder ist, so hat es mit demselben das gleiche Alter.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und wenn es das gleiche Alter hat, so ist es weder älter noch jünger.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Das Eins also, da es die gleiche Zeit hindurch wird und ist wie es selbst, ist und wird weder älter noch jünger als es selbst.</p>
+<p rendition="#et">So scheint mir's.</p>
+<p rendition="#et">Und wie? Wie verhält es sich in dieser Beziehung zu allem Anderen?</p>
+<p rendition="#et">Das weiß ich nicht zu sagen.</p>
+<p rendition="#et">So viel aber weißt du mir doch zu sagen, daß alles andere außer dem Eins, wenn es anders mehrere verschiedene Gegenstände in sich schließt und nicht bloß <hi rendition="#i">ein</hi> Verschiedenes ist, mehr ist als Eins. Wäre es nun aber nur <hi rendition="#i">ein</hi> Verschiedenes, so wäre es selber Eins: mithin aber muß es mehrere verschiedene Gegenstände in sich schließen und so mehr als Eins sein und die Vielheit an sich tragen.</p>
+<p rendition="#et">Es kann nicht anders sein.</p>
+<p rendition="#et">Und wenn es eine Vielheit ist, so hat es an einer größeren Zahl teil als am Eins.</p>
+<p rendition="#et">Sicherlich.</p>
+<p rendition="#et">Und wie nun? Werden wir behaupten, daß von der Zahl das Mehr früher werde und da sei oder das Weniger?</p>
+<p rendition="#et">Das Weniger.</p>
+<p rendition="#et">Das Wenigste also zuerst, dies aber ist das Eins. Nicht wahr?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Von allem, was eine Zahl an sich trägt, ist also das Eins zuerst geworden. Aber auch alles Andere trägt eine Zahl an sich, sofern es eben eine Mehrzahl anderer Gegenstände ist und nicht bloß <hi rendition="#i">ein</hi> anderer Gegenstand.</p>
+<p rendition="#et"><pb n="534" facs="#f00053"/> Freilich.</p>
+<p rendition="#et">Was zuerst geworden ist, sollte ich denken, ist aber früher und alles Andere später geworden, und das später Gewordene jünger als das früher Gewordene. Und so dürfte denn auch alles Andere jünger als das Eins und das Eins älter als alles Andere sein.</p>
+<p rendition="#et">In der Tat.</p>
+<p rendition="#et">Wie steht es nun aber hiermit? Kann das Eins wider seine eigene Natur geworden sein, oder ist das unmöglich?</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Nun zeigte sich aber doch, daß das Eins Teile hat. Hat es aber Teile, so hat es auch Anfang, Ende und Mitte.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Wird nun nicht von allem der Anfang zuerst, sowohl vom Eins selbst als auch von jeglichem anderen, und nach dem Anfang dann alles andere bis zum Ende hin?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Und dies Alles würden wir doch als Teile des Ganzen sowie des Eins bezeichnen und sagen, daß dieses letztere selbst erst zugleich mit dem Ende Eins und Ganzes geworden ist.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Das Ende aber, sollte ich meinen, wird zuletzt, und wenn nun das Eins seiner Natur nach erst mit diesem zugleich fertig dasteht, so muß, falls es eben nicht wider seine eigene Natur werden kann, es, weil eben erst zugleich mit dem Ende, später als alles Andere geworden sein.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Dann ist aber das Eins jünger als alles Andere und alles Andere älter als das Eins.</p>
+<p rendition="#et">Auch das leuchtet mir ein.</p>
+<p rendition="#et">Wie nun aber? Muß nicht der Anfang und jeder beliebige sonstige Teil des Eins oder des Anderen, sofern er doch eben <hi rendition="#i">ein</hi> Teil desselben ist und nicht mehrere Teile, notwendig Eins sein?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">So aber muß ja das Eins notwendig schon zugleich mit dem werden, was zuerst wird, und ebenso zugleich mit dem Zweiten, und kann auch keines von allem Anderen, was da wird und durch dies Werden zu etwas hinzukommt, verlassen, bis <pb n="535" facs="#f00054"/> denn Alles, zum Ende gelangt, zum ganzen Eins geworden ist. Es kann, sage ich, dergestalt weder Mitte noch Erstes noch Letztes noch sonst etwas anderes bei deren Werden verlassen.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Folglich hat das Eins mit allem Anderen einerlei Alter, und wenn das Eins selber nicht wider seine Natur geworden sein soll, so kann es weder früher noch später als alles Andere, sondern muß zugleich mit diesem geworden sein. Und auf Grundlage dieser Betrachtung wird demnach das Eins weder älter noch jünger sein als alles Andere, und alles Andere weder älter noch jünger als das Eins; auf Grund der vorherigen aber erschien dieser als älter und jünger denn jenes, und jenes ebenso denn dieses.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">So also steht es in betreff seines Seins und Gewordenseins. Aber wie stellt es in diesem Betracht wiederum hinsichtlich seines Werdens? Wie steht es hinsichtlich dessen, ob es auch älter und jünger wird als das Andere und das Andere als das Eins und wieder um auch weder älter noch jünger wird? Verhält es sich wie hinsichtlich des Seins in diesem Betracht so auch hinsichtlich des Werdens, oder anders?</p>
+<p rendition="#et">Ich weiß es nicht zu sagen.</p>
+<p rendition="#et">Aber so viel Wenigstens weiß ich, daß, wenn etwas älter ist als etwas anderes, es dann nicht noch älter werden kann, sondern stets den gleichen Altersunterschied beibehält, den es gleich zuerst bei seinem Gewordensein an sich trug, und daß ebenso das Jüngere nicht noch jünger werden kann. Denn Gleiches zu Ungleichem hinzugefügt, sei es bei einem Zeitquantum, sei es bei irgend etwas anderem, bewirkt stets den Unterschied um dasjenige gleiche Maß, um welches derselbe von vornherein stattfand.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Kein Gegenstand, der älter oder jünger <hi rendition="#i">ist</hi> als ein anderer, kann also jemals älter oder jünger <hi rendition="#i">werden</hi> als dieser, sofern er stets um ein gleiches Maß im Alter von ihm sich unterscheidet, sondern er <hi rendition="#i">ist</hi> bereits und<hi rendition="#i"> ist geworden</hi> älter oder jünger, nicht aber <hi rendition="#i">wird</hi> er es erst.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et"><pb n="536" facs="#f00055"/> Folglich <hi rendition="#i">wird</hi> also auch das Eins, da es dies schon ist, niemals weder älter noch jünger als alles Andere.</p>
+<p rendition="#et">Schlechterdings nicht.</p>
+<p rendition="#et">Nun siehe aber zu, ob nicht wieder in folgendem Betracht beide doch älter und jünger <hi rendition="#i">werden</hi>?</p>
+<p rendition="#et">Nun?</p>
+<p rendition="#et">Eben insofern das Eins sich als älter denn alles Andere und das Andere als älter denn das Eins ergab.</p>
+<p rendition="#et">Wieso denn das?</p>
+<p rendition="#et">Wenn das Eins älter <hi rendition="#i">ist</hi> als alles Andere, so muß es doch wohl bereits längere Zeit entstanden und geworden sein als dieses?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und nun ziehe wiederum folgendes in Betracht: Wenn wir zu mehr und zu weniger Zeit eine gleiche Zeit hinzusetzen, wird dann das Mehr von dem Weniger noch um einen gleichen (Bruch-)Teil verschieden sein oder um einen kleineren?</p>
+<p rendition="#et">Um einen kleineren.</p>
+<p rendition="#et">Insofern wird also wieder das Eins nicht um so viel, als es zuerst von allem Anderen dem Alter nach verschieden war, es auch später sein, sondert es wird, indem es um gleiche Zeit mit demselben an Alter zunimmt, hernach sich stets um ein Geringeres im Alter von ihm unterscheiden als zuvor. Nicht wahr?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Was sich aber um ein Geringeres im Alter als früher von etwas unterscheidet, das wird doch jünger als zuvor im Verhältnis zudem, in Beziehung auf welches es früher älter war?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Wird aber so das Eins jünger, so wird doch wohl auch alles Andere dagegen älter im Verhältnis zum Eins als früher?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Das Jüngergewordene <hi rendition="#i">wird</hi> also älter im Verhältnis zu dem Frühergewordenen und Älterseienden, und zwar <hi rendition="#i">ist</hi> es niemals älter, sondern <hi rendition="#i">wird</hi> nur immer älter als dieses. Denn dieses nimmt stets in der Richtung des Jüngeren zu, jenes aber in der des Älteren. Und in derselben Weise wird auch wieder das Ältere jünger als das Jüngere: denn indem beide die entgegengesetzte Richtung einschlagen, so werden sie dadurch <pb n="537" facs="#f00056"/> auch zum Gegenteil von einander, das Jüngere nämlich, wie gesagt, älter als das Ältere und das Ältere jünger als das Jüngere. Es aber je wirklich geworden zu sein sind sie nicht imstande: denn wenn sie es geworden wären, so würden sie es nicht mehr, denn dann wären sie es schon; nun aber <hi rendition="#i">werden</hi> sie eben erst älter und jünger gegen einander: das Eins wird jünger als alles! Andere, weil es sich als älterseiend und früher geworden gezeigt hat, alles Andere aber älter als das Eins, weil es später geworden ist. Aus demselben Grunde verhält sich aber auch alles Andere umgekehrt zum Eins, weil es sich ja ebensogut auch als älter denn dieses gezeigt hat und als früher geworden.</p>
+<p rendition="#et">So ist es offenbar.</p>
+<p rendition="#et">Also insofern keins von beiden weder älter noch jünger wird als das anderer auf Grund dessen, daß sie sich stets um die gleiche Zahl an Alter von einander unterscheiden, wird das Eins weder älter noch jünger als alles Andere und alles Andere weder älter noch jünger als das Eins. Insofern aber das Frühergewordene von dem Späteren und das Spätere von dem Früheren sich stets durch einen anderen (Bruch-)Teil unterscheiden muß, insofern müssen das Eins und alles Andere beständig immer älter und jünger gegen einander werden?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Nach all dieser ist und wird denn das Eins älter und jünger und ist und wird auch wiederum weder älter noch jünger als es selbst und alles Andere.</p>
+<p rendition="#et">Ja, durchaus so ist es.</p>
+<p rendition="#et">Wenn nun aber das Eins an der Zeit teilhat und am Älter- und Jüngergewordenen, muß es da nicht notwendig auch an dem Ehemals teilhaben und dem Nachher und dem Jetzt?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Es war also das Eins und ist und wird sein und wurde und wird und wird werden.</p>
+<p rendition="#et">Gewiß.</p>
+<p rendition="#et">Und es kann ihm auch etwas zukommen und angehören und kam wirklich zu und kommt zu und wird ihm zukommen und gehörte, gehört und wird ihm gehören.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und es gibt auch eine Erkenntnis und Vorstellung und Wahrnehmung <pb n="538" facs="#f00057"/> von ihm, wenn anders wir ja doch auch jetzt alle diese Tätigkeiten in bezug auf dasselbe ausüben.</p>
+<p rendition="#et">Du hast recht.</p>
+<p rendition="#et">Und es kommt ihm daher auch ein Name zu, und es ist eine Aussage über dasselbe möglich, und es kann genannt und besprochen werden, und was nur immer derartiges von allem Anderen gilt, das gilt auch vom Eins.</p>
+<p rendition="#et">Ja, in jedem Betracht verhält es sich so.</p>
+<p rendition="#et">Wir wollen jetzt auch noch das Dritte besprechen: Wenn das Eins so beschaffen ist, wie wir es erörtert haben, muß es da nicht notwendig, ja es sowohl Eins ist als auch Vieles und wiederum weder Eins noch Vieles und dabei an der Zeitteil hat, – muß es da nicht, sage ich, notwendig, insofern es wirklich Eins ist, zu irgend einer Zeit am Sein teil haben, insofern es aber dies nicht ist, zu irgend einer Zeit wiederum nicht teil haben?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Und wird es zu <hi rendition="#i">der</hi> Zeit, in welcher es an ihm teil hat, zugleich nicht an ihm teil haben, oder zu <hi rendition="#i">der</hi> Zeit, in welcher es nicht an ihm teil hat, zugleich teil haben können?</p>
+<p rendition="#et">Das ist unmöglich.</p>
+<p rendition="#et">Zu <hi rendition="#i">einer</hi> Zeit folglich hat es an ihm teil und zu einer andern nicht. Auf diese Weise allein kann es an einem und demselben teil haben und nicht teil haben.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Es gibt also eine solche Zeit, in der es das Sein aufnimmt, und eine solche, in der es dies fahren läßt. Denn wie wäre es sonst imstande, bald dasselbe zu besitzen und bald es nicht zu besitzen, wenn es nicht eben zu <hi rendition="#i">einer</hi> Zeit dasselbe ergriffe und zur andern es wieder aufgäbe?</p>
+<p rendition="#et">Auf keine Weise.</p>
+<p rendition="#et">Das Sein annehmen heißt aber doch wohl so viel als <hi rendition="#i">entstehen</hi>?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Das Sein aufgeben aber heißt doch so viel als <hi rendition="#i">vergehen</hi>?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Das Eins also, wie es scheint, da es das Sein annimmt und aufgibt, <hi rendition="#i">entsteht</hi> und <hi rendition="#i">vergeht</hi>.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et"><pb n="539" facs="#f00058"/> Wenn es nun aber Eins und Vieles wird und entsteht und vergeht, wird da nicht, wenn das Eins entsteht, das Vielessein vergehen, und wenn das Viele entsteht, das Einssein vergehen?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Indem es aber Eins und Vieles wird, muß es da nicht notwendig gesondert und verbunden werden?</p>
+<p rendition="#et">Ganz gewiß.</p>
+<p rendition="#et">Und indem es ähnlich und unähnlich wird, sich verähnlichen und verunähnlichen?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und wenn es größer und kleiner und gleich groß wird, dann wachsen, abnehmen und sich ausgleichen?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wenn es ferner in der Bewegung stillsteht und andererseits aus der Ruhe in die Bewegung übergeht, so kann dies beides doch wohl auch nicht in einer und derselben Zeit geschehen?</p>
+<p rendition="#et">Wie wäre das möglich?</p>
+<p rendition="#et">Und daß nun das früher Ruhende sich später bewegt und das früher Bewegte später ruht, dies kann doch einerseits ohne Übergang beidem unmöglich widerfahren.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Andererseits gibt es aber auch keine Zeit, in der etwas zugleich weder bewegt sein noch ruhen könnte.</p>
+<p rendition="#et">Auf keinen Fall.</p>
+<p rendition="#et">Aber doch kann es auch nicht übergehen, ohne eben diesen Mittelzustand durchzumachen.</p>
+<p rendition="#et">Natürlich nicht.</p>
+<p rendition="#et">Wann findet denn also dieser Umschlag und Übergang statt, wenn doch dasjenige, welches ihn erfährt, ihn weder erfahren kann, solange es noch ruht, noch auch, sobald es sich schon bewegt, und auch nicht, indem es in der Zeit ist?</p>
+<p rendition="#et">Dies alles ist allerdings unmöglich.</p>
+<p rendition="#et">Ist nun vielleicht dies jenes seltsame Etwas, in welchem es sich dann befindet, wenn es den Übergang erleidet - ?</p>
+<p rendition="#et">Nun, welches?</p>
+<p rendition="#et">Der <hi rendition="#i">Augenblick</hi>. Denn das Augenblickliche scheint etwas Derartiges zu bezeichnen, daß von ihm aus etwas in den einen oder anderen von zwei entgegengesetzten Zuständen übergeht. <pb n="540" facs="#f00059"/> Denn nicht aus der Ruhe geht etwas, während es noch ruht, in die Bewegung über, noch aus der Bewegung, während es sich noch bewegt, in die Ruhe über, sondern der Augenblick, dieses wunderbare Etwas, liegt zwischen der Bewegung und der Ruhe, keiner Zeit angehörig, und in ihm und aus ihm geht das Bewegte zur Ruhe und das Ruhende zur Bewegung über.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Auch das Eins also, sofern es doch ebensowohl ruhend als auch bewegt ist, macht einen Übergang nach beiden Seiten hin durch; denn nur so ist es denkbar, daß es beides sein könnte. Macht es ihn aber durch, so macht es ihn auch im Augenblick durch; und dann, wenn es ihn durchmacht, ist es in keiner Zeit und bewegt sich dann weder, noch ruht es.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Verhält es sich nun nicht so auch mit allen anderen Übergängen? Wenn das Eins aus dem Sein in das Vergehen oder aus dem Nichtsein in das Entstehen übergeht, tritt es dann nicht immer in eine Mitte zwischen Bewegung und Ruhe und ist dann weder, noch ist nicht, und entsteht dann weder, noch vergeht?</p>
+<p rendition="#et">So scheint es wenigstens.</p>
+<p rendition="#et">Und ebenso auch, wenn es aus der Einheit in die Vielheit und aus der Vielheit in die Einheit übergeht, ist es weder Eins noch Vieles und sondert sich weder, noch zieht es sich zusammen, und wenn es aus der Ähnlichkeit in die Unähnlichkeit und aus der Unähnlichkeit in die Ähnlichkeit übergeht, dann ist es weder ähnlich noch unähnlich und wird auch beides noch nicht. Und wenn es aus der Kleinheit in die Größe und wenn es in die Gleichheit oder in ihr Gegenteil übergeht, ist es weder klein noch groß noch gleich und wächst oder nimmt ab oder gleicht sich aus.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Alle diese Vorkommenheiten erfährt also das Eins, wenn es <hi rendition="#i">ist</hi>.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Müssen wir nun nicht auch betrachten, welche Vorkommenheiten alles Andere erfahren müsse, wenn das Eins <hi rendition="#i">ist</hi>?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et"><pb n="541" facs="#f00060"/> Laß uns denn also unsere Frage dahin stellen: Wenn das Eins <hi rendition="#i">ist</hi>, was muß da allem Anderen außer dem Eins widerfahren?</p>
+<p rendition="#et">Gut.</p>
+<p rendition="#et">Wenn es min eben anderes ist als das Eins, so kann es doch durchaus nicht das Eins sein: denn sonst wäre es ja nicht anderes als das Eins.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und doch ist auch wieder das Andere nicht durchaus des Eins beraubt, sondern hat einen gewissen Anteil an ihm.</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Alles Andere ist doch wohl nur als ein solches, welches Teile hat, anderes als das Eins; denn wenn es keine Teile hätte, so wäre es ja vollkommen Eins.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Teile aber hat, wie schon gesagt, nur, was ein Ganzes ist.</p>
+<p rendition="#et">Ja, das bemerkten wir allerdings schon.</p>
+<p rendition="#et">Jedes Ganze aber ist doch notwendig ein aus Vielen bestehendes Eins, und nur von einem solchen können die Teile Teile sein; denn jeder Teil ist ja doch notwendig nicht ein Teil einer ungeeinten Vielheit, sondern eines solchen Ganzen.</p>
+<p rendition="#et">Warum denn?</p>
+<p rendition="#et">Wenn etwas ein Teil von einer bloßen Vielheit sein sollte, zu welcher es mit gehört, so müßte es ja sowohl ein Teil von sich selbst, was doch unmöglich ist, als auch von jedem einzelnen <hi rendition="#i">Eins</hi> von diesen an deren Vielen sein, wenn anders es eben ein solcher von <hi rendition="#i">allen</hi> diesen Vielen sein soll. Denn wenn es überhaupt nicht Teil <hi rendition="#i">eines</hi> von ihnen sein soll, so wird es nur noch Teil aller übrigen sein können, und so eben nicht mehr Teil jedes <hi rendition="#i">einen</hi>, und wenn es jedes <hi rendition="#i">einen</hi> Teil nicht ist, dann ist es auch gar keines von diesen Vielen Teil, und wenn dies, so ist es unmöglich, daß es von denen allen etwas, es sei nun ein Teil oder was sonst immer, sei, von deren keinem es dies ist.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Nicht von Vielen also oder Allen ist der Teil Teil, sondern von einer gewissen einheitlichen Wesenheit oder einem gewissen Eins, welches wir ein Ganzes nennen, sobald es eben alle jene seine Teile vollständig zur Einheit in sich zusammenschließt.</p>
+<p rendition="#et">Ganz so verhält es sich.</p>
+<p rendition="#et"><pb n="542" facs="#f00061"/> Wenn demnach das Andere Teile hat, so wird es damit auch der Ganzheit und Einheit teilhaftig sein.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Also ein vollständiges Eins und Ganzes, welches Teile hat, ist notwendig alles Andere außer dem Eins.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Aber auch hinsichtlich jedes einzelnen Teils gilt derselbe Satz: Auch jeder einzelne Teil muß notwendig des Eins teilhaftig sein. Denn wenn jeder einzelne ein Teil ist, so bezeichnet dies »jeder einzelne« doch wohl, daß er für sich Eins ist, gesondert von allen übrigen.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">So jedoch, daß es am Eins nur Anteil hat als ein anderes denn das Eins: denn sonst wäre es des Eins nicht bloß teilhaftig, sondern würde selber Eins sein; nun aber kann Eins sein unmöglich irgend etwas außer dem Eins selbst.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Anteil haben am Eins aber muß notwendig sowohl das Ganze als der Teil. Denn das Ganze wird eben <hi rendition="#i">ein</hi> Ganzes sein, von dem die Teile: Teile sind, der Teil aber immer je <hi rendition="#i">einer</hi> der Teile des Ganzen, von welchen als seinen Teilen das Ganze eben Ganzes ist.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und alles, was am Eins nur Anteil hat, wird stets als ein vom Eins Verschiedenes an ihm Anteil haben.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Was aber vom Eins verschieden ist, das ist doch wohl Viel. Denn wenn alles andere als das Eins weder Eins noch mehr als Eins wäre, so wäre es gar Nichts.</p>
+<p rendition="#et">In der Tat.</p>
+<p rendition="#et">Da nun aber sonach dasjenige, was am Eins im Sinne des Teils, und was am Eins im Sinne des Ganzen Anteil hat, mehr als Eins ist, ist es da nicht sogar notwendig, daß alles dies das Eins in sich Aufnehmende an sich betrachtet unbegrenzt an Vielheit ist?</p>
+<p rendition="#et">Warum?</p>
+<p rendition="#et">Fassen wir dabei für folgendes ins Auge: Ist es nicht dann, wenn es das Eins in sich aufnimmt, etwas, was nicht Eins und auch noch nicht des Eins teilhaftig ist?</p>
+<p rendition="#et"><pb n="543" facs="#f00062"/> Offenbar.</p>
+<p rendition="#et">Also eine Masse von Vielheiten, denen das Eins nicht innewohnt?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Wie nun? Wenn wir in Gedanken von so etwas auch nur das Allergeringste, was sich überhaupt denken läßt, hinwegnehmen wollten, würde da nicht notwendig auch schon dieses Hinweggenommene, sofern es doch des Eins noch nicht teilhaftig wäre, eine Vielheit sein ohne Einheit?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Und wird nun nicht, wenn wir so immer die vom Eins verschiedene Natur dieser Gattung an und für sich betrachten, soviel wir jedesmal von ihr übersehen, sich dies stets als eine unbegrenzte Vielheit darstellen?</p>
+<p rendition="#et">Schlechterdings.</p>
+<p rendition="#et">Andererseits aber, sobald jeder <hi rendition="#i">eine</hi> Teil wirklicher Teil geworden ist, so haben alle diese Teile ihre Grenze gegen einander und das Ganze gegen die Teile.</p>
+<p rendition="#et">Gewiß.</p>
+<p rendition="#et">Allem anderer als dem Eins begegnet es also, daß aus der Verbindung des Eins mit ihm selber ein von ihm Verschiedenes in ihm entsteht, das eine gegenseitige Begrenzung in ihm hervorbringt, während seine eigene Natur an sich es unbegrenzt macht.</p>
+<p rendition="#et">Das leuchtet ein.</p>
+<p rendition="#et">So ist denn alles Andere als das Eins sowohl als Ganzes wie auch seinen Teilen nach sowohl unbegrenzt als auch der Grenze teilhaftig.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und sind nicht auch alle dazu gehörigen Gegenstände sowohl ähnlich als auch unähnlich ebensowohl untereinander als auch jeder derselben mit sich selbst?</p>
+<p rendition="#et">Inwiefern denn?</p>
+<p rendition="#et">Insofern dies alles seiner eigenen Natur nach unbegrenzt ist, kommt ihnen doch wohl einerlei Beschaffenheit zu.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und sofern es alles der Grenze teilhaftig ist, gleichfalls.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Insofern es aber sowohl begrenzt als auch unbegrenzt ist, insofern <pb n="544" facs="#f00063"/> kommen ihnen doch wohl einander entgegengesetzte Beschaffenheiten zu?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und das einander entgegengesetzte ist doch wohl einander so unähnlich als möglich?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Insofern diese Gegenstände jede von diesen beiden Beschaffenheiten für sich genommen an sich tragen, ist also jeder derselben sich selber und sind sie alle einander ähnlich; insofern aber beide zusammen, verhalten sie sich in beiderlei Betracht ganz entgegengesetzt und möglichst unähnlich.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Und so sind sie dehn alle untereinander und jeder sich selber sowohl ähnlich als auch unähnlich.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und es wird nicht mehr schwer sein zu finden, daß alles Andere als das Eins sowohl einerlei mit einander als verschieden, sowohl bewegt als auch ruhend ist und überhaupt alle möglichen entgegengesetzten Beschaffenheiten an sich trägt und alle möglichen entgegengesetzten Vorkommenheiten erfährt, nachdem es sich gezeigt, daß ihm die bisher betrachteten zukommen.</p>
+<p rendition="#et">Du hast recht.</p>
+<p rendition="#et">Und so wollen will denn von der weiteren Verfolgung dieser Punkte abstehen, weil sie ja hinlänglich klar vorliegen, und vielmehr wieder von vorne an untersuchen, wenn das Eins ist, ob es sich dann mit allem Anderen bloß in der bisher betrachteten Weise oder ob es sich nicht auch anders verhält.</p>
+<p rendition="#et">Ja, so wollen wir es machen.</p>
+<p rendition="#et">Stellen wir also von neuem wieder die Frage: Wenn das Eins <hi rendition="#i">ist</hi>, was muß dann allem Anderen außer dem Eins widerfahren?</p>
+<p rendition="#et">Wohl, stellen wir wieder diese Frage!</p>
+<p rendition="#et">Muß dann nicht das Eins gesondert sein von allem Anderen und alles Andere vom Eins?</p>
+<p rendition="#et">Warum denn?</p>
+<p rendition="#et">Weil doch außer leiden kein Drittes mehr da ist, welches ein anderes wäre als das Eins und ein anderes als alles Andere. Denn wenn man sagt: »das Eins und alles Andere«, <pb n="545" facs="#f00064"/> so hat man damit alles ausgesprochen, was überhaupt dasein kann.</p>
+<p rendition="#et">Freilich alles.</p>
+<p rendition="#et">Und es ist mithin kein von beiden Verschiedenes mehr da, in welchem das Eins und alles Andere sich gemeinschaftlich befinden könnet.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Und folglich kann niemals das Eins und das Andere sich in einem und demselben befinden.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Und folglich sind beide ganz gesondert von einander?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und das wahrhaft so zu nennende Eins kann, wie wir bereits gesehen haben, auch keine Teile haben.</p>
+<p rendition="#et">Nein, das kann es nicht.</p>
+<p rendition="#et">Es kann das Eins also weder als Ganzes sich in dem Anderen befinden noch als Teile desselben, wenn es doch gesondert ist von allem Anderen und keine Teile hat.</p>
+<p rendition="#et">Nein, das ist undenkbar.</p>
+<p rendition="#et">Auf keine Weise also kann das Andere am Eins Anteil haben, da dieses weder nach einem seiner Teile noch auch als Ganzes mit ihm in Gemeinschaft steht.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">In keinem Betracht mithin ist das Andere Eins und hat irgend eine Einheit in sich.</p>
+<p rendition="#et">Nein, keineswegs.</p>
+<p rendition="#et">Dann ist das Andere aber auch nicht Vieles: denn wäre es dies, so wäre auch jeder zu ihm gehörige Gegenstand ein Teil des Ganzen. So aber ist alles Andere außer dem Eins weder Eins noch Vieles und weder Ganzes noch Teile, da es eben mit dem Eins in keinem Betracht Gemeinschaft hat.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Also auch nicht Zwei oder Drei ist weder das Ganze an sich betrachtet, noch ist eine Zwei oder Drei in ihm enthalten, wenn es in jedem Betracht der Einheit beraubt ist.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und auch nicht ähnlich und unähnlich ist sonach dem Eins weder das Andere selbst, noch auch ist in ihm Ähnlichkeit und Unähnlichkeit enthalten. Denn wenn es selbst ähnlich und <pb n="546" facs="#f00065"/> unähnlich wäre oder auch nur Ähnlichkeit und Unähnlichkeit in sich enthielte, so hätte ja alles Andere als das Eins zwei entgegengesetzte Begriffe an sich.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Das aber erschien uns ja als unmöglich, daß etwas einer Zweiheit teilhaftig sein könnte, was nicht einmal einer Einheit teilhaftig ist.</p>
+<p rendition="#et">Jawohl, als unmöglich.</p>
+<p rendition="#et">Weder ähnlich noch unähnlich noch beides ist also das Andere. Denn als ähnlich sowie als unähnlich hätte es an einem von jenen beiden, als beides aber an beiden entgegengesetzten Begriffen teil. Das aber erschien uns als unmöglich.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und ebenso ist es Weder einerlei noch verschieden, weder ruhend noch bewegte weder entstehend noch vergehend, weder größer noch kleiner noch gleich, noch kommt ihm sonst etwas Derartiges zu. Denn wenn das Andere als das Eins es vertragen könnte, daß ihm irgend so etwas zukäme, so würde es auch am Eins und an der Zweiheit und Dreiheit und am Geraden und Ungeraden teil haben, an welchem allen seine Teilnahme doch als eine Unmöglichkeit erschien, wenn es eben des Eins ganz und gar beraubt ist.</p>
+<p rendition="#et">Sehr richtig.</p>
+<p rendition="#et">So ist denn also, wenn Eins ist, das Eins Alles und Nichts sowohl im Verhältnis zu sich wie auch zu allem Anderen, und mit allem Anderen steht es denn ebenso.</p>
+<p rendition="#et">Vollkommen so vorhält es sich.</p>
+<p rendition="#et">Gut denn! Wenn nun aber das Eins <hi rendition="#i">nicht</hi> ist, – was dann eintreten muß, das wäre wohl demnächst zu untersuchen?</p>
+<p rendition="#et">Freilich.</p>
+<p rendition="#et">Was ist das nun Wohl für eine Voraussetzung: »wenn Eins nicht ist«? Unterscheidet sie sich etwa nicht irgendwie von der: »wenn Nicht-Eins nicht ist«?</p>
+<p rendition="#et">Ohne Zweifel tut sie das.</p>
+<p rendition="#et">Und unterscheidet sie sich etwa bloß von ihr, oder ist es nicht sogar das gerade Gegenteil, zu sagen »wenn Eins nicht ist« und »wenn Nicht-Eins nicht ist«?</p>
+<p rendition="#et">Das gerade Gegenteil.</p>
+<p rendition="#et">Und ferner, wenn jemand sagte: »wenn Größe nicht ist« oder <pb n="547" facs="#f00066"/> »wenn Kleinheit nicht ist« oder »wenn irgend sonst etwas nicht ist«, würde er damit nicht jedesmal das zu verstehen geben, daß er Nichtseiendes als etwas von allem Anderen Verschiedenes bezeichne?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und also auch in diesem Falle, wenn jemand sagt: »wenn Eins nicht ist«, gibt er uns damit zu verstehen, daß er dies Nichtseiende als etwas von allem Anderen Verschiedenes bezeichnen will, und wir wissen, was er meint?</p>
+<p rendition="#et">Wir wissen es.</p>
+<p rendition="#et">Zuvörderst meint er also etwas Erkennbares und demnächst etwas von allein Anderen Verschiedenes, sobald er sagt: »Eins«, mag er ihm nun das Sein beilegen oder das Nichtsein; denn auch im letzter Falle wird doch erkannt, daß es ein Etwas ist, was als nichtseiend bezeichnet wird, und dazu ein solches, das verschieden ist von allem Anderen. Oder nicht?</p>
+<p rendition="#et">Ja, notwendig.</p>
+<p rendition="#et">Hiernach müssen wir denn so anheben: Wenn Eins nicht ist, was muß dann eintreten? Zunächst nun, wie es scheint, muß ihm dann das zukommen, daß es eine Erkenntnis von ihm gibt; denn sorgst würde man ja auch nicht verstehen können, was denn gemeint ist, wenn jemand sagt: »Wenn Eins nicht ist«.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und sodann auch, daß alles Andere verschieden von ihm sei; denn sonst würde ja auch nicht etwas ganz Bestimmtes, von allem Anderer Verschiedenes mit ihm bezeichnet werden?</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Auch noch die Verschiedenheit aber trägt es dann außer der Erkennbarkeit an sich. Denn man meint doch nicht die Verschiedenheit alles Anderen, wenn man das Eins als ein von allem Anderen Verschiedenes bezeichnet, sondern seine eigene.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Und auch an dem Jenes und Etwas und Dessen und Dem und Derer und an allem Derartigen hat sonach das nichtseiende Eins teil. Denn es könnte sonst vom Eins gar nicht gesprochen werden noch von dem vom Eins Verschiedenen, noch könnte ihm etwas zukommen oder seines Besitzes sein oder von ihm <pb n="548" facs="#f00067"/> ausgesagt werden, wenn es weder an dem Etwas noch an allem übrigen Derartigen teil hätte.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Daß es <hi rendition="#i">ist</hi>, kann freilich dem Eins nicht zukommen, wenn anders es eben <hi rendition="#i">nicht</hi> ist; aber daß es an Vielem teil habe, daran hindert sonach nicht nur nichts, sondern es ist dies sogar notwendig, wenn eben jenes Eins und nicht etwas anderes nicht sein soll. Soll freilich nicht jenes Eins das Nichtseiende, sondern von etwas anderem die Rede sein, dann kommt die ganze Sache für uns auch nicht weiter in Frage: soll aber wirklich jenes Eins und nichts anderes als nichtseiend vorausgesetzt werden, so muß es notwendig an dem Jenes und an noch vielem anderen teilhaben.</p>
+<p rendition="#et">Ja freilich.</p>
+<p rendition="#et">Und auch Unähnlichkeit hat es gegen das Andere: denn das Andere, eben als verschieden vom Eins, dürfte auch verschiedenartig sein.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und das Verschiedenartige ist von anderer Beschaffenheit?</p>
+<p rendition="#et">Wie sollte es nicht?</p>
+<p rendition="#et">Und was von anderer Beschaffenheit ist, das ist auch unähnlich?</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Und nicht wahr, wenn es dem Eins unähnlich ist, so ist doch offenbar einem Unähnlichen gegenüber das Unähnliche unähnlich?</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Dann aber kommt auch dem Eins diese Unähnlichkeit zu, in bezug auf die das Andere ihm unähnlich ist.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Wenn es nun aber: so eine Unähnlichkeit mit allem Anderen hat, muß es dann nicht notwendig Ähnlichkeit mit sich selbst haben?</p>
+<p rendition="#et">Inwiefern?</p>
+<p rendition="#et">Nun, wenn das Eins Unähnlichkeit mit dem Eins hätte, wäre ja sonach gar nicht von dem die Rede, was so beschaffen ist wie das Eins, und die Voraussetzung bezöge sich gar nicht auf das Eins, sondern auf etwas anderes als das Eins.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et"><pb n="549" facs="#f00068"/> Das soll sie aber doch nicht.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Folglich muß also das Eins Ähnlichkeit mit sich selbst haben.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und ferner auch nicht gleich ist es allem Anderen: denn wenn es ihm gleich wäre, so wäre es einerseits ja schon, und andererseits müßte es leben vermöge der Gleichheit ihm auch ähnlich sein; beides aber ist unmöglich, denn es soll ja eben nicht sein.</p>
+<p rendition="#et">Jawohl ist es in möglich.</p>
+<p rendition="#et">Da es nun aber allem Anderen nicht gleich ist, muß da nicht notwendig auch alles Andere ihm nicht gleich sein?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Was aber nicht gleich ist, das ist ungleich?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und nicht wahr, das Ungleiche ist dem Ungleichen ungleich?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Auch an der Ungleichheit also hat das Eins teil, in bezug auf welche alles Andere ihm ungleich ist?</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Nun aber: Zur Ungleichheit gehört doch auch Größe und Kleinheit?</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Folglich auch Größe und Kleinheit hat dieses Eins?</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Größe aber und Kleinheit stehen doch stets einander fern.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und es steht mithin stets etwas zwischen ihnen.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und kannst zu mir nun wohl etwas anderes angeben, was zwischen ihnen stände, als die Gleichheit?</p>
+<p rendition="#et">Nein, sondern allein diese.</p>
+<p rendition="#et">Was also Größe und Kleinheit hat, dem kommt auch die Gleichheit zu, die zwischen beiden steht.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Das nichtseiende Eins also, wie es scheint, hat teil an der Gleichheit wie an der Größe und Kleinheit.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et"><pb n="550" facs="#f00069"/> Und traun, sogar am Sein muß es in gewisser Weise teil haben.</p>
+<p rendition="#et">Wieso?</p>
+<p rendition="#et">Es muß sich doch so verhalten, wie wir sagen. Denn wenn es sich nicht so verhielte, so würden wir ja nichts Wahres aussagen, indem wir sagen, daß das Eins nicht sei; wenn wir aber Wahres aussagen, so geht ja damit unsere Aussage auf etwas, was wirklich ist. Oder ist es nicht so?</p>
+<p rendition="#et">Ja, so ist es.</p>
+<p rendition="#et">Da wir nun aber doch behaupten, daß wir Wahres aussagen, so müssen wir notwendig behaupten, daß unsere Aussage auch auf etwas wirklich Seiendes gerichtet ist.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Es ist also wirklich, wie es scheint, das Eins ein Nichtseiendes. Denn wenn es nicht ein Nichtseiendes sein, sondern von diesem Sein etwas ablassen soll zum Nichtsein, so wird es sofort ein Seiendes werden.</p>
+<p rendition="#et">Schlechterdings.</p>
+<p rendition="#et">Demnach muß es als Band des Nichtseins dies haben: wirklich zu sein ein Nichtseiendes, wenn anders es wirklich nicht sein soll, gerade sowie das Seiende als Band seines Seins dies haben muß: nicht au sein ein Nichtseiendes, damit es wiederum seinerseits ein vollständiges Sein sei. Denn so dürfte wohl am ersten das Seiende sein und das Nichtseiende nicht sein, wenn einerseits das Seiende teil hat am wirklichen Sein des Seiendseins und am Nichtsein des Nichtseiendseins, falls es anders vollständig und schlechthin sein, und wenn andererseits das Nichtseiende am Nichtsein des Nichtseiendnichtseins und am wirklichen Sein des Nichtseiendseins, falls anders wiederum das Nichtseiende vollständig und schlechthin<hi rendition="#i"> nicht sein</hi> soll.</p>
+<p rendition="#et">Ganz richtig.</p>
+<p rendition="#et">Da nun aber sonach sowohl das Seiende am Nichtsein als auch das Nichtseiende am Sein teil hat, so muß auch das Eins, eben weil es nicht ist, am Sein teilnehmen, nämlich an dem des Nichtseins.</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Auch ein Sein also zeigt sich am Eins, wenn es nicht ist.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et"><pb n="551" facs="#f00070"/> Gewiß aber doch auch ein Nichtsein, wenn es doch eben nicht ist?</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Ist es nun aber wohl möglich, daß etwas irgend eine Beschaffenheit haben und zugleich nicht haben kann, oder muß es vielmehr, um sie nicht mehr zu haben, erst einen Übergang durchmachen?</p>
+<p rendition="#et">Das letztere.</p>
+<p rendition="#et">Alles Derartige somit, wo etwas so und wieder nicht so beschaffen ist, weist auf einen Übergang hin.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Übergang aber ist Bewegung. Oder als was sollen wir ihn sonst bezeichnen?</p>
+<p rendition="#et">Als nichts anderes.</p>
+<p rendition="#et">Erschien uns nun nicht das Eins als seiend und wieder als nichtseiend?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und mithin erscheint es uns doch wohl auch als so und wieder als nicht so beschaffen?</p>
+<p rendition="#et">Gewiß.</p>
+<p rendition="#et">Auch als bewegt hat sich uns mithin das nichtseiende Eins gezeigt, sofern als einen Übergang an sich tragend aus dem Sein in das Nichtsein.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Aber wenn es nun doch nirgends ist, wie es doch sein muß, wenn es wirklich nicht ist, so kann es doch wohl auch nicht von irgendwoher irgendwohin über gehen?</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Nicht also kann es sich so bewegen, daß es seinen Ort verändert.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Ebensowenig aber auch an demselben Orte sich im Kreise drehen, da es ja mit einer Einerleiheit des Ortes in keinerlei Berührung steht, denn diese Einerleiheit ist ja etwas Seiendes; das nichtseiende Eins aber kann sich unmöglich irgendwo in etwas Seiendem befinden.</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Und in einem Orte, in welchem es gar nicht ist, kann das nichtseiende Eins sich auch nicht im Kreise herumdrehen.</p>
+<p rendition="#et"><pb n="552" facs="#f00071"/> Sicherlich nicht.</p>
+<p rendition="#et">Ebensowenig aber verwandelt und verändert sich das Eins sich selbst gegenüber, weder das seiende noch das nichtseiende. Denn es würde ja facht mehr die Rede sein von dem Eins, wenn es ein anderes würde als es selbst, sondern eben von einem anderen.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Wenn es sich aber weder verwandelt noch in demselben Räume sich herumdreht oder in einen anderen fortschreitet, kann es da überhaupt noch auf irgend eine Art sich bewegen?</p>
+<p rendition="#et">Wie sollte es?</p>
+<p rendition="#et">Was sich aber nicht bewegt, muß notwendig ruhen, und was ruht, stille stehen.</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et">Das Eins also, wie es scheint, wenn es nicht ist, steht sowohl stille als es bewegt sich.</p>
+<p rendition="#et">So scheint es.</p>
+<p rendition="#et">Und fürwahr, sofern es sich bewegt, muß es auch ganz notwendig sich verändern. Denn insoweit etwas sich bewegt, verhält es sich nicht mehr auf dieselbe Weise, als es sich vorher verhielt, sondern auf andere.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Ist das Eins also bewegt, so verändert es sich auch.</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und fürwahr, wenn es sich in keiner Weise bewegt, wird es sich auch in keiner Weise verändern.</p>
+<p rendition="#et">Gewiß nicht.</p>
+<p rendition="#et">Insofern sich also das nichtseiende Eins bewegt, verändert es sich; insofern es sich aber nicht bewegt, verändert es sich nicht.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Das Eins somit, wenn es nicht ist, verändert sich und verändert sich auch nicht.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Muß aber nicht notwendig das, was sich verändert, ein anderes werden als zuvor und seiner früheren Beschaffenheit nach vergehen, das aber, was sich nicht verändert, weder entstehen noch vergehen?</p>
+<p rendition="#et">Notwendig.</p>
+<p rendition="#et"><pb n="553" facs="#f00072"/> Auch das nichtseiende Eins also, indem es sich verändert, entsteht und vergeht; insofern es sich aber nicht verändert, entsteht es weder noch vergeht es. Und so entsteht denn sowohl das nichtseiende Eins und vergeht, als es auch weder entsteht noch vergeht.</p>
+<p rendition="#et">So verhält es sich.</p>
+<p rendition="#et">Noch einmal nun laß uns zum Anfang zurückkehren, um zu sehen, ob sich uns dasselbe ergeben wird wie jetzt, oder etwas Verschiedenes!</p>
+<p rendition="#et">Ja, so müsset wir es machen.</p>
+<p rendition="#et">Wenn also das Eins nicht ist, sagen wir, was muß dann in bezug auf dasselbe eintreten?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Wenn wir min diesen Ausdruck des »nicht ist« gebrauchen, bezeichnet derselbe da wohl etwas anderes als die Abwesenheit des Seins für das, von welchem wir sagen, daß es nicht ist?</p>
+<p rendition="#et">Nein, nichts anderes.</p>
+<p rendition="#et">Und ferner, sobald wir sagen, daß etwas nicht ist, meinen wir da, daß es nur in gewisser Hinsicht nicht sei, in anderer aber sei, oder bezeichnet dies so ausgesprochene »nicht ist« nicht vielmehr einfach, daß schlechterdings in keiner Weise ist und am Sein teil hat dies Nichtseiende?</p>
+<p rendition="#et">Ja, ganz einfach dies.</p>
+<p rendition="#et">Weder <hi rendition="#i">sein</hi> kann also dann das Eins noch auch irgendwie sonst am <hi rendition="#i">Sein</hi> teil haben.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Das Entstehen und Vergehen aber, wie wir bereits sahen, ist doch wohl nichts anderes, als das eine das Annehmen und das andere das Aufgeben des Seins?</p>
+<p rendition="#et">Nein, nichts anderes.</p>
+<p rendition="#et">Was nun aber am Sein in keiner Weise teil haben kann, kann doch wühl dasselbe auch weder annehmen noch aufgeben.</p>
+<p rendition="#et">Wie sollte es?</p>
+<p rendition="#et">Auch das Eins also, wofern es in keiner Weise mit dem Sein etwas gemein hat, kann dasselbe weder besitzen noch fahren lassen noch erlangen in irgendwelcher Weise.</p>
+<p rendition="#et">Natürlich.</p>
+<p rendition="#et"><pb n="554" facs="#f00073"/> Das nichtseiende Eins vergeht mithin weder noch entsteht es, sofern es eben in keiner Weise Gemeinschaft mit dem Sein hat.</p>
+<p rendition="#et">Offenbar nicht.</p>
+<p rendition="#et">Auch verändert und verwandelt es sich sonach in keiner Hinsicht; denn täte es dies, so entstände und verginge es auch.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Wenn es sich aber nicht verändert, so kann es sich notwendigerweise doch auch nicht bewegen?</p>
+<p rendition="#et">Notwendigerweise nicht.</p>
+<p rendition="#et">Aber ebensogut müssen wir auch behaupten, daß das nicht stille steht, was nirgends ist. Denn was stille steht, ist notwendig immer in etwas, und zwar in einem und demselben.</p>
+<p rendition="#et">Wie sollte es nicht?</p>
+<p rendition="#et">Und so müssen wir denn also wiederum sagen, daß das nichtseiende Eins weder je stille stehe noch auch sich bewege.</p>
+<p rendition="#et">Gewiß.</p>
+<p rendition="#et">Und ferner darf überhaupt nichts Seiendes ihm zukommen. Denn wenn es irgend eines Seienden teilhaftig wäre, so hätte es eben damit ja auch schon mit dem Sein Gemeinschaft.</p>
+<p rendition="#et">Offenbar.</p>
+<p rendition="#et">Weder Größe mithin noch Kleinheit noch Gleichheit kommt ihm zu.</p>
+<p rendition="#et">Nein.</p>
+<p rendition="#et">Und auch nicht Ähnlichkeit noch Verschiedenheit weder in Beziehung zu sich selbst noch zu anderem.</p>
+<p rendition="#et">Offenbar nicht.</p>
+<p rendition="#et">Und wie? Kann wohl alles Andere in irgend welcher Beziehung für dasselbe vorhanden sein, wenn doch überhaupt gar nichts ihm zukommen soll?</p>
+<p rendition="#et">Unmöglich.</p>
+<p rendition="#et">Dann aber ist ihm das Andere auch weder ähnlich noch unähnlich, weder einerlei mit ihm noch verschieden von ihm.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Und weiter: das Davon oder Dafür, das Etwas, Dies oder Dessen oder Eines anderen oder Für ein anderes, das Früher, Später oder Jetzt, Erkenntnis, Vorstellung, Wahrnehmung, Aussage, Name oder irgend etwas anderes von dem Seienden, – kann das dem Nichtseienden zukommen?</p>
+<p rendition="#et"><pb n="555" facs="#f00074"/> Unmöglich.</p>
+<p rendition="#et">Folglich gibt es auch für das nichtseiende Eins dies alles in keinerlei Hinsicht.</p>
+<p rendition="#et">Nein, in keiner Hinsicht, wie es scheint.</p>
+<p rendition="#et">Nun haben wir aber auch noch zu untersuchen, wenn das Eins nicht ist, was dann allem Anderen begegnen muß.</p>
+<p rendition="#et">Ja, das habe wir.</p>
+<p rendition="#et">Ein anderes muß es zunächst doch wohl sein; denn wenn es überhaupt nicht ein anderes wäre, so könnte gar nicht von dem Anderen die Rede sein.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Wenn aber von dem Anderen die Rede ist, so ist dies Andere auch ein Verschiedenes. Oder brauchst du nicht immer bei derselben Gelegenheit sowohl den Ausdruck »ein Anderes« als auch »ein Verschiedenes«?</p>
+<p rendition="#et">Ja freilich.</p>
+<p rendition="#et">Verschieden aber, behaupteten wir doch, sei etwas von einem von ihm Verschiedenen und anders als etwas Anderes?</p>
+<p rendition="#et">Ja.</p>
+<p rendition="#et">Und mithin gibt es denn auch für alles Andere, wenn es wirklich Anderes sein soll, etwas, als welches es anders ist?</p>
+<p rendition="#et">Notwendigerweise.</p>
+<p rendition="#et">Was kann dies nun aber sein? Denn anders als das Eins kann doch alles Andere nicht sein, wofern jenes überhaupt nicht da ist.</p>
+<p rendition="#et">Das ist allerdings unmöglich.</p>
+<p rendition="#et">Also gegen einander ist es anders. Denn nur dies bleibt ihm noch übrig, wenn es nicht anders sein soll als nichts.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und zwar nur Vielheiten oder Mengen können es sein, welche alle gegen ein Inder anders sind; denn von Einheiten ist dies unmöglich, wenn doch eben kein Eins da ist. Jede Masse vielmehr von allein Anderen, wie es scheint, bildet eine unendliche Vielheit, und wenn auch einer das, was ihn das Allerkleinste dünkt, nähme, so erscheint es doch plötzlich wie im Traume, anstatt daß es ihn Eins zu sein dünkte, als Vieles und, anstatt ganz klein, sehr groß im Verhältnis zu seinen fort und fort möglichen Zerteilungen.</p>
+<p rendition="#et">Ganz richtig.</p>
+<p rendition="#et"><pb n="556" facs="#f00075"/> Alle solche Müssen also sind anders gegen einander, wenn das Eins nicht sein. Anderes aber sein soll.</p>
+<p rendition="#et">Zuverlässig.</p>
+<p rendition="#et">Und werden es nicht viele solche Massen sein, deren jede als eine erscheint, es aber nicht wirklich ist, wenn doch eben das Eins nicht sein soll?</p>
+<p rendition="#et">So steht es.</p>
+<p rendition="#et">Auch eine Zahl von ihnen wird es zu geben scheinen, wenn anders jede eben als eine Einheit erscheint, während zugleich ihrer viele sind.</p>
+<p rendition="#et">Freilich.</p>
+<p rendition="#et">Und einerseits das Gerade und andererseits das Ungerade wird in ihnen enthalten zu sein scheinen, während es doch in Wahrheit nicht in ihnen enthalten sein kann, wenn eben das Eins nicht ist.</p>
+<p rendition="#et">Nein, das kann es nicht.</p>
+<p rendition="#et">Ja auch ein Kleinstes, wie eben schon gesagt, wird unter ihnen zu sein scheinen; aber eben dies wird wieder als Vieles und Großes erscheinen im Verhältnis zu jedem der Vielen, so klein wie sich diese denken lassen.</p>
+<p rendition="#et">Wie anders?</p>
+<p rendition="#et">Aber auch als gleich diesen vielen Kleinheiten wird jede jener Massen der Vorstellung erscheinen. Denn sie könnte nicht aus dem Größeren in das Kleinere im Scheine übergehen, ohne daß es das dazwischen Liegende durchzumachen schiene; dies aber dürfte sein der Schein der Gleichheit.</p>
+<p rendition="#et">Natürlich.</p>
+<p rendition="#et">Wird sie nicht ferner auch gegen jede andere Masse begrenzt und im Verhältnis zu sich selbst weder Anfang noch Mitte noch Ende und Grenze besitzend erscheinen?</p>
+<p rendition="#et">Wieso das?</p>
+<p rendition="#et">Weil immer, wenn jemand etwas von ihnen in Gedanken erfaßt, als wäre es eins von diesen drei Dingen, ihm notwendig vor dem Anfange stets noch wieder ein anderer Anfang erscheint, und nach dem Ende noch wieder ein übrig bleibendes Ende, und wiederum in der Mitte ein anderes noch wieder als eine genauere und kleinere Mitte als jene Mitte, weil man eben kein einziges einzeln fassen kann, da überhaupt das Eins nicht ist.</p>
+<p rendition="#et"><pb n="557" facs="#f00076"/> Sehr wahr.</p>
+<p rendition="#et">Völlig zermalmt und zerstückelt wird somit, wie ich meine, notwendig alles Seiende, was man mit dem Gedanken erfaßt; denn man wird so mit demselben immer eine Masse ohne Einheit ergreifen.</p>
+<p rendition="#et">Ja freilich.</p>
+<p rendition="#et">Und von fern und oberflächlich angesehen wird demnach eine solche als Eins erscheinen müssen, aber nahebei und genauer betrachtet jenes Einzelne als eine unbegrenzte und unendliche Vielheit, sofern es ja eben des Eins beraubt ist, da es ein solches nicht gibt?</p>
+<p rendition="#et">Ganz notwendig.</p>
+<p rendition="#et">Als unbegrenzt sonach und begrenzt, und als Eines und Vieles muß jegliches Andere erscheinen, wenn das Eins nicht ist, wohl aber Anderes als das Eins.</p>
+<p rendition="#et">Das muß es.</p>
+<p rendition="#et">Und wird es nicht auch ähnlich sowohl wie unähnlich zu sein scheinen?</p>
+<p rendition="#et">Inwiefern?</p>
+<p rendition="#et">Gerade so, wie bei der Bühnenmalerei dem Fernstehenden das Ganze als eine innere Einheit erscheint, so werden auch hier die Massen von fern betrachtet den Schein geben, als ob ihnen Einerleiheit und mithin Ähnlichkeit zukomme.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Aber, wenn man näher hinzutritt, sich als Vieles und Verschiedenes und durch den Schein der Verschiedenheit als verschiedenartig Und sich selbst unähnlich zeigen.</p>
+<p rendition="#et">So ist es.</p>
+<p rendition="#et">Also auch sowohl als ähnlich wie als unähnlich muß jede Masse sich selbst und alle einander erscheinen.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Und auch als einerlei mit einander wie als verschieden von einander, als sich selbst berührend sowie als getrennt von sich selbst, als bewegt nach allen möglichen Bewegungen sowie als stillestehend schlechthin, sowohl als entstehend wie als vergehend, und wiederum als keines von beidem, und alles dergleichen, was durchzugehen uns nun schon sehr leicht fallen würde, müsset die Massen erscheinen, wenn, ohne daß Eins ist, Vieles sein soll.</p>
+<p rendition="#et"><pb n="558" facs="#f00077"/> Sehr richtig.</p>
+<p rendition="#et">Noch einmal laß uns nun zum Anfange zurückkehren und untersuchen, wenn Eins nicht ist, wohl aber alles Andere außer dem Eins, was darin folgt?</p>
+<p rendition="#et">Untersuchen wir es!</p>
+<p rendition="#et">Eins wird nun danach doch alles Andere nicht sein.</p>
+<p rendition="#et">Wie sollte es?</p>
+<p rendition="#et">Aber auch nicht Vieles. Denn in dem vielen Seienden muß auch das Eins enthalten sein: denn wenn nichts von ihnen Eins ist, so ist eben alles nichts, so daß dann auch nicht Vieles ist.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Wenn also in allem Anderen kein Eins enthalten ist, so ist dies Andere weder Vieles noch auch Eins.</p>
+<p rendition="#et">Allerdings.</p>
+<p rendition="#et">Und auch nicht einmal erscheinen kann es als Eins noch als Vieles.</p>
+<p rendition="#et">Warum denn nicht?</p>
+<p rendition="#et">Weil ja an allem Nichtseienden alles Andere in keiner Art und Weise Gemeinschaft haben und nichts Nichtseiendes an irgend etwas Anderem sich finden kann; denn was nicht ist, hat auch an nichts teil.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Und folglich kann auch keine Vorstellung und kein Schein des Nichtseienden sich bei allem Anderen finden, und das Nichtseiende kann mithin nie in irgend einer Weise unserer Vorstellung an allem Anderen erscheinen.</p>
+<p rendition="#et">Freilich nicht.</p>
+<p rendition="#et">Wenn also Eins nicht ist, so kann sich auch nicht die Vorstellung bilden, daß etwas von allem Anderen Eins noch auch Vieles sei: denn Vieles ohne Eins sich vorzustellen ist eine Unmöglichkeit.</p>
+<p rendition="#et">Jawohl.</p>
+<p rendition="#et">Wenn also Eins nicht ist, so <hi rendition="#i">ist</hi> alles Andere weder, noch <hi rendition="#i">erscheint</hi> es weder als Eins noch als Vieles. Ja, so sieht es aus.</p>
+<p rendition="#et">Und mithin auch weder als ähnlich noch als unähnlich. Allerdings. Und weder als einerlei noch als verschieden, weder als sich berührend <pb n="559" facs="#f00078"/> noch als von sich getrennt, noch als alles andere, was wir vorher als dem Scheine nach ihm zukommend durchgenommen haben, – als nichts von diesem allen <hi rendition="#i">erscheint</hi> weder, noch <hi rendition="#i">ist</hi> etwas von ihnen alles Andere, wenn das Eins nicht ist.</p>
+<p rendition="#et">Richtig.</p>
+<p rendition="#et">Gesetzt nun also, wir sagten, dies alles zusammenfassend: Wenn Eins nicht ist so ist überhaupt gar nichts, – würden wir damit nicht die Wahrheit sprechen?</p>
+<p rendition="#et">Durchaus.</p>
+<p rendition="#et">So wollen wir denn auch einerseits dies aussprechen und andererseits unser Gesamtergebnis dahin zusammenfassen, daß, wie es scheint, das Eins mag nun sein oder nicht sein, sowohl es selbst als alles Andere, jedes für sich und alles in bezug auf einander, alles auf alle Weise ist und nicht ist und zu sein scheint und nicht scheint.</p>
+<p rendition="#et">Vollkommen richtig.</p>
+<pb n="560" facs="#f00079"/> 
+</body></text></TEI>

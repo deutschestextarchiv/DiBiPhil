@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in drei Bänden</title>
+        <title type="volume">Band 3</title>
+        <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Friedrich Nietzsche: Werke in drei Bänden. Band 3, Herausgegeben von Karl
+      Schlechta. München: Hanser, 1954.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in drei Bänden</title>
+      <title level="m" type="volume" n="3">Band 3</title>
+      <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+        <forename>Karl</forename>
+        <surname>Schlechta</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Hanser</name>
+      </publisher><pubPlace>München</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1874/75.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Wir Philologen</note>
+
+
+<head>Friedrich Nietzsche</head>
+<head>Wir Philologen</head>
+<pb n="323" facs="#f0001"/>
+<p><hi rendition="#smaller">Die Muschel ist inwendig krumm, außen rauh; wenn sie beim Blasen brummt, dann erst bekommt man die rechte Achtung vor ihr.</hi></p>
+<p rendition="#right"><hi rendition="#smaller">(Ind. Sprüche ed. Böhtlingk I. 335)</hi></p>
+<p><hi rendition="#smaller">Ein häßlich anzusehendes Blasinstrument: es muß erst geblasen werden.</hi></p>
+<lb/>
+<p>Wie wenig Vernunft, wie sehr der Zufall unter den Menschen herrscht, zeigt das fast regelmäßige Mißverhältnis zwischen dem sogenannten Lebensberufe und dem ersichtlichen Nichtberufensein: die glücklichen Fälle sind Ausnahmen wie die glücklichen Ehen, und auch diese werden nicht durch Vernunft herbeigeführt. Der Mensch <hi rendition="#i">wählt</hi> den Beruf, wo er noch nicht fähig zum Wählen ist; er kennt die verschiedenen Berufe nicht, er kennt sich selbst nicht; er verbringt seine tätigsten Jahre dann in diesem Berufe, verwendet all sein Nachdenken darauf, wird erfahrener; erreicht er die Höhe seiner Einsicht, dann ist es gewöhnlich zu spät, um etwas Neues zu beginnen, und die Weisheit hat auf Erden fast immer etwas Altersschwaches und Mangel an Muskelkraft an sich gehabt.</p>
+<p rendition="#et">Die Aufgabe ist meistens die, wieder gutzumachen, ungefähr zurechtzulegen, was in der Anlage verfehlt war; viele werden erkennen, daß der spätere Teil des Lebens eine Absichtlichkeit zeigt, die aus ursprünglicher Disharmonie entstanden ist; es lebt sich schwer. Am Ende des Lebens ist man's aber doch gewohnt – dann kann man sich über sein Leben irren und seine Dummheit loben: <hi rendition="#i">bene nvigavi cum naufragium feci,</hi> und gar ein Preislied auf die »Vorsehung« anstimmen.</p>
+<lb/>
+<p>Ich frage nun nach der Entstehung des Philologen und behaupte</p>
+<list><item>
+1. der junge Mensch kann gar nicht wissen, wer Griechen und Römer sind,</item><lb/><item>
+2. er weiß nicht, ob er zu ihrer Erforschung sich eignet,</item><lb/><item>
+3. und erst recht nicht, inwiefern er sich mit diesem Wissen zum Lehrer eignet. Das, was ihn also bestimmt, ist nicht Einsicht in sich und seine Wissenschaft, sondern<lb/>
+<list><item>
+<pb n="323" facs="#f0002"/> a) Nachahmung,</item><lb/><item>
+b) Bequemlichkeit, dadurch, daß er forttreibt, was er auf der Schule trieb,</item><lb/><item>
+c) allmählich auch die Absicht auf Broterwerb.</item></list>
+</item></list>
+<lb/>
+<p>Ich meine, 99 von 100 Philologen <hi rendition="#i">sollten</hi> keine sein.</p>
+
+<p>Strengere Religionen fordern, daß der Mensch seine Tätigkeit nur als ein Mittel eines metaphysischen Planes verstehe: eine mißlungene Wahl des Berufes läßt sich dann als Prüfung des Individuums zurechtlegen. Religionen nehmen nur das Heil des Individuums ins Auge: ob der nun Sklave oder Freier, Kaufmann oder Gelehrter ist, sein Lebensziel liegt nicht in seinem Berufe, und deshalb ist eine falsche Wahl kein großes Unglück. Dies diene dazu, die Philologen zu trösten; aber nackte Einsicht für die echten Philologen: was wird aus einer Wissenschaft, die von solchen 99 betrieben wird? Diese eigentlich ungeeignete Majorität legt sich die Wissenschaft zurecht und stellt an sich die Forderung nach den Fähigkeiten und Neigungen der Majorität: sie <hi rendition="#i">tyrannisiert</hi> damit den eigentlichen Befähigten, jenen Hundertsten. Hat sie die Erziehung in den Händen, so <hi rendition="#i">erzieht</hi> sie bewußt oder unbewußt nach dem <hi rendition="#i">eignen</hi> Vorbild: was wird da aus der <hi rendition="#i">Klassizität</hi> der Griechen und Römer?</p>
+<p rendition="#et">Zu beweisen:</p>
+<list><item>
+A. Das Mißverhältnis zwischen Philologen und den Alten.</item><lb/><item>
+B. Die Unfähigkeit der Philologen, mit Hilfe der Alten zu erziehen.</item><lb/><item>
+C. Die Fälschung der Wissenschaft durch die (Unfähigkeit der) Majoritäten, die falschen Anforderungen, Verleugnung der eigentlichen Ziele dieser Wissenschaft.</item></list>
+<lb/>
+<p>Dies betrifft alles die Genesis des <hi rendition="#i">jetzigen Philologen:</hi> skeptisch melancholische Stellung. Aber wie sind <hi rendition="#i">sonst</hi> Philologen entstanden?</p>
+<p rendition="#et"><hi rendition="#i">Nachahmung</hi> des Altertums: ob nicht ein endlich widerlegtes Prinzip?</p>
+<p rendition="#et"><hi rendition="#i">Flucht aus der Wirklichkeit</hi> zu den Alten: ob dadurch nicht die Auffassung des Altertums gefälscht ist?</p>
+<p rendition="#et"><pb n="324" facs="#f0003"/> Eine Art der Betrachtung ist noch zurück: zu <hi rendition="#i">begreifen,</hi> wie die größten Erzeugnisse des Geistes einen schrecklichen und bösen Hintergrund haben; die <hi rendition="#i">skeptische</hi> Betrachtung: als schönstes Beispiel des Lebens wird das Griechentum geprüft.</p>
+<lb/>
+<p>So wie der Mensch zu seinem Lebensberufe steht, skeptisch-melancholisch, so sollen wir uns zu dem höchsten Lebensberufe eines Volkes stellen: um zu<hi rendition="#i"> begreifen,</hi> was Leben ist.</p>
+
+<p>Mein Trost gilt besonders auch den tyrannisierten Einzelnen: diese mögen einfach alle jene Majoritäten wie ihre Hilfsarbeiter behandeln, und ebenso mögen sie sich das Vorurteil, das noch zugunsten des klassischen Unterrichts verbreitet ist, zunutze machen; sie brauchen <hi rendition="#i">viele</hi> Arbeiter. Sie haben aber unbedingte<hi rendition="#i"> Einsicht in ihre Ziele</hi> nötig.</p>
+
+<p>Die Philologie als Wissenschaft um das Altertum hat natürlich keine ewige Dauer, ihr Stoff ist zu erschöpfen. Nicht zu erschöpfen ist die immer neue Akkommodation jeder Zeit an das Altertum, das Sichdaran-Messen. Stellt man dem Philologen die Aufgabe,<hi rendition="#i"> seine</hi> Zeit vermittels des Altertums besser zu verstehen, so ist seine Aufgabe eine ewige. – Dies ist die Antinomie der Philologie: man hat das <hi rendition="#i">Altertum</hi> tatsächlich immer nur <hi rendition="#i">aus der Gegenwart</hi> verstanden – und soll nun die <hi rendition="#i">Gegenwart aus dem Altertum</hi> verstehen? Richtiger: aus dem Erlebten hat man sich das Altertum erklärt, und aus dem so gewonnenen Altertum hat man sich das Erlebte <hi rendition="#i">taxiert,</hi> abgeschätzt. So ist freilich das <hi rendition="#i">Erlebnis</hi> die unbedingte Voraussetzung für einen <hi rendition="#i">Philologen</hi> – das heißt doch: erst Mensch sein, dann wird man erst als Philolog fruchtbar sein. Daraus folgt, daß ältere Männer sich zu Philologen eignen, wenn sie in der erlebnisreichsten Zeit ihres Lebens <hi rendition="#i">nicht</hi> Philologen waren.</p>
+<p rendition="#et">Überhaupt aber: nur durch Erkenntnis des Gegenwärtigen kann man <hi rendition="#i">den Trieb zum klassischen</hi> Altertum bekommen. Ohne diese Erkenntnis – wo sollte da der Trieb herkommen? Wenn man zusieht, wie wenige Philologen es außer denen, die davon leben, gibt, kann man schließen, wie es im Grunde mit diesem Triebe zum Altertum steht, er <hi rendition="#i">existiert fast nicht,</hi> denn es gibt keine uneigennützigen Philologen.</p>
+<p rendition="#et"><pb n="325" facs="#f0004"/> So ist die Aufgabe zu stellen: der Philologie ihre allgemein erziehende Wirkung zu erobern! <hi rendition="#i">Mittel:</hi> Beschränkung des Philologenstandes, zweifelhaft, ob die Jugend damit bekannt zu machen. Kritik des Philologen. Die Würde des Altertums: sie sinkt mit euch: wie tief müßt ihr gesunken sein, da es diese Würde jetzt so wenig hat!</p>
+<lb/>
+<p>Ein großer Vorteil für einen Philologen ist, daß seine Wissenschaft so viel vorgearbeitet hat, um sich in den Besitz der Erbschaft setzen zu können, wenn er es<hi rendition="#i"> vermag</hi> – nämlich die <hi rendition="#i">Abschätzung</hi> der ganzen hellenischen Denkart vorzunehmen. Solange man im einzelnen herumarbeitete, leitete eine <hi rendition="#i">Verkennung</hi> der Griechen; die <hi rendition="#i">Stufen dieser Verkennung</hi> sind zu bezeichnen: Sophisten des zweiten Jahrhunderts, die Philologen-Poeten der Renaissance, der Philologe als Schullehrer der höheren Stände (Goethe-Schiller).</p>
+<p rendition="#et">Urteilen ist am schwierigsten.</p>
+<p rendition="#et">Wie ist wohl einer am <hi rendition="#i">geeignetsten</hi> zu dieser<hi rendition="#i"> Schätzung</hi>? – Jedenfalls nicht dann, wenn er zum Philologen abgerichtet wird wie jetzt. Zu sagen, inwiefern die Mittel hier den letzten Zweck unmöglich machen. – Also der Philolog selbst ist <hi rendition="#i">nicht</hi> das Ziel der Philologie. –</p>
+<lb/>
+<p>Die meisten Menschen halten sich offenbar für <hi rendition="#i">gar keine Individuen;</hi> das zeigt ihr Leben. Die christliche Forderung, daß <hi rendition="#i">jeder</hi> seine Seligkeit und diese <hi rendition="#i">allein</hi> im Auge habe, hat als Gegensatz das allgemeine menschliche Leben, wo jeder nur als ein Punkt zwischen Punkten lebt, nicht nur ganz und gar Resultat früherer Geschlechter, sondern auch nur im Hinblick auf kommende lebend. Nur bei drei Existenzformen bleibt der Mensch Individuum: als Philosoph, als Heiliger und Künstler. Man sehe nur, womit ein wissenschaftlicher Mensch sein Leben totschlägt: was hat die griechische Partikellehre mit dem Sinn des Lebens zu tun? – So sehen wir auch hier, wie zahllose Menschen eigentlich nur als Vorbereitung eines wirklichen Menschen leben: zum Beispiel die Philologen als Vorbereitung des Philosophen, der ihre Ameisenarbeit zu nutzen versteht, um über den <hi rendition="#i">Wert des Lebens</hi> eine Aussage zu machen. Freilich ist, wenn es keine <hi rendition="#i">Leitung</hi> gibt, der <hi rendition="#i">größte</hi> Teil jener Ameisenarbeit einfach <hi rendition="#i">Unsinn</hi> und überflüssig.</p>
+<p rendition="#et"><pb n="326" facs="#f0005"/> Außer der großen Zahl unbefähigter Philologen gibt es nun umgekehrt eine Zahl von geborenen Philologen, welche durch irgendwelche Umstände verhindert sind, welche zu werden. Das wichtigste Hindernis aber, welches diese geborenen Philologen abhält, ist schlechte Repräsentation der Philologie durch die unberufenen Philologen.</p>
+<lb/>
+<p><hi rendition="#i">Leopardi</hi> ist das moderne Ideal eines Philologen, die deutschen Philologen können nichts machen. (Voß ist zu studieren dazu!)</p>
+
+<p>Man denke sich, wie anders eine Wissenschaft sich fortpflanzt, wie anders eine spezielle Begabung in einer Familie. Eine leibliche Fortpflanzung der einzelnen Wissenschaft ist etwas ganz Seltenes. Ob die Söhne von Philologen wohl leicht Philologen werden? <hi rendition="#i">Dubito.</hi> So entsteht keine Akkumulation philologischer Fähigkeiten wie etwa in Beethovens Familie von musikalischen Fähigkeiten. Die meisten fangen von vorn an: und zwar durch <hi rendition="#i">Bücher</hi> vermittelt, nicht durch Reisen usw. Wohl aber Erziehung.</p>
+
+<p>Die meisten Menschen sind offenbar <hi rendition="#i">zufällig</hi> auf der Welt: es zeigt sich keine Notwendigkeit höherer Art in ihnen. Sie treiben dies und das, ihre Begabung ist mittelmäßig. Wie sonderbar! Die Art, wie sie nun leben, zeigt, daß sie selbst nichts von sich halten, sie geben sich preis, indem sie sich an Lumpereien wegwerfen (seien das nun kleinliche Passionen oder Quisquilien des Berufs). In den sogenannten »Lebensberufen«, welche jedermann wählen soll, liegt eine rührende <hi rendition="#i">Bescheidenheit</hi> der Menschen: sie sagen damit, wir sind berufen, unseresgleichen zu nützen und zu dienen; und der Nachbar ebenfalls und dessen Nachbar auch; und so dient jeder dem andern, keiner hat seinen Beruf, seiner selbst wegen da zu sein, sondern immer wieder anderer wegen; so haben wir eine Schildkröte, die auf einer andern ruht und diese wieder auf einer und so fort. Wenn jeder seinen Zweck in einem andern hat, so haben <hi rendition="#i">alle keinen Zweck in sich, zu existieren;</hi> und dies <hi rendition="#i">"füreinander existieren"</hi> ist die komischste Komödie.</p>
+
+<p>Die <hi rendition="#i">Eitelkeit</hi> ist die unwillkürliche Neigung, sich als Individuum zu geben, während man keines ist; das heißt: als unabhängig, während <pb n="327" facs="#f0006"/> man abhängt. Die Weisheit ist das Umgekehrte: sie gibt sich als abhängig, während sie unabhängig ist.</p>
+
+<p>Die <hi rendition="#i">Hadesschatten</hi> des Homer – welcher Art von Existenz sind sie eigentlich nachgemalt? Ich glaube, es ist die Beschreibung des <hi rendition="#i">Philologen;</hi> es ist besser Tagelöhner sein als so eine blutlose Erinnerung an Vergangnes –</p>
+
+<p>Die Stellung des Philologen zum Altertum ist <hi rendition="#i">entschuldigend</hi> oder auch von der Absicht eingegeben, das, was unsre Zeit hoch schätzt, im Altertum nachzuweisen. Der richtige Ausgangspunkt ist der umgekehrte: nämlich von der Einsicht in die moderne Verkehrtheit auszugehn und zurückzusehn – vieles sehr Anstößige im Altertum erscheint dann als tiefsinnige Notwendigkeit.</p>
+<p rendition="#et">Man muß sich klarmachen, daß wir uns ganz <hi rendition="#i">absurd</hi> ausnehmen, wenn wir das Altertum verteidigen und beschönigen: was sind wir!</p>
+<lb/>
+<p>Es ist eine falsche Auffassung, zu sagen: immer gab es eine Kaste, welche die Bildung eines Volkes verwaltete: folglich sind die <hi rendition="#i">Gelehrten</hi> nötig. Denn die Gelehrten haben eben nur das Wissen um die Bildung (selbst dies nur bestenfalls). Es wird wohl auch unter uns gebildetere Menschen geben, schwerlich eine Kaste; aber diese können <hi rendition="#i">sehr wenige</hi> sein.</p>
+
+<p>Ein großer Wert des Altertums liegt darin, daß seine<hi rendition="#i"> Schriften</hi> die einzigen sind, welche moderne Menschen noch <hi rendition="#i">genau lesen.</hi></p>
+<p rendition="#et"><hi rendition="#i">Überspannung des Gedächtnisses</hi> – sehr gewöhnlich bei Philologen, geringere Entwicklung des Urteils.</p>
+<lb/>
+<p>Die Beschäftigung mit vergangnen Kultur-Epochen Dankbarkeit? Um sich die gegenwärtigen Kulturzustände zu erklären, sehe man rückwärts: zu panegyrisch gegen unsere Zustände wird man gewiß nicht, vielleicht muß man es aber tun, um nicht <hi rendition="#i">hart</hi> gegen uns selbst zu sein.</p>
+
+<p>Wer keinen Sinn für das <hi rendition="#i">Symbolische</hi> hat, hat keinen für das Altertum: diesen Satz wende man auf die nüchternen Philologen an.</p>
+<p rendition="#et"><pb n="328" facs="#f0007"/> Mein Ziel ist: volle Feindschaft zwischen unserer jetzigen »Kultur« und dem Altertume zu erzeugen. Wer der ersten dienen will, muß das letztere <hi rendition="#i">hassen.</hi></p>
+<lb/>
+<p>Ein sehr genaues Zurückdenken führt zu der Einsicht, daß wir eine Multiplikation vieler Vergangenheiten sind: wie könnten wir nun auch letzter Zweck sein? Aber warum nicht? Meistens aber wollen wir's gar nicht sein, stellen uns gleich wieder in die Reihe, arbeiten an einem Eckchen und hoffen, es werde für die Kommenden nicht ganz verloren sein. Aber das ist wirklich das Faß der Danaiden: es hilft nichts, wir müssen alles wieder für uns und nur für uns tun und zum Beispiel die Wissenschaft an uns messen mit der Frage: Was ist <hi rendition="#i">uns</hi> die Wissenschaft? Nicht aber: Was sind wir der Wissenschaft? Man macht sich wirklich das Leben zu leicht, wenn man sich so einfach historisch nimmt und in den Dienst stellt. »Das Heil deiner selbst geht über alles«, soll man sich sagen: und es gibt keine Institution, welche du höher zu achten hättest als deine eigene Seele. – Nun aber lernt sich der Mensch kennen: findet sich erbärmlich, verachtet sich, freut sich, außer sich etwas Achtungswürdiges zu finden. Und so wirft er sich fort, indem er sich irgendwo einordnet, streng seine Pflicht tut und seine Existenz abbüßt. Er weiß, daß er nicht seiner selbstwegen arbeitet; er wird denen helfen wollen, welche es wagen, ihrer selbst wegen da zu sein; wie Sokrates. Wie ein Haufen Gummiblasen hängen die meisten Menschen in der Luft, jeder Windhauch rührt sie. – <hi rendition="#i">Konsequenz: der Gelehrte muß es aus Selbsterkenntnis, also aus Selbstverachtung sein, das heißt er muß sich als Diener eines Höheren wissen, der nach ihm kommt. Sonst ist er ein Schaf.</hi></p>
+
+<p>Es ist die Sache des <hi rendition="#i">freien Mannes,</hi> seiner selbst wegen und nicht in Hinsicht auf andre zu leben. Deshalb hielten die Griechen das Handwerk für unanständig.</p>
+<p rendition="#et">Das griechische Altertum ist als Ganzes noch nicht taxiert: ich bin überzeugt, hätte es nicht diese traditionelle Verklärung um sich, die gegenwärtigen Menschen würden es mit Abscheu von sich stoßen: die Verklärung also ist unecht, von Goldpapier.</p>
+<lb/>
+<p><hi rendition="#i"><pb n="329" facs="#f0008"/> Die unwahre Begeisterung</hi> für das Altertum, in der viele Philologen leben. Eigentlich überfällt uns das Altertum, wenn wir jung sind, mit einer Fülle von Trivialitäten, besonders glauben wir über die Ethik hinaus zu sein. Und Homer und Walter Scott – wer erlangt wohl den Preis? Wenn man ehrlich ist! Wäre die Begeisterung groß, so würde man schwerlich seinen Lebensberuf darin suchen. Ich meine: erst <hi rendition="#i">spät</hi> beginnt es zu dämmern, was wir an den Griechen haben können: erst wenn wir viel erlebt, viel durchdacht haben.</p>
+
+<p>Man glaubt, es sei zu Ende mit der Philologie – und ich glaube, sie hat noch nicht angefangen.</p>
+<p rendition="#et">Die größten Ereignisse, welche die Philologie getroffen haben, sind das Erscheinen <hi rendition="#i">Goethes, Schopenhauers</hi> und <hi rendition="#i">Wagners:</hi> man kann damit einen Blick tun, der weiter reicht. Das fünfte und sechste Jahrhundert sind jetzt zu entdecken.</p>
+<lb/>
+<p>Wo zeigt sich die Wirkung des Altertums? Nicht einmal in der Sprache, nicht in der Nachahmung von irgend etwas, nicht einmal in einer Verkehrtheit, wie die Franzosen sie gezeigt haben. Unsere Museen füllen sich; ich empfinde immer Ekel, wenn ich reine nackte Figuren griechischen Stils sehe: vor dieser gedankenlosen Philisterei, die alles auffressen will.</p>
+<lb/>
+<p rendition="#right"><hi rendition="#i">Il faut dire la vérité et s'immoler.</hi></p>
+<p rendition="#right"><hi rendition="#i">(Voltaire)</hi></p>
+<p>Nehmen wir einmal an, es gäbe freiere und überlegenere Geister, welche mit der Bildung, die jetzt im Schwange geht, unzufrieden wären und sie vor ihren Gerichtshof führten: wie würde die Angeklagte zu ihnen reden? Vor allem so: »Ob ihr ein Recht habt, anzuklagen oder nicht, jedenfalls haltet euch nicht an mich, sondern an meine Bildner; diese haben die Pflicht, mich zu verteidigen, und ich habe ein Recht zu schweigen: bin ich doch nichts als ihr Gebilde.« Nun würde man die Bildner vorführen: und unter ihnen wäre auch ein ganzer Stand zu erblicken, der der <hi rendition="#i">Philologen.</hi> Dieser Stand besteht einmal aus solchen Menschen, welche ihre Kenntnis des griechischen <pb n="330" facs="#f0009"/> und römischen Altertums benutzen, um mit ihr Jünglinge von dreizehn bis zwanzig Jahren zu erziehen, und sodann aus solchen, welche die Aufgabe haben, derartige Lehrer immer von neuem heranzubilden, also Erzieher der Erzieher zu sein; die Philologen der ersten Gattung sind Lehrer an Gymnasien, die der zweiten Professoren an den Universitäten. Den ersteren übergibt man ausgewählte Jünglinge, solche, an denen Begabung und ein edlerer Sinn beizeiten sichtbar werden und auf deren Erziehung die Eltern reichlich Zeit und Geld verwenden können; übergibt man ihnen noch andre, welche diesen drei Bedingungen nicht entsprechen, so steht es in der Hand der Lehrer, sie abzuweisen. Die zweite Gattung, aus den Philologen der Universität bestehend, empfängt die jungen Männer, welche sich zum höchsten und anspruchsvollsten Berufe, dem der Lehrer und Bildner des Menschengeschlechts, geweiht fühlen; wiederum steht es in ihrer Hand, die falschen Eindringlinge zu beseitigen. Wird nun die Bildung einer Zeit verurteilt, so sind jedenfalls die Philologen schwer angegriffen: entweder nämlich wollen sie in der Verkehrtheit ihres Sinnes gerade jene schlechte Bildung, weil sie dieselbe für etwas Gutes halten, oder sie wollen sie nicht, sind aber zu schwach, das Bessere, das sie erkennen, durchzusetzen. Entweder liegt also ihre Schuld in der Mangelhaftigkeit ihrer Einsicht oder in der Ohnmacht ihres Willens. Im ersten Falle würden sie sagen, sie wüßten es nicht besser, im zweiten, sie könnten es nicht besser. Da aber die Philologen vornehmlich mit Hilfe des griechischen und römischen Altertums erziehen, so könnte die im ersten Falle angenommene Mangelhaftigkeit ihrer Einsicht einmal darin sich zeigen, daß sie das Altertum <hi rendition="#i">nicht verstehen;</hi> zweitens aber darin, daß das Altertum von ihnen mit Unrecht in die Gegenwart hineingestellt wird, angeblich als das wichtigste Hilfsmittel der Erziehung, weil es überhaupt nicht oder jetzt nicht mehr erzieht. Macht man ihnen dagegen die Ohnmacht ihres Willens zum Vorwurf, so hätten sie zwar darin volles Recht, wenn sie dem Altertum jene erzieherische Bedeutung und Kraft zuschreiben, aber sie wären nicht die geeigneten Werkzeuge, vermittels deren das Altertum diese Kraft äußern könnte, das heißt: sie wären mit Unrecht Lehrer und lebten in einer falschen Stellung: aber wie kamen sie dann in diese hinein? Durch eine Täuschung über sich und ihre Bestimmung. <pb n="331" facs="#f00010"/> Um also den Philologen ihren Anteil an der gegenwärtigen schlechten Bildung zuzuerkennen, könnte man die verschiedenen Möglichkeiten ihrer Schuld und Unschuld in diesen Satz zusammenfassen: <hi rendition="#i">Drei Dinge muß der Philologe, wenn er seine Unschuld beweisen will, verstehen, das Altertum, die Gegenwart, sich selbst: seine Schuld liegt darin, daß er entweder das Altertum nicht oder die Gegenwart nicht oder sich selbst nicht versteht.</hi></p>
+
+</body></text></TEI>

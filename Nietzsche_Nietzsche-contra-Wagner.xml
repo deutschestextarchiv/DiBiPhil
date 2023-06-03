@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in drei Bänden</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Friedrich Nietzsche: Werke in drei Bänden. Band 2, Herausgegeben von Karl
+      Schlechta. München: Hanser, 1954.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in drei Bänden</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+        <forename>Karl</forename>
+        <surname>Schlechta</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Hanser</name>
+      </publisher><pubPlace>München</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck: Leipzig (C.G. Naumann) 1889.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Nietzsche contra Wagner</note>
+
+
+<head>Friedrich Nietzsche</head>
+<head><pb n="1035" facs="#f0001"/>
+Nietzsche contra Wagner</head>
+<head>Aktenstücke eines Psychologen</head>
+<pb n="1035" facs="#f0002"/> <pb n="1037" facs="#f0003"/>
+
+
+<div type="preface" n="1">
+<note type="editorial">Vorwort</note>
+
+<head>Vorwort</head>
+<p>Die folgenden Kapitel sind sämtlich aus meinen älteren Schriften nicht ohne Vorsicht ausgewählt – einige gehn bis auf 1877 zurück –, verdeutlicht vielleicht hier und da, vor allem verkürzt. Sie werden, hintereinander gelesen, weder über Richard Wagner noch über mich einen Zweifel lassen: wir sind Antipoden. Man wird auch noch andres dabei begreifen, zum Beispiel, daß dies ein Essay für Psychologen ist, aber <hi rendition="#i">nicht</hi> für Deutsche... Ich habe meine Leser überall, in Wien, in St. Petersburg, in Kopenhagen und Stockholm, in Paris, in New York – ich habe sie <hi rendition="#i">nicht</hi> in Europas Flachland Deutschland... Und ich hätte vielleicht auch den Herrn Italienern ein Wort ins Ohr zu sagen, die ich <hi rendition="#i">liebe,</hi> ebensosehr als ich... <hi rendition="#i">Quousque tandem, Crispi... Triple alliance:</hi> mit dem »Reich« macht ein intelligentes Volk immer nur eine <hi rendition="#i">mésalliance...</hi></p>
+
+<p><hi rendition="#i">Turin</hi>, Weihnachten 1888</p>
+<p rendition="#right"><hi rendition="#i">Friedrich Nietzsche</hi></p>
+<pb n="1037" facs="#f0004"/> <pb n="1039" facs="#f0005"/>
+</div>
+
+<div n="1">
+<note type="editorial">Wo ich bewundere</note>
+
+<head>Wo ich bewundere</head>
+<p>Ich glaube, daß die Künstler oft nicht wissen, was sie am besten können: sie sind zu eitel dazu. Ihr Sinn ist auf etwas Stolzeres gerichtet als diese kleinen Pflanzen zu sein scheinen, welche neu, seltsam und schön, in wirklicher Vollkommenheit auf ihrem Boden zu wachsen wissen. Das letzthin Gute ihres eignen Gartens und Weinbergs wird von ihnen obenhin abgeschätzt, und ihre Liebe und ihre Einsicht sind nicht gleichen Ranges. Da ist ein Musiker, der mehr als irgendein Musiker seine Meisterschaft darin hat, die Töne aus dem Reich leidender, gedrückter, gemarterter Seelen zu finden und auch noch dem stummen Elend Sprache zu geben. Niemand kommt ihm gleich in den Farben des späten Herbstes, dem unbeschreiblich rührenden Glück eines letzten, allerletzten, allerkürzesten Genießens, er kennt einen Klang für jene heimlich-unheimlichen Mitternächte der Seele, wo Ursache und Wirkung aus den Fugen gekommen zu sein scheinen und jeden Augenblick etwas »aus dem Nichts« entstehen kann. Er schöpft am glück- lichsten von allen aus dem untersten Grunde des menschlichen Glücks und gleichsam aus dessen ausgetrunkenem Becher, wo die herbsten und widrigsten Tropfen zu guter und böser Letzt mit den süßesten zu- sammen gelaufen sind. Er kennt jenes müde Sichschieben der Seele, die nicht mehr springen und fliegen, ja nicht mehr gehen kann; er hat den scheuen Blick des verhehlten Schmerzes, des Verstehens ohne Trost, des Abschiednehmens ohne Geständnis; ja als Orpheus alles heimlichen Elends ist er größer als irgendeiner, und manches ist durch ihn überhaupt erst der Kunst hinzugefügt worden, was bisher unausdrücklich und selbst der Kunst unwürdig erschien – die zynischen Revolten zum Beispiel, deren nur der Leidendste fähig ist, insgleichen manches ganz Kleine und Mikroskopische der Seele, gleichsam die Schuppen ihrer amphibischen Natur –, ja er ist der <hi rendition="#i">Meister</hi> des ganz Kleinen. Aber er will es nicht sein! Sein Charakter liebt vielmehr die großen Wände und die verwegene Wandmalerei!.. Es entgeht ihm, <pb n="1039" facs="#f0006"/> daß sein Geist einen andren Geschmack und Hang – eine entgegengesetzte<hi rendition="#i"> Optik –</hi> hat und am liebsten still in den Winkeln zusammengestürzter Häuser sitzt: da, verborgen, sich selber verborgen, malt er seine eigentlichen Meisterstücke, welche alle sehr kurz sind, oft nur einen Takt lang – da erst wird er ganz gut, groß und vollkommen, da vielleicht allein. – Wagner ist einer, der tief gelitten hat – sein <hi rendition="#i">Vorrang,</hi> vor den übrigen Musikern. Ich bewundere Wagner in allem, worin er <hi rendition="#i">sich</hi> in Musik setzt. –</p>
+<pb n="1040" facs="#f0007"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Wo ich Einwände mache</note>
+
+<head>Wo ich Einwände mache</head>
+<p>Damit ist nicht gesagt, daß ich diese Musik für gesund halte, am wenigsten gerade da, wo sie von Wagner redet. Meine Einwände gegen die Musik Wagners sind physiologische Einwände: wozu dieselben erst noch unter ästhetische Formeln verkleiden? Ästhetik ist ja nichts als eine angewandte Physiologie. – Meine »Tatsache«, mein <hi rendition="#i">»petit fait vrai</hi>« ist, daß ich nicht mehr leicht atme, wenn diese Musik erst auf mich wirkt; daß alsbald mein Fuß gegen sie böse wird und revoltiert: er hat das Bedürfnis nach Takt, Tanz, Marsch – nach Wagners Kaisermarsch kann nicht einmal der junge deutsche Kaiser marschieren-, er verlangt von der Musik vorerst die Entzückungen, welche in <hi rendition="#i">gutem</hi> Gehn, Schreiten, Tanzen liegen. Protestiert aber nicht auch mein Magen? mein Herz? mein Blutlauf? betrübt sich nicht mein Eingeweide? Werde ich nicht unversehens heiser dabei... Um Wagner zu hören, brauche ich <hi rendition="#i">pastilles</hi> Gérandel... Und so frage ich mich: was <hi rendition="#i">will</hi> eigentlich mein ganzer Leib von der Musik überhaupt? <hi rendition="#i">Denn</hi> es gibt keine Seele... Ich glaube, seine <hi rendition="#i">Erleichterung:</hi> wie als ob alle animalischen Funktionen durch leichte, kühne, ausgelassne, selbstgewisse Rhythmen beschleunigt werden sollten; wie als ob das eherne, das bleierne Leben durch goldne zärtliche ölgleiche Melodien seine Schwere verlieren sollte. Meine Schwermut will in den Verstecken und Abgründen der <hi rendition="#i">Vollkommenheit</hi> ausruhn: dazu brauche ich Musik. Aber Wagner macht krank. – Was geht <hi rendition="#i">mich</hi> das Theater an? Was die Krämpfe seiner »sittlichen« Ekstasen, an denen das Volk – und wer ist nicht »Volk«! – seine Genugtuung hat! Was der ganze Gebärden-Hokuspokus des Schauspielers! – Man sieht, ich bin wesentlich antitheatralisch geartet, ich habe gegen das Theater, diese <hi rendition="#i">Massen-Kunst par excellence,</hi> den tiefen Hohn auf dem Grunde meiner Seele, den jeder Artist heute hat. <hi rendition="#i">Erfolg</hi> auf dem Theater – damit sinkt man in meiner Achtung bis auf Nimmer-wieder-sehn; <hi rendition="#i">Mißerfolg –</hi> da spitze ich die Ohren und fange an zu achten... Aber Wagner war umgekehrt, <hi rendition="#i"><pb n="1041" facs="#f0008"/> neben</hi> dem Wagner, der die einsamste Musik gemacht hat, die es gibt, wesentlich noch Theatermensch und Schauspieler, der begeistertste Mimomane, den es vielleicht gegeben hat, <hi rendition="#i">auch noch als Musiker...</hi> Und, beiläufig gesagt, wenn es Wagners Theorie gewesen ist »das Drama ist der Zweck, die Musik ist immer nur das Mittel« –, seine <hi rendition="#i">Praxis</hi> dagegen war, von Anfang bis zu Ende, »die Attitüde ist der Zweck; das Drama, auch die Musik, ist immer nur ihr Mittel«. Die Musik als Mittel zur Verdeutlichung, Verstärkung, Verinnerlichung der dramatischen Gebärde und Schauspieler-Sinnenfälligkeit; und das Wagnersche Drama nur eine Gelegenheit zu vielen interessanten Attitüden! – Er hatte, neben allen andren Instinkten, die <hi rendition="#i">kommandierenden</hi> Instinkte eines großen Schauspielers in allem und jedem: und, wie gesagt, auch als Musiker. – Dies machte ich einmal, nicht ohne Mühe, einem Wagnerianer <hi rendition="#i">pur sang</hi> klar – Klarheit und Wagnerianer! ich sage kein Wort mehr. Es gab Gründe, noch hinzuzufügen »seien Sie doch ein wenig ehrlicher gegen sich selbst! wir sind ja nicht in Bayreuth. In Bayreuth ist man nur als Masse ehrlich, als Einzelner lügt man, belügt man sich. Man läßt sich selbst zu Hause, wenn man nach Bayreuth geht, man verzichtet auf das Recht der eignen Zunge und Wahl, auf seinen Geschmack, selbst auf seine Tapferkeit, wie man sie zwischen den eignen vier Wänden gegen Gott und Welt hat und übt. In das Theater bringt niemand die feinsten Sinne seiner Kunst mit, am wenigsten der Künstler, der für das Theater arbeitet – es fehlt die Einsamkeit, alles Vollkommne verträgt keine Zeugen... Im Theater wird man Volk, Herde, Weib, Pharisäer, Stimmvieh, Patronatsherr, Idiot – <hi rendition="#i">Wagnerianer</hi>: da unterliegt auch noch das persönlichste Gewissen dem nivellierenden Zauber der großen Zahl, da regiert der Nachbar, da<hi rendition="#i"> wird</hi> man Nachbar...«</p>
+<pb n="1042" facs="#f0009"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Wagner als Gefahr</note>
+
+<head>Wagner als Gefahr</head>
+<head>1</head>
+<p>Die Absicht, welche die neuere Musik in dem verfolgt, was jetzt, sehr stark, aber undeutlich, »unendliche Melodie« genannt wird, kann man sich dadurch klar machen, daß man ins Meer geht, allmählich den sicheren Schritt auf dem Grunde verliert und sich endlich dem Elemente auf Gnade und Ungnade übergibt: man soll <hi rendition="#i">schwimmen.</hi> In der älteren Musik mußte man, im zierlichen oder feierlichen oder feurigen Hin und Wider, Schneller und Langsamer, etwas ganz anderes, nämlich <hi rendition="#i">tanzen.</hi> Das hierzu nötige Maß, das Einhalten bestimmter gleich wiegender Zeit- und Kraftgrade erzwang von der Seele des Hörers eine fortwährende <hi rendition="#i">Besonnenheit –</hi> auf dem Widerspiele dieses kühleren Luftzuges, welcher von der Besonnenheit herkam, und des durchwärmten Atems der Begeisterung ruhte der Zauber aller <hi rendition="#i">guten</hi> Musik. – Richard Wagner wollte eine andre Art Bewegung – er warf die physiologische Voraussetzung der bisherigen Musik um. Schwimmen, Schweben – nicht mehr Gehn, Tanzen... Vielleicht ist damit das Entscheidende gesagt. Die »unendliche Melodie« <hi rendition="#i">will</hi> eben alle Zeit- und Kraft- Ebenmäßigkeit brechen, sie verhöhnt sie selbst mitunter – sie hat ihren Reichtum der Erfindung gerade in dem, was einem älteren Ohre als rhythmische Paradoxie und Lästerung klingt. Aus einer Nachahmung, aus einer Herrschaft eines solchen Geschmacks entstünde eine Gefahr für die Musik, wie sie größer gar nicht gedacht werden kann – die vollkommne Entartung des rhythmischen Gefühls, das<hi rendition="#i"> Chaos</hi> an Stelle des Rhythmus... Die Gefahr kommt auf die Spitze, wenn sich eine solche Musik immer enger an eine ganz naturalistische, durch kein Gesetz der Plastik beherrschte Schauspielerei und Gebärdenkunst anlehnt, die <hi rendition="#i">Wirkung</hi> will, nichts mehr... Das<hi rendition="#i"> espressivo</hi> um jeden Preis und die Musik im Dienste, in der Sklaverei der Attitüde – <hi rendition="#i">das ist das Ende</hi>...</p>
+<lb/>
+<p rend="h4"><pb n="1043" facs="#f00010"/> 2</p>
+<p>Wie? wäre es wirklich die erste Tugend eines Vortrags, wie es die Vortragskünstler der Musik jetzt zu glauben scheinen, unter allen Umständen ein <hi rendition="#i">hautrelief</hi> zu erreichen, das nicht mehr zu überbieten ist? Ist dies zum Beispiel, auf Mozart angewendet, nicht die eigentliche Sünde wider den Geist Mozarts, den heiteren, schwärmerischen, zärtlichen, verliebten Geist Mozarts, der zum Glück kein Deutscher war, und dessen Ernst ein gütiger, ein goldener Ernst ist und <hi rendition="#i">nicht</hi> der Ernst eines deutschen Biedermanns... Geschweige denn der Ernst des »steinernen Gastes«... Aber ihr meint, <hi rendition="#i">alle</hi> Musik sei Musik des»steinernen Gastes«,<hi rendition="#i"> alle</hi> Musik müsse aus der Wand hervorspringen und den Hörer bis in seine Gedärme hinein schütteln?... So erst <hi rendition="#i">wirke</hi> die Musik! – Auf <hi rendition="#i">wen</hi> wird da gewirkt? Auf etwas, worauf ein <hi rendition="#i">vornehmer</hi> Künstler niemals wirken soll – auf die Masse! auf die Unreifen! auf die Blasierten! auf die Krankhaften! auf die Idioten! auf<hi rendition="#i"> Wagnerianer...</hi></p>
+<pb n="1044" facs="#f00011"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Eine Musik ohne Zukunft</note>
+
+<head>Eine Musik ohne Zukunft</head>
+<p>Die Musik kommt von allen Künsten, die auf dem Boden einer bestimmten Kultur aufzuwachsen wissen, als die letzte aller Pflanzen zum Vorschein, vielleicht weil sie die innerlichste ist und folglich am spätesten anlangt – im Herbst und im Abblühen der jedesmal zu ihr gehörenden Kultur. Erst in der Kunst der Niederländer Meister fand die Seele des christlichen Mittelalters ihren Ausklang – ihre Ton- Baukunst ist die nachgeborne, aber echt- und ebenbürtige Schwester der Gotik. Erst in Händels Musik erklang das Beste aus Luthers und seiner Verwandten Seele, der jüdisch-heroische Zug, welcher der Reformation einen Zug der Größe gab – das Alte Testament Musik geworden, <hi rendition="#i">nicht</hi> das Neue. Erst Mozart gab dem Zeitalter Ludwig des Vierzehnten und der Kunst Racines und Claude Lorrains in <hi rendition="#i">klingendem</hi> Golde heraus; erst in Beethovens und Rossinis Musik sang sich das achtzehnte Jahrhundert aus, das Jahrhundert der Schwärmerei, der zerbrochnen Ideale und des <hi rendition="#i">flüchtigen</hi> Glücks. Jede wahrhafte, jede originale Musik ist Schwanengesang. – Vielleicht, daß auch unsre letzte Musik, so sehr sie herrscht und herrschsüchtig ist, bloß noch eine kurze Spanne Zeit vor sich hat: denn sie entsprang einer Kultur, deren Boden im raschen Absinken begriffen ist – einer alsbald <hi rendition="#i">versunkenen</hi> Kultur. Ein gewisser Katholizismus des Gefühls und eine Lust an irgend-welchem alt-heimischen sogenannten »nationalen« Wesen und Unwesen sind ihre Voraussetzungen. Wagners Aneignung alter Sagen und Lieder, in denen das gelehrte Vorurteil etwas Germanisches <hi rendition="#i">par excellence</hi> zu sehn gelehrt hatte – heute lachen wir darüber –, die Neubeseelung dieser skandinavischen Untiere mit einem Durst nach ver-zückter Sinnlichkeit und Entsinnlichung – dieses ganze Nehmen und Geben Wagners in Hinsicht auf Stoffe, Gestalten, Leidenschaften und Nerven spricht deutlich auch den <hi rendition="#i">Geist seiner Musik</hi> aus, gesetzt, daß diese selbst, wie jede Musik, nicht unzweideutig von sich zu reden wüßte: denn die Musik ist ein<hi rendition="#i"> Weib...</hi> Man darf sich über diese Sachlage <pb n="1045" facs="#f00012"/> nicht dadurch beirren lassen, daß wir augenblicklich gerade in der Reaktion <hi rendition="#i">innerhalb</hi> der Reaktion leben. Das Zeitalter der nationalen Kriege, des ultramontanen Martyriums, dieser ganze <hi rendition="#i">Zwischenakts</hi>– Charakter, der den Zuständen Europas jetzt eignet, mag in der Tat einer solchen Kunst wie der Wagners, zu einer plötzlichen Glorie verhelfen, ohne ihr damit <hi rendition="#i">Zukunft</hi> zu verbürgen. Die Deutschen selber haben keine Zukunft...</p>
+<pb n="1046" facs="#f00013"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Wir Antipoden</note>
+
+<head>Wir Antipoden</head>
+<p>Man erinnert sich vielleicht, zum mindesten unter meinen Freunden, daß ich anfangs mit einigen Irrtümern und Überschätzungen und jedenfalls als <hi rendition="#i">Hoffender</hi> auf diese moderne Welt losgegangen bin. Ich verstand – wer weiß, auf welche persönlichen Erfahrungen hin? den philosophischen Pessimismus des neunzehnten Jahrhunderts als Symptom einer höheren Kraft des Gedankens, einer siegreicheren Fülle des Lebens, als diese in der Philosophie Humes, Kants und Hegels zum Ausdruck gekommen war – ich nahm die <hi rendition="#i">tragische</hi> Erkenntnis als den schönsten Luxus unsrer Kultur, als deren kostbarste, vornehmste, gefährlichste Art Verschwendung, aber immerhin, auf Grund ihres Überreichtums, als ihren <hi rendition="#i">erlaubten</hi> Luxus. Desgleichen deutete ich mir die Musik Wagners zurecht zum Ausdruck einer dionysischen Mächtigkeit der Seele, in ihr glaubte ich das Erdbeben zu hören, mit dem eine von alters her aufgestaute Urkraft von Leben sich endlich Luft macht, gleichgültig dagegen, ob alles, was sich heute Kultur nennt, damit ins Wackeln gerät. Man sieht, was ich verkannte, man sieht insgleichen, womit ich Wagner und Schopenhauer <hi rendition="#i">beschenkte –</hi> mit mir... Jede Kunst, jede Philosophie darf als Heil- und Hilfsmittel des wachsenden oder des niedergehenden Lebens angesehn werden: sie setzen immer Leiden und Leidende voraus. Aber es gibt zweierlei Leidende, einmal die an der <hi rendition="#i">Überfülle</hi> des Lebens Leidenden, welche eine dionysische Kunst wollen und ebenso eine tragische Einsicht und Aussicht auf das Leben – und sodann die an der <hi rendition="#i">Verarmung</hi> des Lebens Leidenden, die Ruhe, Stille, glattes Meer <hi rendition="#i">oder</hi> aber den Rausch, den Krampf, die Betäubung von Kunst und Philosophie verlangen. Die Rache am Leben selbst – die wollüstigste Art Rausch für solche Verarmte!... Dem Doppel-Bedürfnis der letzteren entspricht ebenso Wagner wie Schopenhauer – sie verneinen das Leben, sie verleumden es, damit sind sie meine Antipoden. – Der Reichste an Lebensfülle, der dionysische Gott und Mensch, kann sich nicht nur den Anblick des <pb n="1047" facs="#f00014"/> Fürchterlichen und des Fragwürdigen gönnen, sondern selbst die furchtbare Tat und jeden Luxus von Zerstörung, Zersetzung, Verneinung – bei ihm erscheint das Böse, Sinnlose und Häßliche gleichsam erlaubt, wie es in der Natur erlaubt erscheint, infolge eines Über- Schusses von zeugenden, wiederherstellenden Kräften –, welche aus jeder Wüste noch ein üppiges Fruchtland zu schaffen vermag. Umgekehrt würde der Leidendste, Lebensärmste am meisten die Milde, Friedlichkeit und Güte nötig haben – das, was heute Humanität genannt wird – im Denken sowohl wie im Handeln, womöglich einen Gott, der ganz eigentlich ein Gott für Kranke, ein <hi rendition="#i">Heiland</hi> ist, ebenso auch die Logik, die begriffliche Verständlichkeit des Daseins selbst für Idioten – die typischen »Freigeister«, wie die »Idealisten« und »schönen Seelen«, sind alle <hi rendition="#i">décadents –</hi> kurz, eine gewisse warme, furcht-abwehrende Enge und Einschließung in optimistische Horizonte, die <hi rendition="#i">Verdummung</hi> erlaubt... Dergestalt lernte ich allmählich Epikur begreifen, den Gegensatz eines dionysischen Griechen, insgleichen den Christen, der in der Tat nur eine Art Epikureer ist und mit seinem »der Glaube macht<hi rendition="#i"> selig</hi>« dem Prinzip des Hedonismus <hi rendition="#i">so weit wie möglich</hi> folgt – bis über jede intellektuelle Rechtschaffenheit hinweg... Wenn ich etwas vor allen Psychologen voraus habe, so ist es das, daß mein Blick geschärfter ist für jene schwierigste und verfänglichste Art des<hi rendition="#i"> Rückschlusses,</hi> in der die meisten Fehler gemacht werden – des Rück- schlusses vom Werk auf den Urheber, von der Tat auf den Täter, vom Ideal auf den, der es <hi rendition="#i">nötig</hi> hat, von jeder Denk- und Wertungsweise auf das dahinter kommandierende <hi rendition="#i">Bedürfnis. –</hi> In Hinsicht auf Artisten jeder Art bediene ich mich jetzt dieser Hauptunterscheidung: ist hier der <hi rendition="#i">Haß</hi> gegen das Leben oder der <hi rendition="#i">Überfluß</hi> an Leben schöpferisch geworden? In Goethe zum Beispiel wurde der Überfluß schöpferisch, in Flaubert der Haß; Flaubert, eine Neuausgabe Pascals, aber als Artist, mit dem In stinkt-Urteil auf dem Grunde: <hi rendition="#i">»Flaubert est toujours haissable, l'homme n' est rien, l'œuvre est tout«....</hi> Er torturierte sich, wenn er dichtete, ganz wie Pascal sich torturierte, wenn er dachte – sie empfanden beide unegoistisch... »Selbstlosigkeit« das <hi rendition="#i">décadence</hi>– Prinzip, der Wille zum Ende in der Kunst sowohl wie in der Moral. –</p>
+<pb n="1048" facs="#f00015"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Wohin Wagner gehört</note>
+
+<head>Wohin Wagner gehört</head>
+<p>Auch jetzt noch ist Frankreich der Sitz der geistigsten und raffiniertesten Kultur Europas und die <hi rendition="#i">hohe</hi> Schule des Geschmacks: aber man muß dies »Frankreich des Geschmacks« zu finden wissen. Die »Norddeutsche Zeitung« zum Beispiel, oder wer in ihr sein Mundstück hat, sieht in den Franzosen »Barbaren« – ich für meine Person suche den <hi rendition="#i">schwarzen</hi> Erdteil, wo man »die Sklaven« befreien sollte, in der Nähe der Norddeutschen... Wer zu <hi rendition="#i">jenem</hi> Frankreich gehört, hält sich gut verborgen: es mag eine kleine Zahl sein, in denen es leibt und lebt, dazu vielleicht Menschen, welche nicht auf den kräftigsten Beinen stehn, zum Teil Fatalisten, Verdüsterte, Kranke, zum Teil Verzärtelte und Verkünstelte, solche, welche den <hi rendition="#i">Ehrgeiz</hi> haben, künstlich zu sein – aber sie haben alles Hohe und Zarte, was jetzt in der Welt noch übrig ist, in ihrem Besitz. In diesem Frankreich des Geistes, welches auch das Frankreich des Pessimismus ist, ist heute schon Schopenhauer mehr zu Hause als er es je in Deutschland war; sein Hauptwerk zweimal bereits übersetzt, das zweitemal ausgezeichnet, so daß ich es jetzt vorziehe, Schopenhauer französisch zu lesen (-er war ein <hi rendition="#i">Zufall</hi> unter Deutschen, wie ich ein solcher Zufall bin – die Deutschen haben keine Finger für uns, sie haben überhaupt keine Finger, sie haben bloß Tatzen). Gar nicht zu reden von Heinrich Heine –<hi rendition="#i"> l'adorable Heine</hi> sagt man in Paris –, der den tieferen und seelenvolleren Lyrikern Frankreichs längst in Fleisch und Blut übergegangen ist. Was wüßte deutsches Hornvieh mit den <hi rendition="#i">délicatesses</hi> einer solchen Natur anzufangen! – Was endlich Richard Wagner angeht: so greift man mit Händen, nicht vielleicht mit Fäusten, daß Paris der eigentliche <hi rendition="#i">Boden</hi> für Wagner ist: je mehr sich die französische Musik nach den Bedürfnissen der <hi rendition="#i">»âme moderne«,</hi> gestaltet, um so mehr wird sie wagnerisieren – sie tut es schon jetzt genug. – Man darf sich hierüber nicht durch Wagner selber irreführen lassen – es war eine wirkliche Schlechtigkeit Wagners, Paris 1871 in seiner Agonie zu verhöhnen... In Deutschland ist Wagner <pb n="1049" facs="#f00016"/> trotzdem bloß ein Mißverständnis: wer wäre unfähiger, etwas von Wagner zu verstehn, als zum Beispiel der junge Kaiser? – Die Tatsache bleibt für jeden Kenner der europäischen Kultur-Bewegung nichtsdestoweniger gewiß, daß die französische Romantik und Richard Wagner aufs engste zueinander gehören. Allesamt beherrscht von der Literatur bis in ihre Augen und Ohren – die ersten Künstler Europas von <hi rendition="#i">weltliterarischer</hi> Bildung –, meistens sogar selber Schreibende, Dich-tende, Vermittler und Vermischer der Sinne und Künste, allesamt Fanatiker des <hi rendition="#i">Ausdrucks,</hi> große Entdecker im Reiche des Erhabenen, auch des Häßlichen und Gräßlichen, noch größere Entdecker im Effekte, in der Schaustellung, in der Kunst der Schauläden, allesamt Talente weit über ihr Genie hinaus –, <hi rendition="#i">Virtuosen</hi> durch und durch, mit unheimlichen Zugängen zu allem, was verführt, lockt, zwingt, umwirft, geborne Feinde der Logik und der geraden Linie, begehrlich nach dem Fremden, dem Exotischen, dem Ungeheuren, allen Opiaten der Sinne und des Verstandes. Im ganzen eine verwegen-wagende, prachtvoll-gewaltsame, hochfliegende und hoch emporreißende Art von Künstlern, welche <hi rendition="#i">ihrem</hi> Jahrhundert – es ist das Jahrhundert der <hi rendition="#i">Masse –</hi> den Begriff »Künstler« erst zu lehren hatte. Aber <hi rendition="#i">krank...</hi></p>
+<pb n="1050" facs="#f00017"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Wagner als Apostel der Keuschheit</note>
+
+<head>Wagner als Apostel der Keuschheit</head>
+<head>1</head>
+<p>– Ist das noch deutsch?</p>
+<p>Aus deutschem Herzen kam dies schwüle Kreischen?</p>
+<p>Und deutschen Leibs ist dies Sich-selbst-Zerfleischen?</p>
+<p>Deutsch ist dies Priester-Hände-Spreizen,</p>
+<p>Dies weihrauchdüftelnde Sinne-Reizen?</p>
+<p>Und deutsch dies Stürzen, Stocken, Taumeln,</p>
+<p>Dies zuckersüße Bimbambaumeln?</p>
+<p>Dies Nonnen-Äugeln, Ave-Glockenbimmeln,</p>
+<p>Dies ganze falsch verzückte Himmel Überhimmeln?...</p>
+<lb/>
+<p>– Ist das noch deutsch?</p>
+<p>Erwägt! Noch steht ihr an der Pforte...</p>
+<p>Denn was ihr hört, ist Rom – <hi rendition="#i">Roms Glaube ohne Worte!</hi></p>
+<lb/>
+
+
+<p rend="h4">2</p>
+<p>Zwischen Sinnlichkeit und Keuschheit gibt es keinen notwendigen Gegensatz; jede gute Ehe, jede eigentliche Herzensliebschaft ist über diesen Gegensatz hinaus. Aber in jenem Falle, wo es wirklich diesen Gegensatz gibt, braucht es zum Glück noch lange kein tragischer Gegensatz zu sein. Dies dürfte wenigstens für alle wohlgerateneren, wohlgemuteren Sterblichen gehen, welche ferne davon sind, ihr labiles Gleichgewicht zwischen Engel und <hi rendition="#i">petite bête</hi> ohne weiteres zu den Gegengründen des Daseins zu rechnen – die Feinsten, die Hellsten, gleich Hafis, gleich Goethe, haben darin sogar einen Reiz mehr gesehn ... Solche Widersprüche gerade verführen zum Dasein... Andrerseits versteht es sich nur zu gut, daß, wenn einmal die verunglückten Tiere der Circe dazu gebracht werden, die Keuschheit anzubeten, sie in ihr nur ihren Gegensatz sehn und <hi rendition="#i">anbeten</hi> werden – o mit was für einem tragischen Gegrunz und Eifer! man kann es sich denken –, jenen peinlichen <pb n="1051" facs="#f00018"/> und vollkommen überflüssigen Gegensatz, den Richard Wagner unbestreitbar am Ende seines Lebens noch hat in Musik setzen und auf die Bühne bringen wollen. <hi rendition="#i">Wozu doch?</hi> wie man billig fragen darf.</p>
+<lb/>
+<p rend="h4">3</p>
+<p>Dabei ist freilich jene andre Frage nicht zu umgehn, was ihn eigentlich jene männliche (ach, so unmännliche) »Einfalt vom Lande« anging, jener arme Teufel und Naturbursch Parsifal, der von ihm mit so verfänglichen Mitteln schließlich katholisch gemacht wird – wie? war dieser Parsifal überhaupt <hi rendition="#i">ernst</hi> gemeint? Denn daß man über ihn <hi rendition="#i">gelacht</hi> hat, möchte ich am wenigsten bestreiten, Gottfried Keller auch nicht... Man möchte es nämlich wünschen, daß der Wagnersche Parsifal heiter gemeint sei, gleichsam als Schlußstück und Satyrdrama, mit dem der Tragiker Wagner gerade auf eine ihm gebührende und würdige Weise von uns, auch von sich, vor allem <hi rendition="#i">von der Tragödie</hi> habe Abschied nehmen wollen, nämlich mit einem Exzeß höchster und mutwilligster Parodie auf das Tragische selbst, auf den ganzen schauerlichen Erden-Ernst und Erden-Jammer von ehedem, auf die endlich überwundene <hi rendition="#i">dümmste Form</hi> in der Winternatur des asketischen Ideals. Der Parsifal ist ja ein Operetten-Stoff <hi rendition="#i">par excellence...</hi> Ist der Parsifal Wagners sein heimliches Überlegenheits-Lachen über sich selber, der Triumph seiner letzten höchsten Künstler-Freiheit, Künstler-Jenseitigkeit – Wagner, der über sich zu <hi rendition="#i">lachen</hi> weiß?... Man möchte es, wie gesagt, wünschen: denn was würde der <hi rendition="#i">ernstgemeinte</hi> Parsifal sein? Hat man wirklich nötig, in ihm (wie man sich gegen mich ausgedrückt hat) »die Ausgeburt eines tollgewordnen Hasses auf Erkenntnis, Geist und Sinnlichkeit« zu sehn? einen Fluch auf Sinne und Geist in<hi rendition="#i"> einem</hi> Haß und Atem? eine Apostasie und Umkehr zu christlich-krankhaften und obskurantistischen Idealen? Und zuletzt gar ein Sich-selbst-Verneinen, Sich-selbst-Durchstreichen von seiten eines Künstlers, der bis dahin mit aller Macht seines Willens auf das Umgekehrte, auf höchste Vergeistigung und Versinnlichung seiner Kunst ausgewesen war? Und nicht nur seiner Kunst, auch seines Lebens? Man erinnere sich, wie begeistert seinerzeit Wagner in den Fußtapfen des Philosophen Feuerbach gegangen ist. Feuerbachs Wort von der »gesunden <pb n="1052" facs="#f00019"/> Sinnlichkeit« – das klang in den dreißiger und vierziger Jahren Wag/ ner gleich vielen Deutschen – sie nannten sich die <hi rendition="#i">jungen</hi> Deutschen – wie das Wort der Erlösung. Hat er schließlich darüber <hi rendition="#i">umgelernt</hi>? Da es zum mindesten scheint, daß er zuletzt den Willen hatte, darüber <hi rendition="#i">umzulehren?...</hi> Ist der <hi rendition="#i">Haß auf das Leben</hi> bei ihm Herr geworden, wie bei Flaubert?... Denn der Parsifal ist ein Werk der Tücke, der Rachsucht, der heimlichen Giftmischerei gegen die Voraussetzungen des Lebens, ein<hi rendition="#i"> schlechtes</hi> Werk. – Die Predigt der Keuschheit bleibt eine Aufreizung zur Widernatur: ich verachte jeder mann, der den Parsifal nicht als Attentat auf die Sittlichkeit empfindet.</p>
+<pb n="1053" facs="#f00020"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Wie ich von Wagner loskam</note>
+
+<head>Wie ich von Wagner loskam</head>
+<head>1</head>
+<p>Schon im Sommer 1876, mitten in der Zeit der ersten Festspiele, nahm ich bei mir von Wagner Abschied. Ich vertrage nichts Zweideutiges; seitdem Wagner in Deutschland war, kondeszendierte er Schritt für Schritt zu allem, was ich verachte – selbst zum Antisemitis- mus... Es war in der Tat damals die höchste Zeit, Abschied zu nehmen: alsbald schon bekam ich den Beweis dafür. Richard Wagner, scheinbar der Siegreichste, in Wahrheit ein morsch gewordener ver-zweifelnder <hi rendition="#i">décadent,</hi> sank plötzlich, hilflos und zerbrochen, vor dem christlichen Kreuze nieder... Hat denn kein Deutscher für dies schauerliche Schauspiel damals Augen im Kopfe, Mitgefühl in seinem Gewissen gehabt? War ich der einzige, der an ihm – <hi rendition="#i">litt</hi>? – Genug, mir selbst gab das unerwartete Ereignis wie ein Blitz Klarheit über den Ort, den ich verlassen hatte – und auch jenen nachträglichen Schauder, den jeder empfindet, der unbewußt durch eine ungeheure Gefahr gelaufen ist. Als ich allein weiter ging, zitterte ich; nicht lange darauf war ich krank, mehr als krank, nämlich <hi rendition="#i">müde –</hi> müde aus der unaufhaltsamen Enttäuschung über alles, was uns modernen Menschen zur Begeisterung übrigblieb, über die allerorts <hi rendition="#i">vergeudete</hi> Kraft, Arbeit, Hoffnung, Jugend, Liebe, müde aus Ekel vor der ganzen idealistischen Lügnerei und Gewissens-Verweichlichung, die hier wieder einmal den Sieg über einen der Tapfersten davongetragen hatte; müde endlich, und nicht am wenigsten, aus dem Gram eines unerbittlichen Arg- wohns – daß ich nunmehr verurteilt sei, tiefer zu mißtrauen, tiefer zu verachten, tiefer <hi rendition="#i">allein</hi> zu sein als je vorher. Denn ich hatte niemanden gehabt als Richard Wagner... Ich war immer <hi rendition="#i">verurteilt</hi> zu Deutschen...</p>
+<lb/>
+<p rend="h4">2</p>
+<p>Einsam nunmehr und schlimm mißtrauisch gegen mich, nahm ich, nicht ohne Ingrimm, damals Partei<hi rendition="#i"> gegen</hi> mich und <hi rendition="#i">für</hi> alles, was gerade <pb n="1054" facs="#f00021"/> mir wehtat und hart fiel: so fand ich den Weg zu jenem tapferen Pessimismus wieder, der der Gegensatz aller idealistischen Verlogenheit ist, und auch, wie mir scheinen will, den Weg zu <hi rendition="#i">mir</hi> – zu <hi rendition="#i">meiner</hi> Aufgabe... Jenes verborgene und herrische Etwas, für das wir lange keinen Namen haben, bis es sich endlich als unsre Aufgabe erweist – dieser Tyrann in uns nimmt eine schreckliche Wiedervergeltung für jeden Versuch, den wir machen, ihm auszuweichen oder zu entschlüpfen, für jede vorzeitige Bescheidung, für jede Gleichsetzung mit solchen, zu denen wir nicht gehören, für jede noch so achtbare Tätigkeit, falls sie uns von unsrer Hauptsache ablenkt – ja für jede Tugend selbst, welche uns gegen die Härte der eigensten Verantwortlichkeit schützen möchte. Krankheit ist jedesmal die Antwort, wenn wir an unsrem Recht auf <hi rendition="#i">unsre</hi> Aufgabe zweifeln wollen, wenn wir anfangen, es uns irgendworin leichter zu machen. Sonderbar und furchtbar zugleich! Unsre <hi rendition="#i">Erleichterungen</hi> sind es, die wir am härtesten büßen müssen! Und wollen wir hinterdrein zur Gesundheit <hi rendition="#i">zurück,</hi> so bleibt uns keine Wahl: wir müssen uns <hi rendition="#i">schwerer</hi> belasten, als wir je vorher belastet waren...</p>
+<pb n="1055" facs="#f00022"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Der Psycholog nimmt das Wort</note>
+
+<head>Der Psycholog nimmt das Wort</head>
+<head>1</head>
+<p>Je mehr ein Psycholog, ein geborner, ein unvermeidlicher Psycholog und Seelen-Errater, sich den ausgesuchteren Fällen und Menschen zukehrt, um so größer wird seine Gefahr, am Mitleiden zu ersticken. Er hat Härte und Heiterkeit <hi rendition="#i">nötig,</hi> mehr als ein andrer Mensch. Die Ver- derbnis, das Zugrundegehn der höheren Menschen ist nämlich die Regel: es ist schrecklich, eine solche Regel immer vor Augen zu haben. Die vielfache Marter des Psychologen, der dies Zugrundegehn entdeckt hat, der diese gesamte innere »Heillosigkeit« des höheren Men- schen, dies ewige »Zu spät!« in jedem Sinne erst einmal und dann <hi rendition="#i">fast</hi> immer wieder entdeckt, durch die ganze Geschichte hindurch – kann vielleicht eines Tages die Ursache davon werden, daß er selber <hi rendition="#i">verdirbt...</hi> Man wird fast bei jedem Psychologen eine verräterische Vorneigung zum Umgang mit alltäglichen und wohlgeordneten Menschen wahrnehmen: daran verrät sich, daß er immer einer Heilung bedarf, daß er eine Art Flucht und Vergessen braucht, weg von dem, was ihm seine Einblicke, Einschnitte, was ihm sein <hi rendition="#i">Handwerk</hi> aufs Gewissen gelegt hat. Die Furcht vor seinem Gedächtnis ist ihm zu eigen. Er kommt vor dem Urteile anderer leicht zum Verstummen, er hört mit einem unbewegten Gesichte zu, wie dort verehrt, bewundert, geliebt, verklärt wird, wo <hi rendition="#i">er gesehn</hi> hat –, oder er verbirgt noch sein Verstummen,indem er irgendeiner Vordergrunds-Meinung ausdrücklich zustimmt. Vielleicht geht die Paradoxie seiner Lage so weit ins Schauerliche, daß die »Gebildeten« gerade dort, wo er das <hi rendition="#i">große Mitleiden</hi> neben der <hi rendition="#i">großen Verachtung</hi> gelernt hat, ihrerseits die große Verehrung lernen... Und wer weiß, ob sich nicht in allen großen Fällen eben nur dies begab – daß man einen Gott anbetete und daß der Gott nur ein armes Opfertier war... Der<hi rendition="#i"> Erfolg war</hi> immer der größte Lügner – und auch das<hi rendition="#i"> Werk,</hi> die <hi rendition="#i">Tat</hi> ist ein Erfolg... Der große Staatsmann, der Eroberer, der Entdecker ist in seine Schöpfungen verkleidet, versteckt, bis ins Unerkennbare; das Werk, das des Künstlers, des Philosophen, erfindet <pb n="1056" facs="#f00023"/> erst den, welcher es geschaffen hat, geschaffen haben <hi rendition="#i">soll...</hi> Die »großen Männer«, wie sie verehrt werden, sind kleine schlechte Dichtungen hinterdrein – in der Welt der historischen Werte <hi rendition="#i">herrscht</hi> die Falschmünzerei...</p>
+<lb/>
+
+
+<p rend="h4">2</p>
+<p>– Diese großen Dichter zum Beispiel, diese Byron, Musset, Poe, Leopardi, Kleist, Gogol – ich wage es nicht, viel größere Namen zu nennen, aber ich meine sie –, so wie sie nun einmal sind, sein müssen: Menschen des Augenblicks, sinnlich, absurd, fünffach, im Mißtrauen und Vortrauen leichtfertig und plötzlich; mit Seelen, an denen gewöhnlich irgendein Bruch verhehlt werden soll; oft mit ihren Werken Rache nehmend für eine innere Besudelung, oft mit ihren Aufflügen Vergessenheit suchend vor einem allzutreuen Gedächtnis, Idealisten aus der Nähe des <hi rendition="#i">Sumpfes –</hi> welche Marter sind diese großen Künstler und überhaupt die sogenannten höheren Menschen für den, der sie erst erraten hat!... Wir sind alle Fürsprecher des Mittelmäßigen... Es ist begreiflich, daß <hi rendition="#i">sie</hi> gerade vom Weibe, das hellseherisch ist in der Welt des Leidens und leider auch weit über seine Kräfte hinaus hilf- und rettungssüchtig, so leicht jene Ausbrüche von unbegrenztem Mitleide erfahren, welche die Menge, vor allem die <hi rendition="#i">verehrende</hi> Menge mit neugierigen und selbstgefälligen Deutungen überhäuft... Dies Mitleiden täuscht sich regelmäßig über seine Kraft: das Weib möchte glauben, daß Liebe <hi rendition="#i">alles</hi> vermöge – es ist sein eigentlicher <hi rendition="#i">Aberglaube.</hi> Ach, der Wissende des Herzens errät, wie arm, hilflos, anmaßlich, fehlgreifend auch die beste tiefste Liebe ist – wie sie eher noch <hi rendition="#i">zerstört</hi> als rettet...</p>
+<lb/>
+<p rend="h4">3</p>
+<p>– Der geistige Ekel und Hochmut jedes Menschen, der tief gelitten hat – es bestimmt beinahe die Rangordnung, wie tief einer leiden kann –, seine schaudernde Gewißheit, von der er ganz durchtränkt und gefärbt ist, vermöge seines Leidens <hi rendition="#i">mehr zu wissen,</hi> als die Klügsten und Weisesten wissen könnten, in vielen fernen entsetzlichen Welten bekannt und einmal zuhause gewesen zu sein, von denen <hi rendition="#i">»ihr</hi> nicht wißt«..., dieser geistige schweigende Hochmut, dieser Stolz des Auserwählten <pb n="1057" facs="#f00024"/> der Erkenntnis, des »Eingeweihten«, des beinahe Geopferten findet alle Arten von Verkleidung nötig, um sich vor der Berührung mit zudringlichen und mitleidigen Händen und überhaupt vor allem, was nicht seinesgleichen im Schmerz ist, zu schützen. Das tiefe Leiden macht vornehm; es trennt. – Eine der feinsten Verkleidungs-Formen ist der Epikureismus und eine gewisse fürderhin zur Schau getragne Tapferkeit des Geschmacks, welche das Leiden leichtfertig nimmt und sich gegen alles Traurige und Tiefe zur Wehr setzt. Es gibt »heitere Menschen«, welche sich der Heiterkeit bedienen, weil sie um ihret-willen mißverstanden werden – sie <hi rendition="#i">wollen</hi> nußverstanden sein. Es gibt »wissenschaftliche Geister«, welche sich der Wissenschaft bedienen, weil dieselbe einen heiteren Anschein gibt und weil Wissenschaftlichkeit darauf schließen läßt, daß der Mensch oberflächlich ist – sie <hi rendition="#i">wollen</hi> zu einem falschen Schlusse verführen... Es gibt freie freche Geister, welche verbergen und verleugnen möchten, daß sie im Grunde zerbrochne unheilbare Herzen sind – es ist der Fall Hamlets: und dann kann die Narrheit selbst die Maske für ein unseliges <hi rendition="#i">allzugewisses</hi> Wissen sein. –</p>
+<pb n="1058" facs="#f00025"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Epilog</note>
+
+<head>Epilog</head>
+<head>1</head>
+<p>Ich habe mich oft gefragt, ob ich den schwersten Jahren meines Lebens nicht tiefer verplichtet bin als irgendwelchen anderen. So wie meine innerste Natur es mich lehrt, ist alles Notwendige, aus der Höhe gesehn und im Sinne einer <hi rendition="#i">großen</hi> Ökonomie, auch das Nützliche an sich – man soll es nicht nur tragen, man soll es <hi rendition="#i">lieben... Amor fati:</hi> das ist meine innerste Natur. – Und was mein langes Siechtum angeht, verdanke ich ihm nicht unsäglich viel mehr als meiner Gesundheit? Ich verdanke ihm eine <hi rendition="#i">höhere</hi> Gesundheit, eine solche, welche stärker wird von allem, was sie nicht umbringt! – <hi rendition="#i">Ich verdanke ihm auch meine Philosophie...</hi> Erst der große Schmerz ist der letzte Befreier des Geistes, als der Lehrmeister des <hi rendition="#i">großen Verdachts,</hi> der aus jedem U ein X macht, ein echtes rechtes X, das heißt den <hi rendition="#i">vorletzten</hi> Buchstaben vor dem letzten... Erst der große Schmerz, jener lange langsame Schmerz, in dem wir gleichsam wie mit grünem Holze verbrannt werden, der sich Zeit nimmt –, zwingt uns Philosophen in unsere letzte Tiefe zu steigen und alles Vertrauen, alles Gutmütige, Verschleiernde, Milde, Mittlere, wohin wir vielleicht vordem unsre Menschlichkeit gesetzt haben, von uns zu tun. Ich zweifle, ob ein solcher Schmerz »verbessert«: aber ich weiß, daß er uns <hi rendition="#i">vertieft...</hi> Sei es nun, daß wir ihm unsern Stolz, unsern Hohn, unsre Willenskraft entgegenstellen lernen, und es dem Indianer gleichtun, der, wie schlimm auch gepeinigt, sich an seinem Peiniger durch die Bosheit seiner Zunge schadlos hält; sei es, daß wir uns vor dem Schmerz in jenes Nichts zurückziehn, in das stumme, starre, taube Sich-Ergeben, Sich-Vergessen, Sich-Auslöschen: man kommt aus solchen langen, gefährlichen Übungen der Herrschaft über sich als ein andrer Mensch heraus, mit einigen Fragezeichen <hi rendition="#i">mehr</hi>– vor allem mit dem Willen, fürderhin mehr, tiefer, strenger, härter, böser, stiller zu fragen, als je bisher auf Erden gefragt worden ist... Das Vertrauen zum Leben ist dahin, das Leben selber wurde ein <hi rendition="#i">Problem.</hi> – Möge man ja nicht glauben, daß einer damit notwendig zum Düsterling, <pb n="1059" facs="#f00026"/> zur Schleiereule geworden sei! Selbst die Liebe zum Leben ist noch möglich – nur liebt man<hi rendition="#i"> anders...</hi> Es ist die Liebe zu einem Weibe, das uns Zweifel macht...</p>
+<lb/>
+
+
+<p rend="h4">2</p>
+<p>Am seltsamsten ist eins: man hat hinterdrein einen andren Geschmack – einen <hi rendition="#i">zweiten</hi> Geschmack. Aus solchen Abgründen, auch aus dem Abgrunde des <hi rendition="#i">großen Verdachts</hi> kommt man neugeboren zurück, gehäutet, kitzlicher, boshafter, mit einem feineren Geschmack für die Freude, mit einer zarteren Zunge für alle guten Dinge, mit lustigeren Sinnen, mit einer zweiten gefährlicheren Unschuld in der Freude, kindlicher zugleich und hundertmal raffinierter, als man je vordem gewesen war.</p>
+<p rendition="#et">O wie einem nunmehr der Genuß zuwider ist, der grobe, dumpfe, braune Genuß, wie ihn sonst die Genießenden, unsre »Gebildeten«, unsre Reichen und Regierenden verstehn! Wie boshaft wir nunmehr dem großen Jahrmarkts-Bumbum zuhören, mit dem sich der »gebil- dete« Mensch und Großstädter heute durch Kunst, Buch und Musik zu »geistigen Genüssen«, unter Mithilfe geistiger Getränke, notzüch- tigen läßt! Wie uns jetzt der Theaterschrei der Leidenschaft in den Ohren wehtut, wie unserm Geschmacke der ganze romantische Aufrühr und Sinnen-Wirrwarr, den der gebildete Pöbel liebt, samt seinen Aspirationen nach dem Erhabenen, Gehobenen, Verschrobenen fremd geworden ist! Nein, wenn wir Genesenen eine Kunst noch brauchen, so ist es eine <hi rendition="#i">andre</hi> Kunst – eine spöttische, leichte, flüchtige, göttlich unbehelligte, göttlich künstliche Kunst, welche wie eine reine Flamme in einen unbewölkten Himmel hineinlodert! Vor allem: eine Kunst für Künstler, <hi rendition="#i">nur für Künstler!</hi> Wir verstehn uns hinterdrein besser auf das, was dazu zuerst not tut, die Heiterkeit, <hi rendition="#i">jede</hi> Heiterkeit, meine Freunde!... Wir wissen einiges jetzt zu gut, wir Wissenden: o wie wir nunmehr lernen, gut zu vergessen, gut <hi rendition="#i">nicht</hi>-zu-wissen, als Künstler!... Und was unsre Zukunft betrifft: man wird uns schwerlich wieder auf den Pfaden jener ägyptischen Jünglinge finden, welche nachts Tempel unsicher machen, Bildsäulen umarmen und durchaus alles, was mit guten Gründen versteckt gehalten wird, entschleiern, aufdecken, in<pb n="1060" facs="#f00027"/> helles Licht stellen wollen. Nein, dieser schlechte Geschmack, dieser Wille zur Wahrheit, zur »Wahrheit um jeden Preis«, dieser Jünglings-Wahnsinn in der Liebe zur Wahrheit – ist uns verleidet: dazu sind wir zu erfahren, zu ernst, zu lustig, zu gebrannt, zu <hi rendition="#i">tief...</hi> Wir glauben nicht mehr daran, daß Wahrheit noch Wahrheit bleibt, wenn man ihr die <hi rendition="#i">Schleier</hi> abzieht – wir haben genug gelebt, um dies zu glauben... Heute gilt es uns als eine Sache der Schicklichkeit, daß man nicht alles nackt sehn, nicht bei allem dabei sein, nicht alles verstehn und »wissen« wolle. <hi rendition="#i">Tout comprendre – c'est tout mepriser...</hi> »Ist es wahr, daß der liebe Gott überall zugegen ist?« fragte ein kleines Mädchen seine Mutter: »aber ich finde das unanständig« – ein Wink für Philosophen!... Man sollte die<hi rendition="#i"> Scham</hi> besser in Ehren halten, mit der sich die Natur hinter Rätsel und bunte Ungewißheiten versteckt hat. Vielleicht ist die Wahrheit ein Weib, das Gründe hat,<hi rendition="#i"> ihre Gründe nicht sehn zu lassen?...</hi> Vielleicht ist ihr Name, griechisch zu reden, <hi rendition="#i">Baubo</hi>?... O diese Griechen! sie verstanden sich darauf, zu <hi rendition="#i">leben</hi>! Dazu tut not, tapfer bei der Oberfläche, der Falte, der Haut stehnzubleiben, den Schein anzubeten, an Formen, an Töne, an Worte, an den ganzen <hi rendition="#i">Olymp des Scheins</hi> zu glauben! Diese Griechen waren oberflächlich – <hi rendition="#i">aus Tiefe...</hi> Und kommen wir nicht eben darauf zurück, wir Wagehalse des Geistes, die wir die höchste und gefährlichste Spitze des gegenwärtigen Gedankens erklettert und von da aus uns umgesehn haben, die wir von da aus <hi rendition="#i">hinabgesehn</hi> haben? Sind wir nicht eben darin- Griechen? Anbeter der Formen, der Töne, der Worte? Eben darum – <hi rendition="#i">Künstler</hi>? –</p>
+<pb n="1061" facs="#f00028"/> 
+
+</div>
+
+</body></text></TEI>

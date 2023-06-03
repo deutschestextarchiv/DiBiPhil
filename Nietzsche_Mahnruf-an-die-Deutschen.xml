@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in drei Bänden</title>
+        <title type="volume">Band 3</title>
+        <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Friedrich Nietzsche: Werke in drei Bänden. Band 3, Herausgegeben von Karl
+      Schlechta. München: Hanser, 1954.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in drei Bänden</title>
+      <title level="m" type="volume" n="3">Band 3</title>
+      <author><persName ref="http://d-nb.info/gnd/87943">
+        <forename>Friedrich</forename>
+        <surname>Nietzsche</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+        <forename>Karl</forename>
+        <surname>Schlechta</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Hanser</name>
+      </publisher><pubPlace>München</pubPlace>
+      <date type="publication">1956</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1873.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Mahnruf an die Deutschen</note>
+
+<head>Friedrich Nietzsche</head>
+<head>Mahnruf an die Deutschen</head>
+<pb n="302" facs="#f0001"/>
+<p>Wir wollen gehört werden, denn wir reden als Warner, und immer ist die Stimme des Warners, wer es auch sei und wo sie auch immer erklinge, in ihrem Rechte; dafür habt ihr, die angeredet werden, das Recht, euch zu entscheiden, ob ihr eure Warner als ehrliche und einsichtige Männer nehmen wollt, die nur laut werden, weil ihr in Gefahr seid, und die erschrecken, euch so stumm, gleichgültig und ahnungslos zu finden. Dies aber dürfen wir von uns selbst bezeugen, daß wir aus reinem Herzen reden und nur soweit dabei das Unsere wollen und suchen, als es auch das Eure ist – nämlich die Wohlfahrt und die Ehre des deutschen Geistes und des deutschen Namens.</p>
+<p rendition="#et">Es ist euch gemeldet worden, welches Fest im Mai des vorigen Jahres zu Bayreuth gefeiert wurde: einen gewaltigen Grundstein galt es dort zu legen, unter dem wir viele Befürchtungen auf immer begraben, durch den wir unsere edelsten Hoffnungen endgültig besiegelt glaubten – oder vielmehr, wie wir heute sagen müssen, besiegelt wähnten. Denn ach! Es war viel Wahn dabei: jetzt noch leben jene Befürchtungen; und wenn wir auch keineswegs verlernt haben zu hoffen, so gibt doch unser heutiger Hilf- und Mahnruf zu verstehen, daß wir mehr fürchten als hoffen. Unsre Furcht aber richtet sich gegen euch: ihr möchtet gar nicht wissen, was geschieht, und vielleicht gar aus Unwissenheit verhindern, daß etwas geschieht. Zwar ziemt es sich längst nicht mehr, so unwissend zu sein; ja fast scheint es unmöglich, daß jemand es jetzt noch ist, nachdem der große, tapfere, unbeugsame und unaufhaltsame Kämpfer <hi rendition="#i">Richard Wagner</hi> schon jahrzehntelang unter dem gespannten Aufmerken fast aller Nationen für jene Gedanken einsteht, denen er in seinem Bayreuther Kunstwerk die letzte und höchste Form und eine wahrhaft siegreiche Vollendung gegeben hat. Wenn ihr ihn jetzt noch hindern würdet, den Schatz auch nur zu heben, den er willens ist euch zu schenken: was meint ihr wohl damit <pb n="303" facs="#f0002"/> für euch erreicht zu haben? Eben dies muß euch noch einmal und immer wieder öffentlich und eindringlich vorgehalten werden, damit ihr wisset, was an der Zeit sei, und damit auch nicht einmal das mehr in eurem Belieben steht, die Unwissenden zu spielen. Denn von jetzt ab wird das Ausland Zeuge und Richter im Schauspiele sein, das ihr gebt; und in seinem Spiegel werdet ihr ungefähr euer eigenes Bild wiederfinden können, so wie es die gerechte Nachwelt einmal von euch malen wird.</p>
+<p rendition="#et">Gesetzt, es gelänge euch, durch Unwissenheit, Mißtrauen, Sekretieren, Bespötteln, Verleumden den Bau auf dem Hügel von Bayreuth zur zwecklosen Ruine zu machen; gesetzt, ihr ließet es in unduldsamem Mißwollen nicht einmal zu, daß das vollendete Werk Wirklichkeit werde, Wirkung tue und für sich selber zeuge, so habt ihr euch vor dem Urteile jener Nachwelt ebenso zu fürchten als vor den Augen der außerdeutschen Mitwelt zu schämen. Wenn ein Mann in Frankreich oder in England oder in Italien, nachdem er allen öffentlichen Mächten und Meinungen zum Trotz den Theatern fünf Werke eines eigentümlich großen und mächtigen Stiles geschenkt hätte, die von Norden bis zum Süden unablässig verlangt und bejubelt werden – wenn ein solcher Mann ausriefe: »Die bestehenden Theater entsprechen nicht dem Geiste der Nation, sie sind als öffentliche Kunst eine Schande! Helft mir, dem nationalen Geiste eine Stätte zu bereiten!«, würde ihm nicht alles zu Hilfe kommen, und sei es auch nur – aus Ehrgefühl? Und wahrlich! Hier täte nicht nur Ehrgefühl, nicht nur die blinde Furcht vor der schlechten Nachrede not; hier könntet ihr mitfühlen, mitlernen, mitwissen, hier könntet ihr euch aus tiefstem Herzen mitfreuen, indem ihr euch entschlösset, mitzuhelfen. Alle eure Wissenschaften werden von euch freigebig mit kostspieligen Versuchs-Werkstätten ausgerüstet: und ihr wollt untätig beiseite stehen, wenn dem wagenden und versuchenden Geist der deutschen Kunst eine solche Werkstatt aufgebaut werden soll? Könnt ihr irgendeinen Moment aus der Geschichte unserer Kunst nennen, in dem wichtigere Probleme zur Lösung hingestellt und reicherer Anlaß zu fruchtbaren Erfahrungen geboten wurde als jetzt, wo der von Richard Wagner mit dem Namen »Kunstwerk der Zukunft« bezeichnete Gedanke leibhafte und sichtbare Gegenwart werden soll? Was für eine Bewegung der Gedanken, <pb n="304" facs="#f0003"/> Handlungen, Hoffnungen und Begabungen damit eingeleitet wird, daß vor den Augen mitwissender Vertreter des deutschen Volkes der viergetürmte Nibelungen-Riesenbau nach dem allein von seinem Schöpfer zu erlernenden Rhythmus sich aus dem Boden hebt, welche Bewegung in die fernste, fruchtbringendste, hoffnungsreichste Weite hinaus – wer möchte kühn genug sein, hier auch nur ahnen zu wollen! Und jedenfalls würde es nicht an dem Urheber der Bewegung liegen, wenn die Welle bald wieder zurücksinken und die Fläche wieder glatt werden sollte, als ob nichts geschehen sei. Denn wenn es unsere erste Sorge sein muß, daß das Werk überhaupt getan werde, so drückt uns doch als zweite Sorge nicht minder schwer der Zweifel, wir möchten nicht reif, vorbereitet und empfänglich genug befunden werden, um die jedenfalls ungeheure allernächste Wirkung in die Tiefe und in die Weite zu leiten.</p>
+<p rendition="#et">Wir glauben, bemerkt zu haben, daß überall, wo man an Richard Wagner Anstoß genommen hat und zu nehmen pflegt, ein großes und fruchtbares Problem unserer Kultur verborgen liegt; aber wenn man daraus immer nur einen Anstoß zum dünkelhaften Bekritteln und Bespötteln genommen hat und nur so selten einen Anstoß zum Nachdenken, so gibt dies uns bisweilen den beschämenden Argwohn ein, ob vielleicht das berühmte »Volk der Denker« bereits zu Ende gedacht und etwa den Dünkel gegen den Gedanken eingetauscht habe. Welchen mißverständlichen Einreden hat man zu begegnen, nur um zu verhüten, daß das Bayreuther Ereignis vom Mai 1872 nicht mit der Gründung eines neuen Theaters verwechselt wird, um andererseits zu erklären, warum dem Sinne jener Unternehmung kein bestehendes Theater entsprechen kann: welche Mühe kostet es, die absichtlich oder unabsichtlich Blinden darüber hellsehend zu machen, daß bei dem Worte »Bayreuth« nicht nur eine Anzahl Menschen, etwa eine Partei mit spezifischen Musikgelüsten, sondern die Nation in Betracht komme, ja daß selbst über die Grenzen der deutschen Nation hinaus alle diejenigen zu ernster und tätiger Beteiligung angerufen sind, denen die Veredlung und Reinigung der dramatischen Kunst am Herzen liegt und die Schillers wunderbare Ahnung verstanden haben, daß vielleicht einmal aus der Oper sich das Trauerspiel in einer edleren Gestalt entwickeln werde. Wer nur immer noch nicht verlernt hat, <pb n="305" facs="#f0004"/> nachzudenken – und sei es wiederum auch nur aus Ehrgefühl –, der muß eine künstlerische Unternehmung als <hi rendition="#i">sittlich</hi> denkwürdiges Phänomen empfinden und begünstigen, die in diesem Grade von dem opferbereiten und uneigennützigen Willen aller Beteiligten getragen wird und dem ernst ausgesprochenen Bekenntnis derselben geweiht ist, daß sie von der Kunst hoch und würdig denken und zumal von der deutschen Musik und ihrer verklärenden Einwirkung auf das volkstümliche Drama die wichtigste Förderung eines originalen deutsch ausgeprägten Lebens erhoffen. Glauben wir doch sogar noch ein Höheres und Allgemeineres: ehrwürdig und heilbringend wird der Deutsche erst dann den anderen Nationen erscheinen, wenn er gezeigt hat, daß er furchtbar ist und es doch <hi rendition="#i">durch Anspannung seiner höchsten und edelsten Kunst- und Kulturkräfte vergessen machen will, daß er furchtbar war.</hi></p>
+<p rendition="#et">An diese unsere deutsche Aufgabe in diesem Augenblick zu mahnen hielten wir für unsere Pflicht, gerade jetzt, wo wir auffordern müssen, mit allen Kräften eine große Kunsttat des deutschen Genius zu unterstützen. Wo nur immer Herde ernsten Nachsinnens sich in unserer aufgeregten Zeit erhalten haben, erwarten wir einen freudigen und sympathischen Zuruf zu hören, insbesondere werden die deutschen Universitäten, Akademien und Kunstschulen nicht umsonst aufgerufen sein, sich der geforderten Unterstützung gemäß, einzeln oder zusammen, zu erklären: wie ebenfalls die politischen Vertreter deutscher Wohlfahrt in Reichs- und Landtagen einen wichtigen Anlaß haben, zu bedenken, daß das Volk jetzt mehr wie je der Reinigung und der Weihung durch die erhabenen Zauber und Schrecken echter deutscher Kunst bedürfe, wenn nicht die gewaltig erregten Triebe politischer und nationaler Leidenschaft und die der Physiognomie unseres Lebens aufgeschriebenen Züge der Jagd nach Glück und Genuß unsere Nachkommen zu dem Geständnisse nötigen sollen, daß wir Deutsche uns selbst zu verlieren anfingen, als wir uns endlich wiedergefunden hatten.</p>
+<lb/>
+<p>Hier, geliebter Meister, ist mein Entwurf. Eigentlich war es mein Wunsch, Ihnen denselben recht pathetisch vorlesen zu können; aber <pb n="306" facs="#f0005"/> es scheint nur heute besser, daß er möglichst bald in Ihre Hände kommt. Entspricht er ungefähr seinem Zweck (die Bösen zu erzürnen und die Guten <hi rendition="#i">durch diesen Zorn</hi> zu sammeln und anzufeuern), so läge mir viel an der schnellen Anfertigung einer französischen, italienischen und auch wohl englischen Übersetzung, aus ersichtlichen Gründen. Zur <hi rendition="#i">Unterschrift</hi> geeignet scheint mir weniger ein Patronats-Ausschuß als vielmehr eine <hi rendition="#i">von uns auszuwählende</hi> kleinere Schar von Männern aus den verschiedensten Klassen und Ständen (Adel, Beamte, Politiker, Priester, Gelehrte, Geschäftsleute, Künstler). An jeden der Ausgewählten wäre ein Exemplar dieses Aufrufs zu versenden mit der Anfrage, ob er seine Unterschrift hergeben wolle. Ich bringe genug Exemplare mit, um dies zu ermöglichen. Sobald die Antworten zurückgekommen sind, ist dann der definitive Druck so schnell wie möglich vorzunehmen. Ein kurzer geschäftlich-praktischer Nachsatz müßte dem Aufruf unterhalb des Striches und der Namen beigefügt werden, wie dies alles am Freitag zu besprechen ist. Ich komme Donnerstag nachmittag.</p>
+<lb/>
+<p rendition="#right">In Treue und Liebe Ihr F. N.</p>
+
+</body></text></TEI>

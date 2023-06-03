@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in fünf Bänden</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/54727">
+        <forename>Wilhelm</forename>
+        <nameLink>von</nameLink>
+        <surname>Humboldt</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Wilhelm von Humboldt: Werke in fünf Bänden. Herausgegeben von Andreas
+      Flitner und Klaus Giel, Darmstadt: Wissenschaftliche Buchgemeinschaft, 1963.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in fünf Bänden</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/54727">
+        <forename>Wilhelm</forename>
+        <nameLink>von</nameLink>
+        <surname>Humboldt</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/16172">
+        <forename>Andreas</forename>
+        <surname>Flitner</surname>
+      </persName>
+      </editor><editor><persName ref="http://d-nb.info/gnd/40555">
+        <forename>Klaus</forename>
+        <surname>Giel</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Wissenschaftliche Buchgesellschaft</name>
+      </publisher><pubPlace>Darmstadt</pubPlace>
+      <date type="publication">1963</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden vermutlich 1807. Erstdruck in: Gesammelte Schriften, Band 7, Berlin 1907.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Ueber den Charakter der Griechen, die idealische und historische Ansicht desselben</note>
+
+
+<head>Wilhelm von Humboldt</head>
+<head>Ueber den Charakter der Griechen, die idealische und historische Ansicht desselben</head>
+<pb n="65" facs="#f0001"/>
+<p rendition="#et">I. Die Griechen sind uns nicht bloss ein nützlich historisch zu kennendes Volk, sondern ein Ideal.</p>
+<p rendition="#et">Ihre Vorzüge über uns sind von der Art, dass gerade ihre Unerreichbarkeit es für uns zweckmässig macht, ihre Werke nachzubilden, und wohlthätig, in unser durch unsre dumpfe und engherzige Lage gepresstes Gemüth ihre freie und schöne zurückzurufen.</p>
+<p rendition="#et">Sie setzen uns in jeder Rücksicht in unsre eigenthümliche, verlorene (wenn man verlieren kann, was man nie hatte, aber wozu man von Natur berechtigt war) Freiheit wieder ein, indem sie augenblicklich den Druck der Zeit aufheben und durch Begeisterung die Kraft stärken, die in uns gemacht ist, ihn selbstthätig zu überwinden.</p>
+<p rendition="#et">Sie sind für uns, was ihre Götter für sie waren; Fleisch von unserm Fleisch und Bein von unserm Bein; alles Unglück und alle Unebenheiten des Lebens; aber ein Sinn, der alles in Spiel verwandelt, und doch nur die Härten des Irrdischen wegwischt, aber den Ernst der Idee bewahrt.</p>
+<p rendition="#et">II. Dies ist keine zufällige, sondern eine nothwendige Ansicht. Nichts Modernes kann je etwas Antikem an die Seite gestellt werden. Denn der, dem Modernen nothwendig mangelnde Hauch des Alterthums ist der, nicht dem einzelnen Verfasser irgend eines Werks, sondern der ganzen Nation und dem ganzen Zeitalter eigenthümliche Geist.</p>
+<p rendition="#et">Dieser Geist unterscheidet sich von dem modernen, wie die Wirklichkeit von einem idealischen Gebilde irgend einer Art. Dieses nemlich ist reiner und voller Ausdruck von etwas Geistigem, veranlasst, sich in jedes seiner Theile immer tiefer zu versenken, und führt auf Ideeneinheit, da die Wirklichkeit <pb n="65" facs="#f0002"/> hingegen das Geistige nur andeutet, wo sie gut ist, selbst anreizt, sie theilweise in Gedanken zu vernichten, und keine Art der Einheit, als dieses Gefühls, hervorbringt.</p>
+<p rendition="#et">Was das Antike unterscheidet, ist daher nicht bloss Eigenthümlichkeit, sondern wahrer und allgemeingeltender Vorzug.</p>
+<p rendition="#et">Das Gefühl für das Alterthum ist also der Prüfstein der modernen Nationen, die schon auf Irrwegen sind, wenn sie Römer und Griechen gleich, oder gar im umgekehrten Verhältniss schätzen. Insofern antik idealisch heisst nehmen die Römer nur insofern daran Theil, als es unmöglich ist, sie von den Griechen zu sondern.</p>
+<p rendition="#et">III. Der eigenthümliche Vorzug der Griechen ist, die Aufgabe, als Nation das höchste Leben darzustellen, auf der schmalen Grenzlinie aufgefasst zu haben, unter welcher die Lösung minder gelungen, und über welcher sie minder möglich gewesen seyn würde.</p>
+<p rendition="#et">Das sie Unterscheidende liegt also ganz und gar in der Darstellung, und kommt darin nur um so mehr mit einem Ideal überein, als auch der Begriff eines Ideals es immer mit sich bringt, dass die Idee sich der Möglichkeit ihres Erscheinens unterwerfe.</p>
+<p rendition="#et">Das Vorherrschende im Griechischen Geist ist daher Freude an Gleichgewicht und Ebenmass; auch das Edelste und Erhabenste nur da aufnehmen zu wollen, wo es mit einem Ganzen zusammenstimmt.</p>
+<p rendition="#et">Das Leben kann wie eine Kunst, und der im Leben dargestellte Charakter wie ein Kunstwerk betrachtet werden. Wie nun in diesem nur das Genie den untheilbaren Punkt auffindet, in dem sich, nach gewaltigem Ringen, das Unsichtbare mit dem Sichtbaren zur Darstellung vermählt, so thut auch im Leben dies nur das Genie, und zwar das höchste von allen Genien, das eines ganzen, lebendig zusammenwirkenden Volkes.</p>
+<p rendition="#et">IV. Um zu begreifen, wie eine ganze Nation sich einen nur durch Genialität erklärbaren Charakter geben könne, muss man einige Schritte zurück zur Betrachtung der Individualität thun.</p>
+<p rendition="#et"><pb n="66" facs="#f0003"/> Die Induvidualität eines Menschen ist Eins mit seinem Triebe. Das ganze Universum besteht nur durch den Trieb, und es lebt und ist nichts, als indem und solange es mit Fortgang zu leben und zu seyn ringt. Da der Trieb nicht anders als bestimmt seyn kann, so wird es auch durch ihn die Form des Lebens, und alle Verschiedenheit der Existenz beruht nur auf der Verschiedenheit des Lebenstriebes selbst, oder seiner Möglichkeit sich durch den Widerstand, den er findet, durchzuarbeiten.</p>
+<p rendition="#et">Dieser Trieb ist derselbe in der Körper und in der Geisterwelt, da er auf der einen Seite in der Organisation Gestalten schaft, die nur durch den Gedanken hervorgebracht, und auf der andern z.B. in der Kunst und Sprache solche, durch welche sonst nicht auszudrückende Gedanken gegeben scheinen. Er kann daher ebensowohl dienen, das Höchste in der geistigen, als das Einfachste in der körperlichen Natur zu erklären.</p>
+<p rendition="#et">Was nun dem Charakter der Griechen das Daseyn gab, war dass in ihnen der Trieb, rein und voll Menschen zu seyn, sich durchaus herrschend zu machen verstand.</p>
+<p rendition="#et">Was also wunderbarer Weise nur Werk des Genies seyn zu können schien, entstand aus blossem Hingeben an die Natur, wie überhaupt immer im Menschen das am feinsten Ausgebildete sich unmittelbar an das Ursprüngliche anschliesst, von dem es gleichsam nur deutlichere Umschreibung oder Uebersetzung ist.</p>
+<p rendition="#et">V. Dass der Trieb sich in der geistigen Natur des Menschen geltend mache, und ihm darin, über seinen Gattungscharakter, eine eigene bestimmte Form gebe, das kann nur durch Acte der Freiheit, d.h. solche, wel che ausschliesslich aus der Persönlichkeit entspringen, geschehn.</p>
+<p rendition="#et">Zwar kann die Freiheit weder den Trieb, noch, welches einerlei ist, den Charakter umändern; aber sie muss ihn wecken, und sogar die Richtung, die er nothwendig und unveränderlich durch sich selbst hat, willkührlich zu bestimmen scheinen; oder mit andern Worten, die Quelle der Willensbestimmungen muss in dem Gebiete liegen, in welchem beide, Nothwendigkeit und Freiheit, in einer höheren Idee untergehen.</p>
+<p rendition="#et"><pb n="67" facs="#f0004"/> Alsdann nennt man mit einem nur Deutschen verständlichen Wort den Trieb: Sehnsucht, und der Mensch hat daher nur insofern einen bestimmten Charakter als er eine bestimmte Sehnsucht hat, und da diese nur durch Kraft denkbar ist, nur soviel Charakter, als er moralische Energie besitzt.</p>
+<p rendition="#et">Das zweite Hervorstechende in den Griechen ist also die Tiefe mit der die Sehnsucht, welche sie athmen, auf die ihr entsprechenden Gegenstände gerichtet ist, und die leichte Lebendigkeit, mit der sie sich darstellt, und statt unbefriedigt fort zu schmachten, sich immer neu und immer schöner wiedererzeugt; mithin die Fülle, Reinheit und Stärke ihres geistigen Lebens.</p>
+<p rendition="#et">VI. Von solcher (IV.) Sehnsucht (V.) beseelt, konnte das Streben der Griechen nur auf Darstellung des höchsten Lebens (III.), d.i. des menschlichsten Daseyns, gehen.</p>
+<p rendition="#et">Das Grundbestreben des Menschen ist auf unbegränzte Erweiterung der vereinten Energie seiner Empfänglichkeit und Selbstthätigkeit, und da er zugleich das Sichtbare und Unsichtbare umschliesst, auf die Schlichtung ihres Widerstreits ohne Vernichtung des einen oder des andern, und indess dies erreicht werden kann, auf ihre Scheinvereinigung in einem Symbol, d.h. in einer Gestalt gerichtet, in welcher das Allgemeine, als Besondres auftritt, und das Besondre sich zum Allgemeinen erweitert.</p>
+<p rendition="#et">Diesem Bestreben ergab sich nun der Grieche reiner und ausschliesslicher, als eine andre Nation, und hieraus entsteht ein dritter, vierter und fünfter Hauptzug seines Charakters.</p>
+<p rendition="#et">Er suchte immer das Nothwendige und die Idee, mit Hinwegwerfung der zahllosen Zufälligkeiten des Wirklichen.</p>
+<p rendition="#et">Seine hauptsächlichste Energie war die Kunst, das Gebiet der Symbole.</p>
+<p rendition="#et">Wenn deshalb die Einbildungskraft das herrschende Vermögen seiner Seele wurde, so war es nur die ächte, und schöpferische, die keiner andern Kraft vorgreift, und nie ihr Gebiet verkennt; er besass daher gleichviel Fähigkeit <pb n="68" facs="#f0005"/> zur reinen Speculation, und gleichviel praktische Weisheit. Er war natürlich und idealisch, niemals chimärisch und phantastisch.</p>
+<p rendition="#et">VII. Das Gefühl der Menschlichkeit war so tief in den Griechen, dass sie tief empfanden, wie wenig in dasselbe die Nothwendigkeit augenblicklicher Dauer verwebt ist. Auf der schmalen Gränze zwischen Leben und Tod wollten sie daher nur Leben und volles Leben.</p>
+<p rendition="#et">Verachtung todter Formen war also ein sechster Hauptzug ihres Charakters; sie setzten immer nur gern wirkliche, nicht conventionelle Kräfte in Bewegung.</p>
+<p rendition="#et">VIII. Dieser ganze Charakter aber erhielt erst volle Klarheit, Bestimmtheit und Mannigfaltigkeit durch das, was den siebenten Hauptzug der Griechen ausmachte, dass nemlich die Freuden der Geselligkeit jeden andern Genuss für sie übertrafen, dass alle ihre Einrichtungen durch die Neigung gebildet schienen, ihre Persönlichkeit in wechselseitige Reibung zu bringen, und dass sie eine sichtbare Richtung hatten, alles volksmässig zu machen, so wie denn auch in der That selbst feine Charakterzüge in ihnen sich im ganzen Volke darstellten.</p>
+<p rendition="#et">Sogar die Familien machten bei den Griechen weniger abgesonderte Massen, als bei den Römern, und ihre Bande waren weniger trennend für die allgemeine Nationalgemeinschaft.</p>
+<p rendition="#et">IX. Durch alle diese Züge wurde der Charakter der Griechen insofern das Ideal alles Menschendaseyns, dass man behaupten kann, dass sie die reine Form der menschlichen Bestimmung unverbesserlich vorzeichneten, wenn auch die Ausfüllung dieser Form hätte hernach auf andre Weise geschehen können.</p>
+<p rendition="#et">Denn wie im Vorigen gesagt ist, so ist die Bestimmung des Menschen immer die Erzeugung des Absoluten aus sich selbst, aber mit Hülfe der Universalität von Erscheinungen, durch welche das Absolute sich einzeln offenbart.</p>
+<p rendition="#et">Richtiges Verhältniss zwischen Empfänglichkeit und Selbstthätigkeit, innige Verschmelzung des Sinnlichen und Geistigen, Bewahrendes Gleichgewichtes und Ebenmasses <pb n="69" facs="#f0006"/> in der Summe aller Bestrebungen, Zurückführen von Allem auf das wirkliche, handelnde Leben, und Darstellen jeder Erhabenheit im Einzelnen in der ganzen Masse der Nationen und des Menschengeschlechts, sind gleichsam die formalen Bestandtheile der menschlichen Bestimmung, und diese finden sich in dem Griechischen Charakter gerade mit aller Bestimmtheit der Umrisse, allem Reichthum der Form, aller Mannigfaltigkeit der Bewegung, und aller Stärke und Lebendigkeit der Farben gezeichnet.</p>
+<p rendition="#et">Aber es giebt hernach ein Verfolgen der einzelnen Momente dieses Bestrebens im Ganzen, das gerade den Alten fremd seyn musste, weil sie auf die leichte und glückliche Verbindung gingen, welcher jene Trennung wenigstens scheinbar und für den Augen blick widerspricht. Das Absolute muss auf abstractem Wege ergründet, das Wirkliche auf gelehrtem erforscht, das sittliche Zusammenleben der Menschen durch Mittel, die der Ausbildung des Individuums auf den ersten Anblick entgegenlaufen, zu grösseren und schwerer zu erreichenden Resultaten geführt werden.</p>
+<p rendition="#et">Hierin können nun die Neueren die Alten übertreffen, die Verbindung nach der Trennung, schwieriger, aber auch grösser, als die vor derselben, kann der Nachwelt vorbehalten bleiben, und so sind die Griechen ein Muster, deren Unerreichbarkeit zur Nachahmung anspornt, statt von ihr abzuschrecken.</p>
+<p rendition="#et">X. Dieser nur in seinen hauptsächlichsten Zügen und mit Fleiss, damit das Bild ungetheilt bleibe, rasch entworfene Charakter war derselbe unter allen Griechen und in allen Exertionen griechischen Geistes. Es waren nicht mehrere divergirende, sich entweder gegenseitig beschränkende, oder in etwas Drittem vereinigende Richtungen, sondern überall derselbe Stil und derselbe Geist. Was, der Eigenthümlichkeit desselben nach, einseitig hervorragte, das drängte das ihm Entgegenstehende zurück, und der Vorzug bestimmte unmittelbar auch den Mangel. In der Poesie herrscht der Stil der Plastik; die Philosophie geht Hand in Hand mit dem Leben; die Religion verwebt sich in <pb n="70" facs="#f0007"/> dieses und in die Kunst; das öffentliche und Privatleben schmelzenden Charakter fester zusammen, statt ihn zu trennen und zu zerreissen.</p>
+<p rendition="#et">Das Gegenbild hierzu findet sich in uns. Denn bei uns stehen sich moderner und antiker Stil und Charakter, deren keinen wir aufgeben und von welchem ersteren wir uns nicht einmal losmachen können, ewig entgegen, und erregen unaufhörlichen Zwiespalt nicht nur unter verschiedenen Nationen und Individuen, sondern auch in der eigenen Brust, im Anschauen, Empfinden und Hervorbringen.</p>
+<p rendition="#et">Diesem an sich und geradezu nicht zu lösenden Widerstreit des Antiken und Modernen müssen wir hier um so mehr einige Worte widmen, als dadurch zugleich auch die Mängel des hier geschilderten idealischen Charakters der Griechen klar werden.</p>
+<p rendition="#et">XI. Einen sehr anschaulichen und klaren Begriff des Unterschiedes zwischen beiden giebt die Frage: was gelang den Griechen und was den Neueren so vorzugsweise, dass die einen und die andern es niemals erreichten? und hier ist die Antwort: Bildhauerei und Musik. Zur Plastik der Alten haben die Neueren nie das Mindeste hinzuzusetzen versucht, der einzige Michel Angelo versuchte nur, und vielleicht ohne es zu ahnden, einen neuen Stil, und die schöne Musik hat das Alterthum nie gekannt.</p>
+<p rendition="#et">Ohne beständig das Vorragen dieser beiden Künste vor Augen zu haben, bleiben alte und neuere Zeit gleich unerklärlich.</p>
+<p rendition="#et">XII. Da in der Bildhauerei die Gestalt, in der Musik das Gefühl herrscht, so ist der allgemeine Charakter des Antiken das Classische, der des Modernen das Romantische, von welchen beiden jenes von der Brust aus die Welt, dieses von der Welt aus die Brust zur Unendlichkeit zu erweitern versucht.</p>
+<p rendition="#et">Das Classische lebt in dem Lichte der Anschauung, knüpft das Individuum an die Gattung, die Gattung an das Universum an, sucht das Absolute in der Totalität der Welt, und ebnet den Widerstreit, in dem das Einzelne mit <pb n="71" facs="#f0008"/> ihm steht, in der Idee des Schicksals durch allgemeines Gleichgewicht.</p>
+<p rendition="#et">Das Romantische verweilt vorzugsweise im Helldunkel des Gefühls, trennt das Individuum von der Gattung, die Gattung vom Universum, ringt nach dem Absoluten in der Tiefe des Ichs, und kennt für den Widerstreit, in dem das Einzelne mit ihm steht, keinen Ausweg, als entweder verzweiflungsvolles Aufgeben aller Ausgleichung, oder vollkommene Lösung, in der Idee der Gnade und Versöhnung durch Wunder.</p>
+<p rendition="#et">Der höchste symbolische Ausdruck von beiden ist der Mythus und das Christenthum.</p>
+<p rendition="#et">XIII. Aus diesen Hauptunterschieden entstehen aber durch die Anwendung derselben auf die verschiedenen Verhältnisse des Lebens so viele andre, dass zuletzt nichts ohne Zwiespalt übrigbleibt. Selbst bis auf diejenigen Dinge, welche die Vorzüge beider Zeit alter zu verbinden geschickt scheinen, dehnt sich noch die unübersteigliche Schwierigkeit aus, die aus ihrer Entgegensetzung entspringt. So z.B. sollte man die Malerei, als die Vermittlerin zwischen Bildhauerei (in der Form) und Musik (in der Farbe) für ganz eigentlich unserer Zeit angemessen halten. Allein die fast absolute Unmöglichkeit einen Stoff und eine Behandlung zu wählen, die dem Mythus und dem Christenthum gleich fremd seyen, beraubt immer wieder der Vorzüge der Seite, zu deren entgegengesetzter der Künstler sich näher gewendet hat.</p>
+<p rendition="#et">Eine eigentliche Lösung dieses Widerspruchs, eine wahre und eigentliche Verbindung des antiken und modernen Geschlechts in einem neuen dritten lässt sich, auch bei der freigebigsten Einräumung einer unendlichen Perfectibilität, nicht denken.</p>
+<p rendition="#et">Die einzige Ausgleichung ist, dass das wahrhaft nicht bloss (wie bei den Griechen) symbolisch Höchste durchaus nicht bestimmt ist sich in seiner Totalität in dem Wesen eines Menschen oder einer Nation darzustellen, dass es in der Wirklichkeit nur theilweis erscheinen, als Ganzes aber nur von dem Gedanken, nur in der Tiefe der Brust, und nur in einzelnen glücklichen Augenblicken angeschaut und geahndet werden kann.</p>
+<pb n="72" facs="#f0009"/> 
+
+</body></text></TEI>

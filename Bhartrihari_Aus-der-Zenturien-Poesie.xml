@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Indische Liebeslyrik</title>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Indische Liebeslyrik. In deutscher Sprache nachgebildet von Friedrich Rückert.
+      Eingeleitet, hrsg. u. erläutert von Helmuth von Glasenapp, Baden-Baden: Bühler,
+      1948.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Indische Liebeslyrik</title>
+      <editor><persName ref="http://d-nb.info/gnd/95215">
+        <forename>Helmuth</forename>
+        <nameLink>von</nameLink>
+        <surname>Glasenapp</surname>
+      </persName>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Bühler</name>
+      </publisher><pubPlace>Baden-Baden</pubPlace>
+      <date type="publication">1948</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Verfasst zwischen 400 und 600. Hier in der Übersetzung von Friedrich Rückert.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">[Aus der Zenturien-Poesie]</note>
+
+
+<head><pb n="90" facs="#f0001"/>[Aus der Zenturien-Poesie]</head>
+
+
+<div n="1">
+<note type="editorial">1. Die Stufen der Liebe</note>
+
+<head>I. <hi rendition="#i">Die Stufen der Liebe</hi></head>
+<p rendition="#c">1.</p>
+<p>Was ist Edlen gut zu sehen? Liebchens klares Angesicht.</p>
+<p>Was zu atmen? dessen Mundhauch. Was zu hören? dessen Wort.</p>
+<p>Was zu kosten? dessen Lippe. Was zu fühlen? dessen Leib.</p>
+<p>Was zu denken? dessen Anmut. Reizend ist es allerwärts.</p>
+<lb/>
+<p rendition="#c">2.</p>
+<p>Sagen denn nicht unsre Dichter etwas sehr Verkehrtes</p>
+<p>Von den Frauen, wenn sie stets von schwachen Frauen reden?</p>
+<p>Die, von deren schwanker Augensterne Blitz getroffen</p>
+<p>Himmelsgötter selbst erliegen, sind die schwach zu nennen?</p>
+<lb/>
+<p rendition="#c">3.</p>
+<p>Ohne daß die Locken flattern und sich weit das Aug' auftut,</p>
+<p>Ohne daß die Lippen aufgehn mit der reinen Zähne Glanz,</p>
+<p>Ohne daß die Perlenschnur schwankt auf des Busens Doppelhöhn,</p>
+<p>Auch in völl'ger Ruhe setzt in Unruh' uns ein schöner Leib.</p>
+<lb/>
+<p rendition="#c"><pb n="91" facs="#f0002"/> 4.</p>
+<p>Scheine Lampe, glänze Feuer, leuchte Sonne, Mond und Stern;</p>
+<p>Fern von euch, Gazellenaugen, ist die Welt mir Finsternis.</p>
+<lb/>
+<p rendition="#c">5.</p>
+<p>Sieht man sie nicht, begehrt man sie zu sehn nur,</p>
+<p>Und sieht man sie, wünscht man sie bloß zu küssen,</p>
+<p>Und wenn man dann sie küßt, die Großgeaugte,</p>
+<p>Verlangt man völlig mit ihr zu verwachsen.</p>
+<lb/>
+<p rendition="#c">6.</p>
+<p>Der an die Brust gesunkenen mit aufgelösten Locken,</p>
+<p>Der noch ein wenig blinzenden mit zugeknosptem Auge,</p>
+<p>Der von des Liebeskampfes Schweiß am Wangensaum betrieften</p>
+<p>Geliebten Frauen Lippenseim, ihn trinken Hochbeglückte.</p>
+<lb/>
+<p rendition="#c">7.</p>
+<p>Wenn der Freund im Regengusse nicht das Haus verlassen kann,</p>
+<p>Und des Frostes wegen fester ihn die Schöne drückt ans Herz,</p>
+<p>Dann der Wind mit kalten Tropfen ihre Lustermattung kühlt,</p>
+<p>Wird das schlechte Wetter gutes für beglückte Liebende.</p>
+<lb/>
+<p rendition="#c"><pb n="92" facs="#f0003"/> 8.</p>
+<p>Ihr wählt euch eure Meister von den frommen Schriftgelehrten,</p>
+<p>Doch wir, anmutig redender Poeten Jünger sind wir.</p>
+<p>Denn nicht in jenem Leben gibt's ein höhres Glück als Tugend,</p>
+<p>Doch keine Lust in dieser Welt als klargeaugte Frauen!</p>
+<lb/>
+<p rendition="#c">9.</p>
+<p>Sich selbst und uns betrügt der Schriftgelehrte,</p>
+<p>Der ungebührlich schöne Mädchen schimpft.</p>
+<p>Zwar ist das Paradies die Frucht der Buße,</p>
+<p>Doch Mädchen sind die Paradiesesfrucht.</p>
+<lb/>
+<p rendition="#c">10.</p>
+<p>Nenne nur das Weib! und weder Gift noch Nektar gibt es sonst;</p>
+<p>Abgeneigt ist sie ein Giftbaum, zugeneigt ein Nektarzweig.</p>
+<lb/>
+<p rendition="#c">11.</p>
+<p>Mit dem einen kost sie traulich, nach dem andern blickt sie hold,</p>
+<p>Denkt im Stillen an den dritten; wen denn liebt sie eigentlich?</p>
+<lb/>
+<p rendition="#c">12.</p>
+<p>Als uns umgab Unwissenheit verliebter Finsternisse,</p>
+<p>War in Gestalt des Weibes uns die ganze Welt erschienen,</p>
+<p>Nur unser Aug' erhellt ist von bess'rer Einsicht Salben,</p>
+<p>Erkennt der einsgewordne Blick die ganze Welt als Brahma.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">2. Fünf Sprüche eines indischen Weisen</note>
+
+<head><pb n="93" facs="#f0004"/> II. <hi rendition="#i">Fünf Sprüche eines indischen Weisen</hi></head>
+<p rendition="#c">1.</p>
+<p>Was ist Gewinn? mit Guten streben.</p>
+<p>Was Schaden? unter Toren leben.</p>
+<p>Was ist Verlust? verlorne Zeit.</p>
+<p>Der beste Witz was? Redlichkeit.</p>
+<p>Der rechte Mut? vorm Bösen scheu.</p>
+<p>Das beste Liebchen? Ehweib treu.</p>
+<p>Was Reichtum? seine Kunst verstehn.</p>
+<p>Was ist Glück? nicht auf Reisen gehn.</p>
+<p>Was Königsmacht? die Seinigen sich gehorchen sehn.</p>
+<lb/>
+<p rendition="#c">2.</p>
+<p>Die arm sind an bösen Worten,</p>
+<p>Reich an guter Reden Horten.</p>
+<p>Nicht verleumden, noch lügen,</p>
+<p>Und mit ihren Fraun sich begnügen:</p>
+<p>Wo immer sie sind erschienen,</p>
+<p>Die Erd' ist geschmückt mit ihnen.</p>
+<lb/>
+<p rendition="#c">3.</p>
+<p>Von eines Helden Fußtritt nur</p>
+<p>Wo berührt wird die Erdenflur,</p>
+<p>Zittert sie freudig allzumal,</p>
+<p>Wie getroffen vom Sonnenstrahl.</p>
+<lb/>
+<p rendition="#c">4.</p>
+<p>Und wenn auf Erden gleich</p>
+<p>Bliebe kein Lotosteich,</p>
+<p>Doch scharrte nie der Schwan</p>
+<p>Im Miste wie der Hahn.</p>
+<lb/>
+<p rendition="#c"><pb n="94" facs="#f0005"/> 5.</p>
+<p>Weise muß man ehren,</p>
+<p>Auch wenn sie nicht Weisheit lehren.</p>
+<p>Was ihnen nur fällt vom Munde,</p>
+<p>Ist immer heilige Kunde.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">3. Der weltentsagende Hindu</note>
+
+<head>III. <hi rendition="#i">Der weltentsagende Hindu</hi></head>
+<p rendition="#c">1.</p>
+<p>Wegen dieses Lebens, das dem Tropfen auf der Blume gleichet,</p>
+<p>Was hab' ich, der Unverständ'ge, nicht schon alles ausgehalten,</p>
+<p>Daß ich selbst vor stolzen Reichen, vom Besitze dumpf Berauschten,</p>
+<p>Mit erlogner Scham beging die Sünde, mein Verdienst zu rühmen!</p>
+<lb/>
+<p rendition="#c">2.</p>
+<p>Säh' er im zerlumpten Kleide der betrübten Gattin nicht</p>
+<p>Eigene betrübte Kinder zerren, hungrig weinende;</p>
+<p>Möchte wohl, aus Furcht der Fehlbitt' ein kleinlautes Wörtchen »gib«</p>
+<p>Seines eignen Bauches willen stammeln ein Verständiger?</p>
+<lb/>
+<p rendition="#c">3.</p>
+<p>Endlich, wenn sie lang' auch weilten, müssen doch die Güter gehn;</p>
+<p>Warum also gibt nicht lieber sie der Mensch von selber auf?</p>
+<p><pb n="95" facs="#f0006"/> Wo sie eigenwillig weggehn, lassen sie den höchsten Schmerz;</p>
+<p>Wo du sie freiwillig aufgibst, ew'gen Frieden geben sie.</p>
+<lb/>
+<p rendition="#c">4.</p>
+<p>Sind die von Ganga's Flutgeträufel kühlen,</p>
+<p>Von Genien bewohnten Felsengrotten</p>
+<p>Des Himawan untergegangen etwa,</p>
+<p>Daß Menschen ehrlos fremde Bissen suchen?</p>
+<lb/>
+<p rendition="#c">5.</p>
+<p>Fehlt's an Wurzelen in den Klüften, im Gebirg an Wasserfällen,</p>
+<p>Bäumen, saft'ge Früchte bietend, Stengeln, Bast zum Kleide gebend,</p>
+<p>Daß du magst ein Antlitz ansehn, das von Huld dir keine Spur zeigt,</p>
+<p>Und ob kümmerlicher Gabe stolz die Augenbrau'n emporzieht!</p>
+<lb/>
+<p rendition="#c">6.</p>
+<p>Was irrst du umsonst umher? ausruhe dich, Herz, einmal!</p>
+<p>Von selber wie alles wird, so wird es, und anders nicht.</p>
+<p>Denk an das Vergangne nicht, doch bilde dir Künft'ges ein;</p>
+<p>Und Freuden, die unbemerkt sonst kommen und gehn, genieß!</p>
+<lb/>
+<p rendition="#c"><pb n="96" facs="#f0007"/> 7.</p>
+<p>Wo sie des Haares weiße Farbe sehen,</p>
+<p>Das Zeichen, daß dem Mann das Alter obsiegt,</p>
+<p>Gehn schnell davon, wie vom Tschandalenbrunnen,</p>
+<p>Woran der Knocheneimer hängt, die Frauen.</p>
+<lb/>
+<p rendition="#c">8.</p>
+<p>Weil noch unerkrankt der Leib ist, und das Alter ferne,</p>
+<p>Weil doch ungeschwächt die Sinne, kein Verfall des Lebens,</p>
+<p>Mühe für des Geistes Bestes eifrig sich der Weise;</p>
+<p>Spät ist es den Brunnen graben, wann das Haus in Brand steht.</p>
+<lb/>
+<p rendition="#c">9.</p>
+<p>Reizend sind des Mondes Strahlen, reizend grüner Platz im Wald,</p>
+<p>Reizend freundliche Gesellschaft, Dichtersagen reizend auch,</p>
+<p>Reizend Liebeszornes Tränen zitternd in des Liebchens Blick,</p>
+<p>Reizend alles, denkst du der Vergänglichkeit, bleibt reizend nichts.</p>
+<lb/>
+<p rendition="#c">10.</p>
+<p>Ist's schön nicht, wohnen im Palast und Saitenspiel zu hören,</p>
+<p>Die Herzgeliebte zu umfahn, ist's süßer nicht als alles?</p>
+<p>Doch, wie, von irren Vogels Flug gestreift, die Lampe flattert,</p>
+<p>So flatterhaft scheint Weisen das, die zum Einsiedlerwald gehn.</p>
+
+</div>
+
+</body></text></TEI>

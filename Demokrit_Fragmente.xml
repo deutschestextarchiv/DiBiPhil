@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">2. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="2">2. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden Ende des 5. bzw. Anfang des 4. Jahrhunderts v. Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren. Überlieferte Titel von Schriften Demokrits sind durch Versalien gekennzeichnet.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente</note>
+
+
+<head>Demokrit aus Abdera</head>
+<head>Fragmente</head>
+<pb n="55" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Ethische Schriften</note>
+
+<head>I. II. Ethische Schriften</head>
+<p rendition="#et">[0<hi rendition="#sup">c</hi>. I 3] ÜBER DAS LEBEN NACH DEM TODE.</p>
+<p rendition="#et">1. [Es wird erörtert, wie das Aufleben eines Verstorbenen möglich sei. In diesem Falle war der Tod offenbar kein Erlöschen der gesamten Lebenskraft des Körpers, sondern nur eine Ohnmacht infolge eines Schlages oder einer Verwundung, wobei die Bänder der Seele im Mark noch festgewurzelt blieben und das Herz den Funken des Lebens noch in der Tiefe bewahrte. Und infolge der Fortdauer jener Bänder erwies sich der Körper tauglich zur Beseelung und erlangte das erloschene Leben wieder.]</p>
+<p rendition="#et">1<hi rendition="#sup">a</hi>. [Die Menschen in ihrer gewöhnlichen Todesfurcht scheuen sich an die Todesstunde zu denken und ihr Testament niederzuschreiben. Sie <pb n="55" facs="#f0002"/> werden dann von ihr völlig überrumpelt und gezwungen, noch rasch, nach D.'s Ausdruck,] sich doppelte Portionen einzustopfen.</p>
+<p rendition="#et">1<hi rendition="#sup">b</hi>. [I 4] TRITOGENEIA [Athena]</p>
+<p rendition="#et">2. Aus der Klugheit erwachsen diese drei [Früchte:] Wohl denken, wohl reden, recht handeln.</p>
+<p rendition="#et">2<hi rendition="#sup">c</hi>. [II 3] ÜBER WOHLGEMUTHEIT.</p>
+<p rendition="#et"><pb n="56" facs="#f0003"/> 3. Wer wohlgemut leben will, soll nicht vielerlei treiben weder im eigenen noch im Staatswesen und, was immer er treibt, nicht über seine Kraft und Natur streben, sondern so sehr auf seiner Hut sein, daß, selbst wenn das Glück einschlägt und dem Scheine nach ihn in die Höhe führen will, er dessen nicht achtet und nicht über die Kraft anfaßt. Denn mäßige Fülle ist sicherer als Überfülle.</p>
+<p rendition="#et">4. Denn Lust und Unlust ist die Grenzbestimmung [des Zuträglichen und Abträglichen].</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Physikalische Schriften</note>
+
+<head><pb n="57" facs="#f0004"/> III.-VI. Physikalische Schriften</head>
+<p rendition="#et">4<hi rendition="#sup">c</hi>. [III 2] KLEINE WELTORDNUNG.</p>
+<p rendition="#et">5. [D. berichtet, er habe diese Schrift 730 Jahre nach Troias Eroberung verfaßt. Er sei jung gewesen, als Anaxagoras bereits bejahrt war. Dessen Ansichten über Sonne und Mond seien alt, er habe sie sich von früheren Philosophen angeeignet. Namentlich verspottet er seine Weltordnung und Lehre vom Geiste. Denn er war Anaxagoras feindlich gesinnt, weil er keine Aufnahme bei ihm gefunden hatte.]</p>
+<p rendition="#et"><pb n="58" facs="#f0005"/> 5<hi rendition="#sup">i</hi>. [V 3] ÜBER DIE FORMVERSCHIEDENHEIT [DER ATOME] oder ÜBER DIE GESTALTEN.</p>
+<p rendition="#et">6. Der Mensch soll aus dieser Regel erkennen, daß er fern ist von der Wirklichkeit.</p>
+<p rendition="#et">7. Auch diese Darlegung zeigt ja, daß wir von nichts etwas wirklich wissen, sondern Zustrom [der Wahrnehmungsbilder] ist jeglichem sein Meinen.</p>
+<p rendition="#et">8. Und doch wird es klar werden, daß es seine Schwierigkeit hat zu erkennen, wie jedes Ding wirklich beschaffen ist.</p>
+<p rendition="#et">8<hi rendition="#sup">b</hi>. [VI 1] BEWÄHRUNGEN.</p>
+<p rendition="#et"><pb n="59" facs="#f0006"/> 9. Wir nehmen aber in Wirklichkeit nichts untrügliches wahr, sondern nur was nach der [jeweiligen] Verfassung unseres Körpers und der ihm zuströmenden oder entgegenwirkenden [Einflüsse] sich wandelt.</p>
+<p rendition="#et">10. Daß wir nun, wie jedes Ding in Wahrheit beschaffen, oder nicht beschaffen ist, nicht wahrnehmen können, ist oft dargelegt worden.</p>
+<p rendition="#et">10<hi rendition="#sup">b</hi>. [VI 3] ÜBER LOGIK oder DENKREGELN.</p>
+<p rendition="#et"><pb n="60" facs="#f0007"/> 11. Es gibt zwei Formen der Erkenntnis, die echte und die unechte. Zur unechten gehören folgende allesamt: Gesicht, Gehör, Geruch, Geschmack, Gefühl. Die andere [Form] aber ist die echte, die von jener jedoch völlig geschieden ist. [Im Folgenden setzt er den Vorrang der echten vor der unechten Erkenntnis auseinander und fügt die Worte hinzu:] Wenn die unechte nicht mehr ins Kleinere sehen oder hören oder riechen oder schmecken oder tasten kann, sondern [die Untersuchung] ins Feinere [geführt werden muß, dann tritt an ihre Stelle die echte, die ein feineres Denkorgan besitzt].</p>
+<lb/>
+<pb n="61" facs="#f0008"/> 
+</div>
+
+<div n="1">
+<note type="editorial">Mathematische Schriften</note>
+
+<head>VII.-IX. Mathematische Schriften</head>
+<p rendition="#et">11<hi rendition="#sup">r</hi>. [VIII 3] WELTJAHR oder ASTRONOMIE SAMT STECKKALENDER.</p>
+<p rendition="#et">12. [Das Weltjahr Demokrits besteht aus 82 gewöhnlichen Jahren mit 28 Schaltmonaten.]</p>
+<p rendition="#et">13. Meiner [kontrahierte und unkontrahierte Form].</p>
+<p rendition="#et"><pb n="62" facs="#f0009"/><pb n="65" facs="#f00010"/>14<hi rendition="#sup">c</hi>. [IX 2] GEOGRAPHIE.</p>
+<p rendition="#et">15. [Die Erde sei nicht rund, sondern länglich gestreckt; ihre Länge betrage das anderthalbfache der Breite.]</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Philologische Schriften</note>
+
+<head><pb n="65" facs="#f00011"/> X. XI. Philologische Schriften</head>
+<p rendition="#et">15<hi rendition="#sup">c</hi>. [X 1] ÜBER RHYTHMEN UND HARMONIE.</p>
+<p rendition="#et">16. [Nach D. hat Musaios den Hexameter erfunden.]</p>
+<p rendition="#et">16<hi rendition="#sup">a</hi>. [X 2] ÜBER POESIE.</p>
+<p rendition="#et">17. [Kein Dichter sei ohne einen gewissen Wahnsinn zu denken.]</p>
+<p rendition="#et">18. Was immer ein Dichter vom Gotte und dem heiligen Geiste getrieben schreibt, das ist gewiß schön.</p>
+<p rendition="#et">18<hi rendition="#sup">b</hi>. [X 4] ÜBER WOHL UND ÜBEL KLIN GENDE BUCHSTABEN.</p>
+<p rendition="#et">19. Gemma [statt Gamma,] Mô [statt My].</p>
+<p rendition="#et"><pb n="66" facs="#f00012"/> 20. Des Deltas, des Thetas.</p>
+<p rendition="#et">20<hi rendition="#sup">a</hi>. [XI 1] ÜBER HOMER oder ÜBER SPRACHRICHTIGKEIT UND DUNKLE WÖRTER.</p>
+<p rendition="#et">21. Homer, dem ein göttliches Talent zu teil ward, zimmerte einen Prachtbau mannigfaltiger Gedichte.</p>
+<p rendition="#et">22. [D. berichtet, der Adler habe schwarze Knochen.]</p>
+<p rendition="#et">23. [Homers Worte: »O wär' er doch früher gestorben« (Alexandros) spricht der Herold für sich und leise, wie D. meint, der es für unschicklich hält, diese Worte offen auszusprechen.]</p>
+<p rendition="#et">24. [D. nennt des Eumaios Mutter Penia (Armut).]</p>
+<p rendition="#et">25. [Unter Ambrosia versteht auch D. die Dünste, von denen sich die Sonne nährt.]</p>
+<p rendition="#et">25<hi rendition="#sup">b</hi>. [XI 3] ÜBER DIE WÖRTER.</p>
+<p rendition="#et"><pb n="67" facs="#f00013"/> 26. [D. unterscheidet] mehrdeutige, gleichbedeutende, ungenannte [und] unbenannte [Wörter und erweist daraus den konventionellen Ursprung der Sprache.]</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Technische Schriften</note>
+
+<head>Technische Schriften</head>
+<p><pb n="68" facs="#f00014"/> </p>
+
+<p rend="h4">XII. XIII. Technische Schriften</p>
+<p rendition="#et">26<hi rendition="#sup">f</hi>. [XIII 1] ÜBER ACKERBAU.</p>
+<p rendition="#et">27. [D. meint, die Weinberge sollten nach Norden angelegt werden, weil sie so am ertragreichsten würden, ohne freilich in der Güte des Weins die erste Stelle einzunehmen.]</p>
+<p rendition="#et">28. [Unklug verfahren diejenigen, welche ihre Gärten ummauern. Denn eine Mauer aus Luftziegeln kann dem Regen und Sturme nicht standhalten, und eine steinerne erfordert Kosten, die dem Werte der Sache nicht entsprechen. Wenn man gar ein großes Stück Land mit einer Mauer umfriedigen wollte, würde man sein väterliches Erbe verbauen müssen.]</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Echte Fragmente aus unbestimmten Schriften</note>
+
+<head><pb n="69" facs="#f00015"/> Echte Fragmente aus unbestimmten Schriften</head>
+<p rendition="#et">29. Schildrand.</p>
+<p rendition="#et">29<hi rendition="#sup">a</hi>. Wir, ihr, sie [kontrahierte Formen].</p>
+<p rendition="#et">30. Einige der gelehrten Männer erbeben ihre Hände zu dem Orte, wo wir Hellenen jetzt lagen, daß die Luft sich befinde, und sprechen <pb n="70" facs="#f00016"/> dabei: Alles beredet Zeus mit sich und alles weiß und gibt und nimmt er und König ist er über alles.</p>
+<p rendition="#et">31. Die Arzneikunst heilt die Gebresten des Leibes, die Philosophie befreit die Seele von Leidenschaften.</p>
+<p rendition="#et">32. Beischlaf ist vorübergehender Schlaganfall. Denn da fährt ein Mensch aus dem Menschen heraus und löst sich wie mit einem Schlage abtrennend los.</p>
+<p rendition="#et">33. Die Natur und die Erziehung sind ähnlich. Denn die Erziehung <pb n="71" facs="#f00017"/> formt zwar den Menschen um, aber durch diese Umformung schafft sie eine [zweite] Natur.</p>
+<p rendition="#et">34. Der Mensch, eine kleine Welt.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Sprüche</note>
+
+<head>Sprüche</head>
+<p rendition="#et">35. Wenn man diese meine Sprüche mit Verstand anhört, wird man viele Taten tun, die eines trefflichen Mannes würdig sind, und viele schlechten unterlassen.</p>
+<p rendition="#et"><pb n="72" facs="#f00018"/> 36. [= B 187.]</p>
+<p rendition="#et">37. Wer nach geistigen Gütern strebt, strebt nach göttlicherem [Gewinn], wer nach leiblichen, nach irdischem.</p>
+<p rendition="#et">38. Pflicht ist's, den Frevler zu hindern, auf alle Fälle aber nicht mitzufreveln.</p>
+<p rendition="#et">39. Man muß entweder gut sein oder Guten nachahmen.</p>
+<p rendition="#et">40. Nicht Leibeskraft oder Geld macht den Menschen glücklich, sondern Geradsinnigkeit und Vielseitigkeit.</p>
+<p rendition="#et">41. Nicht aus Furcht, sondern aus Pflichtgefühl meide die Sünden.</p>
+<p rendition="#et">42. Es ist etwas Großes um Pflichttreue im Unglück.</p>
+<p rendition="#et">43. Reue über schimpfliche Handlungen ist Lebensrettung.</p>
+<p rendition="#et">44. [= B 225.]</p>
+<p rendition="#et">45. Wer Unrecht tut ist unglücklicher als wer unrecht leidet.</p>
+<p rendition="#et"><pb n="73" facs="#f00019"/> 46. Hohen Sinn bekundet es, Taktlosigkeit gelassen zu ertragen.</p>
+<p rendition="#et">47. Vor Gesetz, Obrigkeit und dem Klügeren sich zu beugen zeugt von Selbstzucht.</p>
+<p rendition="#et">48. Schlechter Leute Tadel ficht den Guten nicht an.</p>
+<p rendition="#et">49. Einem geringeren Manne zu gehorchen ist schlimm.</p>
+<p rendition="#et">50. Wer allerwegen bestechlich ist, wird nie gerecht sein.</p>
+<p rendition="#et">51. Oft erweist sich ein Wort viel stärker zur Überredung als Gold.</p>
+<p rendition="#et">52. Wer den, der sich einbildet Verstand zu haben, zu Verstand bringen will, vergeudet seine Zeit.</p>
+<p rendition="#et">53. Viele, die nichts Vernünftiges gelernt haben, leben trotzdem vernünftig.</p>
+<p rendition="#et"><pb n="74" facs="#f00020"/> 53<hi rendition="#sup">a</hi>. Viele, die die schändlichsten Handlungen begehen, führen höchst vernünftige Reden.</p>
+<p rendition="#et">54. Durch Schaden werden die Toren klug.</p>
+<p rendition="#et">55. Tugendhafter Werke und Taten soll man sich befleißigen, nicht tugendhafter Worte.</p>
+<p rendition="#et">56. Das Edle erkennen und erstreben [nur] die von Natur dazu Befähigten.</p>
+<p rendition="#et">57. Rassigkeit der Zugtiere besteht in der Wohlbeschaffenheit ihres Körpers, die der Menschen in der guten Richtung ihres Charakters.</p>
+<p rendition="#et">58. Die Hoffnungen der richtig Denkenden sind erfüllbar, die der Unverständigen unerfüllbar.</p>
+<p rendition="#et">59. Keine Kunst, keine Wissenschaft ist erreichbar ohne Lernen.</p>
+<p rendition="#et">60. Es ist besser, die eigenen als die fremden Fehler zu rügen.</p>
+<p rendition="#et"><pb n="75" facs="#f00021"/> 61. Diejenigen, die einen wohlgeordneten Charakter besitzen, haben auch ein wohlgeordnetes Leben.</p>
+<p rendition="#et">62. Gut ist [noch] nicht Nichtfreveln, sondern nicht einmal freveln wollen.</p>
+<p rendition="#et">63. Schön ist's, bei schönen Handlungen Beifall zu spenden; denn bei schlechten es zu tun, ist das Werk eines Fälschers und Betrügers.</p>
+<p rendition="#et">64. Viele Vielwisser haben keinen Verstand.</p>
+<p rendition="#et">65. Viel Denken, nicht viel Wissen ist zu pflegen.</p>
+<p rendition="#et">66. Bei seinen Handlungen ist vorzubedenken besser als nachzubedenken.</p>
+<p rendition="#et">67. Trau nicht allen, sondern den Bewährten. Denn jenes ist einfältig, dies verständig.</p>
+<p rendition="#et">68. Nicht bloß aus seinem Tun, sondern auch aus seinem Wollen [erkennt man] den bewährten und den unbewährten Mann.</p>
+<p rendition="#et"><pb n="76" facs="#f00022"/> 69. Allen Menschen gilt wohl dasselbe als gut und wahr: angenehm aber ist dem einen dies, dem andern das.</p>
+<p rendition="#et">70. Unbegrenzte Wünsche sind Kindes, nicht Mannes Sache.</p>
+<p rendition="#et">71. Unzeitige Genüsse erzeugen Ekel.</p>
+<p rendition="#et">72. Die auf irgend ein Ziel heftig gerichteten Begierden verblenden die Seele gegen alles Übrige.</p>
+<p rendition="#et">73. Nur die Liebe ist berechtigt, die ohne Frevel der Schönheit nachjagt.</p>
+<p rendition="#et">74. Versage dir jeden Genuß, der nicht zuträglich ist.</p>
+<p rendition="#et">75. Es ist besser für die Unverständigen zu gehorchen als zu herrschen.</p>
+<p rendition="#et">76. Nicht Wort, sondern Unglück ist der Lehrmeister der Toren.</p>
+<p rendition="#et">77. Ruhm und Reichtum ohne Einsicht sind unsichere Besitztümer.</p>
+<p rendition="#et"><pb n="77" facs="#f00023"/> 78. Geld zu erwerben ist nicht unnützlich, auf ungerechte Weise aber ist es das allerschlimmste.</p>
+<p rendition="#et">79. Den Bösen nachzuahmen, den Guten aber [nicht, ja] nicht einmal [ihnen] nachahmen zu wollen, ist schlimm.</p>
+<p rendition="#et">80. Es ist schimpflich, sich um das Fremde überflüssige Mühe zu geben und das Eigne nicht zu kennen.</p>
+<p rendition="#et">81. Immer zaudern läßt die Taten nicht zur Vollendung kommen.</p>
+<p rendition="#et">82. Falsche und heuchlerische [Gesellen] sind die, welche alles mit dem Mund und in Wirklichkeit nichts tun.</p>
+<p rendition="#et">83. Die Unkenntnis des Besseren ist die Ursache der Verfehlung.</p>
+<p rendition="#et">84. Wer Schamloses tut, muß sich vor allem vor sich selbst schämen.</p>
+<p rendition="#et">85. Wer widerspricht und viel schwatzt, ist unfähig zum Lernen dessen, was not tut.</p>
+<p rendition="#et"><pb n="78" facs="#f00024"/> 86. [Eine Art] Habgier ist's, alles reden und nichts hören zu wollen.</p>
+<p rendition="#et">87. Man muß den Schlechten überwachen; sonst nimmt er seine Gelegenheit wahr.</p>
+<p rendition="#et">88. Der Neider bereitet sich selbst Schmerzen wie einem Feind.</p>
+<p rendition="#et">89. Feind ist nicht jeder, der Unrecht tut, sondern nur der es mit Willen tut.</p>
+<p rendition="#et">90. Die Feindschaft mit Verwandten ist viel drückender als mit Fremden.</p>
+<p rendition="#et">91. Zeige dich nicht argwöhnisch gegen alle, sondern vorsichtig und fest.</p>
+<p rendition="#et">92. Man soll Wohltaten nur mit dem Vorsatze an nehmen, größere wieder zu erstatten.</p>
+<p rendition="#et">93. Sieh dich vor, wenn du Wohltaten erweist, daß der Empfänger dir nicht heimtückisch Gutes mit Bösem vergelte.</p>
+<p rendition="#et"><pb n="79" facs="#f00025"/> 94. Kleine Wohltaten zur richtigen Zeit sind für die Empfänger die wertvollsten.</p>
+<p rendition="#et">95. Ehrenbezeugungen fallen auf fruchtbaren Boden bei den Verständigen, die sich der Ehre bewußt sind.</p>
+<p rendition="#et">96. Wohltätig ist nicht wer auf Erwiderung schaut, sondern wer entschlossen ist, aus freiem Antrieb wohlzutun.</p>
+<p rendition="#et">97. Viele, die freunde scheinen, sind es nicht: und viele, die es nicht scheinen, sind es.</p>
+<p rendition="#et">98. Eines einzigen verständigen Mannes Freundschaft ist besser als die aller Unverständigen zusammen.</p>
+<p rendition="#et">99. Wer keinen einzigen braven Freund besitzt, ist nicht wert zu leben.</p>
+<p rendition="#et">100. Bei wem die erprobten Freunde nicht lange ausharrender ist unverträglich.</p>
+<p rendition="#et">101. Viele gehen ihren Freunden aus dem Wege, wenn diese aus Wohlhabenheit in Armut geraten sind.</p>
+<p rendition="#et"><pb n="80" facs="#f00026"/> 102. Schön ist überall das Gleichmaß; Übermaß und Mangel rnißfällt mir.</p>
+<p rendition="#et">103. Wer niemanden liebt, kann meines Bedünkens auch von niemandem geliebt werden.</p>
+<p rendition="#et">104. Ein liebenswürdiger Greis ist wer in Scherz und Ernst zu plaudern weiß.</p>
+<p rendition="#et">105. Körperschönheit ist etwas Tierisches, wenn sich nicht Verstand dahinter birgt.</p>
+<p rendition="#et">106. Im Glück einen Freund zu finden ist leicht, im Unglück aber das allerschwierigste.</p>
+<p rendition="#et">107. Freunde sind nicht alle Verwandten, sondern die, welche gemeinsame Interessen haben.</p>
+<p rendition="#et">107<hi rendition="#sup">a</hi>. Es geziemt sich als Menschen über Menschen Unglück nicht zu lachen, sondern zu wehklagen.</p>
+<p rendition="#et">108. Wer das Gute sucht, findet's nur mit Mühe, das Schlimme aber auch wer es nicht sucht.</p>
+<p rendition="#et"><pb n="81" facs="#f00027"/> 109. Tadelsüchtige sind nicht geschaffen zur Freundschaft.</p>
+<p rendition="#et">110. Das Weib soll seine Zunge nicht üben; denn das wäre arg.</p>
+<p rendition="#et">111. Einem Weib zu gehorchen ist für einen Mann wohl die äußerste Schmach.</p>
+<p rendition="#et">112. Stets etwas Schönes sich auszudenken ist [der Beruf] eines göttlichen Geistes.</p>
+<p rendition="#et">113. Wer Unverständige lobt, schadet ihnen gewaltig.</p>
+<p rendition="#et">114. Andrer Lob ist besser als Eigenlob.</p>
+<p rendition="#et">115. Kannst du die Lobsprüche nicht anerkennen, so nimm an, es sei Schmeichelei.</p>
+<p rendition="#et"><pb n="82" facs="#f00028"/> 115<hi rendition="#sup">a</hi>. [Erwähnung des Thales (Geschlecht und astronomische Entdeckungen).]</p>
+<p rendition="#et">116. Denn ich kam nach Athen: da kannte mich keiner.</p>
+<p rendition="#et">117. In Wirklichkeit wissen wir nichts; denn die Wahrheit liegt in der Tiefe.</p>
+<p rendition="#et">118. [D. sagte,] er wolle lieber einen einzigen Beweis finden, als den Perserthron gewinnen.</p>
+<p rendition="#et"><pb n="83" facs="#f00029"/> 119. Die Menschen haben sich ein Idol des Zufalls gebildet zur Beschönigung ihrer eigenen Ratlosigkeit. Denn nur in seltenen Fällen wirkt der Zufall der Klugheit entgegen: das meiste im Leben weiß ein wohlverständiger Scharfblick ins Grade zu richten.</p>
+<p rendition="#et">120. Pulsschlag.</p>
+<p rendition="#et">121. Geeignetesten.</p>
+<p rendition="#et">122. Fallgruben.</p>
+<p rendition="#et">122<hi rendition="#sup">a</hi>. Weib [Etymologie].</p>
+<p rendition="#et">123. Abbild.</p>
+<p rendition="#et"><pb n="84" facs="#f00030"/> 124. Aus dem ganzen Menschen fährt ein Mensch [?].</p>
+<p rendition="#et">125. [Nachdem D. sein Mißtrauen gegen die Sinneswahrnehmungen in dem Satze ausgesprochen:] ›Scheinbar [d.i. konventionell] ist Farbe, scheinbar Süßigkeit, scheinbar Bitterkeit: wirklich nur Atome und Leeres‹ [läßt er die Sinne gegen den Verstand reden:] ›Du armer Verstand von uns nimmst du deine Beweisstücke und willst uns damit besiegen? Dein Sieg ist dein Fall!‹</p>
+<p rendition="#et">126. Alle [Raupen,] die bei ihrer Wanderung wellenartig irren.</p>
+<p rendition="#et">127. Wenn die Menschen sich kratzen, haben sie ein Wohlgefühl, und es wird ihnen wie beim Liebesgenuß.</p>
+<p rendition="#et"><pb n="85" facs="#f00031"/> 128. Gradgebohrtes Loch [?].</p>
+<p rendition="#et">129. Göttliches ersinnen sie im Geiste.</p>
+<p rendition="#et">129<hi rendition="#sup">a</hi>. Ist gelehnt.</p>
+<p rendition="#et">130. [Hohle] Spangen.</p>
+<p rendition="#et">131. Unbetreten [= ungewöhnlich].</p>
+<p rendition="#et">132. Gleichseitiges.</p>
+<p rendition="#et">133. Feuchtartig.</p>
+<p rendition="#et">134. Riemen.</p>
+<p rendition="#et">135. Behälter [= Adern im Körper].</p>
+<p rendition="#et">136. Bedeckelt [= versieht mit Deckel].</p>
+<p rendition="#et">137. Zusammenwuchs.</p>
+<p rendition="#et">138. Weltenwechsel.</p>
+<p rendition="#et">139. Formwechseln.</p>
+<p rendition="#et">140. Wohlstand.</p>
+<p rendition="#et"><pb n="86" facs="#f00032"/> 141. Gestalt.</p>
+<p rendition="#et">142. [Die Worte sind] redende Bilder.</p>
+<p rendition="#et">143. Unglück, soviel man nur erdenken könnte.</p>
+<p rendition="#et">144. [Die Musik sei eine junge Kunst.] Denn nicht die Not habe sie geboren, sondern sie sei aus dem bereits [entwickelten] Luxus entstanden:</p>
+<p rendition="#et">144<hi rendition="#sup">a</hi>. Ich werde [auf den Anfang] zurückkommen.</p>
+<p rendition="#et">145. Das Wort ist der Schatten der Tat.</p>
+<p rendition="#et"><pb n="87" facs="#f00033"/> 146. [Der Geist,] der sich gewöhnt, aus sich selbst die Freuden zu schöpfen.</p>
+<p rendition="#et">147. Schweine tollen sich auf dem Miste.</p>
+<p rendition="#et">148. Zuerst bildet sich in der Gebärmutter der Nabel, ein Ankerplatz gegen Brandung und Irrfahrt, Haltseil und Ranke für die entstehende und werdende Frucht.</p>
+<p rendition="#et">149. Wenn du dein Inneres öffnest, wirst du darin eine Vorrats- und Schatzkammer von allerlei bösen Leidenschaften finden.</p>
+<p rendition="#et"><pb n="88" facs="#f00034"/> 150. Zänker und Riemendreher.</p>
+<p rendition="#et">151. Im gemeinsamen Fisch sind keine Gräten.</p>
+<p rendition="#et">152. Kein Zeusgesandter Blitz, [der nicht] die [reine] Ätherhelle bewahrte.</p>
+<p rendition="#et">153. Es bringt Schaden seinen Nachbarn gefallen zu wollen.</p>
+<p rendition="#et"><pb n="89" facs="#f00035"/> 154. Die Menschen sind auf dem Wege der Nachahmung in den wichtigsten Dingen Schüler der Tiere geworden: der Spinne im Weben und Stopfen, der Schwalbe im Bauen und der Singvögel, des Schwans und der Nachtigall, im Gesang.</p>
+<p rendition="#et">155. Wenn ein Kegel parallel zur Grundfläche durch eine Ebene geschnitten wird, wie soll man sich die entstehenden Schnittflächen vorstellen, gleich oder ungleich? Sind sie ungleich, dann werden sie den Kegel ungleichmäßig machen, da er treppenartige Einschnitte und Vorsprünge erhält; sind sie dagegen gleich, so werden [auch] die Schnitte gleich sein und der Kegel wird die Erscheinung eines Zylinders darbieten, <pb n="90" facs="#f00036"/> insofern er aus gleichen, nicht aus ungleichen Kreisen bestehen wird, was doch sehr ungereimt ist.</p>
+<p rendition="#et">156. Das Nichts existiert ebenso sehr wie das Ichts.</p>
+<p rendition="#et">157. Die Staatskunst dieser Männer [wie Parmenides, Melissos u.a.] [rät] Dem. als die höchste zu erlernen und die Mühen auf sich zu nehmen, aus denen das Große und Herrliche in der Welt erwächst.</p>
+<p rendition="#et">158. Die Menschen, die täglich frische Gedanken haben.</p>
+<p rendition="#et"><pb n="91" facs="#f00037"/> 159. Wenn der Leib gegen sie [die Seele] einen Prozeß anhängig machte wegen der Schmerzen und Mißhandlungen, die er [von ihr] zeitlebens erfahren, und er selbst [Demokrit] als Richter über die Anklage zu entscheiden hätte, so würde er die Seele mit Vergnügen verurteilen, weil sie den Leib teils durch Vernachlässigung zugrunde richtete und durch Trunksucht schwächte, teils durch Wollüste vernichtete und verlotterte, etwa wie er einen rücksichtslosen Benutzer verantwortlich machen würde, wenn ein Instrument oder Gerät sich im schlechten Zustande befände.</p>
+<p rendition="#et">160. [Das böse, unverständige, unkeusche und unheilige Leben sei] nicht ein böses Leben, sondern ein langwieriges Sterben.</p>
+<p rendition="#et">161. [Die Finsternisse nannte man häufig bis auf Demokrits Zeit] Herabholungen [des Mondes oder der Sonne].</p>
+<p rendition="#et">162. [Statt Zylinder sagte D.] Walze.</p>
+<p rendition="#et"><pb n="92" facs="#f00038"/> 163. [Erwähnung des Korinthers Xeniades.]</p>
+<p rendition="#et">164. Denn alle Lebewesen gesellen sich zu ihrer Art wie Tauben zu Tauben, Kraniche zu Kranichen und so bei den übrigen Tieren. Ebenso ist es aber auch bei den leblosen Dingen, wie man es sehen kann bei dem Durchsieben der Samen und bei den Steinen an der Brandung. Denn dort ordnet sich durch das Wirbeln des Siebes gesondert Linse zu Linse, Gerste zu Gerste und Weizen zu Weizen, hier dagegen werden durch den Wogenschlag die länglichen Steine zu den länglichen gerollt, die runden zu den runden, als ob die Ähnlichkeit der Dinge eine gewisse Vereinigungskraft auf sie ausübe.</p>
+<p rendition="#et"><pb n="93" facs="#f00039"/> 165. Ich behaupte Folgendes über das All . . . Mensch ist, was allen bekannt ist.</p>
+<p rendition="#et">166. [D. behauptet] gewisse Abbilder nahten den Menschen [und diese seien teils Gutes, teils Böses wirkend. Darum wünscht er auch] glückbedeutender Bilder teilhaftig zu werden.</p>
+<p rendition="#et">167. Ein Wirbel mannigfaltiger Formen sei von dem All abgesondert worden.</p>
+<p rendition="#et">168. [Die Atome nannten die Demokriteer] Natur; [sie würden in dem Leeren] umhergeschleudert.</p>
+<p rendition="#et"><pb n="94" facs="#f00040"/> 169. Bemüh' dich nicht alles wissen zu wollen, sonst lernst du nichts.</p>
+<p rendition="#et">170. Seligkeit und Unseligkeit ruht in der Seele.</p>
+<p rendition="#et">171. Seligkeit wohnt nicht in Herden oder Gold: die Seele ist seligen Wesens Wohnsitz.</p>
+<p rendition="#et">172. Von wannen uns das Gute kommt, ebendaher wird uns auch das Schlimme zuteil und das Mittel es zu meiden. Tiefes Wasser z.B. ist zu vielem nütze und auch wieder schädlich; denn man läuft Gefahr darin zu ertrinken. Dagegen hat man nun ein Mittel erfunden: Schwimmunterricht.</p>
+<p rendition="#et">173. Den Menschen erwächst Schlimmes aus Gutem, wenn man das Gute nicht zu lenken und wohl zu tragen versteht. Es ist nicht billig, solche Dinge unter die übel zu rechnen, vielmehr unter das Gute; und man kann auch das Gute, wenn man will, zur Abwehr gegen die Übel verwenden.</p>
+<p rendition="#et"><pb n="95" facs="#f00041"/> 174. Der Wohlgemute fühlt sich stets zu gerechten und gesetzlichen Handlungen hingetrieben und ist darum Tag und Nacht heiter und stark und unbekümmert. Doch wer der Gerechtigkeit spottet und seine Pflichten nicht erfüllt, dem wird das alles zur Unlust, wenn er sich an irgend ein [Vergehen] erinnert, und er befindet sich in steter Angst und Selbstpeinigung.</p>
+<p rendition="#et">175. Die Götter aber gewähren den Menschen alles Gute, jetzt und ehedem. Nur alles, was schlimm, schädlich und unnütz ist, das schenken die Götter weder jetzt noch ehedem den Menschen, sondern sie selbst tappen hinein infolge ihrer Sinnesverblendung und Torheit.</p>
+<p rendition="#et">176. Der Zufall ist freigebig, aber unzuverlässig, die Natur dagegen ruht auf sich selbst. Und darum trägt sie mit ihren geringeren aber zuverlässigen [Mitteln] doch den Sieg davon über die größeren [Verheißungen] der Hoffnung.</p>
+<p rendition="#et"><pb n="96" facs="#f00042"/> 177. Eine treffliche Rede verdunkelt nicht eine schlechte Tat, und eine gute Tat wird nicht durch eine lästernde Rede zu schanden.</p>
+<p rendition="#et">178. Das allerschlimmste, was man die Jugend lehren kann, ist der Leichtsinn. Denn er ist es, der jene Lüste großzieht, aus denen die Lasterhaftigkeit erwächst.</p>
+<p rendition="#et">179. Wenn die Knaben sich irgend zu etwas anderm als zum Arbeiten gehen lassen [dürfen,] werden sie weder Lesen noch Musik, noch Sport, noch, was vor allen Dingen die Tüchtigkeit bedingt, Respekt lernen. Denn aus jenen [drei Schulen] pflegt besonders der Respekt zu erwachsen.</p>
+<p rendition="#et">180. Die Bildung ist der Glücklichen Schmuck und der Unglücklichen Zuflucht.</p>
+<p rendition="#et">181. Besser wird es offenbar [bei der Erziehung] zur Tugend dem <pb n="97" facs="#f00043"/> glücken, der Aufmunterung und überredende Worte als wer Gesetz und Zwangsmaßregeln zur Anwendung bringt. Denn wer sich nur durch das Gesetz am Übeltun gehindert sieht, wird vermutlich im Geheimen sündigen, wer dagegen durch Überredung einmal auf den Weg der Pflicht geführt ist, wird voraussichtlich weder heimlich noch öffentlich etwas Verkehrtes tun. Darum also zeigt sich Jemand, der mit Einsicht und Bewußtsein das Rechte tut, zugleich als entschlossener und geradsinniger [Mann.]</p>
+<p rendition="#et">182. Die edlen Dinge erarbeitet der Unterricht nur unter Mühen, die unedlen fallen dagegen sonder Mühe von selbst vom Baume. Denn selbst wider Willen zwingen sie oft einen [Menschen,] dem von Natur eine große Schwäche innewohnt, so [unedel] zu sein.</p>
+<p rendition="#et">183. Es gibt wohl [auch] Verstand bei den Jungen und Unverstand <pb n="98" facs="#f00044"/> bei den Alten. Denn nicht die Zeit lehrt denken, sondern eine frühzeitige Erziehung und Naturanlage.</p>
+<p rendition="#et">184. Beständiger Umgang mit Schlechten vermehrt schlechte Anlage.</p>
+<p rendition="#et">185. Besser sind die Aussichten der Gebildeten als der Reichtum der Ungebildeten.</p>
+<p rendition="#et">186. Übereinstimmung der Gedanken bewirkt Freundschaft.</p>
+<p rendition="#et">187. Es schickt sich für die Menschen, mehr um die Seele als um den Leib sich zu kümmern. Denn der Seele Vortrefflichkeit richtet des Leibes Schwäche auf, Leibesstärke aber ohne Verstandeskraft macht die Seele um nichts besser.</p>
+<p rendition="#et">188. Die Grenze zwischen Zuträglichem und Abträglichem ist Lust und Unlust.</p>
+<p rendition="#et">189. Das Beste für den Menschen ist sein Leben soviel wie möglich wohlgemut und so wenig wie möglich mißmutig zu verbringen. Dies wird aber dann der Fall sein, wenn er seine Lust nicht auf das Sterbliche richtet.</p>
+<p rendition="#et"><pb n="99" facs="#f00045"/> 190. Von schlimmen Werken muß man auch das Reden vermeiden.</p>
+<p rendition="#et">191. Wohlgemutheit erringen sich die Menschen durch Mäßigung der Lust und Harmonie des Lebens. Mangel und Überfluß aber pflegt umzuschlagen und große Erregungen in der Seele zu verursachen. Die in starken Gegensätzen sich aufregenden Seelen sind weder beständig noch wohlgemut. Man muß also sein Denken auf das Mögliche richten und sich mit dem Vorhandenen begnügen, ohne der Beneideten und Bewanderten viel zu achten und in Gedanken ihnen nachzujagen. Vielmehr muß man auf die Lebensschicksale der Trübsalbeladenen schauen und sich ernstlich ihre Leiden vergegenwärtigen, auf daß dir deine gegenwärtige Lage groß und beneidenswert erscheine und es dir nicht begegne Schaden zu erleiden an deiner Seele über der weiter schweifenden Begier nach mehr. Denn wer die Besitzenden und von den andern Menschen seliggepriesenen bewundert und zu jeglicher Frist mit seinen Gedanken ihnen nachjagt, wird dazu gezwungen, stets etwas Neues auszuhecken und seine Gier sogar auf irgend ein unsühnbares, durch <pb n="100" facs="#f00046"/> das Gesetz verbotenes Verbrechen zu werfen. Deshalb also ist es Pflicht, dem einen nicht nachzujagen und mit dem andern es sich wohlgemut sein zu lassen und sein eigenes Leben mit dem [anderer] zu vergleichen, denen es noch schlechter geht, und in Beherzigung ihrer Leiden sich selbst selig zu preisen, daß man es soviel besser hat und treibt. Hältst du dich also an diese Einsicht, so wirst du wohlgemuter leben und in deinem Leben nicht wenige Fluchgeister verscheuchen: Neid, Ehrsucht und Verbitterung.</p>
+<p rendition="#et">192. Leicht ist zu loben, was man nicht [loben,] und zu tadeln, [was man nicht tadeln] soll; beides aber fließt aus einem schlechten Charakter.</p>
+<p rendition="#et">193. Klugheit verrät es, sich vor einer drohenden Beleidigung zu hüten; Stumpfsinn dagegen eine erlittene nicht zu rächen.</p>
+<p rendition="#et">194. Die großen Freuden stammen aus der Betrachtung der schönen Werke.</p>
+<p rendition="#et">195. Mit Gewand und Schmuck zum Schauen prächtig ausgestattete Bilder, aber es fehlt ihnen das Herz.</p>
+<p rendition="#et"><pb n="101" facs="#f00047"/> 196. Vergessen der eigenen Sünden erzeugt Frechheit.</p>
+<p rendition="#et">197. Toren richten sich nach den [erhofften] Gewinnen des Glückes, die Kenner solcher [Gewinne] dagegen nach denen der Philosophie.</p>
+<p rendition="#et">198. [Um wieviel weiser als der Mensch ist das Tier,] das in seinem Bedürfnis weiß, wieviel es bedarf! Der [Mensch] dagegen sieht das nicht ein, wenn er ein Bedürfnis hat.</p>
+<p rendition="#et">199. Toren, denen das Leben verleidet ist, wollen trotzdem leben aus Angst vor dem Hades.</p>
+<p rendition="#et">200. Toren leben ohne Freude am Leben.</p>
+<p rendition="#et">201. Toren wünschen sich langes Leben, ohne doch dessen froh zu werden.</p>
+<p rendition="#et">202. Toren haschen nach dem Abwesenden, das Gegenwärtige dagegen, wenn es auch vorteilhafter ist als das [ihnen] Entgangene, lassen sie umkommen.</p>
+<p rendition="#et">203. Menschen, die vor dem Tode fliehen, laufen ihm gerade nach.</p>
+<p rendition="#et"><pb n="102" facs="#f00048"/> 204. Toren können niemanden in ihrem ganzen Leben zufrieden stellen.</p>
+<p rendition="#et">205. Toren wünschen sich das Leben, da sie den Tod fürchten statt des Alters.</p>
+<p rendition="#et">206. Toren wünschen sich das Alter aus Furcht vor dem Tode.</p>
+<p rendition="#et">207. Nicht jede Lust soll man erstreben, sondern nur die mit Edlem verknüpfte.</p>
+<p rendition="#et">208. Vaters Selbstbeherrschung ist für die Kinder die wirksamste Vermahnung.</p>
+<p rendition="#et">209. Für einen genügsamen Magen gibt es niemals eine verkürzte Nacht [?].</p>
+<p rendition="#et">210. Das Glück beschert einen reichen Tisch, die Mäßigkeit einen ausreichenden.</p>
+<p rendition="#et"><pb n="103" facs="#f00049"/> 211. Mäßigkeit mehrt das Erfreuliche und macht das Vergnügen noch größer.</p>
+<p rendition="#et">212. Schlaf bei Tage verrät eine Störung des Körpers oder Niedergeschlagenheit, Erschlaffung oder Unbildung der Seele. 213. Tapferkeit verringert die Schicksalsschläge.</p>
+<p rendition="#et">214. Tapfer ist nicht nur der Besieger der Feinde, sondern auch der Besieger seiner Lüste. Manche aber herrschen über Städte und dienen Weibern.</p>
+<p rendition="#et">215. Der Segen der Gerechtigkeit ist zuversichtliches und unverblüffbares Urteil, das Ende der Ungerechtigkeit aber ist Angst vor [kommendem] Unheil.</p>
+<p rendition="#et">216. Weisheit, die sich nicht verblüffen läßt, ist alles wert; denn sie verdient die höchsten Ehren.</p>
+<p rendition="#et">217. Nur wem das Freveln verhaßt ist, den haben die Götter lieb.</p>
+<p rendition="#et"><pb n="104" facs="#f00050"/> 218. Reichtum, der aus schimpflichem Gewerbe erwächst, besitzt einen um so offenkundigeren Makel.</p>
+<p rendition="#et">219. Wenn die Gier nach Geld nicht im Genughaben ihre Grenze findet, ist sie noch viel schlimmer als die drückendste Armut. Denn größere Begehrlichkeit erweckt größere Bedürfnisse.</p>
+<p rendition="#et">220. Schlimmer Gewinn bringt Ehrverlust.</p>
+<p rendition="#et">221. Hoffnung auf schlimmen Gewinn ist der Anfang des Verlustes.</p>
+<p rendition="#et">222. Allzustarkes Geldanhäufen für die Kinder ist nur ein Vorwand, durch die sich der eigentliche Charakter der Habgier verrät.</p>
+<p rendition="#et">223. Wessen der Leib bedarf, das steht allen leicht sonder Mühe und Not zu Gebote. Aber alles, was Mühe und Not erfordert und das Leben betrübt, danach trägt nicht der Leib Verlangen, sondern die Ziellosigkeit des Urteils.</p>
+<p rendition="#et"><pb n="105" facs="#f00051"/> 224. Die Gier nach Mehr verliert, was sie hat, und gleicht darin dem Hunde bei Äsop.</p>
+<p rendition="#et">225. Es ist Pflicht, die Wahrheit zu sagen, was ja auch viel vorteilhafter ist.</p>
+<p rendition="#et">226. Freimut ist das Kennzeichen freier Gesinnung, aber die Gefahr liegt dabei in der Abmessung des richtigen Zeitpunktes.</p>
+<p rendition="#et">227. Die Geizigen teilen das Los der Biene: sie arbeiten, als ob sie ewig leben würden.</p>
+<p rendition="#et">228. Den Kindern karger [Väter] geht es, wenn sie in Unwissenheit heranwachsen, wie den Tänzern, die über Schwerter Räder schlagen. Wenn sie beim Niederkommen den einzigen Fleck nicht treffen, wo sie die Füße hinsetzen müssen, sind sie verloren. Es ist aber schwierig den einen Fleck zu treffen. Denn nur das Plätzchen für die Fußsohlen ist frei. So geht es auch jenen. Wenn sie das väterliche Vorbild von Peinlichkeit und Kargheit verfehlen, pflegen sie zugrunde zu gehen.</p>
+<p rendition="#et"><pb n="106" facs="#f00052"/> 229. Sparen und Hungerleiden ist zwar nützlich, zu Zeiten aber auch Verschwenden. Die richtige Entscheidung zu treffen ist Sache eines tüchtigen [Mannes].</p>
+<p rendition="#et">230. Ein Leben ohne Feste ist ein langer Weg ohne Wirtshäuser.</p>
+<p rendition="#et">231. Wohlverständig ist, wer sich nicht grämt um das, was er nicht hat, sich vielmehr freut über das, was er hat.</p>
+<p rendition="#et">232. Von Vergnügungen erfreut am meisten, was am seltensten kommt.</p>
+<p rendition="#et">233. Überschreitet man das richtige Maß, so kann das Angenehmste zum Unangenehmsten werden.</p>
+<p rendition="#et">234. Gesundheit fordern die Menschen in ihren Gebeten von den Göttern. Sie wissen aber nicht, daß sie selbst Macht darüber haben. Indem sie ihr durch ihre Unmäßigkeit entgegenarbeiten, werden sie selbst infolge ihrer Gelüste zu Verrätern an ihrer Gesundheit.</p>
+<p rendition="#et">235. Allen, die den Lüsten des Bauches fröhnen und in Speise, Trank oder Liebe das Maß überschreiten, dauern die Genüsse nur kurz und nur während des Augenblicks, so lange sie eben essen und <pb n="107" facs="#f00053"/> trinken; die Leiden aber [danach] sind zahlreich [und langwierig]. Diese Begierde stellt sich eben stets wieder nach denselben Dingen ein, und sobald ihnen wird, was sie begehren, ist der Genuß rasch verflogen und sie haben nichts davon als einen Augenblick der Lust: dann stellt sich wieder dasselbe Bedürfnis ein.</p>
+<p rendition="#et">236. Es ist schwer mit seinem Herzen zu kämpfen; aber der Sieg verrät den überlegenden Mann.</p>
+<p rendition="#et">237. Jede Rechthaberei ist unvernünftig; denn im Hinstarren auf den Schaden des Feindes sieht sie den eigenen Vorteil nicht.</p>
+<p rendition="#et">238. Denn wer sich nach dem Mächtigeren reckt, endet mit schlimmer Aufgeblasenheit.</p>
+<p rendition="#et">239. Die Schurken halten die Eide, die sie in der Not schwören, nicht, sobald sie durchgekommen sind.</p>
+<p rendition="#et">240. Freiwillige Mühen gestalten das Ertragen unfreiwilliger leichter.</p>
+<p rendition="#et">241. Fortgesetzte Arbeit macht sich leichter durch die Gewöhnung.</p>
+<p rendition="#et"><pb n="108" facs="#f00054"/> 242. Mehr Leute werden durch Übung tüchtig als durch Anlage. 243. Alle Mühen sind angenehmer als die Ruhe, wenn man das Ziel der Mühen erreicht oder weiß, daß man es erreichen wird. Bei jedem Mißlingen aber ist alle Mühe in gleicher Weise lästig und peinvoll.</p>
+<p rendition="#et">244. Auch wenn du allein bist, sprich, und tu nichts Schlechtes. Lerne aber dich weit mehr vor dir selber schämen als vor den andern.</p>
+<p rendition="#et">245. Wenn niemand den andern schädigte, würden die Gesetze nichts dagegen haben, daß jeder nach eigenem Belieben lebte. Denn die Scheelsucht ist die Quelle der Zwietracht.</p>
+<p rendition="#et">246. Das Leben in der Fremde lehrt Genügsamkeit. Ein Stück Brot und eine Streu sind hochwillkommene Mittel gegen Hunger und Ermattung.</p>
+<p rendition="#et"><pb n="109" facs="#f00055"/> 247. Einem weisen Mann steht die ganze Welt offen. Denn das Vaterland einer trefflichen Seele ist das Universum.</p>
+<p rendition="#et">248. Das Gesetz will das Leben der Menschen wohlgestalten. Das ist ihm aber [nur] möglich, wenn sie selbst den Wunsch haben wohl behandelt zu werden. Denn denen, die ihm folgen, erweist es seine eigene Trefflichkeit.</p>
+<p rendition="#et">249. Bürgerzwist ist für beide Parteien ein Unglück. Denn er gereicht den Siegern wie den Besiegten in gleicher Weise zum Verderben.</p>
+<p rendition="#et">250. Nur mit Eintracht lassen sich große Dinge, wie die Kämpfe der Staaten, vollführen, anders nicht.</p>
+<p rendition="#et">251. Die Armut in einer Demokratie ist dem gepriesenen Glücke bei den Despoten gerade so sehr vorzuziehen wie die Freiheit der Knechtschaft.</p>
+<p rendition="#et">252. Das Interesse des Staates soll man unter allen am höchsten stellen, damit er gut verwaltet werde. Man darf dabei nicht durch Streitlust die Billigkeit verletzen oder sich wider das allgemeine Beste irgend<pb n="110" facs="#f00056"/> eine Gewalt anmaßen. Denn ein wohlverwaltetes Staatswesen ist der größte Hort. Alles ist darin beschlossen: ist dies gesund, dann ist alles gesund, und wenn es zugrunde geht, dann geht alles zugrund.</p>
+<p rendition="#et">253. Den wackeren [Bürgern] ist es nicht zuträglich ihr Eigentum zu vernachlässigen, um fremde [Geschäfte] zu treiben. Denn [sonst] pflegt es um die eigenen schlecht zu stehen. Wenn man aber die öffentlichen vernachlässigen wollte, wird sich ein übler Ruf bilden, auch wenn man nichts stiehlt oder [sonst] begeht. Droht doch selbst dem, der nichts vernachlässigt oder begeht, die Gefahr in üblen Ruf, ja sogar in Ungelegenheiten zu geraten. Es ist ja unvermeidlich, Fehler zu begehen, aber recht schwer, die Verzeihung der Menschen dafür zu erhalten.</p>
+<p rendition="#et">254. Je unwürdiger die schlechten Bürger, die Ehrenämter antreten, dazu sind, um so nachlässiger werden sie und um so mehr zeigen sie sich von Torheit und Frechheit geschwollen.</p>
+<p rendition="#et">255. Wenn die Vermögenden es über sich gewinnen den Unvermögenden vorzustrecken und beizuspringen und wohl zu tun, so liegt <pb n="111" facs="#f00057"/> bereite hierin das Mitleid und das Nichtalleinsein und die Verbrüderung und die gegenseitige Hilfe und die Eintracht der Bürger und andere gute Dinge, die Niemand [alle] aufzählen könnte.</p>
+<p rendition="#et">256. Gerechtigkeit heißt: seine Pflichten erfüllen, Ungerechtigkeit: seine Pflichten nicht erfüllen, sondern beiseite schieben.</p>
+<p rendition="#et">257. Mit dem Töten und Nichttöten gewisser Tiere steht es so: wer schadenbringende und schadenwollende tötet, bleibt straflos; und es trägt zum [allgemeinen] Besten mehr aus, dies zu tun als es zu unterlassen.</p>
+<p rendition="#et">258. Alles, was widerrechtlich Schaden bringt, muß man um jeden Preis töten. Wer dies tut, wird in jeder Verfassung mehr Ruhe und Recht und Vertrauen und Besitz beanspruchen dürfen.</p>
+<p rendition="#et">259. Wie Gesetze erlassen sind gegen feindliches Getier und Gewürm, so, mein ich, sollte man es auch gegen Menschen machen. Nach den hergebrachten Gesetzen sollte man einen Staatsfeind in jeder Verfassung <pb n="112" facs="#f00058"/> töten dürfen, in der es ein Gesetz nicht verbietet. Gesetzwidrigen [Mord] verbieten aber einzelne Landesheiligtümer, Verträge und Vereidigungen.</p>
+<p rendition="#et">260. Jeden Straßen- und Seeräuber zu töten, sollte jedem straflos gestattet sein mag dies mit eigener Hand oder durch Anstiftung [eines anderen] oder durch [richterliche] Abstimmung geschehen.</p>
+<p rendition="#et">261. Unrecht Leidenden muß man nach Kräften beispringen und es nicht geschehen lassen. Denn solches Verhalten ist gerecht und brav, das Gegenteil aber ungerecht und feig.</p>
+<p rendition="#et">262. Zu verurteilen und nicht freizusprechen sind auch die, welche Verbrechen begehen, auf denen Verbannung und Einkerkerung steht, oder solche, die bußfällig sind. Wer dagegen widergesetzlich freispricht nach Gewinn oder nach Belieben urteilend, ist ein Verbrecher, und das muß ihm am Herzen nagen.</p>
+<p rendition="#et">263. Den größten Anteil an Gerechtigkeit und Tüchtigkeit hat der zu beanspruchen, der die größten Belohnungen [an die würdigsten] verteilt.</p>
+<p rendition="#et"><pb n="113" facs="#f00059"/> 264. Man soll sich vor den anderen Menschen nicht mehr schämen als vor sich selber und um nichts mehr etwas Böses tun, ob es niemand erfahren wird oder ob alle Leute. Vielmehr soll man sich vor sich selbst am allermeisten schämen, und das sollte als Gesetz in [jedes] Seele geschrieben stehen: tue nichts Unnützes!</p>
+<p rendition="#et">265. Die Menschen erinnern sich mehr an das Verfehlte als an das Gelungene. Und das ist ja auch so ganz in der Ordnung. Denn wie nicht der Lob verdient, der anvertrautes Gut zurückgibt, wohl aber der, der es nicht tut, üblen Ruf und Strafe, so steht's auch mit dem Beamten. Denn er ist ja nicht dazu gewählt worden, seine Sache schlecht zu machen, sondern gut.</p>
+<p rendition="#et">266. Nach der jetzt bestehenden [Verfassungs]form gibt es kein Mittel für die Beamten, selbst wenn sie sehr tüchtig sind, zu verhüten, daß diese ihnen Unrecht tue. Denn es ziemt sich nicht, daß der Beamte einem andern als sich selbst [verantwortlich sei, oder daß der, der über andre geherrscht hat, über's Jahr] selbst in die Gewalt anderer gerate. Aber es muß doch auch dieser [Mißstand] irgendwie [und zwar] so geordnet <pb n="114" facs="#f00060"/> werden, daß [der Beamte,] der sich nichts zu schulden kommen läßt wenn er die Schuldigen auch noch so scharf anfaßt, nicht in jener Gewalt geraten könne, sondern daß irgend ein Gesetz oder eine sonstige [Einrichtung] den Mann, der der Gerechtigkeit waltet, schütze.</p>
+<p rendition="#et">267. Das Herrschen ist dem besseren [Mann] von Natur eigen.</p>
+<p rendition="#et">268. Einschüchterung bewirkt Liebedienerei, Zuneigung aber bringt sie nicht.</p>
+<p rendition="#et">269. Mut ist der Tat Anfang, doch das Glück entscheidet über das Ende.</p>
+<p rendition="#et">270. Verwende deine Diener wie deine Leibesglieder, den einen zu diesem, den anderen zu jenem [Dienste.]</p>
+<p rendition="#et">271. Liebesschmollen löst nur Liebeszärtlichkeit [?].</p>
+<p rendition="#et"><pb n="115" facs="#f00061"/> 272. [D. sagte:] Wer mit seinem Eidam Glück hat, findet einen Sohn, wer Unglück, verliert eine Tochter obendrein.</p>
+<p rendition="#et">273. Das Weib ist viel rascher bei der Hand Ränke zu spinnen als der Mann.</p>
+<p rendition="#et">274. Wenig Reden ist ein Schmuck des Weibes; schön ist aber auch Einfachheit im Schmuck.</p>
+<p rendition="#et">275. Kindererziehung ist eine unsichere Sache. Wenn's glückt, so ist es eitel Kampf und Sorge gewesen; wenn's aber mißglückt, ist der Kammer darüber mit keinem anderen zu vergleichen.</p>
+<p rendition="#et">276. Meines Bedünkens sollte man auf Nachkommenschaft verzichten. Denn ich erblicke im Kinderbesitz viel schwere Gefahren und viel Trübsal, dagegen wenig Segen und auch dies nur in geringem und schwachem Maße.</p>
+<p rendition="#et">277. Wer irgend eine Nötigung hat, sich Nachkommenschaft zu <pb n="116" facs="#f00062"/> sichern, tut dies meines Bedünkens besser durch Adoption von Freundeskindern. Dann wird er auf diesem Wege einen Knaben bekommen, wie er ihn wünscht. Denn er kann sich einen auswählen, wie er ihn will; und wer dazu tauglich zu sein scheint, wird ihm wohl auch infolge seiner Naturanlage am meisten folgen. Und dabei ergibt sich folgender Unterschied: hier kann man den Knaben nach Herzenswunsch aus einer Menge, so wie man ihn braucht, auswählen: zeugt man ihn aber sich selbst, so sind viele Gefahren dabei: denn man muß doch mit dem, der einem gerade geboren wird, vorlieb nehmen.</p>
+<p rendition="#et">278. Die Menschen glauben, es gehöre von Natur wie nach einer alten Gesellschaftsordnung zu den notwendigen [Pflichten,] für Nachkommenschaft zu sorgen; ebenso [steht es] offenbar auch bei den übrigen Lebewesen. Denn alle bringen Junge zur Welt, der Natur gehorchend, ohne jeden [eigenen] Nutzen. Im Gegenteil, wenn sie geboren sind, müht sich jedes ab und zieht sie auf, so gut es geht, und ängstigt sich um sie ab, so lange sie noch klein sind, und härmt sich, falls ihnen etwas zustößt. So ist der natürliche Instinkt bei allen Wesen, <pb n="117" facs="#f00063"/> die eine Seele besitzen. Bei dem Menschen dagegen hat es sich schon zu einer gewöhnlichen Anschauung ausgebildet, daß man auch einen gewissen Vorteil von seinem Sprößling erwartet.</p>
+<p rendition="#et">279. Soweit es sich nur immer ausführen läßt, soll man sein Vermögen unter die Kinder verteilen und zugleich die Hand darüber halten, daß sie mit dem, was sie in Händen haben, keine Tollheit begehen. Denn einmal werden sie viel sparsamer mit dem Gelde wirtschaften lernen und eifriger im Erwerbe sein, und es entsteht ein Wetteifer unter einander. Denn in einer gemeinsamen [Wirtschaft] schmerzen die Ausgaben nicht so wie im getrennten Haushalte, und die Einnahmen erfreuen nicht ebenso, sondern viel weniger.</p>
+<p rendition="#et">280. Es ist möglich, ohne viel vom Eigenen aufzuwenden, die Kinder zu erziehen und [dadurch] zugleich um ihr Vermögen und ihr Leben eine rettende Mauer zu ziehen.</p>
+<p rendition="#et">281. Wie bei den Geschwüren der Krebs die schlimmste Krankheit ist, so beim Vermögen das Angliedern angrenzenden Besitzes [?].</p>
+<p rendition="#et"><pb n="118" facs="#f00064"/> 282. Geldausgeben mit Verstand dient dazu, sich freigebig und volksfreundlich zu erweisen, ohne Verstand aber ist es eine fürs Gemeinwohl [unnütze] Protzerei.</p>
+<p rendition="#et">283. Armut, Reichtum: Worte für Entbehrung und Überfluß. Mithin ist, wer entbehrt, nicht reich, und wer nicht entbehrt, nicht arm.</p>
+<p rendition="#et">284. Wenn du nicht nach vielem begehrst, wird dir das Wenige viel scheinen. Denn geringes Begehren verleiht der Armut dieselbe Stärke wie dem Reichtum.</p>
+<p rendition="#et">285. Man soll einsehen, daß das menschliche Leben schwach und kurzdauernd, und daß es mit zahlreichen Schädlichkeiten und Schwierigkeiten verknüpft ist, auch nur mäßigen Besitz zu verwalten und unmäßige Mühe auf das Notdürftige zu verwenden.</p>
+<p rendition="#et"><pb n="119" facs="#f00065"/> 286. Glücklich, wer bei geringem Vermögen wohlgemut, unglücklich, wer bei großem mißmutig ist.</p>
+<p rendition="#et">287. Gemeinsame Not ist schlimmer als die des einzelnen; denn da bleibt keine Hoffnung auf Beistand.</p>
+<p rendition="#et">288. Es gibt Krankheit des Hauses und des Lebens wie des Leibes.</p>
+<p rendition="#et">289. Unüberlegtheit ist es, den Zwangslagen des Lebens keine Rechnung zu tragen.</p>
+<p rendition="#et">290. Das unbotmäßige Leid einer schmerzerstarrten Seele banne durch Vernunft.</p>
+<p rendition="#et">291. Armut mit Würde zu tragen ist ein Zeichen von Selbstzucht.</p>
+<p rendition="#et">292. Unsinnig sind der Unverständigen Hoffnungen.</p>
+<p rendition="#et">293. Leute, denen des Nächsten Unglück Wohlgefallen bereitet, <pb n="120" facs="#f00066"/> sehen nicht ein, daß des Schicksals Wechsel allen gemeinsam ist; sie sind auch arm an Freude im eigenen Hause.</p>
+<p rendition="#et">294. Kraft und Schönheit sind Vorzüge der Jugend, die des Alters aber ist Blüte der Besonnenheit.</p>
+<p rendition="#et">295. Der Greis ist einmal jung gewesen, ob der Jüngling aber das Greisenalter erreichen wird, ist noch ungewiß. So ist das abgeschlossene Gut besser als das noch in der Zukunft liegende und unsichere.</p>
+<p rendition="#et">296. Alter ist eine Verstümmelung bei ganzem Leibe: alles hat es, und allem fehlt etwas.</p>
+<p rendition="#et">297. Manche Leute, die von der Auflösung der menschlichen Natur nichts wissen, sich dagegen ihres schlechten Lebenswandels wohl bewußt sind, mühen sich ihre Lebenszeit in Unruhen und Ängsten ab, indem sie über die Zeit nach dem Ende erlogene Fabeln erdichten.</p>
+<p rendition="#et">298. Seine eigenen.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zweifelhaftes</note>
+
+<head><pb n="121" facs="#f00067"/> Zweifelhaftes</head>
+<p rendition="#et">298<hi rendition="#sup">a</hi>. Halte sorgsam den Zorn, der in deiner Brust sich sammelt, zurück und hüte dich deine Seele aufzuregen und laß nicht in allem die Zunge entscheiden!</p>
+
+</div>
+
+</body></text></TEI>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Dialoge über natürliche Religion</title>
+        <author><persName ref="http://d-nb.info/gnd/54735">
+        <forename>David</forename>
+        <surname>Hume</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">David Hume: Dialoge über natürliche Religion. Über Selbstmord und
+      Unsterblichkeit der Seele. Ins Deutsche übersetzt und mit einer Einleitung versehen von
+      Friedrich Paulsen, 3. Auflage, Leipzig: Felix Meiner, 1905 (Philosophische Bibliothek, Bd.
+      36).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Dialoge über natürliche Religion</title>
+      <title level="m" type="sub">Über Selbstmord und Unsterblichkeit der Seele</title>
+      <author><persName ref="http://d-nb.info/gnd/54735">
+        <forename>David</forename>
+        <surname>Hume</surname>
+      </persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/39603"><forename>Friedrich</forename><surname>Paulsen</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition n="3">{3}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Felix Meiner</name>
+      </publisher><pubPlace>Leipzig</pubPlace>
+      <date type="publication">1905</date>
+      <date type="firstPublication">1877</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Der bereits 1757 gedruckte Aufsatz wurde (ebenso wie die Abhandlung »Über die Unsterblichkeit der Seele«) noch vor der Auslieferung auf Humes Wunsch unterdrückt. Erste Veröffentlichung (postum) in: David Hume: Five Dissertations. London 1777. Der Text folgt der Übersetzung durch Friedrich Paulsen von 1877.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Über Selbstmord</note>
+
+<pb n="145" facs="#f0001"/>
+<head>David Hume</head>
+<head>Über Selbstmord</head>
+<head><hi rendition="#i">(Of Suicide)</hi></head>
+<p rendition="#et">Ein wichtiger Gewinn, welcher aus der Philosophie kommt, besteht darin, daß sie das allein wirksame Gegengift gegen Aberglauben und falsche Religion liefert. Alle übrigen Heilmittel gegen diese verderbliche Krankheit sind vergeblich oder wenigstens unsicher. Schlichter gesunder Verstand und Weltkenntnis, welche für die meisten Vorfälle des Lebens ausreichen, erweisen sich hier als unwirksam: Geschichte und tägliche Erfahrung bieten Beispiele von Männern, welche, mit den größten Fähigkeiten für Geschäft und Leben ausgestattet, ihr Leben lang dem gröbsten Aberglauben knechtisch unterworfen geblieben sind. Selbst Heiterkeit und Milde des Temperaments, welche Balsam in jede andere Wunde gießen, bieten kein Heilmittel gegen ein so bösartiges Gift, wie besonders daraus hervorgeht, daß das schöne Geschlecht, obwohl es gewöhnlich mit diesen reichen Gaben von der Natur ausgestattet ist, so manchen Tag von jenem lästigen Eindringling verkümmert sieht. Hat aber gesunde Philosophie einmal die Herrschaft über den Geist gewonnen, dann ist Aberglaube tatsächlich ausgeschlossen; und man kann zuversichtlich behaupten, daß ihr Sieg über diesen Feind vollständiger ist als über die meisten Laster oder Unvollkommenheiten, denen die menschliche Natur unterworfen ist. Liebe oder Zorn, Ehrgeiz oder Habsucht haben ihre Wurzel in dem Temperament und den Empfindungen, welche auch die gesundeste Vernunft kaum jemals imstande ist, ganz ins Rechte zu bringen; der Aberglaube hingegen, welcher auf falscher Meinung beruht, muß unmittelbar verschwinden, sobald wahre Philosophie richtigere <pb n="145" facs="#f0002"/> Ansichten über höhere Mächte eingeflößt hat. Hier ist der Kampf zwischen Krankheit und Heilmittel mehr ein gleicher, und das letztere kann sich wirksam zu erweisen durch nichts verhindert werden als durch seine eigne Unwahrheit und Verfälschtheit.</p>
+<p rendition="#et">Es würde überflüssig sein, die Verdienste der Philosophie durch Entwickelung des verderblichen Einflusses jenes Fehlers, von welchem sie den menschlichen Geist heilt, zu erheben. Der Abergläubische, sagt Tullius<note place="end" n="1"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#F697</ref></bibl></note>, ist in jeder Lage, in jedem Vorfall des Lebens elend; selbst der Schlaf, welcher den unglücklichen Sterblichen alle andern Sorgen abnimmt, bietet ihm neuen Anlaß zum Schrecken, wenn er seine Träume befragt und in den Nachtgesichtern zukünftiges Unglück vorbedeutet findet. Ich füge hinzu, daß er, obwohl der Tod allein seinem Elend eine Grenze zu setzen vermag, an diesen Zufluchtsort zu fliehen nicht wagt, sondern ein elendes Dasein fortschleppt, aus leerer Furcht, daß er durch Gebrauch einer Kraft, welche ihm sein Schöpfer gab, jenes gütige Wesen beleidige. Die Gaben Gottes und der Natur werden uns durch diesen grausamen Feind geraubt, und wo uns ein Schritt aus dem Ort des Schmerzes und der Sorge herausführen würde, ketten uns seine Drohungen an ein verhaßtes Dasein, welches elend zu machen derselbe in erster Reihe beiträgt.</p>
+<p rendition="#et">Es ist bemerkt worden, daß diejenigen, welche durch die Unglücksfälle des Lebens zur Anwendung dieses letzten Heilmittels sich genötigt sahen, wenn sie durch die unzeitige Fürsorge ihrer Freunde der erwählten Todesart beraubt werden, selten eine andere wagen oder zum zweitenmal so viel Entschluß zuwege bringen, um ihr Vorhaben auszuführen. So groß ist unser Schauder vor dem Tode, daß derselbe, wenn er sich in einer andern Gestalt darbietet, als derjenigen, mit welcher man seine Einbildungskraft auszusöhnen sich bemüht hat, neue Schrecken erhält und den schwachen Mut eines Menschen überwältigt. Kommen zu dieser natürlichen Furchtsamkeit noch die Drohungen des Aberglaubens, so ist es kein Wunder,<pb n="146" facs="#f0003"/> daß die Menschen alle Gewalt über ihr Leben verlieren, da selbst manche Lust und Freude, zu der wir durch eine starke Neigung hingezogen werden, uns durch diesen grausamen Tyrannen entrissen werden. Wir wollen hier versuchen, den Menschen in seine angeborne Freiheit wieder einzusetzen, indem wir alle Argumente gegen den Selbstmord prüfen und zeigen, daß diese Handlung frei von Schuld oder Tadel sein mag, wie dies auch die gemeine Ansicht aller alten Philosophen ist.</p>
+<p rendition="#et">Wenn Selbstmord ein Verbrechen ist, so muß er eine Übertretung unserer Pflicht gegen Gott, gegen unsere Nächsten oder gegen uns selbst sein. Um zu beweisen, daß Selbstmord keine Übertretung unserer Pflicht gegen Gott ist, genügt vielleicht die folgende Überlegung. Um die materielle Welt zu regieren, hat der allmächtige Schöpfer allgemeine und unveränderliche Gesetze aufgestellt, durch welche alle Körper, vom größten Planeten bis zum kleinsten Teilchen der Materie, in der ihnen angewiesenen Bahn und Verrichtung erhalten werden. Die tierische Welt zu regieren, hat er alle lebenden Wesen mit körperlichen und geistigen Fähigkeiten ausgestattet: mit Sinnen, Gefühlen, Begierden, Gedächtnis und Urteil, durch welche sie in dem ihnen bestimmten Lebenslauf angetrieben und geleitet werden. Diese beiden verschiedenen Prinzipien der materiellen und der tierischen Welt suchen einander beständig einzuschränken und hemmen oder fördern gegenseitig ihre Wirksamkeit. Die Kräfte des Menschen und der andern Tiere werden durch die Natur und Eigenschaften der umgebenden Körper beständig eingeschränkt und geleitet, und die Modifikationen und Bewegungen dieser Körper werden durch die Tätigkeit aller Tiere fortwährend verändert. Der Mensch wird in seiner Wanderung über die Oberfläche der Erde durch Flüsse aufgehalten, und Flüsse leihen, richtig geleitet ihre Kraft zur Bewegung von Maschinen, welche dem Menschen dienen. Aber obwohl die Gebiete der materiellen und tierischen Kräfte nicht gänzlich getrennt sind, so entspringt doch daraus kein Zwiespalt und keine Unordnung in der Schöpfung; im Gegenteil, aus der Vermischung, Einigung und Gegensätzlichkeit all der verschiedenen Kräfte lebloser<pb n="147" facs="#f0004"/> Körper und lebender Wesen entspringt jene Sympathie, Einstimmigkeit und Verhältnismäßigkeit, welche den sichersten Beweis für eine oberste Weisheit bietet. Die Vorsehung Gottes erscheint nicht unmittelbar in irgendeiner Handlung, sondern sie lenkt alle Dinge durch jene allgemeinen und unveränderlichen Gesetze, welche vom Anfang der Zeit an errichtet sind. Alle Ereignisse können in einem gewissen Sinne Handlungen des Allmächtigen genannt werden; sie entspringen alle aus jenen Kräften, mit welchen er die Kreaturen begabt hat. Ein Haus, welches durch sein eigenes Gewicht fällt, ist nicht mehr durch seine Vorsehung zu Fall gebracht als ein anderes, das durch Menschenhände zerstört wird; noch sind die menschlichen Fähigkeiten weniger sein Werk, als die Gesetze der Bewegung und Gravitation. Wenn die Gefühle sich entfalten, wenn der Wille befiehlt, wenn die Glieder gehorchen, so ist das alles Gottes Handlung; und sowohl über diese belebten als über die unbelebten Prinzipien hat er die Weltregierung aufgerichtet. Jedes Ereignis ist in den Augen des unendlichen Wesens, welches in einem Augenblick die entferntesten Orte des Raumes und die entlegensten Zeiträume umfaßt, gleich wichtig. Es gibt kein Ereignis, wie wichtig es für uns sein mag, das er von den allgemeinen weltbeherrschenden Gesetzen ausgenommen und im besonderen seiner eigenen unmittelbaren Handlung und Einwirkung vorbehalten hätte. Die Umwälzung von Staaten und Reichen beruht auf der kleinsten Laune oder Gemütsbewegung eines einzigen Mannes; und das Leben der Menschen wird durch den kleinsten Zufall der Luft oder der Lebensweise, Sonnenschein oder Unwetter, verkürzt oder verlängert. Die Natur hält ihren Lauf und ihre Wirkungsweise ein, und wenn jemals die allgemeinen Gesetze durch besondere Willensakte der Gottheit durchbrochen werden, so geschieht dies auf eine Weise, welche der menschlichen Beobachtung durchaus entgeht. Wie auf der einen Seite die Elemente und die andern leblosen Teile der Schöpfung ohne Rücksicht auf die besonderen Interessen und Umstände der Menschen wirken, so sind die Menschen bei den mannigfachen Zusammenstößen <pb n="148" facs="#f0005"/> mit der Materie auf eigenes Urteil und eigenes Belieben angewiesen und mögen jede Fähigkeit mit welcher sie ausgestattet sind, anwenden, um sich Wohlsein, Glück und Erhaltung zu verschaffen. Was bedeutet nun jener Grundsatz, daß ein Mensch, welcher des Lebens müde und gehetzt von Schmerz und Elend die natürlichen Schrecken des Todes mannhaft überwindet und sich jenem grausamen Schauspiel entzieht, daß, sage ich, ein solcher Mann durch einen Eingriff in das Geschäft der göttlichen Vorsehung und durch Störung der Weltordnung den Zorn des Schöpfers auf sich geladen haben soll? Sollen wir sagen, daß der Allmächtige die Verfügung über das Lebender Menschen in einer besonderen Weise sich vorbehalten und dieses Ereignis nicht in gleicher Weise, wie alle anderen, den allgemeinen Gesetzen des Weltlaufs unterstellt hat? Das ist offenbar falsch; das Leben der Menschen hängt von denselben Gesetzen ab, wie das Leben aller andern Tiere, und diese sind den allgemeinen Gesetzen der Materie und der Bewegung unterworfen. Der Fall eines Turmes oder die Beibringung eines Giftes zerstört einen Menschen ebenso, wie die gemeinste Kreatur; eine Überschwemmung fegt alles, was in dem Bereich ihrer Wut ist, ohne Unterschied hinweg. Wenn demnach das Leben der Menschen von den allgemeinen Gesetzen der Materie und der Bewegung für immer abhängig ist, ist die Verfügung über dasselbe deshalb verbrecherisch, weil es in jedem Fall verbrecherisch ist, in diese Gesetze Eingriffe zu machen oder ihre Wirkung zu durchkreuzen? Aber das erscheint unsinnig: alle Tiere sind rücksichtlich ihrer Lebensführung der eigenen Klugheit und Geschicklichkeit überlassen, und haben volles Recht, soweit ihre Kraft reichte die Wirkungen der Natur abzuändern. Ohne die Übung dieses Rechtes könnten sie nicht einen Augenblick leben; jede Handlung, jede Bewegung eines Menschen verändert die Ordnung der materiellen Teile und lenkt die allgemeinen Gesetze der Bewegung von ihrem gewöhnlichen Lauf ab. Fassen wir diese Folgerungen zusammen, so finden wir, daß das menschliche Leben von den allgemeinen Gesetzen der Materie und Bewegung abhängt, und daß <pb n="149" facs="#f0006"/> es kein Eingriff in das Geschäft der Vorsehung ist, diese allgemeinen Gesetze zu durchkreuzen oder zu ändern: hat folglich nicht jeder die freie Verfügung über sein Leben? Und kann er nicht mit vollem Recht von der Macht, welche ihm die Natur verliehen hat, Gebrauch machen? Um die Beweiskraft dieses Schlusses zu vernichten, müßte ein Grund aufgezeigt werden, weshalb dieser spezielle Fall ausgenommen ist. Ist es deshalb, daß menschliches Leben so große Bedeutung hat, daß es für menschliche Einsicht zu anmaßend ist, darüber zu verfügen? Aber das Leben eines Menschen hat für das Weltall nicht größere Bedeutung als das einer Auster; und wäre es von wie großer Bedeutung immer, so hat die Ordnung der menschlichen Natur es tatsächlich doch menschlicher Einsicht unterworfen und nötigt uns in jedem Augenblick bezüglich desselben Beschlüsse zu fassen.</p>
+<p rendition="#et">Wäre die Verfügung über das menschliche Leben dem Allmächtigen als besonderer Wirkungsbereich vorbehalten, so daß es ein Eingriff in sein Recht wäre, wenn Menschen selbst über ihr Leben verfügten, so würde es in gleicher Weise verbrecherisch sein für die Erhaltung des Lebens tätig zu sein als für die Zerstörung. Wenn ich einen Stein, der auf meinen Kopf fallen will, abwende, durchkreuze ich den Lauf der Natur und überschreite die Grenzen des vorbehaltenen göttlichen Wirkungsbereichs, indem ich mein Leben über die Zeitspanne, welche ihm nach den allgemeinen Gesetzen der Materie und Bewegung zugemessen ist, hinaus verlängere.</p>
+<p rendition="#et">Ein Haar, eine Fliege, ein Insekt ist imstande das mächtige Wesen, dessen Leben von solcher Bedeutung ist, zu zerstören. Ist die Annahme absurd, daß menschliche Einsicht verfügen darf über das, was von so nichtigen Ursachen abhängig ist? Den Nil oder die Donau aus ihrem Lauf abzulenken wäre kein Verbrechen, wenn ich es vermöchte. Wo ist denn das Verbrechen, einige wenige Unzen Blut aus ihrem natürlichen Kanal abzulenken? Meint Ihr, daß ich gegen die Vorsehung murre oder meine Erschaffung verwünsche, weil ich aus dem Leben gehe und einem Dasein ein Ende mache, das mich elend machte, wenn ich es fortsetzte? Fern seien solche Gedanken <pb n="150" facs="#f0007"/> von mir! Ich bin bloß von einer Tatsache überzeugt, welche ihr selbst für eine mögliche anseht, daß nämlich das menschliche Leben unglücklich sein kann, und daß mein Dasein, wenn weiter ausgedehnt, unwünschenswert sein würde, aber ich danke der Vorsehung sowohl für das Gute, das ich genossen, als für die Macht, womit sie mich ausgestattet, den drohenden Übeln mich zu entziehen.<note place="end" n="2"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#F698</ref></bibl></note> Euch kommt es zu, gegen die Vorsehung zu murren, die Ihr Euch törichterweise einbildet, solche Macht nicht zu besitzen, und die Ihr ein verhaßtes Leben, mit Schmerz und Krankheit, mit Schande und Armut beladen fortsetzen müßt. – Lehrt Ihr nicht, daß ich, wenn ein Übel mich befällt, sei es auch durch die Bosheit meiner Feinde, es mit Ergebung gegen die Vorsehung tragen müsse, und daß die Handlungen der Menschen Handlungen des Allmächtigen sind, so gut wie die Handlungen der leblosen Dinge? Wenn ich daher in mein eigenes Schwert falle, so empfange ich ebenso den Tod aus der Hand der Gottheit, als wenn derselbe von einem Löwen, einem Sturz, einem Fieber herkäme. Die Ergebung in den Willen der Vorsehung, welche Ihr in jedem Unglück, das mich befällt, verlangt, schließt menschliche Geschicklichkeit und Sorgfalt nicht aus, wenn ich dadurch dem Unglück entgehen kann. Und warum sollte ich nicht ein Heilmittel so gut wie das andere gebrauchen? Ist mein Leben nicht mein eigenes, so wäre es ebensowohl ein Verbrechen, es in Gefahr zu bringen, als darüber zu verfügen; und es könnte ein Mann, den Ruhmliebe oder Freundschaft in die größten Gefahren treibt, nicht den Namen eines Helden verdienen, wenn ein anderer, der seinem Leben aus denselben oder ähnlichen Ursachen ein Ende macht, mit Recht ein schlechter Mensch oder Bösewicht genannt würde. – Es gibt kein Wesen, das ein Vermögen oder eine Kraft besitzt, welche es nicht von seinem Schöpfer empfangen hat; noch gibt es eines, welches durch eine noch so sehr von der Regel <pb n="151" facs="#f0008"/> abweichende Handlung in den Plan der Vorsehung eingreifen oder den Weltlauf in Unordnung bringen kann. Seine Wirkungen sind ihr Werk ebenso wie die Kette von Ereignissen, welche sie durchkreuzen; und welches Prinzip immer überwiegt, wir dürfen eben hieraus schließen, daß es von der Vorsehung begünstigt ist. Mag es lebend oder unbelebt, vernunftbegabt oder vernunftlos sein, es bleibt dabei: seine Macht ist von dem höchsten Schöpfer abgeleitet und in der Ordnung seiner Vorsehung einbegriffen. Wenn die Angst vor Schmerz die Liebe zum Leben überwiegt, wenn eine absichtliche Handlung die Wirkungen blinder Ursachen vorwegnimmt, so geschieht es einzig infolge der Kräfte und Anlagen, welche er seinen Geschöpfen eingepflanzt hat. Die göttliche Vorsehung bleibt unverletzt und liegt hoch über dem Bereich menschlicher Eingriffe.<note place="end" n="3"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#F699</ref></bibl></note> Es ist gottlos, sagt der alte römische Aberglaube, Ströme aus ihrem Lauf abzulenken und in die Rechte der Natur einzugreifen. Es ist gottlos, sagt der französische Aberglaube, die Pocken einzuimpfen und das Geschäft der Vorsehung sich anzumaßen durch absichtliche Hervorbringung von Krankheiten. Es ist gottlos, sagt der moderne europäische Aberglaube, dem eigenen Leben eine Grenze zu setzen und dadurch gegen den Schöpfer sich aufzulehnen. Und warum, frage ich, ist es nicht gottlos, ein Haus zu bauen, das Feld zu bestellen, den Ozean zu befahren? In allen diesen Handlungen wenden wir unsere geistigen und körperlichen Kräfte an, um in dem Lauf der Natur eine Veränderung hervorzubringen; und etwas anderes tun wir auch dort nicht. Sie sind deshalb alle gleich unschuldig oder gleich verbrecherisch. »Aber du bist durch die Vorsehung wie eine Schildwache auf deinen besonderen Posten gestellt; und wenn du diesen unabgerufen verläßt, so bist du der Auflehnung gegen deinen allmächtigen Herrn schuldig und hast sein Maßfallen auf dich geladen.« – Ich frage: Woraus folgerst du, daß mich die Vorsehung auf diesen Posten gestellt hat? Was mich betrifft, so finde ich, daß ich meine Geburt einer langen Kette von Ursachen <pb n="152" facs="#f0009"/> verdanke, von welchen viele auf willkürlichen Handlungen von Menschen beruhten. »Aber die Vorsehung überwachte alle diese Ursachen und es geschieht nichts in der Welt ohne ihre Zustimmung und Mitwirkung.« Wenn dies, so erfolgt auch mein Tod, wie freiwillig immer, nicht ohne ihre Zustimmung; und wenn Schmerz oder Sorge meine Geduld überwältigt und mich des Lebens müde macht, so darf ich schließen, daß ich in den klarsten und ausdrücklichsten Worten von meinem Posten abgerufen bin. Es ist die Vorsehung, sicherlich, welche mich in diesem Augenblick in dieses Zimmer gesetzt hat; darf ich dasselbe, wenn es mir gut scheint, nicht verlassen, ohne den Vorwurf auf mich zu laden, daß ich meinen Posten verlassen habe? Wenn ich tot sein werde, werden die Elemente, aus welchen ich zusammengesetzt bin, noch ihren Dienst in der Welt tun und in der großen Werkstatt von gleichem Nutzen sein, als da sie dieses individuelle Geschöpf bildeten. Für das Ganze wird der Unterschied nicht größer sein als zwischen meinem Aufenthalt im Zimmer oder im Freien. Die eine Veränderung hat für mich größere Wichtigkeit, für das Weltall nicht.</p>
+<p rendition="#et">Es ist eine Art von Gotteslästerung, sich einzubilden, daß ein geschaffenes Wesen die Ordnung der Welt stören oder das Geschäft der Vorsehung sich anmaßen kann. Es setzt voraus, daß dieses Wesen Kräfte und Fähigkeiten besitzt, welche es nicht von dem Schöpfer empfing und welche seiner Herrschaft und Gewalt nicht Untertan sind. Ein Mann kann ohne Zweifel die Gesellschaft stören und dadurch das Mißfallen des Allmächtigen auf sich laden; aber die Regierung der Welt ist weit über den Bereich seiner Eingriffe erhaben. Und wie wird es sichtbar, daß der Allmächtige mit jenen Handlungen, welche die Gesellschaft stören, unzufrieden ist? Durch die Grundsätze, welche er der menschlichen Natur eingepflanzt hat und welche uns mit einem Gefühl der Reue erfüllen, wenn wir uns selbst solcher Handlungen schuldig gemacht haben, und mit einem Gefühl der Mißbilligung und des Tadels, wenn wir sie an anderen wahrnehmen. – Wir wollen nun, unserem vorgesetzten Gedankengang folgend, untersuchen, ob Selbstmord zu dieser Art von Handlungen <pb n="153" facs="#f00010"/> gehört und ein Bruch unserer Pflicht gegen den Nächsten oder die Gesellschaft ist.</p>
+<p rendition="#et">Ein Mensch, welcher sich aus dem Leben zurückzieht, fügt der Gesellschaft kein Leid zu; er hört bloß auf, ihr Gutes zu tun, was, wenn es ein Unrecht ist, ein Unrecht von der geringsten Art ist. – Alle unsere Verpflichtungen, der Gesellschaft Gutes zu tun, scheinen eine Art von Gegenseitigkeit einzuschließen. Ich empfange die Wohltaten der Gesellschaft und daher bin ich verpflichtet, ihre Interessen zu fördern; wenn ich mich aber aus der Gesellschaft überhaupt entferne, bin ich dann noch gebunden? Doch zugestanden, daß unsere Verpflichtung Gutes zu tun, beständig dauerte, so hat sie doch Grenzen: ich bin nicht verpflichtet, der Gesellschaft ein geringfügiges Gutes zu tun auf Kosten eines großen Schmerzes meinerseits: weshalb sollte ich also wegen eines nichtigen Nutzens, den die Gesellschaft vielleicht von mir erlangen möchte, ein elendes Dasein verlängern? Wenn ich auf Grund von Alter und Krankheit einen Beruf aufgeben und meine ganze Zeit darauf verwenden darf, mich gegen diese unglücklichen Umstände zu schützen und so viel als möglich das Elend meines künftigen Lebens zu erleichtern, warum darf ich nicht durch eine Handlung, welche für die Gesellschaft nicht nachteiliger ist, auf einmal all dieses Elend abschneiden? – Aber man setze den Fall, daß es nicht mehr in meiner Macht steht, das Interesse der Gesellschaft zu fördern, daß ich ihr eine Last bin, daß mein Leben eine andere Person verhindert, der Gesellschaft viel mehr zu nützen: in solchem Fall muß mein Verzicht auf das Leben nicht bloß schuldlos, sondern löblich sein. Und die meisten Menschen, welche in die Versuchung kommen, das Dasein zu verlassen, sind in solcher Lage; diejenigen, welche Gesundheit und Kraft und Ansehen haben, neigen gewöhnlich zur Zufriedenheit mit der Welt.</p>
+<p rendition="#et">Es ist jemand an einer Verschwörung für das öffentliche Wohl beteiligt, wird auf Verdacht ergriffen, mit der Folter bedroht; er kennt seine Schwäche und weiß, daß das Geheimnis von ihm erpreßt werden wird: könnte ein solcher für das öffentliche Wohl besser sorgen als durch <pb n="154" facs="#f00011"/> schleuniges Beenden eines elenden Lebens? Dies war der Fall des berühmten und tapferen Strozzi von Florenz. – Oder man setze den Fall, daß ein Verbrecher mit Recht zu einem schmachvollen Tode verurteilt ist, läßt sich irgendein Grund finden, weshalb er nicht seine Bestrafung vorwegnehmen und sich all der Angst des Denkens an ihr gräßliches Nahen entziehen soll? Er greift in das Geschäft der Vorsehung nicht mehr ein als der Magistrat, der seine Hinrichtung befahl, und sein freiwilliger Tod ist der Gesellschaft durch Befreiung von einem verderblichen Mitglied gleich nützlich.</p>
+<p rendition="#et">Daß Selbstmord oft mit dem Interesse und mit der Pflicht gegen uns selbst verträglich ist, kann niemand bezweifeln, der zugibt, daß Alter, Krankheit oder Unglück das Leben zu einer Last und selbst schlimmer als seine Vernichtung machen können. Ich glaube, daß noch niemand ein Leben wegwarf, das zu erhalten der Mühe wert war. Denn unsere natürliche Furcht vor dem Tode ist so groß, daß kleine Beweggründe nie imstande sein werden uns mit ihm auszusöhnen; und wenn vielleicht jemandes Gesundheits- oder Glücksumstände dieses Mittel nicht zu erfordern scheinen, so dürfen wir wenigstens dessen sicher sein, daß derjenige, der ohne augenscheinlichen Grund es anwendete, an so unheilbarer Verkehrtheit oder Düsterheit des Temperaments litt, daß dieselbe alle Lust vergiftete und ihn ebenso elend machte, als wenn er mit dem schwersten Mißgeschick beladen gewesen wäre. Wenn Selbstmord ein Verbrechen ist, so ist es Feigheit allein, die uns dazu antreiben kann. Wenn er kein Verbrechen ist, so sollten sowohl Einsicht als Tapferkeit uns anhalten, uns auf einmal von dem Dasein zu befreien, wenn es eine Last wird. Dies ist dann der einzige Weg, auf welchem wir der Gesellschaft nützlich sein können, indem wir ein Beispiel geben, dessen Nachahmung jedermann seine Chance für glückliches Leben erhält und ihn von Gefahr und Elend wirksam befreit.<note place="end" n="4"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#F700</ref></bibl></note></p>
+<pb n="155" facs="#f00012"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#N697</ref>1</bibl> De Divinat. lib. II.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#N698</ref>2</bibl> Agamus Deo gratias, quod nemo in vita teneri potest (Danken wir Gott, daß niemand im Leben festgehalten werden kann.) Seneca Epist. XII.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#N699</ref>3</bibl> Tacit. Ann. lib. I.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Hume, David/Über Selbstmord#N700</ref>4</bibl> Es würde sich leicht beweisen lassen, daß Selbstmord für Christen ebenso rechtmäßig ist als für die Heiden. Es gibt nicht ein einziges Schriftwort, das ihn verbietet. Diese große und unfehlbare Richtschnur des Glaubens und Lebens, an welcher alle Philosophie und menschliche Überlegung zu prüfen ist, hat uns in diesem Punkte unsere natürliche Freiheit gelassen. Ergebung gegen die Vorsehung wird allerdings in der Schrift empfohlen; aber diese befallt allein Unterwerfung unter diejenigen Übel, welche unvermeidlich sind, nicht unter die, welchen durch Klugheit oder Tapferkeit abgeholfen werden kann. »Du sollst nicht töten«, hat offenbar den Sinn, das Töten anderer, über deren Leben uns kein Recht zusteht, auszuschließen. Daß diese Vorschrift, wie die meisten Schriftstellen, durch Überlegung und gesunden Menschenverstand 
+modifiziert werden muß, geht aus dem Verfahren der Obrigkeiten klar hervor, welche Verbrechen am Leben strafen, trotz des Buchstabens des Gesetzes. Aber ginge dies Verbot auch ganz ausdrücklich auf Selbstmord, so würde es jetzt doch keine Geltung haben, denn das Gesetz Mosis ist abgeschafft, soweit es nicht durch das Gesetz der Natur aufrecht erhalten wird. Und wir haben schon zu beweisen versucht, daß Selbstmord nicht gegen dies Gesetz ist. In allen Fällen sind Christen und Heiden genau auf demselben Fuß, Cato und Brutus, Arria und Porcia handelten heldenmütig; diejenigen, welche ihr Beispiel heute nachahmen, verdienen bei der Nachwelt dasselbe Lob. Die Macht, einen Selbstmord zu begehen, wird von Plinius als ein Vorzug angesehen, welchen der Mensch vor der Gottheit selbst hat. <hi rendition="#i">Deus non sibi potest mortem consciscere si velit, quod homini dedit optimum in tantis vitae poenis.</hi> (Gott kann sich, auch wenn er wollte, nicht den Tod geben, was er den Menschen als bestes Geschenk bei so vielen und großen Plagen des Lebens verlieh.) Lib. II. c. 5.</note>
+
+</body></text></TEI>

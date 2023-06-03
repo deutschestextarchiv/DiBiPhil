@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Johann Gottlieb Fichtes sämmtliche Werke</title>
+        <title type="volume">Band 1</title>
+        <author><persName ref="http://d-nb.info/gnd/32847">
+        <forename>Johann Gottlieb</forename>
+        <surname>Fichte</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Johann Gottlieb Fichtes sämmtliche Werke. Herausgegeben von I. H. Fichte, Band
+      1-8, Berlin: Veit &amp; Comp., 1845/1846.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Johann Gottlieb Fichtes sämmtliche Werke</title>
+      <title level="m" type="volume" n="1">Band 1</title>
+      <author><persName ref="http://d-nb.info/gnd/32847">
+        <forename>Johann Gottlieb</forename>
+        <surname>Fichte</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/87018">I. H. Fichte</persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Veit &amp; Comp.</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1845</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Philosophisches Journal, Bd. 7 (1797), S. 1-20.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Versuch einer neuen Darstellung der Wissenschaftslehre</note>
+
+
+<head>Johann Gottlieb Fichte</head>
+<head>Versuch einer neuen Darstellung der Wissenschaftslehre</head>
+<pb n="521" facs="#f0001"/>
+<head>Erstes Capitel</head>
+<head>Alles Bewusstseyn ist bedingt durch das unmittelbare Bewusstseyn unserer selbst</head>
+<head>I.</head>
+<p rendition="#et">Der Leser, mit welchem wir uns in Uebereinstimmung des Denkens zu versetzen haben, erlaube uns, ihn anzureden, und mit dem zutraulichen Du ihn anzureden.</p>
+<p rendition="#et">1) Du kannst ohne Zweifel denken: Ich; und indem du dies denkst, findest du innerlich dein Bewusstseyn auf eine gewisse Weise <hi rendition="#i">bestimmt</hi>; du denkst <hi rendition="#i">nur</hi> etwas, ebendasjenige, was du unter jenem Begriffe des Ich befassest, und bist desselben dir bewusst; und denkst dann etwas anderes, das du sonst wohl auch denken kannst, und schon gedacht haben magst, nicht. – Es ist mir vor der Hand nicht darum zu thun, ob du mehr oder weniger, als ich selbst, in dem Begriffe: Ich, zusammengefasst haben magst. Worauf es mir ankommt, hast du denn doch sicherlich auch mit darin, und dies genügt mir.</p>
+<p rendition="#et">2) Du hättest statt dieses bestimmten auch etwas anderes denken können, z.B. deinen Tisch, deine Wände, deine Fenster, und du denkst auch wohl diese Gegenstände wirklich, wenn ich dich dazu auffordere. Du thust es zufolge einer Aufforderung, zufolge eines Begriffs von dem zu denkenden; der, deiner Annahme nach, auch ein anderer hätte seyn können, sage ich. Du bemerkst sonach Thätigkeit und Freiheit in diesem deinem Denken, in diesem Uebergehen vom Denken des <pb n="521" facs="#f0002"/> Ich zum Denken des Tisches, der Wände, u.s.f. Dein Denken ist dir ein Handeln. Befürchte nicht, dass du mir durch dieses Geständniss etwas zugestehest, das dich hinterher reuen möchte. Ich rede nur von der Thätigkeit, der du in diesem Zustande unmittelbar bewusst wirst, und inwiefern du ihrer bewusst wirst. Solltest du aber in dem Fall seyn, hierbei gar keiner Thätigkeit dir bewusst zu werden – es sind mehrere berühmte Philosophen unseres Zeitalters in diesem Falle – so lass uns gleich hier in Frieden von einander scheiden: denn du wirst von nun an keines meiner Worte verstehen.</p>
+<p rendition="#et">Ich rede mit denen, die mich über diesen Punct verstehen. Euer Denken ist ein Handeln, euer bestimmtes Denken ist sonach ein bestimmtes Handeln, d.h. das, was ihr denkt, ist gerade dieses, weil ihr im Denken gerade so handeltet; und es würde etwas anderes seyn (ihr würdet <hi rendition="#i">etwas andere</hi>, denken), wenn ihr in eurem Denken anders gehandelt hättet (wenn ihr anders gedacht hättet).</p>
+<p rendition="#et">3) Nun sollet ihr hier insbesondere denken: <hi rendition="#i">Ich</hi>. Da dieses ein bestimmter Gedanke ist, so kommt er, nach den soeben aufgestellten Sätzen, nothwendig durch ein bestimmtes Verfahren im Denken zu Stande; und meine Aufgabe an dich, verständiger Leser, ist die: dir eigentlich und innigst bewusst zu werden, <hi rendition="#i">wie</hi> du verfährst, wenn du denkst: Ich. Da es seyn könnte, dass wir beide in diesem Begriffe nicht ganz dasselbe umfassten, so muss ich dir nachhelfen.</p>
+<p rendition="#et">Indem du deinen Tisch oder deine Wand dachtest, warest du, da du ja, als verständiger Leser, der Thätigkeit in deinem Denken dir bewusst bist, in diesem Denken dir selbst da, <hi rendition="#i">Denkende</hi>; aber <hi rendition="#i">das Gedachte</hi> war dir nicht du selbst, sondern etwas von dir zu unterscheidendes. Kurz, in allen Begriffen dieser Art soll, wie du es in deinem Bewusstseyn wohl finden wirst, das Denkende und das Gedachte zweierlei seyn. Indem du aber <hi rendition="#i">dich</hi> denkst, bist du dir nicht nur das Denkende, sondern zugleich auch das Gedachte; Denkendes und Gedachtes sollen dann Eins seyn; dein Handeln im Denken soll auf dich selbst, das Denkende, zurückgehen.</p>
+<p rendition="#et">Also – <hi rendition="#i">der Begriff oder das Denken des Ich besteht in <pb n="522" facs="#f0003"/> dem auf sich Handeln des Ich selbst</hi>; und umgekehrt, <hi rendition="#i">ein solches Handeln auf sich selbst giebt ein Denkende, Ich, und schlechthin kein anderes Denken</hi>. Das erstere hast du soeben in dir selbst gefunden und mir zugestanden: solltest du an dem zweiten Anstoss nehmen, und über unsere Berechtigung zur Umkehrung des Satzes Zweifel haben, so überlasse ich es dir selbst, zu versuchen, ob durch das Zurückgehen deines Denkens auf dich, als das Denkende, je ein anderer Begriff herauskomme, als der deiner selbst; und ob du dir die Möglichkeit denken könnest? dass ein anderer herauskomme. – Beides sonach, der Begriff eines in sich zurückkehrenden Denkens, und der Begriff des Ich, erschöpfen sich gegenseitig Das Ich ist das sich selbst Setzende, und nichts weiter: das sich selbst Setzende ist das Ich, und nichts weiter. Durch den beschriebenen Act kommt nichts anderes heraus, als das Ich: und das Ich kommt durch keinen möglichen anderen Act heraus, ausser durch den beschriebenen.</p>
+<p rendition="#et">Hier ersiehst du zugleich, in welchem Sinne dir das Denken des Ich zugemuthet wurde. Die Sprachzeichen nemlich sind durch die Hände der Gedankenlosigkeit gegangen, und haben etwas von der Unbestimmtheit derselben angenommen; man kann durch sie sich nicht sattsam verständigen. Nur dadurch, dass man den Act angiebt, durch welchen ein Begriff zu Stande kommt, wird derselbe vollkommen bestimmt. Thue, was ich dir sage, so wirst du denken, was ich denke. Diese Methode wird auch im Fortgange unserer Untersuchung ohne Ausnahme beobachtet wer den. – So mochtest du vielleicht in den Begriff des Ich mancherlei aufgenommen haben, was ich in denselben nicht aufgenommen hatte, z.B. den Begriff deiner Individualität, weil auch dieser durch jenes Wortzeichen bedeutet wird. Alles dies wird dir nunmehr erlassen; nur dasjenige, was durch das blosse Zurückgehen deines Denkens auf dich selbst zu Stande kommt, ist das Ich, von welchem ich hier rede.</p>
+<p rendition="#et">4) Die aufgestellten Sätze, <hi rendition="#i">der unmittelbare Ausdruck unserer soeben gemachten Beobachtung</hi>, könnten Bedenklichkeiten erregen nur unter der Bedingung, dass sie für etwas mehr gehalten <pb n="523" facs="#f0004"/> würden, als für diesen unmittelbaren Ausdruck. Das Ich kommt nur durch das Zurückgehen des Denkens auf sich selbst zu Stande, sage ich: und rede dabei lediglich von demjenigen, was durch blosses Denken zu Stande kommen kann; was, wenn ich so denke, unmittelbar in meinem Bewusstseyn vorkommt, und was, wenn du so denkst, unmittelbar in deinem Bewusstseyn vorkommt; kurz, ich rede nur vom Begriffe des Ich. Von einem Seyn des Ich ausser dem Begriffe ist hier noch gar nicht die Rede; ob und inwiefern von einem solchen Seyn überhaupt die Rede entstehen könne, wird sich zu seiner Zeit zeigen. Um also den Leser vor allen möglichen Zweifeln sicher zu stellen, und vor aller Gefahr, im Verlaufe der Untersuchung den zugestandenen Satz in einem Sinne genommen zu sehen, den er nicht zugestehen wollte, füge ich zu den eben aufgestellten Sätzen: das Ich ist ein sich selbst Setzen, und dergl. hinzu: <hi rendition="#i">für das Ich</hi>.</p>
+<p rendition="#et">Den Grund dieser Bedenklichkeit des Lesers, dass man ihn nicht etwa zu viel zugestehen lasse, kann ich auch zugleich mit anführen; auf die Bedingung, dass man sich dadurch nicht zerstreuen lasse: denn das Ganze ist eine zufällige Bemerkung, die hier noch nicht eigentlich zur Sache gehört und bloss darum beigebracht wird, um keinen Augenblick einige Dunkelheit übrig zu lassen. – Dein Ich kommt lediglich durch das Zurückgehen deines Denkens auf dich selbst zu Stande, wurde behauptet. In einem kleinen Winkel deiner Seele liegt dagegen die Einwendung, – entweder: ich soll <hi rendition="#i">denken</hi>, aber ehe ich denken kann, muss ich <hi rendition="#i">seyn</hi>; oder die: ich soll <hi rendition="#i">mich</hi> denken, in mich zurückgehen; aber was gedacht werden soll, auf welches zurückgegangen werden soll, muss seyn, ehe es gedacht oder darauf zurückgegangen wird. In beiden Fällen postulirst du ein von dem Denken und Gedachtseyn deiner selbst unabhängiges, und demselben vorauszusetzendes <hi rendition="#i">Daseyn</hi> deiner selbst; im ersten Falle als des Denkenden, im zweiten als des <hi rendition="#i">Zu-Denkenden</hi>. Hierbei sage mir vorläufig nur dies: wer ist es denn, der da behauptet, dass du vor deinem Denken vorher gewesen seyn müssest? Das bist ohne Zweifel du selbst, und dieses dein Behaupten ist ohne Zweifel ein Denken; <pb n="524" facs="#f0005"/> und, wie du noch weiter behauptest, und wir dir mit beiden Händen zugeben, ein nothwendiges, in diesem Zusammenhange dir sich aufdringendes Denken. Du weisst doch hoffentlich von diesem vorauszusetzenden Daseyn nur insofern, inwiefern du es denkst; und dieses Daseyn des Ich ist sonach auch nichts mehr, als ein Gesetztseyn deiner selbst durch dich selbst. In dem Factum, das du uns aufgezeigt hast, liegt sonach, wenn wir es scharf genug ansehen, nichts mehr, als dies: <hi rendition="#i">du musst deinem gegenwärtigen, zum deutlichen Bewusstseyn erhobenen Selbst-Setzen ein anderes solches Setzen, als ohne deutliches Bewusstseyn geschehen, voraus denken, worauf das gegenwärtige sich beziehe und dadurch bedingt sey.</hi> Bis wir dir das fruchtbare Gesetz, nach welchem es so ist, aufzeigen, begnüge dich mit der Einsicht, dass das angeführte Factum weiter nichts aussagt, als das Angegebene, damit du durch dasselbe nicht irre gemacht werdest.</p>
+<lb/>
+
+
+<p rend="h4">II.</p>
+<p rendition="#et">Wir versetzen uns auf einen höheren Standpunct der Speculation.</p>
+<p rendition="#et">1) Denke dich, und bemerke, wie du das machst: war meine erste Forderung. Bemerken musstest du, um mich zu verstehen (denn ich redete von etwas, das nur in dir selbst seyn konnte); und um in deiner eigenen Erfahrung als wahr zu befinden, was ich dir sagte. Diese <hi rendition="#i">Aufmerksamkeit</hi> auf uns selbst in jenem Acte war das uns beiden gemeinschaftliche <hi rendition="#i">Subjective</hi>. Dein Verfahren im Denken deiner selbst, welches bei mir auch kein anderes war, war es, <hi rendition="#i">worauf</hi> du merktest; es war der Gegenstand unserer Untersuchung: das uns beiden gemeinschaftliche <hi rendition="#i">Objective</hi>.</p>
+<p rendition="#et">Jetzt aber sage ich dir: bemerke <hi rendition="#i">dein Bemerken</hi> deines Selbst-Setzens; bemerke, was du in der soeben geführten Untersuchung selbst thatest, und wie du es machtest, um dich selbst zu bemerken. Mache das, was bisher das Subjective war, selbst zum Objecte einer neuen Untersuchung, die wir gegenwärtig anheben.</p>
+<p rendition="#et">2) Der Punct, um welchen es mir hier zu thun ist, ist <pb n="525" facs="#f0006"/> nicht so leicht getroffen: wird er aber verfehlt, so wird alles verfehlt, denn auf ihm beruht meine ganze Lehre. Der Leser erlaube mir daher, dass ich ihn durch einen Eingang leite, und ihn so nahe als möglich vor dasjenige hinstelle, was er zu beobachten hat.</p>
+<p rendition="#et">Indem du irgend eines Gegenstandes – es sey derselbe die gegenüberstehende Wand – dir bewusst bist, bist du dir, wie du eben zugestanden, eigentlich deines Denkens dieser Wand bewusst, und nur inwiefern du dessen dir bewusst bist, ist ein Bewusstseyn der Wand möglich. Aber um deines Denkens dir bewusst zu seyn, musst du deiner selbst dir bewusst seyn. –<hi rendition="#i"> Du</hi> bist – <hi rendition="#i">deiner</hi> dir bewusst, sagst du; du unterscheidest sonach nothwendig dein <hi rendition="#i">denkendes</hi> Ich von dem im Denken desselben <hi rendition="#i">gedachten</hi> Ich. Aber damit du dies könnest, muss abermals das Denkende in jenem Denken <hi rendition="#i">Object</hi> eines höheren Denkens seyn, um Object des Bewusstseyns seyn zu können; und du erhältst zugleich ein neues <hi rendition="#i">Subject</hi>, welches dessen, das vorhin das Selbstbewusst<hi rendition="#i">seyn</hi> war, sich wieder bewusst sey. Hier argumentire ich nun abermals, wie vorher; und nachdem wir einmal nach diesem Gesetze fortzuschliessen angefangen haben, kannst du mir nirgends eine Stelle nachweisen, wo wir aufhören sollten; wir werden sonach ins unendliche fort für jedes Bewusstseyn ein neues Bewusstseyn bedürfen, dessen Object das erstere sey, und sonach nie dazu kommen, ein wirkliches Bewusstseyn annehmen zu können. – Du bist dir deiner, als des Bewussten, bewusst, lediglich inwiefern du dir deiner als des Bewusstseyenden bewusst bist; aber dann ist das Bewusstseyende wieder das Bewusste, und du musst wieder des Bewusstseyenden dieses Bewussten dir bewusst werden, und so ins unendliche fort: und so magst du sehen, wie du zu einem ersten Bewusstseyn kommst.</p>
+<p rendition="#et">Kurz; auf diese Weise lässt das Bewusstseyn sich schlechthin nicht erklären. – Noch einmal; welches war das Wesen des soeben geführten Raisonnements, und der eigentliche Grund, warum das Bewusstseyn auf diesem Wege unbegreiflich wart Dieser: jedes Object kommt zum Bewusstseyn lediglich <pb n="526" facs="#f0007"/> unter der Bedingung, dass ich auch meiner selbst, des bewusstseyenden Subjects mir bewusst sey. Dieser Satz ist unwidersprechlich. – Aber in diesem Selbstbewusstseyn meiner, wurde weiter behauptet, bin ich mir selbst Object, und es gilt von dem Subjecte zu diesem Objecte abermals, was von dem vorigen galt; es wird Object und bedarf eines neuen Subjectes, und sofort ins unendliche. In jedem Bewusstseyn also wurde Subject und Object von einander geschieden und jedes als ein besonderes betrachtet; dies war der Grund, warum uns das Bewusstseyn unbegreiflich ausfiel.</p>
+<p rendition="#et">Nun aber ist doch Bewusstseyn; mithin muss jene Behauptung falsch seyn. Sie ist falsch, heisst: ihr Gegentheil gilt; sonach folgender Satz gilt: es giebt ein Bewusstseyn, in welchem das Subjective und das Objective gar nicht zu trennen, sondern absolut Eins und ebendasselbe sind. Ein solches Bewusstseyn sonach wäre es, dessen wir bedürften, um das Bewusstseyn überhaupt zu erklären. Wir gehen jetzo, ohne hierauf weiter zu achten, unbefangen zu unserer Untersuchung zurück.</p>
+<p rendition="#et">3) Indem du dachtest, wie wir von dir forderten, jetzt Gegenstände, die ausser dir seyn sollten, jetzt dich selbst, wusstest du ohne Zweifel, dass, und was, und wie du dachtest; denn wir vermochten uns darüber mit einander zu unterreden, wie wir im obigen gethan haben.</p>
+<p rendition="#et">Wie kamst du nun zu diesem Bewusstseyn deines Denkens? Du wirst mir antworten: ich wusste es unmittelbar. Das Bewusstseyn meines Denkens ist meinem Denken nicht etwa ein zufälliges, erst hinterher dazugesetztes, und damit verknüpftes, sondern es ist von ihm unabtrennlich. – So wirst du antworten, und musst du antworten; denn du vermagst dir dein Denken ohne ein Bewusstseyn desselben gar nicht zu denken.</p>
+<p rendition="#et">Zuvörderst also hätten wir ein solches Bewusstseyn gefunden, wie wir es soeben suchten; ein Bewusstseyn, in welchem das Subjective und Objective unmittelbar vereinigt ist. Das Bewusstseyn unseres eigenen Denkens ist dieses Bewusstseyn. – Dann, du bist deines Denkens unmittelbar dir bewusst; <pb n="527" facs="#f0008"/> wie stellst du dies dir vor? Offenbar nicht anders, als so: deine innere Thätigkeit, die auf etwas ausser ihr (auf das Object des Denkens) geht, geht zugleich in sich selbst, und auf sich selbst. Aber durch in sich zurückgehende Thätigkeit entsteht uns, nach obigem, das Ich. Du warst sonach in deinem Denken deiner selbst dir bewusst, und dieses Selbstbewusstseyn eben war jenes unmittelbare Bewusstseyn deines Denkens; sey es, dass ein Object, oder dass du selbst gedacht wurdest. – Also das Selbstbewusstseyn ist unmittelbar; in ihm ist Subjectives und Objectives unzertrennlich vereinigt und absolut Eins.</p>
+<p rendition="#et">Ein solches unmittelbares Bewusstseyn heisst mit dem wissenschaftlichen Ausdrucke eine <hi rendition="#i">Anschauung</hi>, und so wollen auch wir es nennen. Die Anschauung, von welcher hier die Rede ist, ist ein <hi rendition="#i">sich Setzen</hi> als setzend (irgend ein Objectives, welches auch ich selbst, als blosses Object, seyn kann), keinesweges aber etwa ein blosses <hi rendition="#i">Setzen</hi>; denn dadurch würden wir in die soeben aufgezeigte Unmöglichkeit, das Bewusstseyn zu erklären, verwickelt. Es liegt mir alles daran, über diesen Punct, der die Grundlage des ganzen hier vorzutragenden Systems ausmacht, verstanden zu werden, und zu überzeugen.</p>
+<p rendition="#et">Alles mögliche Bewusstseyn, als Objectives eines Subjects, setzt ein unmittelbares Bewusstseyn, in welchem Subjectives und Objectives schlechthin Eins seyen, voraus; ausserdem ist das Bewusstseyn schlechthin unbegreiflich. Man wird immer vergeblich nach einem Bande zwischen dem Subjecte und Objecte suchen, wenn man sie nicht gleich ursprünglich in ihrer Vereinigung aufgefasst hat. Darum ist alle Philosophie, die nicht von dem Puncte, in welchem sie vereinigt sind, ausgeht, nothwendig seicht und unvollständig, und vermag nicht zu erklären, was sie erklären soll, und ist sonach keine Philosophie.</p>
+<p rendition="#et">Dieses unmittelbare Bewusstseyn ist die soeben beschriebene Anschauung des Ich; in ihr setzt das Ich sich selbst nothwendig, und ist sonach das Subjective und Objective in Einem. Alles andere Bewusstseyn wird an dieses angeknüpft <pb n="528" facs="#f0009"/> und durch dasselbe vermittelt; wird lediglich durch die Verknüpfung damit zu einem Bewusstseyn: dieses allein ist durch nichts vermittelt oder bedingt; es ist absolut möglich und schlechthin nothwendig, wenn irgend ein anderes Bewusstseyn stattfinden soll. – Das Ich ist nicht zu betrachten, als blosses Subject, wie man es bis jetzt beinahe durchgängig betrachtet hat, sondern als Subject-Object in dem angegebenen Sinne.</p>
+<p rendition="#et">Nun ist hier von keinem anderen Seyn des Ich die Rede, als von dem in der beschriebenen Selbstanschauung; oder, noch strenger ausgedrückt, von dem Seyn dieser Anschauung selbst. Ich bin diese Anschauung und schlechthin nichts weiter, und diese Anschauung selbst ist Ich. Es soll durch dieses sich selbst Setzen nicht etwa eine Existenz des Ich, als eines unabhängig vom Bewusstseyn bestehenden Dinges an sich, hervorgebracht werden; welche Behauptung ohne Zweifel der Absurditäten grösste seyn würde. Ebensowenig wird dieser Anschauung eine vom Bewusstseyn unabhängige Existenz des Ich, als (anschauenden) Dinges vorausgesetzt; welches meines Erachtens keine kleinere Absurdität ist, ohnerachtet man dies freilich nicht sagen soll, indem die berühmtesten Weltweisen unseres philosophischen Jahrhunderts dieser Meinung zugethan sind. Eine solche Existenz ist nicht vorauszusetzen, sage ich; denn, wenn ihr von nichts reden könnt, <hi rendition="#i">dessen ihr euch nicht bewusst seyd</hi>, alles aber, dessen ihr euch bewusst seyd, <hi rendition="#i">durch das angezeigte Selbstbewusstseyn bedingt wird; so könnt ihr nicht hinwiederum ein Bestimmtes</hi>, dessen ihr euch bewusst seyd, die von allem Anschauen und Denken unabhängig seyn sollende Existenz des Ich, <hi rendition="#i">jenes Selbstbewusstseyn bedingen lassen</hi>. Ihr müsset entweder gestehen, dass ihr von etwas redet, ohne davon zu wissen, welches ihr schwerlich thun werdet, oder ihr müsstet läugnen, dass das aufgezeigte Selbstbewusstseyn alles andere Bewusstseyn bedinge, welches euch, wenn ihr mich nur verstanden habt, schlechthin unmöglich seyn wird. – Es erhellet sonach hier auch dieses, dass man durch unseren ersten Satz, nicht nur für den angeführten, sondern für alle mögliche Fälle, unausbleiblich<pb n="529" facs="#f00010"/> auf den Standpunct des transcendentalen Idealismus gesetzt wird; und dass es ganz Eins ist, jenen verstehen, und von diesem überzeugt werden.</p>
+<p rendition="#et">Also – die Intelligenz schaut sich selbst an, bloss als Intelligenz oder als reine Intelligenz, und in dieser Selbstanschauung eben besteht ihr Wesen. Diese Anschauung wird sonach mit Recht, falls es etwa noch eine andere Art der Anschauung geben sollte, zum Unterschied von der letzteren <hi rendition="#i">intellectuelle</hi> Anschauung genannt. – Ich bediene mich satt des Wortes Intelligenz lieber der Benennung: Ichheit; weil diese das Zurückgehen der Thätigkeit in sich selbst für jeden, der nur der geringsten Aufmerksamkeit fähig ist, am unmittelbarsten bezeichnet<note place="end" n="1"><bibl><ref>/Philosophie/M/Fichte, Johann Gottlieb/Versuch einer neuen Darstellung der Wissenschaftslehre#F3089</ref></bibl></note>.</p>
+<lb/>
+<p rend="h4"><pb n="530" facs="#f00011"/> III.</p>
+<p rendition="#et">Noch ist ein Umstand in der Beobachtung der von uns geforderten Thätigkeit zu bemerken. Nehme man diese Bemerkung indess nur für eine beiläufige. Unmittelbar wird auf sie nicht fortgebaut; erst tiefer unten wird sich zeigen, welche Folgen sie habe. Nur können wir uns die Gelegenheit, die wir hier haben, sie zu machen, nicht entgehen lassen.</p>
+<p rendition="#et">Du fandest im Vorstellen eines Objects, oder deiner selbst, dich thätig. Bemerke nochmals recht innig, was bei dieser Vorstellung der Thätigkeit in dir vorkam. – Thätigkeit ist Agilität, innere Bewegung; der Geist reisst sich selbst über absolut entgegengesetztes hinweg; – durch welche Beschreibung keinesweges etwa das unbegreifliche begreiflich gemacht, sondern nur an die in jedem nothwendig vorhandene Anschauung lebendiger erinnert werden soll. – Aber diese Agilität lässt sich nicht anders anschauen, und wird nicht anders angeschaut, denn als ein <hi rendition="#i">Losreissen der thätigen Kraft von einer Ruhe</hi>; und so hast du sie in der That angeschaut, wenn du nur wirklich vollzogen, was wir von dir verlangten.</p>
+<p rendition="#et">Du dachtest meiner Aufforderung gemäss deinen Tisch, deine Wand u.s.w., und nachdem du thätig die Gedanken dieser Gegenstände in dir hervorgebracht hattest, warst du nun in ruhiger fixirter Contemplation derselben begriffen (<hi rendition="#i">obtutu haerebas fixus in illo</hi>, wie der Dichter sagt). Ich sagte dir: jetzt denke dich, und bemerke, dass dieses Denken ein Thun ist. Du musstest, um das verlangte zu vollziehen, dich losreissen von jener Ruhe der Contemplation, von jener Bestimmtheit deines Denkens, und dasselbe anders bestimmen; und nur inwiefern du dieses Losreissen und dieses Abändern der Bestimmtheit bemerktest, bemerktest du dich als thätig. Ich berufe mich hier lediglich auf deine eigene innere Anschauung; von aussen dir anzudemonstriren, was nur in dir selbst seyn kann, vermag ich nicht.</p>
+<p rendition="#et">Das Resultat der gemachten Bemerkung wäre dieses: man <pb n="531" facs="#f00012"/> findet sich thätig, nur inwiefern man dieser Thätigkeit eine Ruhe (ein Anhallen und Fixirtseyn der inneren Kraft) entgegensetzt. (Der Satz, welches wir hier nur im Vorbeigehen erinnern, ist auch umgekehrt wahr: man wird sich einer Ruhe nicht bewusst, ohne eine Thätigkeit zu setzen. Thätigkeit ist nichts ohne Ruhe und umgekehrt. Ja, der Satz ist allgemein wahr, und wird im folgenden in dieser seiner allgemeinen Gültigkeit aufgestellt werden: Alle Bestimmung, was es nur sey, das bestimmt werde, geschieht durch Gegensatz. Hier sehen wir für auf den vorliegenden einzelnen Fall.)</p>
+<p rendition="#et">Welche besondere Bestimmtheit deines Denkens war es nun, die, als Ruhe, derjenigen Thätigkeit, durch die du dich selbst dachtest, unmittelbar vorher ging; oder genauer ausgedrückt, die damit unmittelbar vereinigt war, so dass du das eine nicht ohne das andere wahrnehmen konntest? – – Ich sagte dir: denke<hi rendition="#i"> dich selbst</hi>, um die Handlung, die du vollziehen solltest, zu bezeichnen, und du verstandest mich ohne weiteres. Du wusstest sonach, was das heisse: Ich. Aber du brauchtest nicht zu wissen, und wusstest meiner Voraussetzung nach nicht, dass dieser Gedanke durch ein Zurückgehen der Thätigkeit in sich selbst zu Stande komme, sondern solltest dies erst lernen. Nun aber ist das Ich laut obigem nichts anderes, als ein in sich selbst zurückgehendes Handeln; und ein in sich selbst zurückgehendes Handeln ist das Ich. Wie konntest du denn also das letztere kennen, ohne die Thätigkeit zu kennen, durch die es zu Stande kommt? Nicht anders, denn so: du fandest, indem du den Ausdruck: Ich, verstandest, <hi rendition="#i">dich, d.h. dein Handeln als Intelligenz</hi>, bestimmt auf eine gewisse Weise; jedoch ohne das bestimmte gerade, <hi rendition="#i">als ein Handeln</hi>, zu erkennen. Du erkanntest es nur als <hi rendition="#i">Bestimmtheit</hi>, oder<hi rendition="#i"> Ruhe</hi>, ohne eigentlich zu wissen, noch zu untersuchen, woher jene Bestimmtheit deines Bewusstseyns komme; kurz, so wie du mich verstandest, war diese Bestimmtheit unmittelbar da. Darum verstandest du mich, und konntest deiner Thätigkeit, die ich aufforderte, die zweckmässige Richtung geben. Die Bestimmtheit deines Denkens <pb n="532" facs="#f00013"/> durch das Denken deiner selbst war sonach, und musste nothwendig seyn, diejenige Ruhe, von der du dich zur Thätigkeit losrissest.</p>
+<p rendition="#et">Oder um die Sache deutlicher zu machen: – wie ich dir sagte: denke dich; und du das letztere Wort verstandest, vollzogst du <hi rendition="#i">im Acte des Verstehens selbst</hi> die in sich zurückgehende Thätigkeit, durch welche der Gedanke des Ich zu Stande kommt, nur ohne es zu wissen, weil du darauf nicht besonders aufmerksam warst; und daher kam dir das, was du in deinem Bewusstseyn vorfandest. Merke auf, wie du das machst, sagte ich dir ferner; und nun vollzogst du dieselbe Thätigkeit, die du schon vollzogen hattest, nur mit Aufmerksamkeit und Bewusstseyn.</p>
+<p rendition="#et">Man nennt die innere Thätigkeit, in ihrer Ruhe aufgefasst, durchgängig den <hi rendition="#i">Begriff</hi>. Es war sonach der Begriff des Ich, der mit der Anschauung desselben nothwendig vereinigt war, und ohne welchen das Bewusstseyn des Ich unmöglich geblieben wäre; denn der Begriff erst vollendet und umfasst das Bewusstseyn.</p>
+<p rendition="#et">Der Begriff ist überall nichts anderes, als die Thätigkeit des Anschauens selbst, nur nicht als Agilität, sondern als Ruhe und Bestimmtheit aufgefasst; und so verhält es sich auch mit dem Begriffe des Ich. Die in sich zurückgehende Thätigkeit als feststehend und beharrlich aufgefasst, wodurch sonach beides, Ich, als Thätiges, und Ich, als Object meiner Thätigkeit, zusammenfallen, ist der Begriff des Ich.</p>
+<p rendition="#et">Im gemeinen Bewusstseyn kommen nur Begriffe vor, keinesweges Anschauungen als solche; unerachtet der Begriff nur durch die Anschauung, jedoch ohne unser Bewusstseyn, zu Stande gebracht wird. Zum Bewusstseyn der Anschauung erhebt man sich nur durch Freiheit, wie es soeben in Absicht des Ich geschehen ist; und jede Anschauung mit Bewusstseyn bezieht sich auf einen Begriff, der der Freiheit die Richtung andeutet. Daher kommt es, dass überhaupt, so wie in unserem besonderen Falle, das Object der Anschauung <pb n="533" facs="#f00014"/> vor der Anschauung vorher daseyn soll. Dieses Objekt ist eben der Begriff. Nach unserer gegenwärtigen Erörterung sieht man, dass dieser nichts anderes sey, als die Anschauung selbst, nur nicht als solche, als Thätigkeit, sondern als Ruhe aufgefasst.</p>
+<pb n="534" facs="#f00015"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Fichte, Johann Gottlieb/Versuch einer neuen Darstellung der Wissenschaftslehre#N3089</ref>1</bibl> Man bedient sich neuerdings, um denselben Begriff auszudrücken, häufig des Wortes: <hi rendition="#i">Selbst</hi>. Wofern ich richtig ableite, so bedeutet die ganze Familie, zu der dieses Wort gehört z.B. selbiger, u.s.w. derselbe, u.s.w. eine Beziehung auf ein schon Gesetztes; aber schlechthin, inwiefern es <hi rendition="#i">durch seinem blossen Begriff</hi> gesetzt ist. Bin <hi rendition="#i">ich</hi> dieses Gesetzte, so wird das Wort gebildet: <hi rendition="#i">selbst. Selbst</hi> setzt sonach den Begriff vom Ich voraus; und alles was darin von Absolutheit gedacht wird, ist aus diesem Begriffe entlehnt. Im populairen Vortrage ist das Wort: Selbst vielleicht darum bequemer, weil es dem dabei doch immer dunkel mit gedachten Begriffe des Ich überhaupt einen besonderen Nachdruck hinzufügt, dessen der gewöhnliche Leser wohl bedürfen mag: im wissenschaftlichen Vortrage musste, scheint es mir, der Begriff durch sein unmittelbares und eigenthümliches Zeichen benannt werden. – Welche Absicht aber <hi rendition="#i">dadurch</hi> erreicht werden solle, dass man beide Begriffe, den des selbst und den des Ich, als verschieden, einander gegenüber stellt, und aus dem ersten eine erhabene, aus dem zweiten eine verabscheuungswürdige Lehre ableitet, wie es neuerlich in einer für das grössere Publicum bestimmten Schrift geschehen ist, deren Verfas 
+ser doch wenigstens historisch wissen musste, dass das letztere Wort auch noch in einer anderen Bedeutung genommen werde, und dass auf den dadurch bezeichneten Begriff in dieser Bedeutung ein System aufgebaut werde, welches jene verabscheuungswürdige Lehre keinesweges enthält: – welche Absicht dadurch erreicht werden solle, lässt sich schlechthin nicht begreifen, wenn man eine feindselige nicht annehmen will, noch kann.
+</note>
+
+</body></text></TEI>

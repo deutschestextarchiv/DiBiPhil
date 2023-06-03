@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke</title>
+        <title type="volume">Band 5</title>
+        <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Karl Marx, Friedrich Engels: Werke. Herausgegeben vom Institut für
+      Marxismus-Leninismus beim ZK der SED, 43 Bände, Band 5, Berlin: Dietz-Verlag,
+      1959.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke</title>
+      <title level="m" type="volume" n="5">Band 5</title>
+      <author><persName ref="http://d-nb.info/gnd/78537">
+        <forename>Karl</forename>
+        <surname>Marx</surname>
+      </persName>
+      </author><author><persName ref="http://d-nb.info/gnd/30380">
+        <forename>Friedrich</forename>
+        <surname>Engels</surname>
+      </persName>
+      </author><editor><persName>Institut für Marxismus-Leninismus beim ZK der SED</persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Dietz-Verlag</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1959</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note/>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Forderungen der Kommunistischen Partei in Deutschland</note>
+
+
+<head>Karl Marx / Friedrich Engels</head>
+<head>Forderungen der Kommunistischen Partei in Deutschland</head>
+<pb n="3" facs="#f0001"/>
+<p rendition="#right">»Proletarier aller Länder, vereinigt Euch!«</p>
+<lb/>
+<p rendition="#et">1. Ganz Deutschland wird zu einer einigen, unteilbaren Republik erklärt.</p>
+<p rendition="#et">2. Jeder Deutsche, der 21 Jahre alt, ist Wähler und wählbar, vorausgesetzt, daß er keine Kriminalstrafe erlitten hat.</p>
+<p rendition="#et">3. Die Volksvertreter werden besoldet, damit auch der Arbeiter im Parlament des deutschen Volkes sitzen könne.</p>
+<p rendition="#et">4. Allgemeine Volksbewaffnung. Die Armeen sind in Zukunft zugleich Arbeiterarmeen, so daß das Heer nicht bloß, wie früher, verzehrt, sondern noch mehr produziert, als seine Unterhaltungskosten betragen.</p>
+<p rendition="#et">Dies ist außerdem ein Mittel zur Organisation der Arbeit.</p>
+<p rendition="#et">5. Die Gerechtigkeitspflege ist unentgeltlich.</p>
+<p rendition="#et">6. Alle Feudallasten, alle Abgaben, Fronden, Zehnten etc., die bisher auf dem Landvolke lasteten, werden ohne irgendeine Entschädigung abgeschafft.</p>
+<p rendition="#et">7. Die fürstlichen und andern feudalen Landgüter, alle Bergwerke, Gruben usw. werden in Staatseigentum umgewandelt. Auf diesen Landgütern wird der Ackerbau im großen und mit den modernsten Hilfsmitteln der Wissenschaft zum Vorteil der Gesamtheit betrieben.</p>
+<p rendition="#et">8. Die Hypotheken auf den Bauerngütern werden für Staatseigentum erklärt. Die Interessen für jene Hypotheken werden von den Bauern an den Staat gezahlt.</p>
+<p rendition="#et"><pb n="3" facs="#f0002"/> 9. In den Gegenden, wo das Pachtwesen entwickelt ist, wird die Grundrente oder der Pachtschilling als Steuer an den Staat gezahlt.</p>
+<p rendition="#et">Alle diese unter 6, 7, 8 und 9 angegebenen Maßregeln werden gefaßt, um öffentliche und andere Lasten der Bauern und kleinen Pächter zu vermindern, ohne die zur Bestreitung der Staatskosten nötigen Mittel zu schmälern und ohne die Produktion selbst zu gefährden.</p>
+<p rendition="#et">Der eigentliche Grundeigentümer, der weder Bauer noch Pächter ist, hat an der Produktion gar keinen Anteil. Seine Konsumtion ist daher ein bloßer Mißbrauch.</p>
+<p rendition="#et">10. An die Stelle aller Privatbanken tritt eine Staatsbank, deren Papier gesetzlichen Kurs hat.</p>
+<p rendition="#et">Diese Maßregel macht es möglich, das Kreditwesen im Interesse des <hi rendition="#i">ganzen</hi> Volkes zu regeln und untergräbt damit die Herrschaft der großen Geldmänner. Indem sie nach und nach Papiergeld an die Stelle von Gold und Silber setzt, verwohlfeilert sie das unentbehrliche Instrument des bürgerlichen Verkehrs, das allgemeine Tauschmittel, und erlaubt, das Gold und Silber nach außen hinwirken zu lassen. Diese Maßregel ist schließlich notwendig, um die Interessen der konservativen Bourgeois an die Revolution zu knüpfen.</p>
+<p rendition="#et">11. Alle Transportmittel: Eisenbahnen, Kanäle, Dampfschiffe, Wege, Posten etc. nimmt der Staat in seine Hand. Sie werden in Staatseigentum umgewandelt und der unbemittelten Klasse zur unentgeltlichen Verfügung gestellt.</p>
+<p rendition="#et">12. In der Besoldung sämtlicher Staatsbeamten findet kein anderer Unterschied statt, als der, daß diejenigen <hi rendition="#i">mit</hi> Familie, also mit mehr Bedürfnissen, auch ein höheres Gehalt beziehen als die übrigen.</p>
+<p rendition="#et">13. Völlige Trennung der Kirche vom Staate. Die Geistlichen aller Konfessionen werden lediglich von ihrer freiwilligen Gemeinde besoldet.</p>
+<p rendition="#et">14. Beschränkung des Erbrechts.</p>
+<p rendition="#et">15. Einführung von starken Progressivsteuern und Abschaffung der Konsumtionssteuern.</p>
+<p rendition="#et">16. Errichtung von Nationalwerkstätten. Der Staat garantiert allen Arbeitern ihre Existenz und versorgt die zur Arbeit Unfähigen.</p>
+<p rendition="#et">17. Allgemeine, unentgeltliche Volkserziehung.</p>
+<p rendition="#et">Es liegt im Interesse des deutschen Proletariats, des kleinen Bürger- und Bauernstandes, mit aller Energie an der Durchsetzung obiger Maßregeln zu arbeiten. Denn nur durch Verwirklichung derselben können die Millionen, <pb n="4" facs="#f0003"/> die bisher in Deutschland von einer kleinen Zahl ausgebeutet wurden und die man weiter in der Unterdrückung zu erhalten suchen wird, zu ihrem Recht und zu derjenigen Macht gelangen, die ihnen, als den Hervorbringern alles Reichtums, gebührt.</p>
+<lb/>
+<p rendition="#c"><hi rendition="#i">Das Komitee:</hi></p>
+<p rendition="#c"><hi rendition="#i">Karl Marx Karl Schapper H. Bauer F. Engels</hi></p>
+<p rendition="#c"><hi rendition="#i">J. Moll W. Wolff</hi></p>
+
+
+</body></text></TEI>

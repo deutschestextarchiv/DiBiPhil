@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">1. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="1">1. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden Anfang des 5. Jahrhunderts v. Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente</note>
+
+
+<head>Xenophanes aus Kolophon</head>
+<head>Fragmente</head>
+<pb n="54" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Aus den Elegien</note>
+
+<head>Aus den Elegien</head>
+<p rendition="#et">1. Nun ist ja der Estrich rein und aller Hände und Becher. Gewundene Kränze setzt uns einer aufs Haupt, und ein anderer reicht <pb n="54" facs="#f0002"/> duftende Salbe in einer Schale dar. Schon steht der Mischkrug angefüllt mit Frohsinn, auch noch anderer Wein ist bereit in den Krügen, der nimmer zu versagen verspricht, ein milder, blumenduftender. In unsrer Mitte sendet der Weihrauch heiligen Duft empor, kaltes Wasser ist da, süßes, lauteres. Daneben liegen blonde Semmeln, und der stattliche Tisch beugt sich unter der Last des Käses und fetten Honigs. Rings mit Blumen geschmückt steht in der Mitte der Altar, Gesang und Festfreude schallt durch das ganze Hans. Da ziemt's zuerst verständigen Männern den Göttern lobzusingen mit heiligen Gesängen und reinen Worten. Dann aber nach der Spende und nach dem Gebet, uns Kraft zu verleihen das Rechte zu tun (denn die [zu erbitten,] ist doch das nächstliegende), ist's keine Sünde so viel zu trinken, daß sich ungeleitet nach Hause finden kann, wer nicht ganz altersschwach ist. Von den Männern aber ist der zu loben, der nach dem Trunke wackere Proben ablegt, wie Gedächtnis und Stimme für die Tugend ihm glühen. <pb n="55" facs="#f0003"/> Nicht Kämpfe der Titanen oder Giganten oder auch der Kentauren zu besingen – Erfindungen der Vorzeit – oder tobenden Bürgerzwist darin kein Heil ist, sondern allzeit die Götter zu ehren, das ist tüchtig.</p>
+<p rendition="#et">2. Mag einer auch in der Schnelligkeit der Füße den Sieg gewinnen oder im Fünfkampf, wo des Zeus heilige Flur ist am Pisaquell in Olympia, oder im Ringen oder auch wenn er den schmerzensreichen Faustkampf besteht oder ein gewisses schreckliches Wettspiel, das sie Allkampf [Pankration] benennen, so wäre er zwar für die Bürger glorreicher anzuschauen [als je,] er erhielte den weithin sichtbaren Ehrensitz bei den Kampfspielen und die Speisung auf öffentliche Kosten von der Stadt und eine Ehrengabe, die ihm ein Kleinod wäre; ja mag er selbst einen Wagensieg erringen, so würde er trotz aller dieser <pb n="56" facs="#f0004"/> gewonnenen Preise ihrer doch nicht so würdig sein wie ich. Denn besser als Männer- und Rossekraft ist doch unsere Weisheit. Freilich ist das eine gar grundlose Sitte, und es ist ungerecht die Stärke der tüchtigen Weisheit vorzuziehen. Denn wenn auch ein tüchtiger Faustkämpfer im Volke wäre oder wer im Fünfkampf oder der Ringkunst hervorragte, oder in der Schnelligkeit der Füße, was ja doch den Vorrang hat unter allen Kraftstücken, die sich im Wettkampfe der Männer zeigen, so wäre doch um dessentwillen die Stadt nicht in besserer Ordnung, und die Stadt hätte nur geringen Genuß davon, wenn einer an Pisas Ufern den Wettsieg gewänne; denn das macht die Kammern der Stadt nicht voll.</p>
+<p rendition="#et">3. Überflüssigen Prunk hatten sie von den Lydern erlernt, solange sie noch frei waren von der verhaßten Zwingherrschaft. Da schritten sie zum Markte mit purpurnen Gewändern nicht weniger denn tausend<pb n="57" facs="#f0005"/> zumal, prunkend, einherstolzierend mit schön geschmückten Locken und triefend vom Dufte künstlich bereiteter Salben.</p>
+<p rendition="#et">4. [Die Lyder prägten zuerst Geld.]</p>
+<p rendition="#et">5. Auch beim Mischen im Becher würde Niemand den Wein zuerst hineingießen, sondern das Wasser und darüber den Wein.</p>
+<p rendition="#et">6. Du sandtest die Keule eines Böckchens und erhieltst dafür den fetten Schenkel eines Mastochsen, wie sich das als Preis für einen Mann gebührt, dessen Ruhm über ganz Hellas reichen und nimmer verklingen wird, solange nur das Geschlecht der Hellenischen Lieder am Leben bleibt.</p>
+<p rendition="#et">7. Jetzo will ich wieder zu anderer Rede mich wenden und den Pfad weisen.</p>
+
+<p rendition="#c">* *</p>
+<p rendition="#c">*</p>
+<pb n="58" facs="#f0006"/> <p>Und es heißt, als er einmal vorüberging, wie ein Hündchen mißhandelt wurde, soll er Mitleid empfunden und dieses Wort gesprochen haben: ›Hör auf mit deinem Schlagen. Denn es ist ja die Seele eines Freundes, die ich erkannte, wie ich ihre Stimme hörte‹.</p>
+<p>8. Siebenundsechzig Jahre sind es bereits, die meinen Kummer durch das Hellenische Land auf und ab treiben. Damals aber waren es fünfundzwanzig von meiner Geburt gerechnet, wenn ich hierüber der Wahrheit gemäß zu berichten weiß.</p>
+<p>9. Viel kraftloser als ein gealterter Mann.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Aus den Sillen</note>
+
+<head>Aus den Sillen</head>
+<p rendition="#et">10. Da von Anfang an alle nach Homer gelernt haben . . .</p>
+<p rendition="#et">11. Alles haben Homer und Hesiod den Göttern angehängt, was <pb n="59" facs="#f0007"/> nur bei Menschen Schimpf und Schande ist: Stehlen und Ehebrechen und sich gegenseitig Betrügen.</p>
+<p rendition="#et">12. Wie sie gar viele ruchlose Taten der Götter erzählten: Stehlen und Ehebrechen und sich gegenseitig Betrügen.</p>
+<p rendition="#et">13. [Homer war älter als Hesiod.]</p>
+<p rendition="#et">14. Doch wähnen die Sterblichen, die Götter würden geboren und hätten Gewand und Stimme und Gestalt wie sie.</p>
+<p rendition="#et">15. Doch wenn die Ochsen [und Rosse] und Löwen Hände hätten oder malen könnten mit ihren Händen und Werke bilden wie die Menschen, so würden die Rosse roßähnliche, die Ochsen ochsenähnliche <pb n="60" facs="#f0008"/> Göttergestalten malen und solche Körper bilden, wie [jede Art] gerade selbst das Aussehen hätte.</p>
+<p rendition="#et">16. Die Äthiopen [behaupten, ihre Götter] seien schwarz und stumpfnasig, die Thraker, blauäugig und rothaarig.</p>
+<p rendition="#et">17. Rings um das feste Haus stehen Fichten[maien].</p>
+<p rendition="#et">18. Nicht von Anfang an haben die Götter den Sterblichen alles Verborgene gezeigt, sondern allmählich finden sie suchend das Bessere.</p>
+<p rendition="#et">19. [Thales sagte Sonnenfinsternisse voraus.]</p>
+<p rendition="#et">20. [Epimenides lebte 150 Jahre.]</p>
+<p rendition="#et">21. [Simonides] der Knicker.</p>
+<p rendition="#et"><pb n="61" facs="#f0009"/> 21<hi rendition="#sup">a</hi>. Erykos [Stadt oder Berg in Sicilien = Eryx].</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Aus den Parodien</note>
+
+<head>Aus den Parodien</head>
+<p rendition="#et">22. Solch Gespräch ziemt beim Feuer zur Winterszeit, wenn man auf weichem Lager gesättigt daliegt und süßen Wein trinkt und Kichern dazu knuspert: ›Wer und woher bist du der Männer? Wieviel Jahre zählst du, mein Bester? Wie alt warst du, als der Meder einbrach?‹</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Aus: Über die Natur</note>
+
+<head>Aus: Über die Natur</head>
+<p rendition="#et">23. Ein einziger Gott, unter Göttern und Menschen der größte, weder an Gestalt den Sterblichen ähnlich noch an Gedanken.</p>
+<p rendition="#et">24. [Die Gottheit] ist ganz Auge, ganz Geist, ganz Ohr.</p>
+<p rendition="#et"><pb n="62" facs="#f00010"/> 25. Doch sonder Mühe schwingt er das All mit des Geistes Denkkraft.</p>
+<p rendition="#et">26. Stets am selbigen Ort verharrt er sich nirgend bewegend, und es geziemt ihm nicht bald hierhin bald dorthin zu wandern.</p>
+<p rendition="#et">27. Denn aus Erde ist alles, und zur Erde wird alles am Ende.</p>
+<p rendition="#et">28. Dieses obere Ende der Erde erblickt man zu unseren Füßen an die Luft stoßen, das untere dagegen erstreckt sich ins Unermeßliche.</p>
+<p rendition="#et">29. Erde und Wasser ist alles, was da wird und wächst.</p>
+<p rendition="#et">30. Das Meer ist Quell des Wassers, Quell des Windes. Denn in den Wolken [würde kein Wehen des Windes, der] von innen [herausbläst, <pb n="63" facs="#f00011"/> entstehen] ohne den großen Pontos, noch Fluten der Ströme, noch Regenwasser des Äthers; der große Pontos ist vielmehr der Vater der Wolken, Winde und Ströme.</p>
+<p rendition="#et">31. Die Sonne sich über die Erde schwingend und sie erwärmend.</p>
+<p rendition="#et">32. Und was sie Iris benennen, auch das ist seiner Natur nach nur eine Wolke, purpurn und hellrot und gelbgrün zu schauen.</p>
+<p rendition="#et">33. Denn wir alle sind aus Erde und Wasser geboren.</p>
+<p rendition="#et">34. Und was nun die Wahrheit betrifft, so gab es und wird es Niemand geben, der sie wüßte in bezug auf die Götter und alle Dinge, die ich nur immer erwähne. Denn spräche er auch einmal zufällig das allervollendetste, so weiß er's selber doch nicht. Denn nur Wahn ist allen beschieden.</p>
+<p rendition="#et">35. Dies nun soll als wahrscheinlich hingestellt sein!</p>
+<p rendition="#et"><pb n="64" facs="#f00012"/> 36. Alles, was sich nur immer der menschlichen Anschauung offenbart hat . . .</p>
+<p rendition="#et">37. Und in gewissen Höhlen fürwahr tropft das Wasser herab.</p>
+<p rendition="#et">38. Wenn Gott nicht den gelblichen Honig erschaffen hätte, so würde man meinen, die Feigen seien viel süßer [als alles andre].</p>
+<p rendition="#et">39. Kirschbaum.</p>
+<p rendition="#et">40. Frosch.</p>
+<p rendition="#et">41. Grube.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zweifelhafte Fragmente</note>
+
+<head>Zweifelhafte Fragmente</head>
+
+
+<p rend="h4">Zweifelhafte Fragmente</p>
+<p rendition="#et">42. Da würde Lust bekommen ein Junger nach einer jungen Magd.</p>
+<p rendition="#et"><pb n="65" facs="#f00013"/> 43. Eber [?].</p>
+<p rendition="#et">44. Die Phönikier gebrauchten spannenlange Gingrasflöten mit schrillem und klagendem Tone.</p>
+<p rendition="#et">45. Doch ich warf mich hin und her von Stadt zu Stadt fahrend.</p>
+
+</div>
+
+</body></text></TEI>

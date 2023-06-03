@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in zwölf Bänden</title>
+        <title type="volume">Band 11</title>
+        <author><persName ref="http://d-nb.info/gnd/59796">
+        <forename>Immanuel</forename>
+        <surname>Kant</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Immanuel Kant: Werke in zwölf Bänden. Herausgegeben von Wilhelm Weischedel.
+      Frankfurt am Main: Suhrkamp, 1977.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in zwölf Bänden</title>
+      <title level="m" type="volume" n="11">Band 11</title>
+      <author><persName ref="http://d-nb.info/gnd/59796">
+        <forename>Immanuel</forename>
+        <surname>Kant</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/6635X">
+        <forename>Wilhelm</forename>
+        <surname>Weischedel</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Suhrkamp</name>
+      </publisher><pubPlace>Frankfurt a. M.</pubPlace>
+      <date type="publication">1977</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note/>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Beantwortung der Frage: Was ist Aufklärung</note>
+
+
+<head>Immanuel Kant</head>
+<head>Beantwortung der Frage: Was ist Aufklärung?</head>
+<pb n="53" facs="#f0001"/>
+<p rendition="#et"><hi rendition="#i">Aufklärung ist der Ausgang des Menschen aus seiner selbst verschuldeten Unmündigkeit. Unmündigkeit</hi> ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. <hi rendition="#i">Selbstverschuldet</hi> ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines andern zu bedienen. Sapere aude! Habe Mut, dich deines <hi rendition="#i">eigenen</hi> Verstandes zu bedienen! ist also der Wahlspruch der Aufklärung.</p>
+<p rendition="#et">Faulheit und Feigheit sind die Ursachen, warum ein so großer Teil der Menschen, nachdem sie die Natur längst von fremder Leitung frei gesprochen (naturaliter maiorennes), dennoch gerne zeitlebens unmündig bleiben; und warum es anderen so leicht wird, sich zu deren Vormündern aufzuwerfen. Es ist so bequem, unmündig zu sein. Habe ich ein Buch, das für mich Verstand hat, einen Seelsorger, der für mich Gewissen hat, einen Arzt, der für mich die Diät beurteilt, u.s.w.: so brauche ich mich ja nicht selbst zu bemühen. Ich habe nicht nötig zu denken, wenn ich nur bezahlen kann; andere werden das verdrießliche Geschäft schon für mich übernehmen. Daß der bei weitem größte Teil der Menschen (darunter das ganze schöne Geschlecht) den Schritt zur Mündigkeit, außer dem daß er beschwerlich ist, auch für sehr gefährlich halte: dafür sorgen schon jene Vormünder, die die Oberaufsicht über sie gütigst auf sich genommen haben. Nachdem sie ihr Hausvieh zuerst dumm gemacht haben, und sorgfältig verhüteten, daß diese ruhigen Geschöpfe <pb n="53" facs="#f0002"/> ja keinen Schritt außer dem Gängelwagen, darin sie sie einsperreten, wagen durften: so zeigen sie ihnen nachher die Gefahr, die ihnen drohet, wenn sie es versuchen, allein zu gehen. Nun ist diese Gefahr zwar eben so groß nicht, denn sie würden durch einigemal Fallen wohl endlich gehen lernen; allein ein Beispiel von der Art macht doch schüchtern, und schreckt gemeiniglich von allen ferneren Versuchen ab.</p>
+<p rendition="#et">Es ist also für jeden einzelnen Menschen schwer, sich aus der ihm beinahe zur Natur gewordenen Unmündigkeit herauszuarbeiten. Er hat sie sogar lieb gewonnen, und ist vor der Hand wirklich unfähig, sich seines eigenen Verstandes zu bedienen, weil man ihn niemals den Versuch davon machen ließ. Satzungen und Formeln, diese mechanischen Werkzeuge eines vernünftigen Gebrauchs oder vielmehr Mißbrauchs seiner Naturgaben, sind die Fußschellen einer immerwährenden Unmündigkeit. Wer sie auch abwürfe, würde dennoch auch über den schmalesten Graben einen nur unsicheren Sprung tun, weil er zu dergleichen freier Bewegung nicht gewöhnt ist. Daher gibt es nur wenige, denen es gelungen ist, durch eigene Bearbeitung ihres Geistes sich aus der Unmündigkeit her aus zu wickeln, und dennoch einen sicheren Gang zu tun.</p>
+<p rendition="#et">Daß aber ein Publikum sich selbst aufkläre, ist eher möglich; ja es ist, wenn man ihm nur Freiheit läßt, beinahe unausbleiblich. Denn da werden sich immer einige Selbstdenkende, sogar unter den eingesetzten Vormündern des großen Haufens, finden, welche, nachdem sie das Joch der Unmündigkeit selbst abgeworfen haben, den Geist einer vernünftigen Schätzung des eigenen Werts und des Berufs jedes Menschen, selbst zu denken, um sich verbreiten werden. Besonders ist hiebei: daß das Publikum, welches zuvor von ihnen unter dieses Joch gebracht worden, sie hernach selbst zwingt, darunter zu bleiben, wenn es von einigen seiner Vormünder, die selbst aller Aufklärung unfähig sind, dazu aufgewiegelt worden; so schädlich ist es, Vorurteile zu pflanzen, weil sie sich zuletzt an denen selbst rächen, die, oder deren Vorgänger, ihre Urheber gewesen sind. Daher kann <pb n="54" facs="#f0003"/> ein Publikum nur langsam zur Aufklärung gelangen. Durch eine Revolution wird vielleicht wohl ein Abfall von persönlichem Despotism und gewinnsüchtiger oder herrschsüchtiger Bedrückung, aber niemals wahre Reform der Denkungsart zu Stande kommen; sondern neue Vorurteile werden, eben sowohl als die alten, zum Leitbande des gedankenlosen großen Haufens dienen.</p>
+<p rendition="#et">Zu dieser Aufklärung aber wird nichts erfordert als <hi rendition="#i">Freiheit</hi>; und zwar die unschädlichste unter allem, was nur Freiheit heißen mag, nämlich die: von seiner Vernunft in allen Stücken <hi rendition="#i">öffentlichen Gebrauch</hi> zu machen. Nun höre ich aber von allen Seiten rufen: <hi rendition="#i">räsonniert nicht</hi>! Der Offizier sagt: räsonniert nicht, sondern exerziert! Der Finanzrat: räsonniert nicht, sondern bezahlt! Der Geistliche: räsonniert nicht, sondern glaubt! (Nur ein einziger Herr in der Welt sagt:<hi rendition="#i"> räsonniert</hi>, so viel ihr wollt, und worüber ihr wollt;<hi rendition="#i"> aber gehorcht</hi>!) Hier ist überall Einschränkung der Freiheit. Welche Einschränkung aber ist der Aufklärung hinderlich? welche nicht, sondern ihr wohl gar beförderlich? – Ich antworte: der <hi rendition="#i">öffentliche</hi> Gebrauch seiner Vernunft muß jederzeit frei sein, und der allein kann Aufklärung unter Menschen zu Stande bringen; der <hi rendition="#i">Privatgebrauch</hi> derselben aber darf öfters sehr enge eingeschränkt sein, ohne doch darum den Fortschritt der Aufklärung sonderlich zu hindern. Ich verstehe aber unter dem öffentlichen Gebrauche seiner eigenen Vernunft denjenigen, den jemand <hi rendition="#i">als Gelehrter</hi> von ihr vor dem ganzen Publikum der <hi rendition="#i">Leserwelt</hi> macht. Den Privatgebrauch nenne ich denjenigen, den er in einem gewissen ihm anvertrauten <hi rendition="#i">bürgerlichen Posten</hi>, oder Amte, von seiner Vernunft machen darf. Nun ist zu manchen Geschäften, die in das Interesse des gemeinen Wesens laufen, ein gewisser Mechanism notwendig, vermittelst dessen einige Glieder des gemeinen Wesens sich bloß passiv verhalten müssen, um durch eine künstliche Einhelligkeit von der Regierung zu öffentlichen Zwecken gerichtet, oder wenigstens von der Zerstörung dieser Zwecke abgehalten zu werden. Hier ist es nun freilich nicht erlaubt, zu räsonnieren; sondern man <pb n="55" facs="#f0004"/> muß gehorchen. So fern sich aber dieser Teil der Maschine zugleich als Glied eines ganzen gemeinen Wesens, ja sogar der Weltbürgergesellschaft ansieht, mithin in der Qualität eines Gelehrten, der sich an ein Publikum im eigentlichen Verstande durch Schriften wendet: kann er allerdings räsonnieren, ohne daß dadurch die Geschäfte leiden, zu denen er zum Teile als passives Glied angesetzt ist. So würde es sehr verderblich sein, wenn ein Offizier, dem von seinen Oberen etwas anbefohlen wird, im Dienste über die Zweckmäßigkeit oder Nützlichkeit dieses Befehls laut vernünfteln wollte; er muß gehorchen. Es kann ihm aber billigermaßen nicht verwehrt werden, als Gelehrter, über die Fehler im Kriegesdienste Anmerkungen zu machen, und diese seinem Publikum zur Beurteilung vorzulegen. Der Bürger kann sich nicht weigern, die ihm auferlegten Abgaben zu leisten; sogar kann ein vorwitziger Tadel solcher Auflagen, wenn sie von ihm geleistet werden sollen, als ein Skandal (das allgemeine Widersetzlichkeiten veranlassen könnte) bestraft werden. Eben derselbe handelt demohngeachtet der Pflicht eines Bürgers nicht entgegen, wenn er, als Gelehrter, wider die Unschicklichkeit oder auch Ungerechtigkeit solcher Ausschreibungen öffentlich seine Gedanken äußert. Eben so ist ein Geistlicher verbunden, seinen Katechismusschülern und seiner Gemeine nach dem Symbol der Kirche, der er dient, seinen Vortrag zu tun; denn er ist auf diese Bedingung angenommen worden. Aber als Gelehrter hat er volle Freiheit, ja sogar den Beruf dazu, alle seine sorgfältig geprüften und wohlmeinenden Gedanken über das Fehlerhafte in jenem Symbol, und Vorschläge wegen besserer Einrichtung des Religions- und Kirchenwesens, dem Publikum mitzuteilen. Es ist hiebei auch nichts, was dem Gewissen zur Last gelegt werden könnte. Denn, was er zu Folge seines Amts, als Geschäftträger der Kirche, lehrt, das stellt er als etwas vor, in Ansehung dessen er nicht freie Gewalt hat, nach eigenem Gutdünken zu lehren, sondern das er nach Vorschrift und im Namen eines andern vorzutragen angestellt ist. Er wird sagen: unsere Kirche lehrt dieses oder jenes; das sind die Beweisgründe, deren sie sich bedient. Er <pb n="56" facs="#f0005"/> zieht alsdann allen praktischen Nutzen für seine Gemeinde aus Satzungen, die er selbst nicht mit voller Überzeugung unterschreiben würde, zu deren Vortrag er sich gleichwohl anheischig machen kann, weil es doch nicht ganz unmöglich ist, daß darin Wahrheit verborgen läge, auf alle Fälle aber wenigstens doch nichts der innern Religion Widersprechendes darin angetroffen wird. Denn glaubte er das letztere darin zu finden, so würde er sein Amt mit Gewissen nicht verwalten können; er müßte es niederlegen. Der Gebrauch also, den ein angestellter Lehrer von seiner Vernunft vor seiner Gemeinde macht, ist bloß ein <hi rendition="#i">Privatgebrauch</hi>; weil diese immer nur eine häusliche, obzwar noch so große, Versammlung ist; und in Ansehung dessen ist er, als Priester, nicht frei, und darf es auch nicht sein, weil er einen fremden Auftrag ausrichtet. Dagegen als Gelehrter, der durch Schriften zum eigentlichen Publikum, nämlich der Welt, spricht, mithin der Geistliche im <hi rendition="#i">öffentlichen Gebrauche</hi> seiner Vernunft, genießt einer uneingeschränkten Freiheit, sich seiner eigenen Vernunft zu bedienen und in seiner eigenen Person zu sprechen. Denn daß die Vormünder des Volks (in geistlichen Dingen) selbst wieder unmündig sein sollen, ist eine Ungereimtheit, die auf Verewigung der Ungereimtheiten hinausläuft.</p>
+<p rendition="#et">Aber sollte nicht eine Gesellschaft von Geistlichen, etwa eine Kirchenversammlung, oder eine ehrwürdige Classis (wie sie sich unter den Holländern selbst nennt) berechtigt ein, sich eidlich unter einander auf ein gewisses unveränderliches Symbol zu verpflichten, um so eine unaufhörliche Obervormundschaft über jedes ihrer Glieder und vermittelst ihrer über das Volk zu führen, und diese so gar zu verewigen? Ich sage: das ist ganz unmöglich. Ein solcher Kontrakt, der auf immer alle weitere Aufklärung vom Menschengeschlechte abzuhalten geschlossen würde, ist schlechterdings null und nichtig; und sollte er auch durch die oberste Gewalt, durch Reichstäge und die feierlichsten Friedensschlüsse bestätigt sein. Ein Zeitalter kann sich nicht verbünden und darauf verschwören, das folgende in einen Zustand zu setzen, darin es ihm unmöglich werden muß, seine (vornehmlich <pb n="57" facs="#f0006"/> so sehr angelegentliche) Erkenntnisse zu erweitern, von Irrtümern zu reinigen, und überhaupt in der Aufklärung weiter zu schreiten. Das wäre ein Verbrechen wider die menschliche Natur, deren ursprüngliche Bestimmung gerade in diesem Fortschreiten besteht; und die Nachkommen sind also vollkommen dazu berechtigt, jene Beschlüsse, als unbefugter und frevelhafter Weise genommen, zu verwerfen. Der Probierstein alles dessen, was über ein Volk als Gesetz beschlossen werden kann, liegt in der Frage: ob ein Volk sich selbst wohl ein solches Gesetz auferlegen könnte? Nun wäre dieses wohl, gleichsam in der Erwartung eines bessern, auf eine bestimmte kurze Zeit möglich, um eine gewisse Ordnung einzuführen; indem man es zugleich jedem der Bürger, vornehmlich dem Geistlichen, frei ließe, in der Qualität eines Gelehrten öffentlich, d.i. durch Schriften, über das Fehlerhafte der dermaligen Einrichtung seine Anmerkungen zu machen, indessen die eingeführte Ordnung noch immer fortdauerte, bis die Einsicht in die Beschaffenheit dieser Sachen öffentlich so weit gekommen und bewähret worden, daß sie durch Vereinigung ihrer Stimmen (wenn gleich nicht aller) einen Vorschlag vor den Thron bringen könnte, um diejenigen Gemeinden in Schutz zu nehmen, die sich etwa nach ihren Begriffen der besseren Einsicht zu einer veränderten Religionseinrichtung geeinigt hätten, ohne doch diejenigen zu hindern, die es beim Alten wollten bewenden lassen. Aber auf eine beharrliche, von niemanden öffentlich zu bezweifelnde Religionsverfassung, auch nur binnen der Lebensdauer eines Menschen, sich zu einigen, und dadurch einen Zeitraum in dem Fortgange der Menschheit zur Verbesserung gleichsam zu vernichten, und fruchtlos, dadurch aber wohl gar der Nachkommenschaft nachteilig, zu machen, ist schlechterdings unerlaubt. Ein Mensch kann zwar für seine Person, und auch alsdann nur auf einige Zeit, in dem, was ihm zu wissen obliegt, die Aufklärung aufschieben; aber auf sie Verzicht zu tun, es sei für seine Person, mehr aber noch für die Nachkommenschaft, heißt die heiligen Rechte der Menschheit verletzen und mit Füßen treten. Was aber nicht einmal ein Volk über sich selbst beschließen <pb n="58" facs="#f0007"/> darf, das darf noch weniger ein Monarch über das Volk beschließen; denn sein gesetzgebendes Ansehen beruht eben darauf, daß er den gesamten Volkswillen in dem seinigen vereinigt. Wenn er nur darauf sieht, daß alle wahre oder vermeinte Verbesserung mit der bürgerlichen Ordnung zusammen bestehe: so kann er seine Untertanen übrigens nur selbst machen lassen, was sie um ihres Seelenheils willen zu tun nötig finden; das geht ihn nichts an, wohl aber zu verhüten, daß nicht einer den andern gewalttätig hindere, an der Bestimmung und Beförderung desselben nach allem seinen Vermögen zu arbeiten. Es tut selbst seiner Majestät Abbruch, wenn er sich hierin mischt, indem er die Schriften, wodurch seine Untertanen ihre Einsichten ins reine zu bringen suchen, seiner Regierungsaufsicht würdigt, sowohl wenn er dieses aus eigener höchsten Einsicht tut, wo er sich dem Vorwurfe aussetzt: Caesar non est supra grammaticos, als auch und noch weit mehr, wenn er seine oberste Gewalt so weit erniedrigt, den geistlichen Despotism einiger Tyrannen in seinem Staate gegen seine übrigen Untertanen zu unterstützen.</p>
+<p rendition="#et">Wenn denn nun gefragt wird: Leben wir jetzt in einem <hi rendition="#i">aufgeklärten</hi> Zeitalter? so ist die Antwort: Nein, aber wohl in einem Zeitalter der <hi rendition="#i">Aufklärung</hi>. Daß die Menschen, wie die Sachen jetzt stehen, im ganzen genommen, schon im Stande wären, oder darin auch nur gesetzt werden könnten, in Religionsdingen sich ihres eigenen Verstandes ohne Leitung eines andern sicher und gut zu bedienen, daran fehlt noch sehr viel. Allein, daß jetzt ihnen doch das Feld geöffnet wird, sich dahin frei zu bearbeiten, und die Hindernisse der allgemeinen Aufklärung, oder des Ausganges aus ihrer selbst verschuldeten Unmündigkeit, allmählich weniger werden, davon haben wir doch deutliche Anzeigen. In diesem Betracht ist dieses Zeitalter das Zeitalter der Aufklärung, oder das Jahrhundert <hi rendition="#i">Friederichs</hi>.</p>
+<p rendition="#et">Ein Fürst, der es seiner nicht unwürdig findet, zu sagen: daß er es für <hi rendition="#i">Pflicht</hi> halte, in Religionsdingen den Menschen <pb n="59" facs="#f0008"/> nichts vorzuschreiben, sondern ihnen darin volle Freiheit zu lassen, der also selbst den hochmütigen Namen der <hi rendition="#i">Toleranz</hi> von sich ablehnt: ist selbst aufgeklärt, und verdient von der dankbaren Welt und Nachwelt als derjenige gepriesen zu werden, der zuerst das menschliche Geschlecht der Unmündigkeit, wenigstens von Seiten der Regierung, entschlug, und jedem frei ließ, sich in allem, was Gewissensangelegenheit ist, seiner eigenen Vernunft zu bedienen. Unter ihm dürfen verehrungswürdige Geistliche, unbeschadet ihrer Amtspflicht, ihre vom angenommenen Symbol hier oder da abweichenden Urteile und Einsichten, in der Qualität der Gelehrten, frei und öffentlich der Welt zur Prüfung darlegen; noch mehr aber jeder andere, der durch keine Amtspflicht eingeschränkt ist. Dieser Geist der Freiheit breitet sich auch außerhalb aus, selbst da, wo er mit äußeren Hindernissen einer sich selbst mißverstehenden Regierung zu ringen hat. Denn es leuchtet dieser doch ein Beispiel vor, daß bei Freiheit, für die öffentliche Ruhe und Einigkeit des gemeinen Wesens nicht das mindeste zu besorgen sei. Die Menschen arbeiten sich von selbst nach und nach aus der Rohigkeit heraus, wenn man nur nicht absichtlich künstelt, um sie darin zu erhalten.</p>
+<p rendition="#et">Ich habe den Hauptpunkt der Aufklärung, die des Ausganges der Menschen aus ihrer selbst verschuldeten Unmündigkeit, vorzüglich in <hi rendition="#i">Religionssachen</hi> gesetzt: weil in Ansehung der Künste und Wissenschaften unsere Beherrscher kein Interesse haben, den Vormund über ihre Untertanen zu spielen; überdem auch jene Unmündigkeit, so wie die schädlichste, also auch die entehrendste unter allen ist. Aber die Denkungsart eines Staatsoberhaupts, der die erstere begünstigt, geht noch weiter, und sieht ein: daß selbst in Ansehung seiner <hi rendition="#i">Gesetzgebung</hi> es ohne Gefahr sei, seinen Untertanen zu erlauben, von ihrer eigenen Vernunft<hi rendition="#i"> öffentlichen</hi> öffentlichen Gebrauch zu machen, und ihre Gedanken über eine bessere Abfassung derselben, sogar mit einer freimütigen Kritik der schon gegebenen, der Welt öffentlich vorzulegen; davon wir ein glänzendes Beispiel haben, wodurch noch kein Monarch demjenigen vorging, welchen wir verehren.</p>
+<p rendition="#et"><pb n="60" facs="#f0009"/> Aber auch nur derjenige, der, selbst aufgeklärt, sich nicht vor Schatten fürchtet, zugleich aber ein wohldiszipliniertes zahlreiches Heer zum Bürgen der öffentlichen Ruhe zur Hand hat, – kann das sagen, was ein Freistaat nicht wagen darf: <hi rendition="#i">räsonniert, so viel ihr wollt, und worüber ihr wollt; nur gehorcht!</hi> So zeigt sich hier ein befremdlicher nicht erwarteter Gang menschlicher Dinge; so wie auch sonst, wenn man ihn im großen betrachtet, darin fast alles paradox ist. Ein größerer Grad bürgerlicher Freiheit scheint der Freiheit des <hi rendition="#i">Geistes</hi> des Volks vorteilhaft, und setzt ihr doch unübersteigliche Schranken; ein Grad weniger von jener verschafft hingegen diesem Raum, sich nach allem seinen Vermögen auszubreiten. Wenn denn die Natur unter dieser harten Hülle den Keim, für den sie am zärtlichsten sorgt, nämlich den Hang und Beruf zum <hi rendition="#i">freien Denken</hi>, ausgewickelt hat: so wirkt dieser allmählich zurück auf die Sinnesart des Volks (wodurch dieses der <hi rendition="#i">Freiheit zu handeln</hi> nach und nach fähiger wird), und endlich auch sogar auf die Grundsätze der <hi rendition="#i">Regierung</hi>, die es ihr selbst zuträglich findet, den Menschen, der nun <hi rendition="#i">mehr als Maschine</hi> ist, seiner Würde gemäß zu behandeln.<note place="end" n="1"><bibl><ref>/Philosophie/M/Kant, Immanuel/Beantwortung der Frage: Was ist Aufklärung?#F1576</ref></bibl></note></p>
+
+<p rendition="#et">Königsberg in Preußen, den 30. Septemb. 1784.</p>
+<p rendition="#right">I. Kant.</p>
+<pb n="61" facs="#f00010"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Kant, Immanuel/Beantwortung der Frage: Was ist Aufklärung?#N1576</ref>1</bibl> In den <hi rendition="#i">Büschingschen</hi> wöchentlichen Nachrichten vom 13. Sept. lese ich heute den 30sten eben dess. die Anzeige der Berlinischen Monatsschrift von diesem Monat, worin des Herrn <hi rendition="#i">Mendelssohn</hi> Beantwortung eben derselben Frage angeführt wird. Mir ist sie noch nicht zu Händen gekommen; sonst würde sie die gegenwärtige zurückgehalten haben, die jetzt nur zum Versuche da stehen mag, wiefern der Zufall Einstimmigkeit der Gedanken zuwege bringen könne.</note>
+
+</body></text></TEI>

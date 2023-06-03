@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Winckelmanns Werke in einem Band</title>
+        <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Winckelmanns Werke in einem Band. Herausgegeben von Helmut Holtzhauer, Berlin und
+      Weimar: Aufbau, 1969 (Bibliothek Deutscher Klassiker).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Winckelmanns Werke in einem Band</title>
+      <author><persName ref="http://d-nb.info/gnd/33600">
+        <surname>Winckelmann</surname>
+        <forename>Johann Joachim</forename>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Aufbau-Verlag</name>
+      </publisher><pubPlace>Berlin, Weimar</pubPlace>
+      <date type="publication">1969</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Erstdruck in: Bibliothek der schönen Wissenschaften und freien Künste (Leipzig), 1759.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Von der Grazie in Werken der Kunst</note>
+
+
+
+<head>Johann Joachim Winckelmann</head>
+<head>Von der Grazie in Werken der Kunst</head>
+
+<p><pb n="48" facs="#f0001"/>
+Die Grazie ist das vernünftig Gefällige. Es ist ein Begriff von weitem Umfange, weil er sich auf alle Handlungen erstreckt. Die Grazie ist ein Geschenk des Himmels, aber nicht wie die Schönheit, denn er erteilt nur die Ankündigung und Fähigkeit zu derselben. Sie bildet sich durch Erziehung und Überlegung und kann zur Natur werden, welche dazu geschaffen ist. Sie ist ferne vom Zwange und gesuchten Witze; aber es erfordert Aufmerksamkeit und Fleiß, die Natur in allen Handlungen, wo sie sich nach eines jeden Talent zu zeigen hat, auf den rechten Grad der Leichtigkeit zu erheben. In der Einfalt und in der Stille der Seele wirkt sie und wird durch ein wildes Feuer und in aufgebrachten Neigungen verdunkelt. Aller Menschen Tun und Handeln wird durch dieselbe angenehm, und in einem schönen Körper herrscht sie mit großer Gewalt. Xenophon war mit derselben begabt, Thucydides aber hat sie nicht gesucht. In ihr bestand der Vorzug des Apelles, und des Correggio in neueren Zeiten, und Michelangelo hat sie nicht erlangt. Über die Werke des Altertums aber hat sie sich allgemein ergossen und ist auch in dem Mittelmäßigen zu erkennen.</p>
+<p rendition="#et">Die Kenntnis und Beurteilung der Grazie am Menschen und in der Nachahmung desselben an Statuen und auf Gemälden scheint verschieden zu sein, weil hier vielen dasjenige nicht anstößig ist, was ihnen im Leben mißfallen würde. Diese Verschiedenheit der Empfindung liegt entweder in der Eigenschaft der Nachahmung überhaupt, welche desto mehr rührt, je fremder sie ist als das Nachgeahmte, oder mehr an ungeübten Sinnen und am Mangel öfterer Betrachtung<pb n="48" facs="#f0002"/>
+und gründlicher Vergleichung der Werke der Kunst. Denn was bei Aufklärung des Verstandes und bei Vorteilen der Erziehung an neueren Werken gefällt, wird oft nach erlangter wahren Kenntnis der Schönheiten des Altertums ekelhaft werden. Die allgemeine Empfindung der wahren Grazie wäre also nicht natürlich; da sie aber erlangt werden kann und ein Teil des guten Geschmacks ist, so ist auch dieser so wie jene zu lehren, wider den Verfasser der Briefe über die Engländer, weil sogar die Schönheit zu lehren ist, obgleich noch keine allgemeine deutliche Erklärung derselben bestimmt worden.</p>
+<p rendition="#et">Im Unterricht über Werke der Kunst ist die Grazie das Sinnlichste, und zur Überzeugung von dem Vorzuge der alten Werke vor den neueren gibt sie den begreiflichsten Beweis. Mit derselben muß man anfangen zu lehren, bis man zur hohen abstrakten Schönheit gehen kann.</p>
+<p rendition="#et">Die Grazie in Werken der Kunst geht nur die menschliche Figur an und liegt nicht allein in deren Wesentlichem, dem Stande und Gebärden, sondern auch in dem Zufälligen, dem Schmucke und der Kleidung. Ihre Eigenschaft ist das eigentümliche Verhältnis der handelnden Personen zur Handlung, denn sie ist wie Wasser, welches desto vollkommener ist, je weniger es Geschmack hat. Alle Fremdartigkeit ist der Grazie so wie der Schönheit nachteilig. Man merke, daß die Rede von dem Hohen oder Heroischen und Tragischen der Kunst, nicht von dem komischen Teile derselben ist.</p>
+<p rendition="#et">Stand und Gebärden an den alten Figuren sind wie an einem Menschen, welcher Achtung erweckt und fordern kann und der vor den Augen weiser Männer auftritt. Ihre Bewegung hat den notwendigen Grund des Wirkens in sich, wie durch ein flüssiges feines Geblüt und mit einem sittsamen Geist zu geschehen pflegt; nur allein die Stellung der Bacchanten auf geschnittenen Steinen ist der Absicht bei denselben gemäß, das ist, gewaltsam. Was von stehenden Figuren gesagt wird, gilt auch von liegenden.</p>
+<p rendition="#et">Im ruhigen Stande, wo ein Bein das tragende ist und das <pb n="49" facs="#f0003"/>
+andere das spielende, tritt dieses nur so weit zurück, als nötig war, die Figur aus der senkrechten Linie zu setzen und an Faunen hat man die ungelehrte Natur auch in der Richtung dieses Fußes beobachtet, welcher, gleichsam unmerksam auf Zierlichkeit, einwärts steht. Den neuern Künstlern schien ein ruhiger Stand unbedeutend und ohne Geist. Sie rücken daher den spielenden Fuß weiter hinaus, und um eine idealische Stellung zu machen, setzen sie ein Teil der Schwere des Körpers von dem tragenden Beine weg und drehen den Oberleib von neuem aus seiner Ruhe und den Kopf wie an Personen, die nach einem unerwarteten Blitze sehen. Diejenigen, welchen dieses aus Mangel der Gelegenheit, das Alte zu sehen, nicht deutlich ist, mögen sich einen Ritter einer Komödie oder auch einen jungen Franzosen in seiner eigenen Brühe vorstellen. Wo der Raum diesen Stand der Beine nicht erlaubte, um nicht das Bein, welches nicht trägt, müßig zu lassen, setzt man es auf etwas Erhobenes, als ein Bild eines Menschen, welcher, um mit jemand zu reden, das eine Bein allezeit auf einen Stuhl setzen wollte oder, um fest zu stehen, sich einen Stein unterlegte. Die Alten waren dergestalt auf den höchsten Wohlstand bedacht, daß nicht leicht Figuren mit einem Beine über das andere geschlagen stehen, es sei denn ein Bacchus in Marmor, ein Paris oder Nireus auf geschnittenen Steinen, zum Zeichen der Weichlichkeit.</p>
+<p rendition="#et">In den Gebärden der alten Figuren bricht die Freude nicht in Lachen aus, sondern sie zeigt nur die Heiterkeit vom inneren Vergnügen; auf dem Gesichte einer Bacchante blickt gleichsam nur die Morgenröte von der Wollust auf. In Betrübnis und Unmut sind sie ein Bild des Meeres, dessen Tiefe stille ist, wenn die Fläche anfängt unruhig zu werden; auch in empfindlichsten Schmerzen erscheint Niobe als die Heldin, welche der Latona nicht weichen wollte. Denn die Seele kann in einen Zustand gesetzt werden, wo sie von der Größe des Leidens, welches sie nicht fassen kann, übertäubt, der Unempfindlichkeit nahe kommt. Die alten Künstler haben hier, wie ihre Dichter, ihre Personen gleichsam außer <pb n="50" facs="#f0004"/>
+der Handlung, die Schrecken oder Wehklagen erwecken müßte, gezeigt, auch um die Würdigkeit der Menschen in Fassung der Seele vorzustellen.</p>
+<p rendition="#et">Die Neuern, welche teils das Altertum nicht kennenlernen oder nicht zur Betrachtung der Grazie in der Natur gelangt sind, haben nicht allein die Natur gebildet, wie sie empfindet, sondern auch, was sie nicht empfindet. Die Zärtlichkeit einer sitzenden Venus in Marmor zu Potsdam, vom Pigalle aus Paris, ist in einer Empfindung, in welcher ihr das Wasser aus dem Munde, welcher nach Luft zu schnappen scheint, laufen will, denn sie soll vor Begierde schmachtend aussehen. Sollte man glauben, daß ein solcher Mensch in Rom einige Jahre unterhalten gewesen, das Altertum nachzuahmen! Eine Charitas von Bernini an einem der päpstlichen Grabmäler in S. Peter zu Rom soll liebreich und mit mütterlichen Augen auf ihre Kinder sehen; es sind aber viel widersprechende Dinge in ihrem Gesichte. Das Liebreiche ist ein gezwungenes, satyrisches Lachen, damit ihr der Künstler seine ihm gewöhnliche Grazie, die Grübchen in den Wangen, geben konnte. In Vorstellung der Betrübnis geht er bis auf das Haarausreißen, wie man auf vielen berühmten Gemälden, welche gestochen sind, sehen kann.</p>
+<p rendition="#et">Die Bewegung der Hände, welche die Gebärden begleiten, und deren Haltung überhaupt ist an alten Statuen wie an Personen, die von niemand glauben beobachtet zu werden; und ob sich gleich wenig Hände an denselben erhalten haben, so sieht man doch an der Richtung des Armes, daß die Bewegung der Hand natürlich gewesen ist. Diejenigen, welche die mangelnden oder zerstümmelten Hände ergänzt, haben ihnen vielmals, so wie an ihren eigenen Werken, eine Haltung gegeben, die eine Person vor dem Spiegel machen würde, welche ihre vermeinte schöne Hand denen, die sie bei ihrem Putze unterhalten, so lange und so oft sie kann, im völligen Lichte wollte sehen lassen. Im Ausdrucke sind die Hände insgemein gezwungen wie eines jungen Anfängers auf der Kanzel. Faßt eine Figur ihr Gewand, so hält sie es wie<pb n="51" facs="#f0005"/>
+Spinnwebe. Eine Nemesis, welche auf alten geschnittenen Steinen gewöhnlich ihr Peplum von dem Busen sanft in die Höhe hält, würde es in neueren Bildern nicht anders tun können als mit zierlich ausgestreckten drei letzten Fingern.</p>
+<p rendition="#et">Die Grazie in dem Zufälligen alter Figuren, dem Schmucke und der Kleidung, liegt, wie an der Figur selbst, in dem, was der Natur am nächsten kommt. An den allerältesten Werken ist der Wurf der Falten unter dem Gürtel fast senkrecht, wie sie an einem dünnen Gewande natürlich fallen. Mit dem Wachstume der Kunst wurde die Mannigfaltigkeit gesucht; aber das Gewand stellte allezeit ein leichtes Gewebe vor, und die Falten wurden nicht gehäuft oder hier und da zerstreut, sondern sind in ganze Massen vereinigt. Dieses blieben die zwei vornehmsten Beobachtungen im Altertume, wie wir noch an der schönen Flora (nicht der Farnesischen) im Campidoglio, von Hadrians Zeiten, sehen. An Bacchanten und tanzenden Figuren wurde das Gewand zerstreuter und fliegender gearbeitet, auch an Statuen, wie eine im Palast Riccardi zu Florenz beweist; aber der Wohlstand blieb beobachtet, und die Fähigkeit der Materie wurde nicht übertrieben. Götter und Helden sind wie an heiligen Orten stehend, wo die Stille wohnt, und nicht als ein Spiel der Winde oder im Fahnenschwenken vorgestellt; fliegende und luftige Gewänder suche man sonderlich auf geschnittenen Steinen, an einer Atalanta, wo die Person und die Materie es erforderte und erlaubte.</p>
+<p rendition="#et">Die Grazie erstreckt sich auf die Kleidung, weil sie mit ihren Geschwistern vor Alters bekleidet war, und die Grazie in der Kleidung bildet sich wie von selbst in unserem Begriffe, wenn wir uns vorstellen, wie wir die Grazien gekleidet sehen möchten. Man würde sie nicht in Galakleidern, sondern wie eine Schönheit, die man liebte, im leichten Überwurf kürzlich aus dem Bette erhoben, zu sehen wünschen.</p>
+<p rendition="#et">In neueren Werken der Kunst scheint man, nach Raffaels und dessen bester Schüler Zeiten, nicht gedacht zu haben, daß die Grazie auch an der Kleidung teilnehmen könne, <pb n="52" facs="#f0006"/>
+weil man statt der leichten Gewänder die schweren gewählt, die gleichsam wie Verhüllungen der Unfähigkeit, das Schöne zu bilden, anzusehen sind; denn die Falten von großem Inhalt überheben den Künstler der von den Alten gesuchten Andeutung der Form des Körpers unter dem Gewande, und eine Figur scheint öfters nur zum Tragen gemacht zu sein. Bernini und Peter von Cortona sind in großen und schweren Gewändern die Muster ihrer Nachfolger geworden. Wir kleiden uns in leichte Zeuge, aber unsere Bilder genießen diesen Vorteil nicht.</p>
+<p rendition="#et">Wenn man geschichtmäßig von der Grazie nach Wiederherstellung der Kunst reden sollte, so würde es mehr auf das Gegenteil gehen. In der Bildhauerei hat die Nachahmung eines einzigen großen Mannes, des Michelangelo, die Künstler von dem Altertum und von der Kenntnis der Grazie entfernt. Sein hoher Verstand und seine große Wissenschaft wollte sich in Nachahmung der Alten nicht allein einschränken, und seine Einbildung war zu feurig zu zärtlichen Empfindungen und zur lieblichen Grazie. Seine gedruckten und noch ungedruckten Gedichte sind voll von Betrachtungen der hohen Schönheit, aber er hat sie nicht gebildet, so wenig wie die Grazie seiner Werke. Denn da er nur das Außerordentliche und das Schwere in der Kunst suchte, so setzte er diesem das Gefällige nach, weil dieses mehr in Empfindung als in Wissenschaft besteht; und um diese allenthalben zu zeigen, wurde er übertrieben. Seine liegenden Statuen auf den Grabmalen in der großherzoglichen Kapelle zu S. Lorenzo in Florenz haben eine so ungewöhnliche Lage, daß das Leben sich Gewalt antun müßte, sich also liegend zu erhalten, und eben durch diese gekünstelte Lage ist er aus dem Wohlstande der Natur und des Orts, für welchen er arbeitete, gegangen. Seine Schüler folgten ihm, und da sie ihn in der Wissenschaft nicht erreichten und ihren Werken auch dieser Wert fehlte, so wird der Mangel der Grazie, da der Verstand nicht beschäftigt ist, hier noch merklicher und anstößiger. Wie wenig Guglielmo della Porta, der beste aus dieser Schule, die <pb n="53" facs="#f0007"/>
+Grazie und das Altertum begriffen hat, sieht man unter andern an dem Farnesischen Stier, an welchem die Dirce, bis auf den Gürtel, von seiner Hand ist. Johann Bologna, Algardi und Fiammingo sind große Künstler, aber unter den Alten, auch in dem Teile der Kunst, wovon wir reden.</p>
+<p rendition="#et">Endlich erschien Lorenzo Bernini in der Welt, ein Mann von großem Talent und Geiste, aber dem die Grazie nicht einmal im Traume erschienen ist. Er wollte alle Teile der Kunst umfassen, war Maler, Baumeister und Bildhauer und suchte, als dieser, vornehmlich ein Original zu werden. Im achtzehnten Jahre machte er den Apollo und die Daphne, ein wunderbares Werk für ein solches Alter, und welches versprach, daß durch ihn die Bildhauerei auf ihren höchsten Gipfel kommen würde. Er machte hierauf seinen David, welcher jenem Werke nicht beikommt. Der allgemeine Beifall machte ihn stolz, und es scheint, sein Vorsatz sei gewesen, da er die alten Werke weder erreichen noch verdunkeln konnte, einen neuen Weg zu nehmen, den ihm der verderbte Geschmack selbiger Zeit erleichterte, auf welchem er die erste Stelle unter den Künstlern neuerer Zeit erhalten könnte, und es ist ihm gelungen. Von der Zeit an entfernte sich die Grazie gänzlich von ihm, weil sie sich mit seinem Vorhaben nicht reimen konnte. Denn er ergriff das entgegengesetzte Ende vom Altertum; seine Bilder suchte er in der gemeinen Natur, und sein Ideal ist von Geschöpfen unter einem ihm unbekannten Himmel genommen, denn in dem schönsten Teil von Italien ist die Natur anders als an seinen Bildern gestaltet. Er wurde als Gott der Kunst verehrt und nachgeahmt, und da nur die Heiligkeit, nicht die Weisheit Statuen erhält, so ist eine Berninische Figur besser für die Kirche als der Laokoon. Von Rom kannst du, mein Leser, sicher auf andere Länder schließen, und ich werde künftig Nachrichten dazu erteilen. Ein gepriesener Puget, Girardon, und wie die Meister in ong heißen, sind nicht besser. Was der beste Zeichner in Frankreich kann, zeigt eine Minerva in einem Kupferleisten zu Anfang der geschnittenen Steine von Mariette.</p>
+<p rendition="#et"><pb n="54" facs="#f0008"/>
+Die Grazien standen in Athen beim Aufgang nach dem heiligsten Orte zu; unsere Künstler sollten sie über ihre Werkstatt setzen und am Ringe tragen, zur unaufhörlichen Erinnerung, und ihnen opfern, um sich diese Göttinnen hold zu machen.</p>
+<p rendition="#et">Ich habe mich in dieser kurzen Betrachtung vornehmlich auf die Bildhauerei eingeschränkt, weil man sie über Gemälde auch außer Italien machen kann, und der Leser wird das Vergnügen haben, selbst mehr zu entdecken, als ich gesagt habe. Ich streue nur einzelne Körner aus zu einer größeren Aussaat, wenn sich Muße und Umstände finden werden.</p>
+<pb n="55" facs="#f0009"/>
+
+</body></text></TEI>

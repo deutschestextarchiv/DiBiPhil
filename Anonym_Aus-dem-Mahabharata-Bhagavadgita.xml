@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Bhagavadgita</title>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Bhagavadgita: Des Erhabenen Sang, übertragen von Leopold von Schroeder,
+      31.–35. Tsd., Jena: Eugen Diederichs Verlag, 1959.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Bhagavadgita</title>
+      <title level="m" type="sub">Des Erhabenen Sang</title>
+      <editor role="translator"><persName ref="http://d-nb.info/gnd/72796"><forename>Leopold</forename><nameLink>von</nameLink><surname>Schroeder</surname></persName></editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Diederichs Verlag</name>
+      </publisher><pubPlace>Jena</pubPlace>
+      <date type="publication">1959</date>
+      <date type="firstPublication">1922</date>
+      </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Das Epos beruht auf Überlieferungen. Erstmals niedergeschrieben zwischen 400 v. Chr. und 400 n. Chr. Hier in der Übersetzung von Leopold von Schroeder.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+
+<note type="editorial">Aus dem Mahabharata: Bhagavadgita</note>
+
+
+
+<head>Aus dem Mahâbhârata</head>
+<head>Bhagavadgita</head>
+
+
+
+<div n="1">
+<note type="editorial">Erster Gesang</note>
+
+<head><pb n="25" facs="#f0001"/>
+Erster Gesang.</head>
+<p rendition="#c">Dhritarashtra<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2063</ref></bibl></note> sprach</p>
+<lb/>
+<p>Im heilgen Land, im Kuru-Land, zusammentreffend kampfbereit,</p>
+<p>Was taten dort, o Sanjaya<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2064</ref></bibl></note>, die Meinen und die Pândava<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2065</ref></bibl></note>?</p>
+<lb/>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>Als nun Duryodhana<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2066</ref></bibl></note> das Heer der Pândus aufgestellet sah,</p>
+<p>Da trat er zu dem Lehrer<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2067</ref></bibl></note> hin, der König, und sprach dieses Wort:</p>
+<p>Sieh dort der Pându-Söhne Heer, o Lehrer, das gewaltige,</p>
+<p>Von deinem Schüler aufgestellt, dem klugen Sohn des Drupada<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2068</ref></bibl></note>.</p>
+<p>Da stehen Helden, Pfeilschützen, dem Arjuna und Bhîma<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2069</ref></bibl></note> gleich,</p>
+<p>Yuyudhâna<note place="end" n="8"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2070</ref></bibl></note> und Virâta<note place="end" n="9"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2071</ref></bibl></note> und Drupada, der Wagenheld.</p>
+<p>Dhrishtaketu<note place="end" n="10"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2072</ref></bibl></note>, Cekitâna<note place="end" n="11"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2073</ref></bibl></note> und Kâçis<note place="end" n="12"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2074</ref></bibl></note> heldenhafter Fürst,</p>
+<p>Purujit<note place="end" n="13"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2075</ref></bibl></note> und Kuntibhoja<note place="end" n="14"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2076</ref></bibl></note> und Çâivya<note place="end" n="15"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2077</ref></bibl></note> auch, der Männerstier.</p>
+<p>Yudhâmanyu, der tapfre Held, und Uttamâujas<note place="end" n="16"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2078</ref></bibl></note>, kraftbegabt,</p>
+<p>Subhadrâs Sohn<note place="end" n="17"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2079</ref></bibl></note>, der Drâupadî Söhne<note place="end" n="18"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2080</ref></bibl></note>, auf hohen Wagen all.</p>
+<p>Die Besten aber auch bei uns nimm, bester der Brahmanen, wahr,</p>
+<p>Die Führer dieses meines Heers, – dich zu erinnern, nenn' ich sie:</p>
+<p>Du selbst und Bhîshma<note place="end" n="19"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2081</ref></bibl></note>, Karna<note place="end" n="20"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2082</ref></bibl></note> auch und Kripa, der im Kampfe siegt,</p>
+<p>Açvatthâman<note place="end" n="21"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2083</ref></bibl></note> und Vikarna<note place="end" n="22"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2084</ref></bibl></note>, wie auch des Somadatta Sohn;</p>
+<p>Und viele andre Helden noch, ihr Leben opfernd meinethalb,</p>
+<p>Schwingend der Waffen mancherlei, sie alle mit dem Kampf vertraut.</p>
+<p>Nicht ist genügend unser Heer, ob Bhîshma auch sein Führer ist,</p>
+<p>Genügend aber ist ihr Heer, an dessen Spitze Bhîma steht.</p>
+<p>In all den Heeresreihen hier am rechten Platze aufgestellt,</p>
+<p><pb n="25" facs="#f0002"/> Sollt denn ihr all, wie viel ihr seid, den Bhîshma schützen, wie ihr könnt.</p>
+<p>Drauf ihm erweckend Kampfesmut blies laut das Muschelhorn der Greis,</p>
+<p>Der hehre Ahn des Kuru-Stamms<note place="end" n="23"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2085</ref></bibl></note>, daß es wie Löwenbrüllen scholl.</p>
+<p>Die Muscheln und die Pauken drauf, die Trommeln und Drommeten all,</p>
+<p>Die wurden da mit Macht gerührt, daß zum Getöse wuchs ihr Schall.</p>
+<p>Auch Krishna und des Pându Sohn<note place="end" n="24"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2086</ref></bibl></note> bliesen die Himmelsmuscheln laut,</p>
+<p>Auf hohem Wagen stehend da, von lichten Rossen fortgeführt.</p>
+<p>Krishna die Dämonsmuschel<note place="end" n="25"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2087</ref></bibl></note> blies, die Gottgeschenkte Arjuna,</p>
+<p>Die große Muschel Pâundra blies der Schreckensmann Wolfseingeweid<note place="end" n="26"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2088</ref></bibl></note>.</p>
+<p>Die Siegesmuschel blies der Fürst, der Kuntî Sohn Yudhishthira,</p>
+<p>Doch Nakula und Sahadev<note place="end" n="27"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2089</ref></bibl></note> auf Tonreich und Juwelenblüt.</p>
+<p>Der Kâçi-Fürst, der beste Schütz, und Çikhandin<note place="end" n="28"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2090</ref></bibl></note>, zu Wagen hoch,</p>
+<p>Virâta, Dhrishtadyumna und Satyakas unbesiegter Sohn<note place="end" n="29"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2091</ref></bibl></note>;</p>
+<p>Drupada samt der Enkel Schar<note place="end" n="30"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2092</ref></bibl></note> und Abhimanyu, starken Arms,</p>
+<p>Sie bliesen all, o Erdenherr, auf ihren Muscheln hier und dort.</p>
+<p>Und dies Getön zerspaltete der Dhritarâshtra-Söhne Herz,</p>
+<p>Da es den Himmel und die Erd' von wirrem Lärm erdröhnen ließ.</p>
+<p>Als Arjuna nun vor sich sah der Dhritarâshtra-Söhne Schar,</p>
+<p>Und der Geschosse Regen schon begann, hob er den Bogen hoch;</p>
+<p>Sodann, zu Krishna hingewandt, sprach er dies Wort, o Erdenherr<note place="end" n="31"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2093</ref></bibl></note>:</p>
+<p>Inmitten beider Heere hier halt', Ewiger du, den Wagen an!</p>
+<p>Bis ich mir diese angesehn, die kampfbegierig stehn in Reihn, –</p>
+<p>Mit wem ich denn da kämpfen soll im heißen Mühen dieser Schlacht.</p>
+<p>Zum Kampfbereit seh' ich sie stehn, die hier am Ort versammelt sind,</p>
+<p>Dem argen Dhritarâshtra-Sohn<note place="end" n="32"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2094</ref></bibl></note> im Streite ihren Arm zu leihn.</p>
+<p>Also gemahnt von Arjuna hielt Krishna gleich, o Bhârata,</p>
+<p>Inmitten beider Heere dort den herrlichsten der Wagen an.</p>
+<p>Vor Bhîshma und vor Drona dann, und vor den Erdenherrschern all</p>
+<p>Sprach er: Sieh, Sohn der Prithâ<note place="end" n="33"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2095</ref></bibl></note>, dort herbeigeströmt der Kuru Schar!</p>
+<p>Da sah der Sohn der Prithâ stehn die Väter und Großväter dort,</p>
+<p>Lehrer, Brüder und Oheime, Söhne, Enkel und Freunde auch;</p>
+<p><pb n="26" facs="#f0003"/> Schwäher wie auch Gefreundete, in beiden Heeren gleicherweis;</p>
+<p>Als alle die Verwandten dort der Kuntî Sohn kampffertig sah,</p>
+<p>Von höchstem Mitleid übermannt, sprach er kleinmütig dieses Wort:</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Ich sehe der Verwandten Schar, o Krishna, kampfbereit genaht,</p>
+<p>Da werden meine Glieder schwach und es verdorret mir der Mund,</p>
+<p>Ein Zittern geht durch mein Gebein und meine Haare sträuben sich;</p>
+<p>Gândîva<note place="end" n="34"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2096</ref></bibl></note> sinkt mir aus der Hand, die Haut an meinem Körper brennt,</p>
+<p>Nicht länger kann ich aufrecht stehn, wie unstät irrt mein Geist umher.</p>
+<p>Und Zeichen schau ich, aber ach, gar böse Zeichen, Keçava<note place="end" n="35"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2097</ref></bibl></note>!</p>
+<p>Kein Heil mehr seh' ich, wenn im Kampf ich die Verwandten umgebracht.</p>
+<p>Krishna, den Sieg begehr' ich nicht, noch Herrschaft, noch die Freuden all!</p>
+<p>Was soll die Königsherrschaft uns, was der Genuß, das Leben selbst?</p>
+<p>Um derentwillen wünschenswert Herrschaft, Besitz und Freuden sind,</p>
+<p>Die stehn in Reihen hier, im Kampf aufopfernd Leben, Hab und Gut.</p>
+<p>Lehrer, Väter und Söhne sind's und ebenso Großväter auch;</p>
+<p>Oheime, Schwäher, Enkel sind's, Schwäger wie auch Verwandte sonst.</p>
+<p>Diese zu töten wünsch' ich nicht, und sollten sie mich töten auch,</p>
+<p>Selbst um der Dreiwelt Herrschaft nicht, – wie denn um Erdenherrschaft nur?</p>
+<p>Wenn Dhritarâshtras Söhne wir gefällt, wie würden je wir froh?</p>
+<p>Die Sünde haftete uns an, wenn diese Gegner wir gefällt.</p>
+<p>Darum nicht dürfen töten wir der blutsverwandten Kuru Schar;</p>
+<p>Wenn wir den eignen Stamm gefällt, wie können je wir glücklich sein?</p>
+<p>Und wenn auch diese es nicht sehn, durch Gier beraubet des Verstands,</p>
+<p>Daß Sünde im Verwandtenmord und Schuld in Freundeskränkung liegt;</p>
+<p>Wie sollten wir's verstehen nicht, vom Bösen uns zu wenden ab,</p>
+<p>Die wir doch den Verwandtenmord als Sünde deutlich vor uns sehn?</p>
+<p>Bei Stammesmord zu Grunde gehn die alten Stammespflichten auch;</p>
+<p>Ist dies geschehn, bemächtigt sich das Unrecht bald des ganzen Stamms.</p>
+<p><pb n="27" facs="#f0004"/> Dann, durch des Unrechts Übermacht, sind bald verderbt des Stammes Frau'n,</p>
+<p>Und sind die Frauen erst verderbt, tritt auch die Kastenmischung ein.</p>
+<p>Die Mischung führt zur Hölle hin die Stammesmörder wie den Stamm;</p>
+<p>Verlust der Manenopfer stürzt die Väter aus der Sel'gen Reich<note place="end" n="36"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#F2098</ref></bibl></note>.</p>
+<p>So durch der Stammesmörder Schuld, die selbst zur Kastenmischung führt,</p>
+<p>Auflösen sich die ewigen Standes- und Stammespflichten all.</p>
+<p>Wo aber in der Menschenwelt die Stammespflichten aufgelöst,</p>
+<p>Folgt unausweichlich Höllenpein als Strafe – also hörten wir.</p>
+<p>O weh, wie schwere, sünd'ge Tat sind wir entschlossen hier zu tun,</p>
+<p>Da aus Begier nach Thron und Glück wir morden wollen unsern Stamm!</p>
+<p>Wenn wehrlos, ohne Widerstand, die Dhritarâshtra- Söhne mich</p>
+<p>Erschlagen wollten in dem Kampf, – fürwahr, mir würde wohler sein!</p>
+<lb/>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>So sprach im Kampfe Arjuna und ließ im Wagen nieder sich,</p>
+<p>Ließ fahren Pfeil und Bogen da, durch Schmerz verwirrt in seinem Geist.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2063</ref>1</bibl> Dhritarâshtra ist der blinde Bhârata-König, das Haupt der Kuru-Partei, welchem die Ereignisse der großen Schlacht berichtet werden; vgl. mein Buch »Indiens Literatur und Kultur« S. 466 ff.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2064</ref>2</bibl> Sanjaya, ein Sûta, d.i. Wagenlenker und Herold, im Dienste des Dhritarâshtra; hier der Berichterstatter.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2065</ref>3</bibl> Pândava, Söhne des Pându, des verstorbenen Bruders des Dhritarâshtra.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2066</ref>4</bibl> Duryodhana, der älteste Sohn des Dhritarâshtra.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2067</ref>5</bibl> Es ist der Held Drona gemeint, der die Königssöhne im Waffenhandwerk unterrichtet hat.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2068</ref>6</bibl> Der Sohn des Drupada ist Dhrishtadyumna. Drupada, König der Pancâla, ist Bundesgenosse und Schwiegervater der fünf Pându-Söhne; seine Tochter, Krishnâ oder Drâupadî, gehört den fünf Brüdern zugleich in polyandrischer Ehe als Weib an.</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2069</ref>7</bibl> Arjuna und Bhîma sind die beiden hervorragendsten unter den fünf Brüdern, den Söhnen des Pându; der älteste Bruder heißt Yudhishthira, die beiden jüngsten Nakula und Sahadeva.</note>
+<lb/>
+<note place="end" n="8"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2070</ref>8</bibl> Yuyudhâna, Sohn des Satyaka, ein Held des Pându-Heeres.</note>
+<lb/>
+<note place="end" n="9"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2071</ref>9</bibl> Virâta, Fürst der Matsya, Bundesgenosse der Pându-Söhne.</note>
+<lb/>
+<note place="end" n="10"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2072</ref>10</bibl> Dhrishtaketu, König der Cedi, Bundesgenosse der Pându-Söhne.</note>
+<lb/>
+<note place="end" n="11"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2073</ref>11</bibl> Cekitâna, ein Fürst und Bundesgenosse der Pându-Söhne.</note>
+<lb/>
+<note place="end" n="12"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2074</ref>12</bibl> Kâci ist die Stadt Benares.</note>
+<lb/>
+<note place="end" n="13"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2075</ref>13</bibl> Purujit, ein Held im Heere der Pându-Söhne, Bruder des Kuntibhoja.</note>
+<lb/>
+<note place="end" n="14"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2076</ref>14</bibl> Kuntibhoja, König der Kuntî, Bundesgenosse der Pându-Söhne.</note>
+<lb/>
+<note place="end" n="15"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2077</ref>15</bibl> Çâivya oder Çâibya, König der Çibi, Bundesgenosse der Pându-Söhne.</note>
+<lb/>
+<note place="end" n="16"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2078</ref>16</bibl> Yudhâmanyu und Uttamâujas, Helden im Heere der Pându-Söhne.</note>
+<lb/>
+<note place="end" n="17"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2079</ref>17</bibl> Der Sohn der Subhadrâ ist Abhimanyu; sein Vater ist Arjuna.</note>
+<lb/>
+<note place="end" n="18"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2080</ref>18</bibl> Drâupadî hat von jedem der Pânduiden einen Sohn, welche alle hier schon mitkämpfen; ihre Namen sind für uns belanglos.</note>
+<lb/>
+<note place="end" n="19"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2081</ref>19</bibl> Bhîshma, der greise königliche Held unter den Kurus, Oheim des Dhritarâshtra und Pându; vgl. über ihn »Indiens Literatur und Kultur« S. 466, 471, 472.</note>
+<lb/>
+<note place="end" n="20"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2082</ref>20</bibl> Karna, Fürst der Anga, einer der gewaltigsten Helden des Heeres der Kuru; vgl. über ihn »Indiens Literatur und Kultur« S. 472, 473.</note>
+<lb/>
+<note place="end" n="21"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2083</ref>21</bibl> Açvatthâman, Sohn des Drona (vgl. oben Vers 2); vgl. über ihn und seine Rächerrolle nach dem Kampf »Indiens Literatur und Kultur« S. 473, 474.</note>
+<lb/>
+<note place="end" n="22"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2084</ref>22</bibl> Vikarna ist Name eines Sohnes des Karna wie auch eines Sohnes des Dhritarâshtra.</note>
+<lb/>
+<note place="end" n="23"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2085</ref>23</bibl> Der alte Bhîshma.</note>
+<lb/>
+<note place="end" n="24"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2086</ref>24</bibl> Es ist Arjuna gemeint, als dessen Wagenlenker Krishna fungiert.</note>
+<lb/>
+<note place="end" n="25"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2087</ref>25</bibl> Eine Muschel, die er dem Dämon Pancajana abgenommen haben soll.</note>
+<lb/>
+<note place="end" n="26"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2088</ref>26</bibl> So wird Bhîma genannt, dessen Name schon »der Schreckliche« bedeutet; er ist der furchtbarste Kämpfer unter den fünf Söhnen des Pându.</note>
+<lb/>
+<note place="end" n="27"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2089</ref>27</bibl> Vgl. Anmerkung 7 zu Vers. 4.</note>
+<lb/>
+<note place="end" n="28"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2090</ref>28</bibl> Ein Sohn des Drupada, welcher den Bhîshma zu töten bestimmt war.</note>
+<lb/>
+<note place="end" n="29"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2091</ref>29</bibl> Das ist Yuyudhâna, vgl. Vers 4.</note>
+<lb/>
+<note place="end" n="30"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2092</ref>30</bibl> Die Söhne seiner Tochter, der Drâupadî, und der fünf Pânduiden.</note>
+<lb/>
+<note place="end" n="31"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2093</ref>31</bibl> Die vielfach eingestreuten Vokative »o Erdenherr«, »o Bhârata« u. dgl. beziehen sich auf den alten blinden Dhritarâshtra, dem der Erzähler die Ereignisse der Schlacht schildert.</note>
+<lb/>
+<note place="end" n="32"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2094</ref>32</bibl> Dieser Arge ist Duryodhana, der älteste Sohn des Dhritarâshtra, dessen Gewalttätigkeiten und Intriguen den großen Kampf hauptsächlich verschuldet haben.</note>
+<lb/>
+<note place="end" n="33"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2095</ref>33</bibl> Arjuna heißt Sohn der Prithâ oder auch Sohn der Kuntî (vgl. Vers 27), da seine und seiner Brüder Mutter, die Gemahlin des Pându, diese beiden Namen trägt; vgl. »Indiens Literatur und Kultur« S. 466.</note>
+<lb/>
+<note place="end" n="34"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2096</ref>34</bibl> Gândîva heißt der Bogen des Arjuna.</note>
+<lb/>
+<note place="end" n="35"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2097</ref>35</bibl> Keçava, eigentlich wohl »der mit reichem Haar Versehene«, ist ein Beiname des Krishna.</note>
+<lb/>
+<note place="end" n="36"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Erster Gesang#N2098</ref>36</bibl> Vgl. »Indiens Literatur und Kultur« S. 427, 428.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zweiter Gesang</note>
+
+<head><pb n="28" facs="#f0005"/> <pb n="30" facs="#f0006"/>Zweiter Gesang.</head>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>Als so von Mitleid übermannt und tränenüberströmten Augs</p>
+<p>Arjuna in Betrübnis sank, sprach Krishna zu ihm dieses Wort:</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Woher kommt dieser Kleinmut dir im Augenblicke der Gefahr?</p>
+<p>Unrühmlich und unwürdig ganz des edlen Manns, o Arjuna!</p>
+<p>Verbanne die Unmännlichkeit! Sie ziemt dir nicht, o Prithâ-Sohn!</p>
+<p>Die Schwäche, die erbärmlich ist, gib auf! Erhebe dich, du Held!</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Wie soll ich hier in diesem Kampf den Bhîshma und den Drona auch,</p>
+<p>Die beide ich verehren muß, mit scharfen Pfeilen greifen an?</p>
+<p>Weit besser, die hochwürd'gen Lehrer schonen</p>
+<p>Und Bettlerbrot auf dieser Erde essen!</p>
+<p>Denn töt' ich sie, ob sie auch schätzelüstern,</p>
+<p>Mit Blut befleckt fortan wär' meine Speise!</p>
+<p>Wir wissen's nicht, was mehr uns würde frommen, –</p>
+<p>Wenn wir die Sieger – wenn wir die Besiegten?</p>
+<p>Was soll das Leben uns, wenn wir getötet</p>
+<p>Die Kuru-Söhne, die dort vor uns stehen?</p>
+<p>Die jammervolle Lage bricht mein Wesen,</p>
+<p>Die Pflicht verwirrt sich mir, – ich muß dich fragen:</p>
+<p><pb n="30" facs="#f0007"/> Was wär' die bessere Entschließung? sag mir's!</p>
+<p>Dein treuer Schüler bin ich, – lehre <hi rendition="#i">du</hi> mich!</p>
+<p>Nicht seh ich, was den Gram mir je verscheuchte,</p>
+<p>Der meine Sinne ganz ausdörren müßte, –</p>
+<p>Erlangt' ich auch der Erde reichste Krone,</p>
+<p>Ja bei den Göttern selbst die Oberherrschaft;</p>
+<p>So sprach der Ringellockige, der Held, zum ew'gen Gott gewandt;</p>
+<p>Ich will nicht kämpfen! – also rief noch einmal er, dann war er still.</p>
+<p>Doch lächelnd sprach zu ihm darauf, als er ihn so voll Kleinmut sah,</p>
+<p>Inmitten beider Heeresreihn der heilige Krishna dieses Wort:</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Du redest gut, allein du klagst um die, die nicht beklagenswert,</p>
+<p>Nicht Tote noch auch Lebende beklagt jemals der Weisen Schar.</p>
+<p>Nie war die Zeit, da ich nicht war, und du und diese Fürsten all,</p>
+<p>Noch werden jemals wir nicht sein, wir alle, in zukünftger Zeit!</p>
+<p>Denn wie der Mensch in diesem Leib Kindheit, Jugend und Alter hat,</p>
+<p>So kommt er auch zu neuem Leib, – der Weise wird da nicht verwirrt.</p>
+<p>Der Atome Berührung nur ist kalt und warm, bringt Lust und Leid,</p>
+<p>Sie kommen, gehen, ohn' Bestand, – ertrage sie, o Bhârata!</p>
+<p>Der weise Mann, den diese nicht erregen, o du starker Held,</p>
+<p>Der Leid und Lust gleichmütig trägt, der reift für die Unsterblichkeit.</p>
+<p>Es gibt kein Werden aus dem Nichts, noch wird zu Nichts das Seiende!</p>
+<p>Die Grenze beider ist erschaut von denen, die die Wahrheit schaun.</p>
+<p>Doch wisse, unvergänglich ist die Macht, durch die das All gewirkt!</p>
+<p>Des Ewigen Vernichtung kann bewirken niemand, wer's auch sei.</p>
+<p>Vergänglich sind die Leiber nur, – in ihnen weilt der ew'ge Geist,</p>
+<p>Der unvergänglich, unbegrenzt – drum kämpfe nur, du Bhârata!</p>
+<p>Wer denkt, es töte je der Geist oder werde getötet je,</p>
+<p>Der denkt nicht recht! Er tötet nicht, noch wird jemals getötet er.</p>
+<p><pb n="31" facs="#f0008"/> Niemals wird er geboren, niemals stirbt er,</p>
+<p>Nicht ist geworden er, noch wird er werden,</p>
+<p>Der Ungeborne, Ewige, Alte – nimmer</p>
+<p>Wird er getötet, wenn den Leib man tötet.</p>
+<p>Wer ihn als unvernichtbar kennt, als ewig und unwandelbar,</p>
+<p>Wie kann ein solcher töten je, wie töten lassen, Prithâ-Sohn?</p>
+<p>Gleichwie ein Mann die altgewordnen Kleider</p>
+<p>Ablegt und andre, neue Kleider anlegt,</p>
+<p>So auch ablegend seine alten Leiber</p>
+<p>Geht ein der Geist in immer andre, neue.</p>
+<p>Es schneiden ihn die Waffen nicht, es brennet ihn das Feuer nicht,</p>
+<p>Es nässet ihn das Wasser nicht, es dörret ihn auch nicht der Wind.</p>
+<p>Zu schneiden nicht, zu brennen nicht, zu nässen nicht, zu dörren nicht,</p>
+<p>Er ist beständig, überall, fest, ewig, unerschütterlich.</p>
+<p>Unsichtbar und unvorstellbar und unveränderlich heißt er,</p>
+<p>Darum, sobald du ihn erkannt, darfst du nicht mehr beklagen ihn.</p>
+<p>Und wenn für stets geboren auch, für stets gestorben du ihn hältst,</p>
+<p>Doch darfst du, Held mit starkem Arm, um diesen trauern nimmermehr.</p>
+<p>Denn dem Gebornen ist der Tod, dem Toten die Geburt bestimmt, –</p>
+<p>Da unvermeidlich dies Geschick, darfst nicht darüber trauern du.</p>
+<p>Unsichtbar sind die Anfänge der Wesen und ihr Ende auch,</p>
+<p>Die Mitte nur ist sichtbar uns – was gibt's für Grund zur Klage da?</p>
+<p>Der Eine schauet ihn als wie ein Wunder,</p>
+<p>Der Andre spricht von ihm als einem Wunder,</p>
+<p>Der Dritte hört von ihm als einem Wunder,</p>
+<p>Doch hört er's auch, es kennet ihn doch keiner.</p>
+<p>Die Seele unverletzbar ist, ewig, in eines jeden Leib,</p>
+<p>Darum die Wesen allesamt darfst du betrauern nimmermehr.</p>
+<p>Auch wenn du deine Pflicht bedenkst, geziemt sich's dir zu zittern nicht,</p>
+<p>Denn für den Krieger gibt es ja nichts Bessres als gerechten Kampf.</p>
+<p>Als hätte sich von ungefähr des Himmels Pforte aufgetan,</p>
+<p><pb n="32" facs="#f0009"/> So grüßen freudig, Prithâ-Sohn, die Krieger einen solchen Kampf.</p>
+<p>Wenn diesen pflichtgemäßen Kampf du aber nicht bestehen wirst,</p>
+<p>Im Stiche lassend Pflicht und Ruhm, wird Übles nur dein Anteil sein.</p>
+<p>Es werden deine Schande dann die Wesen künden immerfort,</p>
+<p>Dem aber, der in Ehren steht, ist Schande mehr als selbst der Tod.</p>
+<p>Furcht vor dem Kampf hielt dich zurück, so denken dann die Helden all,</p>
+<p>Und wo du hoch geachtet warst, da wirst du bald verachtet sein.</p>
+<p>Und viele böse Reden wird dann führen deiner Feinde Schar,</p>
+<p>Beschimpfend deine Tüchtigkeit, – und was ist schmerzlicher als dies?</p>
+<p>Im Tod gehst du zum Himmel ein! Siegst du, fällt dir die Erde zu!</p>
+<p>Darum erheb' dich, Kuntî-Sohn, entschlossen wieder zu dem Kampf!</p>
+<p>Gleich achtend Glück und Ungemach, Gewinn, Verlust, Sieg oder Tod,</p>
+<p>Bereite nun zum Kampfe dich! So wird kein Übel dir zu Teil.</p>
+<p>Dies ist Weisheit durch Reflexion, nun höre die der Andacht auch!</p>
+<p>Mit solcher Weisheit wohlversehn, streifst du der Taten Fesseln ab.</p>
+<p>Hier gibt es für dein Streben nie Vernichtung oder Minderung;</p>
+<p>Ein wenig dieses frommen Brauchs bewahrt dich schon vor großer Furcht.</p>
+<p>Entschlossenheit, o Kuru-Sproß, birgt diese Weisheit ganz allein!</p>
+<p>Der Unentschloßnen Weisheit ist gar weitverzweigt und ohne End.</p>
+<p>Gar blumenreiche Rede führt im Mund der Unverständ'gen Schar,</p>
+<p>Am Vedenwort erfreun sie sich und sprechen: Andres gibt es nicht!</p>
+<p>Ihr Höchstes ist das Himmelsglück! Ihr Wort verheißt als Lohn der Tat</p>
+<p>Höh're Geburt, – für Opferwerk sei Herrschaft und Genuß der Lohn.</p>
+<p>An Genuß und Herrschaft hängend, durch solche Rede sinnberaubt,</p>
+<p>Erlangen niemals sie, vertieft, die Weisheit der Entschlossenheit.</p>
+<p>Der Qualitäten Reich gehört der Veda an – davon sei frei!</p>
+<p>Frei von der Gegensätze Band, frei von Besitz, Herr deiner selbst!</p>
+<p>So viel ein Brunnen nützt, in den das Wasser strömt von allerwärts,</p>
+<p>So groß ist für die Priesterschaft der Nutzen, den der Veda bringt.</p>
+<p>Bemühe nur dich um die Tat, doch niemals um Erfolg der Tat!</p>
+<p>Nie sei Erfolg dir Grund des Tuns, – doch meid' auch Tatenlosigkeit!</p>
+<p><pb n="33" facs="#f00010"/> In Andacht fest, tu deine Tat! Doch häng' an nichts, du Siegreicher!</p>
+<p>Laß den Erfolg ganz gleich dir sein, – der Gleichmut ist's, der Andacht heißt.</p>
+<p>Die Tat steht ja, du Siegreicher, unter des Geistes Andacht tief!</p>
+<p>Im Geiste such die Zuflucht du! Kläglich, wen Tatenfrucht bewegt.</p>
+<p>Beides, Guttat und Übeltat, gibt der Andächt'ge völlig auf;</p>
+<p>Drum weihe ganz der Andacht dich! Andacht bringt Heil auch bei der Tat.</p>
+<p>Die tatgeborne Frucht gibt auf, wer andächtig und weise ist!</p>
+<p>Von der Geburten Fessel frei gelangt er an den Ort des Heils.</p>
+<p>Wofern dein Geist den dichten Wald der Torheit überwinden wird,</p>
+<p>Dann wird der Ekel fassen dich ob Allem, was der Veda lehrt.</p>
+<p>Wenn – abgewandt dem Vedenwort – dein Geist nur fest und unverrückt</p>
+<p>In der Vertiefung weilen wird, dann wird die Andacht dir zuteil.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Den weisen und vertieften Mann, was zeichnet ihn, o Krishna, aus?<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zweiter Gesang#F2099</ref></bibl></note></p>
+<p>Was ist's, das der Andächt'ge spricht? wie ruhet er? wie wandelt er?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Wenn des Herzens Begierden all er gänzlich aufgibt, Prithâ-Sohn,</p>
+<p>Am Selbst und durch das Selbstvergnügt, – dann heißet er in Weisheit fest!</p>
+<p>In Leiden unerschrocknen Sinns, in Freuden des Verlangens bar,</p>
+<p>Frei von Leidenschaft, Furcht und Zorn, andächtig, – der ist ein Asket!</p>
+<p>Wer jeglichen Verlangens bar, ob's schön ihm oder unschön geht,</p>
+<p>Nicht Freude fühlet noch auch Haß, – bei solchem steht die Weisheit fest.</p>
+<p>Wenn von sinnlichen Dingen ab er ganz die Sinne in sich zieht,</p>
+<p>Gleichwie die Schildkröt' in sich kriecht, – dann steht bei ihm die Weisheit fest.</p>
+<p><pb n="34" facs="#f00011"/> Die Sinnendinge weichen fort von dem, der streng enthaltsam ist;</p>
+<p>Die Neigung bleibt, doch sie auch weicht, sobald er auf das Höchste schaut<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zweiter Gesang#F2100</ref></bibl></note>.</p>
+<p>Auch dem vernünft'gen Manne, der sich redlich müht, o Kuntî-Sohn,</p>
+<p>Rauben die Sinne den Verstand, ihn aufregend mit Ungestüm.</p>
+<p>Sie alle bänd'gend sitze er in Andacht ganz mir zugewandt!</p>
+<p>Wer Herr der eignen Sinne ist, bei dem nur steht die Weisheit fest.</p>
+<p>Wer an sinnliche Dinge denkt, wird bald zu ihnen neigen sich,</p>
+<p>Aus solchem Hange wird Begier, aus der Begier entsteht der Zorn.</p>
+<p>Aus dem Zorn die Betörung kommt, dann tritt Gedächtnisstörung ein,</p>
+<p>Dann geht zugrund die Einsicht ihm, und endlich geht er selbst zugrund.</p>
+<p>Wer aber lebt in dieser Welt mit Sinnen, die ihm untertan,</p>
+<p>Die frei von Haß und Leidenschaft, der kommt zu ruh'ger Heiterkeit.</p>
+<p>Und solche Heiterkeit läßt ihn verlieren all und jeden Schmerz,</p>
+<p>Bei heitrem Geiste wird sich ihm die Einsicht ja befest'gen bald.</p>
+<p>Wer nicht andächtig ist, dem geht Erkenntnis und Vertiefung ab;</p>
+<p>Es fehlt der Seelenfriede ihm, – wie kann ein solcher glücklich sein?</p>
+<p>Sobald der Geist sich richtet nach der losen Sinne Wanderschar,</p>
+<p>Dann reißt ihm das die Einsicht fort, gleichwie der Wind das Schiff im Meer.</p>
+<p>Darum, wer seine Sinne ganz, von allem in der Sinnenwelt</p>
+<p>Zurückhält, o Großarmiger, bei solchen steht die Einsicht fest.</p>
+<p>Wo's Nacht für alle Wesen ist, da wachet, wer sich zügeln will;</p>
+<p>Wo alles wacht, da ist es Nacht dem Weisen, der die Wahrheit schaut.</p>
+<p>Wer wie das Meer, in das die Wasser strömen,</p>
+<p>Das sich anfüllet und doch ruhig dasteht, –</p>
+<p>Wer so in sich die Wünsche läßt verschwinden,</p>
+<p>Der findet Ruhe – nicht, wer ihnen nachgibt.</p>
+<p>Der Mann, der jeden Wunsch aufgab und nichts verlangend lebt dahin,</p>
+<p>Von Eigennutz und Selbstsucht frei, der geht zum Seelenfrieden ein.</p>
+<p><pb n="35" facs="#f00012"/> Dies ist der Brahman-Standpunkt, Freund! Wer ihn erreicht, wird nicht betört!</p>
+<p>Wer auch im Tod dabei verharrt, der wird in Brahman ganz verwehn.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zweiter Gesang#N2099</ref>1</bibl> Ich lese hier mit <hi rendition="#i">Böhtlingk</hi> bhûshâ für bhâshâ.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zweiter Gesang#N2100</ref>2</bibl> Bei der Erklärung dieses schwierigen Verses habe ich mich am nächsten an <hi rendition="#i">Garbe,</hi> Bhag. S. 78, angeschlossen.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Dritter Gesang</note>
+
+<head><pb n="36" facs="#f00013"/> Dritter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Wenn du die Einsicht höher stellst als wie die Tat, Janârdana<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2101</ref></bibl></note>,</p>
+<p>Warum zur fürchterlichen Tat treibst du mich an, o Keçava?</p>
+<p>Mit doppelsinn'ger Rede so verwirrest du mir nur den Geist,</p>
+<p>Dies Eine sag mir ganz bestimmt, wodurch das Heil ich mag empfahn!</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Ein Doppelstandpunkt ist von mir vorhin verkündet, Reiner, dir:</p>
+<p>Die Erkenntnis der Denkenden und der Andächt'gen frommes Tun.</p>
+<p>Nicht durch Vermeidung jeder Tat wird wahrhaft man vom Tun befreit,</p>
+<p>Noch durch Entsagung von der Welt gelanget zur Vollendung man.</p>
+<p>Nie kann man frei von allem Tun auch einen Augenblick nur sein,</p>
+<p>Die in uns wohnende Natur zwingt jeden, irgend was zu tun.</p>
+<p>Wer seine Tatorgane zwingt und dasitzt, doch betörten Sinns</p>
+<p>Im Geist der Sinnendinge denkt, wird ein verkehrter Mensch genannt.</p>
+<p>Doch wer die Sinne durch den Geist bewzingend sich ans Handeln macht</p>
+<p>Mit seinen Tatorganen – doch nicht daran hängt –, der stehet hoch.</p>
+<p>Vollbringe die notwend'ge Tat, denn Tun ist besser als Nichttun;</p>
+<p>Des Körpers Unterhaltung schon verbietet es dir, nichts zu tun.</p>
+<p>Außer dem Opfer<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2102</ref></bibl></note> steckt die Welt ganz in den Fesseln ihres Tuns,</p>
+<p>Darum vollbring du solche Tat<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2103</ref></bibl></note>, doch ohne dran zu hängen je.</p>
+<p>Einst sprach Prajâpati, als er das Opfer und die Menschen schuf:</p>
+<p>Durch dieses sollt ihr fruchtbar sein, dies soll die Wunschkuh sein für euch.</p>
+<p>Fördert damit die Götter ihr! Die Götter sollen fördern euch!</p>
+<p><pb n="37" facs="#f00014"/> Euch gegenseitig fördernd so, sollt finden ihr das höchste Heil.</p>
+<p>Genüsse, die ihr wünscht, spenden die Götter dann euch, so verehrt,</p>
+<p>Doch wer solch Glück genießt und nicht den Göttern opfert, ist ein Dieb.</p>
+<p>Von allen Sünden wird befreit, wer nur von Opferresten lebt;</p>
+<p>Wer für sich selber kocht, ist schlecht, und Sünde ist's, was er genießt<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2104</ref></bibl></note>.</p>
+<p>Durch Speise lebt der Wesen Schar, durch Regen wächst die Speise auf.</p>
+<p>Durchs Opfer kommt der Regenguß, das Opfer ist des Menschen Tat.</p>
+<p>Dies Tun stammt von der Gottheit her, die Gottheit aus dem ew'gen Sein,</p>
+<p>Drum ist die Gottheit allerwärts vorhanden in dem Opfer stets.</p>
+<p>Wer dies in Gang gekommne Rad nicht immer weiter rollen läßt,</p>
+<p>Sündig, fröhnend der Sinnenlust, – der lebt vergeblich, Prithâ-Sohn!</p>
+<p>Doch wer sich an dem Selbst erfreut und durch das Selbst gesättigt ist,</p>
+<p>Im Selbst allein vergnügt – der Mensch, der ist von allem Tun erlöst.</p>
+<p>Er hat's nicht nötig, daß etwas geschehn ist oder nicht geschehn,</p>
+<p>Noch sucht bei allen Wesen er Zuflucht aus irgend einem Grund.</p>
+<p>Drum, ohne dran zu hängen je, führ aus die Tat, die deine Pflicht!</p>
+<p>Wer handelt ohne Hang zur Welt, der Mensch erreicht das höchste Ziel.</p>
+<p>Durch solche Tat kam Janaka<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2105</ref></bibl></note> nebst andern zur Vollkommenheit;</p>
+<p>Auch im Hinblick auf die Ordnung der Menschenwelt mußt handeln du.</p>
+<p>Was irgend nur der Beste tut, das tun die andern Menschen auch,</p>
+<p>Was er als Richtschnur stellet hin, demselben folgt die Menschheit nach.</p>
+<p>In den drei Welten hab' ich nichts, o Prithâ-Sohn, zu führen aus,</p>
+<p>Noch zu erlangen, was mir fehlt, und doch beweg' ich mich im Tun.</p>
+<p>Denn wenn ich mich nicht unentwegt im Tun bewegte immerdar,</p>
+<p>Was wär's? da alle Menschen doch nur meinen Spuren folgen nach?</p>
+<p>Zugrunde ging' die ganze Welt, wenn ich die Tat nicht würde tun,</p>
+<p>Ein Chaos brächt' ich dann hervor und mordete die Wesen all.</p>
+<p>Die Toren hängen an der Tat, die sie vollführen, Bhârata,</p>
+<p>Der Weise tu sie ohne Hang, sich mühend um der Menschheit Wohl.</p>
+<p>Nicht mache irr die Toren er, die an den Taten hängen fest,</p>
+<p>Gern tu der Weise jede Tat, andächtig stets sie führend aus.</p>
+<p><pb n="38" facs="#f00015"/> Die Taten kommen all zu Stand durch Eigenschaften<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2106</ref></bibl></note> der Natur;</p>
+<p>Wen Selbstbewußtsein töricht macht, der denkt: Ich bin der Täter, ich!</p>
+<p>Doch wer den Doppelunterschied<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#F2107</ref></bibl></note> von Kraft und Tat in Wahrheit kennt,</p>
+<p>Der hängt nicht fest, der kennt das Reich, da Kräft' in Kräften walten fort.</p>
+<p>Wen dieses Spiel der Kräfte täuscht, der hänget an der Kräfte Tun,</p>
+<p>Schwach ist er und kennt nicht das All – wer's kennt, der lasse den in Ruh.</p>
+<p>Drum wirf auf mich hin all dein Tun, nur denkend an den höchsten Geist,</p>
+<p>Nichts hoffend und begehrend nichts, so kämpfe, frei von allem Schmerz.</p>
+<p>Die Menschen, welche immerdar nachfolgen diesem meinem Wort,</p>
+<p>Die gläubig sind und murren nicht, befrein durch ihre Taten sich.</p>
+<p>Die aber, murrend wider mich, nicht folgen diesem meinem Wort,</p>
+<p>In aller Einsicht ganz verwirrt, die Toren, wisse, gehn zugrund.</p>
+<p>Der Weise auch tut immer das, was der Natur in ihm entspricht;</p>
+<p>Die Wesen gehn nach der Natur – was will der Zwang bewirken da?</p>
+<p>An jedem Sinnesgegenstand hängt Neigung und Abneigung fest, –</p>
+<p>Nicht fall' in deren Herrschaft er, sie sind ja seine Gegner beid'.</p>
+<p>Die eigne Pflicht steht oben an, und brächte sie uns auch den Tod!</p>
+<p>Tu noch so gut die fremde Pflicht, sie bringt dir doch nichts als Gefahr.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Allein, von wem denn angespornt begeht der Mensch die sünd'ge Tat,</p>
+<p>Auch wenn er selbst es gar nicht will, als trieb' ihn irgend eine Macht?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Das ist die Gier, das ist der Zorn, der aus der Leidenschaft entspringt!</p>
+<p>Das ist der Böse, der verschlingt! ja wisse, dieser ist der Feind.</p>
+<p>Wie's Feuer wird vom Rauch verhüllt und wie der Spiegel durch den Schmutz,</p>
+<p>Wie von der Haut der Embryo, so ist von dem umhüllt die Welt.</p>
+<p><pb n="39" facs="#f00016"/> Die Einsicht ist von ihm umhüllt, der stets der Feind des Weisen ist,</p>
+<p>Von ihm, dem proteusartigen, dem Feu'r, das unersättlich ist.</p>
+<p>Die Sinne, Innensinn, Verstand – die werden sein Gebiet genannt,</p>
+<p>Durch sie verwirrt den Menschen er, indem die Einsicht er umhüllt.</p>
+<p>Drum zügle du von Anfang an die Sinne, edler Bhârata,</p>
+<p>Gib auf das Böse, es zerstört Erkenntnis und Erfahrung dir.</p>
+<p>Die Sinne kennt als mächtig man, mächt'ger noch ist der Innensinn,</p>
+<p>Mächt'ger als dieser der Verstand, weit mächt'ger noch das ew'ge Selbst.</p>
+<p>Wenn seine Macht du hast erkannt, dann stärke durch das Selbst dein Selbst, –</p>
+<p>Töte den Feind, Großarmiger, den Proteus, den man schwer bezwingt.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2101</ref>1</bibl> Janârdana ist ein Beiname des Krishna, ebenso wie auch das gleich folgende Keçava.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2102</ref>2</bibl> D.h., wie schon das Petersburger Wörterbuch erklärt, mit Ausnahme eines Werkes, das ein Opfer zum Ziel hat, zum Opfer dient.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2103</ref>3</bibl> D.h. solche Tat, die auf das Opfer gerichtet ist, dem Opfer dient.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2104</ref>4</bibl> D.h. jegliche Speise soll zuerst als ein Opfer den Göttern dargeboten werden. Nachher ist sie dann ein Opferrest, den man mit gutem Gewissen verzehren kann. Die Götter aber müssen gewissermaßen zuvor zu Gaste geladen sein.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2105</ref>5</bibl> Ein berühmter König der Upanishaden-Zeit. Vgl. über denselben »Indiens Literatur und Kultur« S. 187-189, 208, 209 ff.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2106</ref>6</bibl> Die Gunas, Qualitäten, Eigenschaften oder Kräfte der Natur (Prakriti), walten nur in dieser und gestalten so die Welt; der ewige Geist kennt dieselben nicht, ist qualitätenlos.</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dritter Gesang#N2107</ref>7</bibl> Doppelunterschied, d.h. wohl: Qualität (Kraft) sowohl wie Tat sind beide vom ewigen Geiste absolut unterschieden und berühren ihn gar nicht. Das ist eine Welt für sich, die der Weise ruhig ihren Gang gehen läßt.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Vierter Gesang</note>
+
+<head><pb n="40" facs="#f00017"/> Vierter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>So hab' die Andachts-Lehre<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#F2108</ref></bibl></note> ich verkündet dem Vivasvant einst,</p>
+<p>Vivasvant hat dem Manu sie, Manu Ikshvâku mitgeteilt.</p>
+<p>So ging von Mund zu Mund sie fort, die Königsweisen kannten sie, –</p>
+<p>Doch durch die lange Zeit ging dann verloren diese Lehre hier.</p>
+<p>Die alte Andachts-Lehre ist's, die hab' ich jetzt verkündet dir,</p>
+<p>Weil mein Verehrer du und Freund – ein hehr Geheimnis ist sie ja.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Du bist von späterer Geburt, Vivasvant lebte früher doch, –</p>
+<p>Wie soll ich's denn verstehn, daß du verkündet ihm die Lehre einst?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Gar viel Geburten hab' ich schon durchlebt – du auch, o Arjuna! –</p>
+<p>Ich weiß von ihnen allen noch<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#F2109</ref></bibl></note>, doch du weißt nichts davon, o Held!</p>
+<p>Zwar ungeboren, ewig auch und aller Wesen Herr bin ich,</p>
+<p>Und doch entsteh' ich oftmals neu durch meines Wesens Wunderkraft.</p>
+<p>Denn immer, wenn die Frömmigkeit hinschwinden will, o Bhârata,</p>
+<p>Ruchlosigkeit ihr Haupt erhebt, dann schaffe ich mich selber neu<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#F2110</ref></bibl></note>.</p>
+<p>Zum Schutz der guten Menschen hier und zu der Bösen Untergang,</p>
+<p>Die Frömmigkeit zu fest'gen neu, entsteh' in jedem Alter<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#F2111</ref></bibl></note> ich.</p>
+<p>Und wer mein Werden und mein Tun, das göttliche, in Wahrheit kennt,</p>
+<p>Erleidet keine Neugeburt, – er geht im Tode zu mir ein.</p>
+<p><pb n="41" facs="#f00018"/> Von Neigung, Furcht und Zorn befreit, mir ähnlich und auf mich gestützt,</p>
+<p>Durch der Erkenntnis Buße rein, gingen schon viele auf in mir.</p>
+<p>Wie diese mir sich wenden zu, so liebe ich hinwiedrum sie;</p>
+<p>Es wandeln meinen Bahnen nach durchaus die Menschen, Prithâ-Sohn.</p>
+<p>Erfolg bei seinen Taten wünscht der Mensch, wenn er die Götter ehrt,</p>
+<p>Rasch kommt ja in der Menschenwelt Erfolg, der aus der Tat entspringt.</p>
+<p>Ich bin's, der die vier Kasten schuf, nach Art und Tun sie unterschied,</p>
+<p>Wisse, ich bin es, der da wirkt und nicht wirkt, ich, der Ewige.</p>
+<p>Mich kann die Tat beflecken nicht, – die Frucht der Tat begehr' ich nicht!</p>
+<p>Wer so mich und mein Wesen kennt, wird nicht gefesselt durch die Tat.</p>
+<p>In solcher Einsicht strebten schon die Alten der Erlösung zu,</p>
+<p>Darum vollbringe du die Tat, wie schon die Alten sie vollbracht.</p>
+<p>Was ist denn Tat? was ist Nichttun? – das ist's, was Weise selbst verwirrt;</p>
+<p>Drum will die Tat ich künden dir, wodurch du kommst vom Übel frei.</p>
+<p>Denn achten muß man auf die Tat, achten auf unerlaubtes Tun,</p>
+<p>Muß achten auf das Nichttun auch, – der Tat Wesen ist abgrundtief.</p>
+<p>Wer in der Tat das Nichttun schaut und in dem Nichttun grad' die Tat,</p>
+<p>Der ist ein einsichtsvoller Mensch, andächtig tut er jede Tat.</p>
+<p>Wer Gier und Wunsch bei jeglichem Beginnen ganz und gar verbannt,</p>
+<p>Wer in des Wissens Feu'r die Tat verbrannt hat, heißt ein weiser Mann.</p>
+<p>Wer an der Taten Frucht nicht hängt, stets zufrieden, nicht Hülfe braucht, –</p>
+<p>Wenn er im Tun sich auch bewegt, so tut er doch in Warheit nichts.</p>
+<p>Nichts wünschend, zügelnd seinen Geist, aufgebend jeglichen Besitz,</p>
+<p>Nur mit dem Körper tu'nd die Tat, – so bleibt er frei von Sündenschuld.</p>
+<p>Vergnügt mit dem, was er bekommt, nicht neidisch, gegensatzentrückt<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#F2112</ref></bibl></note>,</p>
+<p>Gleich bei Erfolg wie Mißerfolg, wird er durch keine Tat verstrickt.</p>
+<p>Wer frei von Hang ist und erlöst, wem in Erkenntnis ruht der Geist,</p>
+<p>Indes er sich um's Opfer müht, dem löst das Tun sich völlig auf.</p>
+<p>Die Gottheit ist das Opfer selbst, die Gottheit lebt im Opferfeu'r,</p>
+<p>Drum geht zur Gottheit ein der Mensch, der an solch göttlich Tun gedenkt.</p>
+<p>Die Einen führen Opfer aus, die dem und jenem Gott geweiht,</p>
+<p><pb n="42" facs="#f00019"/> Die Andern bringen Opfer dar im Feuer der Theologie.</p>
+<p>Gehör und andre Sinne bringt der Eine im Entsagungsfeu'r,</p>
+<p>Der Andre bringt die Sinnenwelt im Feuer seiner Sinne dar<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#F2113</ref></bibl></note>.</p>
+<p>Der Sinne und des Atems Tun bringt mancher Andre ganz und gar</p>
+<p>Im Feu'r der Selbstbezähmung dar, das durch Erkenntnis ist entflammt.</p>
+<p>Noch Andre bringen Hab und Gut, bringen Buße und Andacht dar,</p>
+<p>Stilles Studium und Erkenntnis als Asketen der strengsten Art.</p>
+<p>Im Aushauch bringen dar den Hauch, im Hauch den Aushauch Andere,</p>
+<p>Hemmend des Hauchs und Aushauchs Weg, der Atmungshemmung ganz geweiht.</p>
+<p>Andre, sich der Speis' enthaltend, bringen Leben im Leben dar.</p>
+<p>Das Opfer kennen diese all, das Opfer macht sie sündenfrei.</p>
+<p>Wer Opferrestes Nektar speist, der geht ins ew'ge Brahman ein;</p>
+<p>Doch wer nicht opfert, der erlangt nicht diese, wie denn jene Welt?</p>
+<p>So mannigfalt'ge Opfer sind in Brahmans Munde dargebracht, –</p>
+<p>Sie alle stammen aus der Tat, – dies wisse! dann wirst du erlöst.</p>
+<p>Besser als Opfer allen Guts ist der Erkenntnis Opfer, Held!</p>
+<p>Denn jede Tat, ganz lückenlos, in der Erkenntnis liegt sie drin.</p>
+<p>Dies wisse, wenn du fromm dich beugst, die Lehrer fragst und sie verehrst,</p>
+<p>Erkenntnis werden lehren dich die Weisen, die die Wahrheit schaun.</p>
+<p>Hast du's erkannt, o Pându-Sohn, wirst du nicht wiederum betört,</p>
+<p>Dadurch wirst alle Wesen du in dir erschaun und dann in mir.</p>
+<p>Auch wenn ein größrer Sünder du als alle andern Sünder bist,</p>
+<p>Doch wirst mit der Erkenntnis Schiff du fahren übers Meer der Schuld.</p>
+<p>Gleichwie das Feuer, wenn es flammt, zu Asche all das Brennholz macht,</p>
+<p>So brennt auch der Erkenntnis Feu'r zu Asche alle Taten dir.</p>
+<p>Kein Läutrungsmittel gibt's ja hier, das der Erkenntnis sich vergleicht;</p>
+<p>Das findet selber in sich selbst, wer durch Andacht vollendet ist.</p>
+<p>Dem Gläub'gen fällt Erkenntnis zu, der nach ihr sucht, die Sinne zähmt;</p>
+<p>Wer die Erkenntnis fand, gelangt zum höchsten Seelenfrieden bald.</p>
+<p><pb n="43" facs="#f00020"/> Wer unwissend und glaubenslos dem Zweifel nachgibt, geht zugrund;</p>
+<p>Nicht diese, noch auch jene Welt, noch Glück ist je des Zweiflers Teil.</p>
+<p>Doch wer der Andacht weiht sein Tun, den Zweifel durch Einsicht zerstört,</p>
+<p>Sein selber mächtig ist, fürwahr, den binden auch die Taten nicht.</p>
+<p>Zerschneide mit des Wissens Schwert den Zweifel, der aus Torheit stammt.</p>
+<p>Im Herzen! Weih der Andacht dich! Erhebe dich, o Bhârata!</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#N2108</ref>1</bibl> D.h. die Lehre von der andachtsvollen Hingabe (yoga) an das pflichtmäßige Tun, im oben angegebenen Sinne.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#N2109</ref>2</bibl> Ähnlich hat auch Buddha den Vorzug, sich seiner früheren Geburten zu erinnern.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#N2110</ref>3</bibl> So entsteht auch nach buddhistischer Lehre, wenn die rechte Erkenntnis in der Welt zugrunde zu gehen droht, immer wieder ein neuer Buddha.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#N2111</ref>4</bibl> D.h. in jedem Weltalter, jedem Yuga (yuge yuge).</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#N2112</ref>5</bibl> dvandvâtîta. Eigentlich »über die Paare hinausgegangen«. Die Paare (dvandva) sind die Gegensätze, wie Kälte und Hitze, Freud und Leid, auch Gut und Böse usw. Also jenseits dieser Gegensätze, ihnen entrückt, von ihnen befreit – jenseits von allem Leid, jenseits auch von Gut und Böse.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierter Gesang#N2113</ref>6</bibl> Vgl. dazu die Erläuterung von <hi rendition="#i">Garbe</hi> a.a.O. 89, Anm. 5.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Fünfter Gesang</note>
+
+<head><pb n="44" facs="#f00021"/> Fünfter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Du lobst Entsagen jeder Tat und lobst doch ihre Übung auch –</p>
+<p>Was ist das Bess're von den zwei'n? Das sage klar entschieden mir.</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Entsagen sowie Übung auch der Tat, sie bringen beide Heil,</p>
+<p>Doch höher als Entsagung noch wird die Übung der Tat geschätzt.</p>
+<p>Das ist der stets Entsagende, der nichts hasset und nichts sich wünscht,</p>
+<p>Denn von den Gegensätzen frei<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2114</ref></bibl></note>, kommt leicht er von der Fessel los.</p>
+<p>Denken und Andacht<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2115</ref></bibl></note> scheiden nur die Toren, doch die Weisen nicht;</p>
+<p>Wer ganz sich nur dem einen weiht, erlanget aller beider Frucht.</p>
+<p>Durch Denken und durch Andacht wird derselbe Standpunkt doch erreicht;</p>
+<p>Denken und Andacht sind nur eins, – wer das erkennt, hat recht erkannt.</p>
+<p>Doch Entsagung, Großarmiger, wird ohne Andacht<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2116</ref></bibl></note> schwer erreicht;</p>
+<p>Der Weise, der in Andacht lebt, erreichet auch die Gottheit<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2117</ref></bibl></note> bald.</p>
+<p>Der Andacht lebend, reingesinnt, bezähmend Geist und Sinne ganz,</p>
+<p>Mit aller Wesen Seele eins – wird er, auch handelnd, nicht befleckt.</p>
+<p>»Ich tu doch nichts!« so denken darf der fromme, wahrheitskund'ge Mann,</p>
+<p>Ob er auch sieht, hört, fühlt und riecht, ob er auch ißt, geht, atmet, schläft;</p>
+<p>Ob er auch spricht, entleert, ergreift, die Augen öffnet oder schließt,</p>
+<p>Er weiß: die Sinne müssen sich bewegen in der Sinnenwelt.</p>
+<p>Wer handelt ohne jeden Hang und all sein Tun der Gottheit weiht,</p>
+<p>Wird durch das Böse nicht befleckt, wie's Lotusblatt durchs Wasser nicht.</p>
+<p><pb n="45" facs="#f00022"/> Mit ihrem Leib, Sinn und Verstand, und mit den Sinnen ganz allein,</p>
+<p>Tun die Andächt'gen jede Tat, ganz ohne Hang – um rein zu sein.</p>
+<p>Wer fromm aufgibt die Frucht der Tat, erlangt die höchste Seelenruh,</p>
+<p>Wer unfromm hängt an dem Erfolg, wird durch begehrlich Tun verstrickt.</p>
+<p>Bewußt aufgebend alles Tun, sein selber Herr, sitzt glücklich da</p>
+<p>In der neuntor'gen Stadt<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2118</ref></bibl></note> der Geist, nichts tuend, nichts veranlassend.</p>
+<p>Nicht Täterschaft, noch Taten auch schafft Er, der Herrscher dieser Welt,</p>
+<p>Noch den Kontakt von Tat und Frucht, – da waltet vielmehr die Natur.</p>
+<p>Nicht irgend jemands böse noch auch gute Tat nimmt an der Herr<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2119</ref></bibl></note>, –</p>
+<p>Das Wissen liegt in Finsternis, und dadurch wird der Mensch betört.</p>
+<p>Doch wem Unwissenheit zerstört durch Erkenntnis des Atman ist,</p>
+<p>Des Wissen läßt der Sonne gleich helleuchtend schaun das höchste Heil.</p>
+<p>Dies kennend, mit ihm wesensgleich, ruhend auf ihm, ergeben ihm,</p>
+<p>Geht man und kommt nicht wieder her, durch Wissen frei von aller Schuld.</p>
+<p>Ein Priester, welcher weis' und fromm, ein Elephant und eine Kuh,</p>
+<p>Ein Hund, ein Hundeesser selbst – dem Weisen sind sie alle gleich.</p>
+<p><hi rendition="#i">Die</hi> haben hier den Himmel schon<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#F2120</ref></bibl></note>, die ganz gleichmütig sind gestimmt;</p>
+<p>Sündlos, gleichmütig Brahman ist, darum in Brahman ruhen sie.</p>
+<p>Nicht freut er über Liebes sich, erschricket vor Unliebem nicht,</p>
+<p>Wer starken Geistes, unbetört, das Brahman kennt und ruht in ihm.</p>
+<p>Nicht hängend an der Außenwelt, findet er in sich selbst das Glück;</p>
+<p>Wer andachtsvoll nach Brahman strebt, erlangt ein unvergänglich Glück.</p>
+<p>Denn der Genuß der Außenwelt trägt schon in sich des Schmerzes Keim,</p>
+<p>Wie er entsteht, vergeht er auch – der Weise freut daran sich nicht.</p>
+<p>Wer, eh er sich vom Körper löst, den Gier- und Zorngebornen Drang</p>
+<p>Zu bezwingen imstande ist, der Mann ist fromm und glücklich der.</p>
+<p>Wer in sich selbst beglückt, selig, von innrem Licht erleuchtet ist,</p>
+<p>Der Fromme wird zum Brahman selbst und wird im Brahman ganz verwehn.</p>
+<p>Im Brahman ganz verwehen sie, die Weisen, die, von Sünden rein,</p>
+<p>Sich zügelnd, frei von allem Streit, an aller Wesen Heil sich freun.</p>
+<p>Asketen, die den Sinn bezähmt, von Gier und Zorn sich ganz befreit,</p>
+<p><pb n="46" facs="#f00023"/> Des Atman Wesen kennen, <hi rendition="#i">die</hi> sind dem Verwehn in Brahman nah.</p>
+<p>Sich lösend von der Außenwelt, starr auf die Nasenwurzel schau'nd,</p>
+<p>Den Hauch und Aushauch regelnd gleich, die durch der Nase Innres gehn;</p>
+<p>Zügelnd die Sinne, Herz und Geist, ganz der Erlösung zugewandt,</p>
+<p>Befreit von Wünschen, Furcht und Zorn, – so ist für immer er erlöst.</p>
+<p>Mich kennend als den Herrn der Welt, dem Opfer und Askese gilt,</p>
+<p>Der aller Wesen wahrer Freund, gelangt zum Seelenfrieden er.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2114</ref>1</bibl> nirdvanda »ohne die Gegensätze, frei von den Gegensätzen«, vgl. oben Gesang 4, 20. 22 Anm.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2115</ref>2</bibl> Denken und Andacht – der Text sagt hier wie auch im folgenden Verse Sânkhya und Yoga, es handelt sich aber nicht um die so benannten späteren Systeme der Philosophie, sondern – wie schon unsere Einleitung zu zeigen suchte – um einen doppelten Weg zu dem gleichen Ziele der Gotteserkenntnis und allendlichen Vereinigung mit der Gottheit, und zwar 1) den Weg der Reflexion, des reflektierenden Denkens, Sânkhya, den ich kurzweg durch »Denken« wiedergebe, und 2) den Weg der andächtigen Verinnerlichung, der Konzentration, Kontemplation, der energisch auf das Höchste gerichteten Andachtsstimmung, Yoga, welche ich ebenso kurzweg als »Andacht« bezeichne. Der gottsuchende Philosoph wie der gottergebene Fromme, der sich in Gott versenkt und alles in Gott tut – sie streben demselben Ziele zu, und in diesem Sinne darf Denken und Andacht für eins gelten.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2116</ref>3</bibl> Unsere Sprache versagt hier, wie auch sonst bisweilen bei der Übersetzung und macht eine wirklich genau entsprechende Wiedergabe des Originals unmöglich. Im Sanskrit des Urtextes ist es ein und das selbe Wort – Yoga, eig. die Anspannung –, welches die energische Übung (der Tat), in Vers 1 und 2, und die Andacht, hier und im Folgenden, bezeichnet. Es ist im Grundbegriff eine energische Bemühung, exercitatio, exercitium – etwa wie bei uns Exerzieren, Exerzitien von der Arbeit der Soldaten und Schüler gebraucht wird, aber auch von angestrengten Andachtsübungen, wenigstens bei den Katholiken.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2117</ref>4</bibl> Hier, wie auch in Vers 10, habe ich das im Text befindliche Wort Brahman durch »die Gottheit« wiedergegeben.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2118</ref>5</bibl> D.h. in dem Leibe.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2119</ref>6</bibl> D.h. der Herr der Welt, Gott, Brahman, mit dem im Grunde unser Geist identisch ist. Den ewigen Geist, die Weltseele, berühren weder gute noch böse Taten, die dringen gar nicht bis zu ihm hin, er nimmt sie nicht an oder auf, oder – wie <hi rendition="#i">Deussen</hi> sagt – erkennt sie nicht als sein an.</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfter Gesang#N2120</ref>7</bibl> Ich lese mit <hi rendition="#i">Böhtlingk</hi> und <hi rendition="#i">Garbe</hi> svargo.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Sechster Gesang</note>
+
+<head><pb n="47" facs="#f00024"/> Sechster Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Wer, nicht auf Tatenfrucht bedacht, die pflichtgemäße Tat vollbringt,</p>
+<p>Ist entsagungs- und andachtsreich<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#F2121</ref></bibl></note>, nicht wer feuer- und tatenlos<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#F2122</ref></bibl></note>.</p>
+<p>Was man Entsagung nennt, das ist Andacht – wisse, o Pându-Sohn!</p>
+<p>Denn wer den Wünschen nicht entsagt, der kann auch nicht andächtig sein.</p>
+<p>Der Weise, der nach Andacht strebt, dem ist die Tat sein Element,</p>
+<p>Doch wer die Andacht hat erreicht, des Element ist Seelenruh.</p>
+<p>Wer an sinnlichen Dingen nicht noch an den Taten irgend hängt</p>
+<p>Und allen Wünschen hat entsagt, der hat die Andacht, heißt's, erreicht.</p>
+<p>Man bring' sein Selbst durchs Selbst empor, nicht bring' herunter man das Selbst!</p>
+<p>Das Selbst ist ja sein eigner Freund, das Selbst ist auch sein eigner Feind.</p>
+<p>Dem ist das Selbst sein eigner Freund, der durch das Selbst das Selbst besiegt;</p>
+<p>Doch kämpft es mit der Außenwelt, dann wird das Selbst sich selbst zum Feind.</p>
+<p>Wer sich bezwang und ruhig ward, in dem wohnt still der höchste Geist,</p>
+<p>In Kalt' und Hitze, Lust und Leid, in Ehren und in Schanden auch.</p>
+<p>In der Erkenntnis voll beglückt, gipfelhoch stehend, sinnbezähmt,</p>
+<p>Andächtig heißt der Yogin dann, wenn Erdkloß, Stein und Gold ihm gleich.</p>
+<p>Wer gegen Freund und Widerpart, Gleichgült'ge, Feind' und Sippen auch,</p>
+<p>Gegen Gute wie Böse auch gleichgesinnt ist, der ragt empor.</p>
+<p><pb n="48" facs="#f00025"/> Der Yogin soll beständig sich abmühen in der Einsamkeit,</p>
+<p>Allein, bezähmend Sinn und Selbst, nichts hoffend, des Besitzes bar.</p>
+<p>An reinem Ort sich hinstellend einen sicher stehenden Sitz,</p>
+<p>Nicht allzu hoch, zu niedrig nicht, darauf ein Kleid, Fell, Kuça-Gras;</p>
+<p>Den Geist auf <hi rendition="#i">einen</hi> Punkt richtend, zügelnd Denken, Sinne und Tun,</p>
+<p>Sich setzend auf den Sitz üb' er Andacht, zur Rein'gung seiner selbst.</p>
+<p>Gleichmäßig Körper, Nacken, Haupt unbewegt haltend, bleib' er fest,</p>
+<p>Schauend auf seine Nasenspitz' – nicht blick' er hier- und dorthin aus.</p>
+<p>Ruhigen Selbstes, frei von Furcht, der Keuschheitsregel untertan,</p>
+<p>Den Sinn zügelnd, an mich denkend, andächtig sitz' er, mir geweiht.</p>
+<p>Sein Selbst beständig rüstend so, andächtig, mit bezähmtem Geist,</p>
+<p>Geht er zu meinem Frieden ein, des höchstes Ziel Nirvâna ist.</p>
+<p>Wer zuviel ißt, kennt Andacht nicht, noch der, der ganz und gar nicht ißt;</p>
+<p>Nicht wer zu sehr verschlafen ist, noch wer stets wacht, o Arjuna.</p>
+<p>Wer mäßig ißt und sich erholt, mäßig wirket in Handlungen,</p>
+<p>Mäßig im Schlaf und Wachen ist, hat Andacht, die den Schmerz zerstört.</p>
+<p>Bei wem das Denken ganz bezähmt stille verharret in dem Selbst,</p>
+<p>Wenn von Begierden er ganz frei, dann wird er andächtig genannt.</p>
+<p>Wie die Lampe, vom Wind geschützt, nimmer flackert, – dies Gleichnis gilt</p>
+<p>Vom Yogin, der sein Denken zähmt und Andacht übet an dem Selbst.</p>
+<p>Wo das Denken zur Ruhe kommt, durch Andachtsübung eingedämmt,</p>
+<p>Und wo man, mit dem Selbst das Selbst schauend, sich an dem Selbst erfreut;</p>
+<p>Wo man das grenzenlose Glück, dem Geist faßbar, den Sinnen nicht,</p>
+<p>Kennend und fest darin stehend sich von der Wahrheit nicht bewegt;</p>
+<p>Und hat man <hi rendition="#i">den</hi> Gewinn erlangt, ihn über jeden andern schätzt<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#F2123</ref></bibl></note>,</p>
+<p>In dem verharrend man vom Schmerz, auch schwerem, nicht mehr wird bewegt;</p>
+<p>Solche Lösung vom Schmerzverein, wisse, die wird<hi rendition="#i"> Andacht</hi> genannt;</p>
+<p><hi rendition="#i">Die</hi> Andacht üb' entschlossen man und werde ihrer nimmer satt.</p>
+<p><pb n="49" facs="#f00026"/> Begierden, die der Wunsch erzeugt, aufgebend all ohn' Unterschied,</p>
+<p>Die Schar der Sinne mit Vernunft im Zaume haltend allerwärts;</p>
+<p>Werd' langsam, langsam ruhig man, und mit standhaft gewordnem Geist</p>
+<p>Versenke man sich in das Selbst und denke an nichts andres mehr.</p>
+<p>Wo immer nur ausbrechen will der schwankende, unstäte Sinn,</p>
+<p>Da soll man bänd'gen ihn in sich und zum Gehorsam bringen ihn.</p>
+<p>Denn den Andächt'gen, dessen Sinn beruhigt ist, wird höchstes Glück</p>
+<p>Erfüllen, – leidenschaftgestillt, Brahman-geworden, ist er rein.</p>
+<p>Sein Selbst beständig übend so, wird der Andächt'ge, sündenfrei,</p>
+<p>Erlangen unbegrenztes Glück, wo er mit Brahman sich berührt.</p>
+<p>Sich selbst in allen Wesen sieht und alle Wesen auch in sich,</p>
+<p>Wer so sein Selbst in Andacht übt und alles schaut gleichmütig an.</p>
+<p>Wer mich allüberall erblickt und alles auch in mir erblickt,</p>
+<p>Dem kann niemals entschwinden ich, und er entschwindet niemals mir.</p>
+<p>Wer mich in allen Wesen ehrt, der Einheitslehre huldigend,</p>
+<p>Der, wie er immer sich bewegt, bewegt sich andachtsvoll in mir.</p>
+<p>Wer nach Analogie des Selbst allüberall das gleiche sieht,</p>
+<p>Ob es nun Lust sei oder Leid, steht in der Andacht obenan.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Die Andacht, welche so von dir samt dem Gleichmut verkündet ist,</p>
+<p>Sie hat – ich seh' es – nicht Bestand, denn schwankend ist einmal der Mensch.</p>
+<p>Es schwankt der innre Sinn, Krishna, ist ungestüm, gewaltsam, hart;</p>
+<p>Zu zügeln ihn acht' ich so schwer als wie des Windes Zügelung.</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Gewiß, Großarmiger, der Sinn ist schwer zu zügeln, schwankend auch,</p>
+<p>Doch, Kuntî-Sohn, durch Anstrengung und Entsagung zwinget man ihn.</p>
+<p><pb n="50" facs="#f00027"/> Wer sich nicht zähmt, der kann nur schwer Andacht erreichen – denk' ich mir –,</p>
+<p>Wer sich bezwang und wer sich müht, kann solcherart erreichen sie.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Wer sich nicht zähmt, doch gläubig ist, – bei der Andacht, schwankenden Sinns,</p>
+<p>Andachtsvollendung nicht erreicht, o Krishna, welchen Weg geht der?</p>
+<p>Geht er nicht, scheiternd beiderseits, zerrißnen Wolken gleich zugrund,</p>
+<p>Ohn' allen Halt, Großarmiger, verirret auf dem Weg zu Gott?</p>
+<p><hi rendition="#i">Den</hi> Zweifel mußt du, Krishna, mir auflösen, daß nichts übrig bleibt,</p>
+<p>Es findet ja kein andrer sich, der diesen Zweifel löst, als du.</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>O Prithâ-Sohn, nicht hier noch dort muß solch ein Mann zugrunde gehn,</p>
+<p>Denn niemand, der redlich verfährt, soll in das Elend kommen, Freund<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#F2124</ref></bibl></note>!</p>
+<p>Wenn in der Welt der Frommen er geweilet viele Jahre lang,</p>
+<p>Ersteht in reinem, edlem Haus aufs neu, wer aus der Andacht fiel;</p>
+<p>Oder er wird geboren gar in andächtiger Weisen Haus, –</p>
+<p>Und solcherlei Geburt ist doch schwer zu erlangen in der Welt.</p>
+<p>Und hier erlangt denselben Geist er wieder wie im alten Leib,</p>
+<p>Und ringt von nun an eifriger um die Vollendung, Kuru-Sohn.</p>
+<p>Sein ehemaliges Bemühn reißt ihn selbst wider Willen fort;</p>
+<p>Wer der Andacht Erkenntnis sucht, hat mehr als Schriftgelehrsamkeit<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#F2125</ref></bibl></note>.</p>
+<p>Wenn er nur eifrig sich bemüht, andachtsvoll und von Sünden rein,</p>
+<p>Vollendet durch manche Geburt, wandelt er dann die höchste Bahn.</p>
+<p>Höher steht der andächt'ge Mann als die Büßer und Weisen gar,</p>
+<p>Höher auch als die Werkfrommen – drum sei andächtig, Arjuna!</p>
+<p><pb n="51" facs="#f00028"/> Und unter den Andächt'gen all, wer mich verehret glaubensvoll,</p>
+<p>Sein Innres ganz mir wendend zu – gilt mir als der Andächtigste.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#N2121</ref>1</bibl> Im Text: Der ist ein Sannyâsin, der ein Yogin.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#N2122</ref>2</bibl> D.h. nicht derjenige, welcher das pflichtmäßig zu unterhaltende heilige Feuer und die pflichtmäßigen Verrichtungen gänzlich aufgibt.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#N2123</ref>3</bibl> Vgl. Ev. Matth. 13, 44-46.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#N2124</ref>4</bibl> Welch eine milde, humane, tröstliche Lehre!</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechster Gesang#N2125</ref>5</bibl> Er kommt über das çabdabrahman hinaus, d.h. über das Wort-Brahman, das in Worte gefaßte Brahman.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Siebenter Gesang</note>
+
+<head><pb n="52" facs="#f00029"/> Siebenter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>An mir hängend mit Herz und Sinn, Andacht übend, auf mich gestützt,</p>
+<p>Wie du mich ganz erkennen wirst, von Zweifel frei, das höre nun!</p>
+<p>Dies Wissen und Erkennen dir verkünden will ich ohne Rest;</p>
+<p>Wenn du's erkannt hast, bleibt dir hier nichts zu erkennen übrig mehr.</p>
+<p>Unter Tausenden von Menschen strebt nach Vollendung einer kaum,</p>
+<p>Von den erfolgreich Strebenden kennt wahrhaft mich kaum einer noch.</p>
+<p>Erde, Wasser, Feuer, Äther, Luft, Sinn, Geist, Selbstbewußtsein auch –</p>
+<p>Dies alles ist meine Natur, die sich achtfältig hat verteilt.</p>
+<p>Die niedre ist das! außer ihr hab' ich noch eine höhere</p>
+<p>Natur, – sie ist das Leben selbst und sie ist's, die die Welt erhält.</p>
+<p>Aus ihrem Schoße kommen all die Wesen her – dies fasse recht!</p>
+<p>Ich bin für diese ganze Welt der Urquell und der Untergang.</p>
+<p>Es gibt nichts Höheres als mich, – kein andres Ding, was es auch sei! –</p>
+<p>Auf mich ist dieses All gereiht wie Perlenreihen an der Schnur.</p>
+<p>Ich bin des Wassers Feuchtigkeit, ich bin das Licht in Sonn' und Mond,</p>
+<p>Das heilge Om der Veden all, der Ton im Äther, Kraft im Mann!</p>
+<p>Der reine Duft im Erdenkloß, der Glanz im Feuer, das bin ich!</p>
+<p>Das Leben in den Wesen all, die Buße in den Büßern auch.</p>
+<p>Der ew'ge Same bin ich auch von allen Wesen – wisse dies!</p>
+<p>Die Einsicht der Einsichtigen, der Würd'gen Würde, das bin ich.</p>
+<p>Ich bin der Kraftbegabten Kraft, die frei von Neigung und Begier;</p>
+<p>Die Liebe, die erlaubt und recht, in allen Wesen – die bin ich!</p>
+<p>Ja, alles Sein – der Güte Reich, der Leidenschaft und Finsternis –</p>
+<p>Es stammt aus mir, es ist in mir, – doch ich bin darum nicht in ihm!</p>
+<p><pb n="53" facs="#f00030"/> Verwirret durch all dieses Sein in der drei Qualitäten Reich,</p>
+<p>Erkennt die Welt es nicht, daß ich höher und unvergänglich bin.</p>
+<p>Mein göttlich Scheinbild dieser Welt<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebenter Gesang#F2126</ref></bibl></note>, darüber kommt man schwer hinweg!</p>
+<p>Doch wer mir selbst sich wendet zu, der zwinget dieses Zauberbild.</p>
+<p>Die Frevler, die Gemeinen und die Toren kommen nicht zu mir;</p>
+<p>Beraubt des Wissens durch den Schein suchen sie bei Dämonen Heil.</p>
+<p>Vier Arten guter Menschen gibt's, die mich verehren, Arjuna:</p>
+<p>Wer Leid trägt, wer erkennen will, wer Gut erwirbt, wer wissend ist.</p>
+<p>Der Beste ist der Wissende, der andächtig nur eins verehrt;</p>
+<p>Ich bin der Freund des Wissenden vor allem, und er ist mein Freund.</p>
+<p>Vortrefflich sind sie alle, doch der Wissende, das ist mein Selbst,</p>
+<p>Denn mit andächt'ger Seele kommt zu mir er als zum höchsten Heil.</p>
+<p>Wenn der Geburten Reih' zu End', gelangt zu mir der Wissende;</p>
+<p>»Gott ist das All!« – schwer findet sich ein Edler, welcher das erkennt.</p>
+<p>Die, denen Gier das Wissen raubt, die gehn zu andern Göttern hin,</p>
+<p>Halten an manche Regel sich, – sie lenkt die eigene Natur.</p>
+<p>Und welche Gottheit einer auch im Glauben zu verehren strebt, –</p>
+<p>Ich sehe seinen Glauben an und weis' ihm zu den rechten Platz.</p>
+<p>Wenn er in festem Glauben strebt nach seines Gottes Huld und Gnad',</p>
+<p>Dann wird zuteil ihm, was er wünscht, denn gern wend' ich ihm Gutes zu<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebenter Gesang#F2127</ref></bibl></note>.</p>
+<p>Doch bleibt beschränkt nur der Erfolg bei denen, die beschränkten Sinns:</p>
+<p>Die Götter findet, wer sie ehrt! wer mich verehrt, gelangt zu mir!</p>
+<p>Unsichtbar bin ich! nur der Tor kann glauben, daß ich sichtbar ward!</p>
+<p>Mein höhres Sein, das ewige, das höchste, blieb ihm unbekannt.</p>
+<p>Nicht jedem bin ich offenbar, weil mich der Mâyâ Schein verhüllt,</p>
+<p>Betört erkennt die Welt mich nicht, den Ungebornen, Ewigen.</p>
+<p>Ich kenne die vergangenen, die gegenwärt'gen Wesen all,</p>
+<p>Und die noch ruhn im Zukunftsschoß! doch niemand gibt es, der mich kennt.</p>
+<p>Der doppelten Verwirrung Raub, die aus Neigung und Haß entspringt,</p>
+<p><pb n="54" facs="#f00031"/> Werden die Wesen allesamt in dieser Schöpfung ganz verwirrt.</p>
+<p>Die frommen Menschen aber, die das Böse von sich abgetan,</p>
+<p>Vom Doppel-Irrwahn auch befreit verehren sie mich festen Sinns.</p>
+<p>Die zu mir flüchten, strebend nach Erlösung von Alter und Tod,</p>
+<p>Die kennen dieses Brahman ganz, das höchste Selbst, das ganze Werk!</p>
+<p>Die mich kennen als Haupt und Herrn der Wesen, Götter, Opfer all, –</p>
+<p>Auch sterbend daran halten fest – <hi rendition="#i">die</hi> Frommen kennen wahrhaft mich.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebenter Gesang#N2126</ref>1</bibl> Wörtlich: »Dieses mein göttliches, aus den Qualitäten gebildetes Scheinbild« – mâyâ, welches Wort ich weiterhin auch durch Zauberbild und Schein wiedergebe.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebenter Gesang#N2127</ref>2</bibl> Gewiß ein weitherziger Standpunkt des großen Gottes gegenüber den Verehrern anderer Götter!</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Achter Gesang</note>
+
+<head><pb n="55" facs="#f00032"/> Achter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Was ist das Brahman? und was ist das höchste Selbst? was ist das Werk?</p>
+<p>Was ist's, das ob den Wesen all und über allen Göttern steht?</p>
+<p>Wie und wer kann in diesem Leib schon über allen Opfern stehn?</p>
+<p>Und in der Todesstunde, wie erkennen die Bezähmten dich?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Brahman ist ew'ges, höchstes Sein, sein Wesen ist das höchste Selbst,</p>
+<p>Die Schöpfung, die den Ursprung all der Wesen wirkt, ist »Werk« genannt.</p>
+<p>Werden<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achter Gesang#F2128</ref></bibl></note> über den Wesen steht, über den Göttern der Urgeist,</p>
+<p>»Über den Opfern« – <hi rendition="#i">das bin ich,</hi> schon hier im Leib, du bester Mensch!</p>
+<p>Wer in der Todesstunde mein gedenkend scheidet aus dem Leib,</p>
+<p>Der gehet in mein Wesen ein, darüber kann kein Zweifel sein.</p>
+<p>An wessen Wesen immer er gedenkt, wenn er den Leib verläßt,</p>
+<p>In dessen Wesen geht er ein und paßt sich dessen Wesen an.</p>
+<p>Zu allen Zeiten denke drum an mich allein und kämpfe frisch!</p>
+<p>In mich versenk' Sinn und Verstand, dann gehst du sicher ein in mich.</p>
+<p>Wenn fleißig Andacht er geübt, nichts andres in Gedanken sucht,</p>
+<p>Dann geht zum höchsten Urgeist ein, dem himmlischen, wer an ihn denkt.</p>
+<p>Wer an den alten Weisen, den Regierer,</p>
+<p>Der feiner ist als fein, sich stets erinnert,</p>
+<p>Den Schöpfer dieses Alls, der unausdenkbar,</p>
+<p><pb n="56" facs="#f00033"/> Der sonnenfarbig, jenseit alles Dunkels, –</p>
+<p>Wer festen Sinns im Tode sein gedenket,</p>
+<p>Hingebungsvoll und mit der Kraft der Andacht,</p>
+<p>Den Lebensgeist zwischen den Brauen sammelnd,</p>
+<p>Der geht zum höchsten Urgeist ein im Himmel.</p>
+<p>Was Vedenkenner »unvergänglich« nennen,</p>
+<p>Wohin die neigungsfreien Büßer kommen,</p>
+<p>Wonach begehrend man in Keuschheit lebet,</p>
+<p><hi rendition="#i">Die</hi> Stätte will ich dir in Kürze schildern.</p>
+<p>Des Körpers Tore schließend all, den Sinn im Herzen fest haltend,</p>
+<p>Den Lebensgeist im Kopf sammelnd, der strengen Andacht zugewandt;</p>
+<p>Brahmans einsilb'gen Namen »Om«! aussprechend und gedenkend mein –</p>
+<p>Wer so den Leib verlassend stirbt, der wandelt auf der höchsten Bahn.</p>
+<p>Wer an nichts andres jemals denkt und immerdar an mich gedenkt,</p>
+<p>Wer in beständ'ger Andacht lebt, der ist es, der mich leicht erlangt.</p>
+<p>Die Edlen, die zu mir gelangt und die Vollendung so erreicht,</p>
+<p>Erleiden keine Neugeburt, wo Schmerz wohnt und Vergänglichkeit.</p>
+<p>Die Welten, bis zu Brahmans Welt, bewahren nicht vor Neugeburt,</p>
+<p>Doch wer zu mir gekommen ist, für den gibt's keine Neugeburt.</p>
+<p>Die, denen Brahmans Tag bekannt, der tausend Weltenalter währt, –</p>
+<p>Und Brahmans Nacht, die grad so lang, – die kennen wahrhaft Tag und Nacht.</p>
+<p>Aus dem Unsichtbaren entspringt das Sichtbare, wann kommt der Tag, –</p>
+<p>Wann kommt die Nacht, dann löst sich's auf im Innern, das unsichtbar heißt.</p>
+<p>Der Wesen Schar, die immer neu geworden ist, sie löst sich auf,</p>
+<p>Wann kommt die Nacht, – doch unbedingt ersteht sie neu, wann kommt der Tag.</p>
+<p>Doch jenseits dieses Lebens gibt's ein andres, ewig, unsichtbar,</p>
+<p>Das, ob auch alle Wesen hier vergehen, selber nicht vergeht.</p>
+<p><pb n="57" facs="#f00034"/> Unsichtbar, unvergänglich heißt's, man nennt es auch die höchste Bahn;</p>
+<p>Erreicht man's, kehrt man nicht zurück! sieh, das ist meine höchste Statt!</p>
+<p>Der höchste Urgeist wird erlangt durch Liebe, die nichts andres sucht, –</p>
+<p>Er, in dem alle Wesen sind, durch den die ganze Welt gemacht.</p>
+<p>Wann aber zur Nichtwiederkehr der Fromme kommt, sobald er stirbt,</p>
+<p>Wann Wiederkehr sein Schicksal bleibt, das will ich nun verkünden dir:</p>
+<p>Feuer, Licht, Tag, wachsender Mond, das Halbjahr, wo die Sonne hoch,</p>
+<p>Wenn dann ein Brahmankenner stirbt, dann geht er auch zu Brahman ein.</p>
+<p>Rauch und Nacht und schwindender Mond, das Halbjahr, wo die Sonne tief,</p>
+<p>Da geht der Fromme zu dem Licht des Mondes und kehrt einst zurück.</p>
+<p>Der helle und der dunkle Pfad, sie sind als ewige bekannt,</p>
+<p>Einer führt zur Nichtwiederkehr, auf dem andern kehrt man zurück<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achter Gesang#F2129</ref></bibl></note>.</p>
+<p>Wer diese beiden Pfade kennt, der Fromme wird niemals betört,</p>
+<p>Zu allen Zeiten weihe dich der Andacht drum, o Arjuna!</p>
+<p>Was für das Vedalesen, Opfern, Büßen</p>
+<p>Und Spenden auch als Tugendlohn verheißen,</p>
+<p>Weit über das hinaus gelangt der Fromme,</p>
+<p>Der dies erkennt, – er kommt zur höchsten Stätte!</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achter Gesang#N2128</ref>1</bibl> Werden – im Text ksharo bhâvah, d.h. eig. das fließende Sein, wie auch <hi rendition="#i">Deussen</hi> es richtig übersetzt; das fließende Sein, d.h. das Werden, beherrscht alle Wesen, solange sie Einzelwesen sind.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achter Gesang#N2129</ref>2</bibl> Vgl. zu Vers 23-26 <hi rendition="#i">P. Deussen,</hi> Allgemeine Geschichte der Philosophie, Bd. I, Abt. 3, S. 106-108. Danach wäre hier nicht von Zeitabschnitten, sondern von örtlichen Stationen die Rede, gleichsam räumlich übereinander liegenden Schichten. Eine ziemlich phantastische Vorstellung, die auf alte Upanishad-Gedanken zurückgeht, welche wir hier nicht erörtern können.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Neunter Gesang</note>
+
+<head><pb n="58" facs="#f00035"/> Neunter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Nun will ich das Geheimste dir verkünden – hör mich willig an! –</p>
+<p>Wenn dieses Wissen du erlangt, dann wirst vom Übel du erlöst.</p>
+<p>Königs-Wissen und -Geheimnis, das höchste Läutrungsmittel ist's,</p>
+<p>Deutlich faßbar, heilig, ewig, und doch zu üben kinderleicht.</p>
+<p>Die Menschen, welche glaubenslos sich dieser Lehre nicht vertraun,</p>
+<p>Verfehlen mich, – sie kehren um auf des Todes, der Wandrung Bahn.</p>
+<p>Durch mich ist ausgespannt dies All, die Welt – unsichtbar bin ich selbst –</p>
+<p>Die Wesen alle sind in mir, ich aber bin in ihnen nicht.</p>
+<p>Und wied'rum sind sie <hi rendition="#i">nicht</hi> in mir – sieh mein, des Herrschers Wundermacht! –</p>
+<p>Mein Ich weilt in den Wesen nicht, doch trägt es sie und bildet sie.</p>
+<p>Wie der Wind in dem leeren Raum allüberall beständig geht,</p>
+<p>So auch die Wesen allesamt weilen in mir – das fasse recht!</p>
+<p>Die Wesen all beim Weltenend' gehn ein in meine Urnatur,</p>
+<p>Bricht dann ein neu Weltalter an, dann schaffe ich sie wieder neu.</p>
+<p>Fußend auf meiner Urnatur schaff' ich sie neu und wieder neu,</p>
+<p>Die ganze Schar der Wesen hier, streng nach dem Willen der Natur.</p>
+<p>Und all dies Tun und wieder Tun legt mir doch keine Fesseln an;</p>
+<p>Ganz gleichmütig bin ich dabei und häng' an diesen Taten nicht.</p>
+<p>Ich wache drüber, – die Natur gebiert, was steht und was sich regt;</p>
+<p>Aus diesem Grund, o Kuntî-Sohn, bewegt sich weiter fort die Welt.</p>
+<p>Die Toren nur mißachten mich in meiner menschlichen Gestalt,</p>
+<p>Sie kennen nicht mein höh'res Sein, den großen Herrn der Wesen all.</p>
+<p>Eitles hoffend, Eitles wirkend, Eitles wissend, verstandberaubt,</p>
+<p>Halten sie an die trügende Natur böser Dämonen sich.</p>
+<p><pb n="59" facs="#f00036"/> Die Edlen aber halten sich an meine göttliche Natur,</p>
+<p>Mich ehren sie und mich allein als ew'gen Urquell alles Seins.</p>
+<p>Sie rühmen mich ohn' Unterlaß, streben zu mir hin fest und treu,</p>
+<p>Sie huld'gen in Verehrung mir und weihen sich der Andacht ganz.</p>
+<p>Der Erkenntnis Opfer bringen andre dar und verehren mich,</p>
+<p>Der ich All-Eins und vielfach doch gesondert überall hinschau' –</p>
+<p>Ich bin das Opfer, Gottesdienst, der Manen Trank, das heil'ge Kraut,</p>
+<p>Das Opferlied, das Opferschmalz, das Feuer und die Spende ich!</p>
+<p>Ich bin der Vater dieser Welt, bin Mutter, Schöpfer, Ahnherr auch,</p>
+<p>Bin Lehre, Läutrung, heilges Om, bin Rik, Sâman und Yajus auch<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Neunter Gesang#F2130</ref></bibl></note>.</p>
+<p>Weg, Erhalter, Herrscher, Zeuge, Wohnort, Zuflucht und guter Freund,</p>
+<p>Ursprung, Vergehen, fester Stand, der Schatz, der ew'ge Same auch.</p>
+<p>Die Wärme schaff' ich, Regen, Flut halt' ich zurück, laß' strömen ich,</p>
+<p>Ich bin Unsterblichkeit und Tod, bin Sein und Nichtsein, Arjuna!</p>
+<p>Die vedenkund'gen frommen Somatrinker,</p>
+<p>Sie streben opfernd nach der Bahn zum Himmel;</p>
+<p>Wenn sie erlangt die reine Welt des Indra,</p>
+<p>Genießen sie im Himmel Götterfreuden.</p>
+<p>Wenn dort den großen Himmel sie genossen,</p>
+<p>Wenn ihr Verdienst erschöpft, gehn sie zur Erde;</p>
+<p>So, die sich halten an der Veden Satzung,</p>
+<p>Erlangen Gehn und Kommen, wunschbesessen.</p>
+<p>Doch die nur mir Verehrung weihn und an nichts andres denken mehr,</p>
+<p>Diesen ganz mir Hingegebnen gewähr' die volle Wohlfahrt ich.</p>
+<p>Auch die glaubensvoll ergeben andern Göttern Verehrung weihn,</p>
+<p>Selbst diese ehren doch nur mich, wenn auch nicht grade regelrecht.</p>
+<p>Denn der Genießer und der Herr von allen Opfern bin nur ich;</p>
+<p>In Wahrheit kennen sie mich nicht, drum sinken wieder sie hinab<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Neunter Gesang#F2131</ref></bibl></note>.</p>
+<p>Die sich Göttern und Vätern weihn, gehn zu Göttern und Vätern hin,</p>
+<p>Geisterdiener zu den Geistern; wer mich verehrt, der kommt zu mir.</p>
+<p>Wer in Verehrung Blüt' und Blatt, Frucht und Wasser mir bietet dar,</p>
+<p><pb n="60" facs="#f00037"/> Solch Huld'gungsopfer frommen Sinns nehm' ich an und genieß' es auch.</p>
+<p>Was du tust und was du issest, was du opferst und was du gibst,</p>
+<p>Wenn du büßest, Sohn des Kuntî, – dies alles bringe du mir dar!</p>
+<p>So wirst frei du von den Fesseln, die gut und böses Tun dir bringt,</p>
+<p>Ob du nun handelst oder nicht, erlöset gehst du ein zu mir.</p>
+<p>Gleich bin zu allen Wesen ich, ich habe weder Feind noch Freund,</p>
+<p>Doch die liebend mich verehren, die sind in mir, in ihnen ich.</p>
+<p>Ein großer Sünder selbst, wenn er mich verehrt und nur mich allein,</p>
+<p>Soll gelten als ein guter Mann, weil er sich recht entschieden hat.</p>
+<p>Er wird gar bald ein frommer Mann und geht zu ew'gem Frieden ein!</p>
+<p>Erkenne dies, o Kuntî-Sohn – wer mich verehrt, geht nicht zugrund!</p>
+<p>Wenn sie an mich nur halten sich – stammen sie auch aus schlechtem Schoß,</p>
+<p>Weiber, Vâiçyas und Çûdras selbst – sie wandeln doch die höchste Bahn.</p>
+<p>Wieviel mehr reine Brahmanen und fromme Königsweisen auch!</p>
+<p>In diese nicht'ge, arge Welt hineingestellt, verehre mich!</p>
+<p>An mich denkend, mich verehrend, mir opfernd, huld'ge mir allein!</p>
+<p>Gibst du in Andacht mir dich hin, dann gehst du einstmals ein zu mir.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Neunter Gesang#N2130</ref>1</bibl> D.i. Rigveda, Sâmaveda und Yajurveda – die drei kanonischen Veden, denen sich als vierter, nicht ganz ebenbürtig, der Atharvaveda anschließt.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Neunter Gesang#N2131</ref>2</bibl> D.h. in das irdische Dasein, Sansâra.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zehnter Gesang</note>
+
+<head><pb n="61" facs="#f00038"/> Zehnter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Nun höre noch ein Wort von mir, ein höchstes, du Großarmiger!</p>
+<p>Ich sag' es dir, weil du mich liebst und weil ich auf dein Heil bedacht.</p>
+<p>Es kennen meinen Ursprung nicht die Götter noch die Weisen auch,</p>
+<p>Weil ich der Götter Urquell bin und auch der Weisen allesamt.</p>
+<p>Wer mich kennt als den Herrn der Welt, der ungeboren, anfangslos, –</p>
+<p>Ein solcher Mensch ist nicht betört, der wird von allen Sünden frei.</p>
+<p>Einsicht, Wissen, Nichtbetörung, Geduld, Wahrheit und Zucht und Ruh,</p>
+<p>Glück, Leid, Entstehen und Vergehn, Gefahr, sowie auch Sicherheit;</p>
+<p>Nichtverletzung, Gleichmut, Frieden, Buße, Spenden, Ehre und Schmach, –</p>
+<p>Die mannigfachen Zustände der Wesen stammen all von mir.</p>
+<p>Die sieben Weisen alter Zeit und die vier Manus<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2132</ref></bibl></note> ebenso,</p>
+<p>Sie sind im Geist von mir gezeugt, deren Kinder die Menschen sind.</p>
+<p>Wer diese Macht und Wunderkraft an mir in voller Wahrheit kennt,</p>
+<p>Dem wird zuteil nie wankende Andacht, – da kann kein Zweifel sein.</p>
+<p>Ich bin der Ursprung dieses Alls, aus mir geht dieses All hervor, –</p>
+<p>In solcher Ansicht huld'gen mir die Weisen, ganz von Lieb' erfüllt.</p>
+<p>Mein denkend, in mir lebend ganz und sich erweckend wechselsweis,</p>
+<p>Erzählend immerdar von mir, sind sie zufrieden und sind froh.</p>
+<p>Diesen Immerandächtigen, die mich verehren liebevoll,</p>
+<p>Verleih' des Geistes Andacht ich, durch welche sie zu mir eingehn.</p>
+<p>Diesen auch aus Barmherzigkeit vernichte ich die Finsternis</p>
+<p>Des Nichtwissens mit hellem Licht des Wissens, ruhend in mir selbst.</p>
+<lb/>
+<p rendition="#c"><pb n="62" facs="#f00039"/> Arjuna sprach</p>
+<lb/>
+<p>Höchstes Brahman, höchste Stätte und höchste Läuterung bist du!</p>
+<p>Den ew'gen Geist, den himmlischen, den Urgott, mächtig, ungebor'n –</p>
+<p>So nennen dich die Weisen all, – auch der Gottweise Nârada,</p>
+<p>Asita, Vyâsa, Devala<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2133</ref></bibl></note> – und auch du selber sagst es mir.</p>
+<p>Dies alles halte ich für wahr, was du mir sagst, o Keçava!</p>
+<p>Denn deine Offenbarung ist Göttern und Geistern unbekannt,</p>
+<p>Du selber aber kennst dich wohl durch dich selber, o höchster Geist,</p>
+<p>Der Wesen Heiland du und Herr, Gott der Götter und der Herr der Welt!</p>
+<p>Du kannst es künden ohne Rest, denn himmlisch ist ja deine Macht,</p>
+<p>Mit welcher Macht du diese Welt durchdrungen hast und stehst so da.</p>
+<p>Wie erkenn' ich dich, Heiliger, wenn ich auch immer denk' an dich?</p>
+<p>In welchem Zustand deines Seins soll ich dich fassen, Herrlicher?</p>
+<p>Ausführlicher erzähl' mir noch von deiner Wunderkraft und Macht!</p>
+<p>Hör' ich den Nektar deines Worts, dann hör' ich mich wohl niemals satt.</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Wohlan, so will ich's künden dir, denn himmlisch ist ja meine Macht, –</p>
+<p>Das Wichtigste nur nenn' ich dir, denn End' und Grenzen hab' ich nicht.</p>
+<p>Ich bin die Seele dieser Welt, in aller Wesen Herz bin ich,</p>
+<p>Ich bin der Anfang, Mitte ich und Ende auch der Wesen all,</p>
+<p>Vishnu unter den Adityas<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2134</ref></bibl></note>, die Sonn' in der Gestirne Schar,</p>
+<p>Marîci<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2135</ref></bibl></note> in der Marut Schar, der Mond im Sternenheer bin ich!</p>
+<p>Bin der Sâman von den Vedas, bin Indra in der Götter Heer,</p>
+<p>Von den Sinnen der innre Sinn, – der Wesen Einsicht, das bin ich.</p>
+<p>Bin von den Rudras Çankara<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2136</ref></bibl></note>, Kuvera<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2137</ref></bibl></note> in der Yakshas Heer,</p>
+<p>Bin von den Vasus<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2138</ref></bibl></note> all das Feu'r, von den Bergen der Meru<note place="end" n="8"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2139</ref></bibl></note> ich.</p>
+<p>Wisse, daß ich der erste bin von den Priestern, Brihaspati<note place="end" n="9"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2140</ref></bibl></note>!</p>
+<p>Von den Feldherrn bin ich Skanda<note place="end" n="10"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2141</ref></bibl></note>, von den Seen bin ich das Meer.</p>
+<p><pb n="63" facs="#f00040"/> Von den Rishis bin ich Bhrigu, von den Worten bin ich das Om<note place="end" n="11"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2142</ref></bibl></note>,</p>
+<p>Im Gottesdienst ein leis Gebet, als Gebirg der Himâlaya;</p>
+<p>Der Açvattha<note place="end" n="12"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2143</ref></bibl></note> von den Bäumen, von den Gottweisen Nârada,</p>
+<p>Als Gandharve Citraratha<note place="end" n="13"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2144</ref></bibl></note>, von den Seligen Kapila<note place="end" n="14"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2145</ref></bibl></note>;</p>
+<p>Wisse, ich bin Uccâihçravas<note place="end" n="15"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2146</ref></bibl></note> unter den Rossen, meerentstammt,</p>
+<p>Als Elephant Airâvata<note place="end" n="16"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2147</ref></bibl></note>, – unter Menschen bin ich der Fürst;</p>
+<p>Von den Waffen der Donnerkeil, unter den Kühen Kâmaduh<note place="end" n="17"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2148</ref></bibl></note>,</p>
+<p>Als Erzeuger der Liebesgott, unter den Schlangen Vâsuki<note place="end" n="18"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2149</ref></bibl></note>.</p>
+<p>Bin Ananta<note place="end" n="19"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2150</ref></bibl></note> bei den Nâgas, bin Varuna<note place="end" n="20"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2151</ref></bibl></note> im Wasserreich,</p>
+<p>Bin von den Vätern Aryaman, bin Yama<note place="end" n="21"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2152</ref></bibl></note> in der Zwingherrn Schar.</p>
+<p>Bin Prahlâda<note place="end" n="22"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2153</ref></bibl></note> bei den Dâityas, unter den Zählenden die Zeit,</p>
+<p>Bin der Löwe unter den Tieren, unter den Vögeln Garuda<note place="end" n="23"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2154</ref></bibl></note>;</p>
+<p>Bin von den Reinigern der Wind, bin Râma in der Helden Schar,</p>
+<p>Bin von den Fischen der Delphin, von den Flüssen der Gangâ-Strom.</p>
+<p>Anfang und End' der Schöpfungen und Mitte bin ich, Arjuna,</p>
+<p>Kunde höchsten Geists im Wissen, der Redner Rede, das bin ich!</p>
+<p>Unter den Lauten bin ich A<note place="end" n="24"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2155</ref></bibl></note>, bin Dvandva<note place="end" n="25"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2156</ref></bibl></note> als Compositum,</p>
+<p>Ich bin die Zeit, die nie vergeht, bin der Schöpfer, der allhin schaut.</p>
+<p>Ich bin der Tod, der alles raubt, der Ursprung des, was werden soll;</p>
+<p>Als Weib: die Ehre, Anmut, Red', Erinnrung, Einsicht, Kraft, Geduld.</p>
+<p>Von den Sâmans bin ich Brihat<note place="end" n="26"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2157</ref></bibl></note>, von den Metren die Gâyatrî<note place="end" n="27"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2158</ref></bibl></note>,</p>
+<p>Bin als Monat Mârgaçîrsha<note place="end" n="28"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2159</ref></bibl></note> und der Frühling als Jahreszeit;</p>
+<p>Der Würfel unter dem, was trügt, der Glanz der Glänzenden bin ich,</p>
+<p>Der Sieg bin ich, Entschluß bin ich, der Guten Güte, das bin ich.</p>
+<p>Vâsudeva<note place="end" n="29"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2160</ref></bibl></note> bei den Vrishnis, unter den Pândus Arjuna,</p>
+<p>Vyâsa<note place="end" n="30"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2161</ref></bibl></note> unter den Asketen, unter den Dichtern Uçanas<note place="end" n="31"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2162</ref></bibl></note>.</p>
+<p>Der Stock bin ich der Strafenden, die Politik der Kämpfenden,</p>
+<p>Als Geheimnis bin ich Schweigen<note place="end" n="32"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#F2163</ref></bibl></note>, bin das Wissen der Wissenden.</p>
+<p>Was nur von allen Wesen hier der Same ist, ja das bin ich!</p>
+<p>Es gibt kein Ding, das ohne mich besteht; sei's ruhend, sei's bewegt.</p>
+<p>Kein Ende gibt's, o edler Held, meiner himmlischen Wunderkraft,</p>
+<p><pb n="64" facs="#f00041"/> Andeutungsweise hab' ich nur von ihrem Umfang dir erzählt.</p>
+<p>Was es Herrliches irgend gibt, was schön ist und was kraftvoll ist,</p>
+<p>Das, wisse, stammet alles her aus einem Teile meiner Kraft.</p>
+<p>Indes, was soll dir, Arjuna, dies mannigfalt'ge Wissen all? –</p>
+<p>Mit einem Teile meiner selbst hab' ich dies Weltall festgestellt!</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2132</ref>1</bibl> Vorsteher, resp. Schöpfer und Ordner der großen Weltperioden, der vier Weltalter. Auf den mythischen Manu des jetzigen Weltalters wird das berühmte Gesetzbuch zurückgeführt.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2133</ref>2</bibl> Bekannte Seher der Vorzeit.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2134</ref>3</bibl> Eine Ordnung höchster Götter.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2135</ref>4</bibl> Marîci, der oberste unter den Sturmgöttern, den Marut.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2136</ref>5</bibl> Çankara, der Heilvolle, ein Beiname des Çiva-Rudra, welcher seit alters als der oberste unter den Rudras, einer Ordnung göttlicher Wesen, gilt, die halb unheimlich und gefahrbringend, halb heilvoll und helfend gedacht sind.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2137</ref>6</bibl> Kuvera ist Gott des Reichtums, Herr der Yaksha genannten Halbgötter oder Elfen.</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2138</ref>7</bibl> Eine bestimmte Götterordnung.</note>
+<lb/>
+<note place="end" n="8"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2139</ref>8</bibl> Meru, der mythische Weltenberg. Er ist aus Gold, die sieben Weltinseln liegen um ihn herum und die Gestirne kreisen um ihn.</note>
+<lb/>
+<note place="end" n="9"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2140</ref>9</bibl> Brihaspati, Herr des Gebets, der Priester unter den Göttern.</note>
+<lb/>
+<note place="end" n="10"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2141</ref>10</bibl> Skanda, der Kriegsgott.</note>
+<lb/>
+<note place="end" n="11"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2142</ref>11</bibl> Das heiligste Wort, von mystischer Bedeutung.</note>
+<lb/>
+<note place="end" n="12"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2143</ref>12</bibl> Der heilige Feigenbaum</note>
+<lb/>
+<note place="end" n="13"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2144</ref>13</bibl> Citraratha ist König der Gandharven genannten Halbgötter.</note>
+<lb/>
+<note place="end" n="14"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2145</ref>14</bibl> Kapila, ein mythischer Weiser, der angebliche Begründer der Sânkhya-Lehre.</note>
+<lb/>
+<note place="end" n="15"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2146</ref>15</bibl> Ein mythisches Roß, das bei der Quirlung des Ozeans durch die Götter herausgekommen sein soll – Prototyp und Urbild aller Rosse.</note>
+<lb/>
+<note place="end" n="16"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2147</ref>16</bibl> Der bei der Quirlung des Ozeans herausgekommene Elephant, das Reittier des Indra, Prototyp aller Elephanten.</note>
+<lb/>
+<note place="end" n="17"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2148</ref>17</bibl> Die berühmte Wunschkuh, die jeden Wunsch alsbald erfüllte.</note>
+<lb/>
+<note place="end" n="18"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2149</ref>18</bibl> Der Fürst der Schlangen.</note>
+<lb/>
+<note place="end" n="19"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2150</ref>19</bibl> Ananta »Unendlich«, Beiname des Çesha, des Königs der Nâga oder Schlangendämonen.</note>
+<lb/>
+<note place="end" n="20"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2151</ref>20</bibl> Der Gott der Gewässer.</note>
+<lb/>
+<note place="end" n="21"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2152</ref>21</bibl> Der Todesgott.</note>
+<lb/>
+<note place="end" n="22"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2153</ref>22</bibl> Prahlâda oder Prahrâda, der fromme Sohn des bösen Riesen Hiranyakaçipu – ein standhafter Verehrer Vishnus unter dem götterfeindlichen Dämonengeschlechte der Dâityas; vgl. die rührende Geschichte des Prahrâda bei Schack, Stimmen vom Ganges.</note>
+<lb/>
+<note place="end" n="23"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2154</ref>23</bibl> Der mythische König der Vögel, Reittier des Vishnu.</note>
+<lb/>
+<note place="end" n="24"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2155</ref>24</bibl> Weil dies der erste Buchstabe ist, auch im Alphabet der Inder.</note>
+<lb/>
+<note place="end" n="25"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2156</ref>25</bibl> Das Dvandva oder copulative Kompositum steht in der Grammatik der Inder als erstes da in der Reihe der Nominal-Composita, daher es auf diesem Gebiet quasi eine führende Stellung einnimmt.</note>
+<lb/>
+<note place="end" n="26"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2157</ref>26</bibl> Das Brihat ist einer der hervorragendsten unter den Sâmans oder heiligen Opfergesängen.</note>
+<lb/>
+<note place="end" n="27"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2158</ref>27</bibl> Hervorragend wichtiges und heiliges Metrum im Rigveda.</note>
+<lb/>
+<note place="end" n="28"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2159</ref>28</bibl> Der erste Monat im Jahre.</note>
+<lb/>
+<note place="end" n="29"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2160</ref>29</bibl> Vâsudeva, ein Beiname des Krishna; als solcher gehört er zum Geschlechte der Vrishnis.</note>
+<lb/>
+<note place="end" n="30"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2161</ref>30</bibl> Der berühmte mythische Verfasser des Mahâbhârata.</note>
+<lb/>
+<note place="end" n="31"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2162</ref>31</bibl> Ein schon im Rigveda genannter Dichter und Seher der Vorzeit.</note>
+<lb/>
+<note place="end" n="32"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zehnter Gesang#N2163</ref>32</bibl> Eig. unter den geheimen verborgenen Dingen bin ich das Schweigen.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Elfter Gesang</note>
+
+<head><pb n="65" facs="#f00042"/> Elfter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Da mir zu Liebe du das Wort, das höchst geheimnisvolle, sprachst,</p>
+<p>Das höchsten Geistes Siegel trägt, bin ich von allem Irrtum frei.</p>
+<p>Der Wesen Werden und Vergehn hab' ich ausführlich nun gehört,</p>
+<p>Von dir, du Lotusäugiger, – und deine ew'ge Herrlichkeit.</p>
+<p>So wie du hier geschildert hast dich selbst, du höchster aller Herrn,</p>
+<p>So möcht' ich schaun deine Gestalt, die göttliche, du höchster Geist!</p>
+<p>Wenn du's für möglich hältst, daß ich dies schauen kann, du Mächtiger,</p>
+<p>Dann, Herr der Andacht, zeige mir dich selber als den Ewigen!</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>So schau denn die Gestalten mein hundert- und tausendfältig hier,</p>
+<p>Die mannigfalt'gen, himmlischen, in Farb' und Form verschiedenen.</p>
+<p>Schau die Adityas, die Vasus, die Rudras, Açvin, Marutas,</p>
+<p>Viele, nie zuvor geschaute Wunder, schau sie, o Bhârata!</p>
+<p>In Einem schau die ganze Welt, was sich bewegt und nicht bewegt,</p>
+<p>In meinem Leibe sieh das hier, und was du sonst noch sehen magst.</p>
+<p>Doch wirst du mich nicht können sehn mit diesem deinem eignen Aug', –</p>
+<p>Ein himmlisch Auge geb' ich dir, – schau mein, des Herren, Wundermacht!</p>
+<lb/>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>So sprach er und sodann, o Fürst, – Hari<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#F2164</ref></bibl></note>, der große Wunderherr,</p>
+<p>Offenbarte dem Prithâ-Sohn seine Gestalt als höchster Gott.</p>
+<p><pb n="66" facs="#f00043"/> Mit manchem Munde, manchem Aug', manch wunderbarem Angesicht.</p>
+<p>Versehn mit manchem Götterschmuck und Götterwaffen schwingend viel.</p>
+<p>Götterkränz' und -kleider tragend, an Himmelsduft und -salben reich,</p>
+<p>Ganz Wunder, strahlend, grenzenlos, das Antlitz allerwärts gewandt.</p>
+<p>Wenn das Licht von tausend Sonnen am Himmel plötzlich bräch' hervor,</p>
+<p>Zu gleicher Zeit, – das wäre gleich dem Glanze dieses Herrlichen.</p>
+<p>In Einem dort die ganze Welt vereint, doch mannigfach geteilt,</p>
+<p>In des Gottes der Götter Leib erblickte sie der Pându- Sohn.</p>
+<p>Da, von Erstaunen ganz erfüllt, am Leibe schauernd, neigte sich</p>
+<p>Arjuna mit dem Haupt und sprach die Hände faltend zu dem Gott:</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Die Götter schau' ich all in deinem Leibe,</p>
+<p>O Gott, so auch die Scharen aller Wesen,</p>
+<p>Brahman, den Herrn, auf seinem Lotussitze,</p>
+<p>Die Rishis alle und die Himmelsschlangen.</p>
+<p>Mit vielen Armen, Bäuchen, Mündern, Augen</p>
+<p>Seh ich dich, – allerwärts endlos gestaltet;</p>
+<p>Nicht Ende, Mitte, noch auch Anfang seh' ich</p>
+<p>An dir, du Herr des Alls, du allgestalt'ger!</p>
+<p>Mit Diadem, mit Keule und mit Diskus,</p>
+<p>Ein Berg von Glanz, nach allen Seiten strahlend,</p>
+<p>So seh' ich dich, ringsum schwer anzuschauen,</p>
+<p>Wie strahlend Feu'r und Sonnenglanz, unmeßbar.</p>
+<p>Das Unvergängliche, höchst Wissenswürd'ge,</p>
+<p>Der größte Schatz bist du des ganzen Weltalls,</p>
+<p>Du bist des ew'gen Rechtes ew'ger Hüter,</p>
+<p>Als ew'gen Urgeist hab' ich dich begriffen.</p>
+<p>Ohn' Anfang, Mitte, End', unendlich kraftvoll,</p>
+<p>Mit Armen ohne End', mond-sonnen-äugig,</p>
+<p><pb n="67" facs="#f00044"/> Mit einem Mund wie strahlend Opferfeuer</p>
+<p>Seh' ich mit eigner Glut dies All dich wärmen.</p>
+<p>Was zwischen Erd' und Himmel ist, erfüllst du</p>
+<p>Mit dir allein, und jede Himmelsgegend, –</p>
+<p>Die Dreiwelt bebt, wenn deine wundersame</p>
+<p>Schreckensgestalt sich ihren Blicken zeiget.</p>
+<p>Sieh dort der Götter Scharen zu dir treten,</p>
+<p>Furchtsam, die Hände faltend, sie dich preisen;</p>
+<p>Heil! ruft die Schar der Seher und der Sel'gen, –</p>
+<p>Sie preisen dich mit prächt'gen Lobgesängen.</p>
+<p>Die Rudras, Adityas, Vasus und Sâdhyas<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#F2165</ref></bibl></note>,</p>
+<p>Allgötter, Açvin, Marutas und Manen,</p>
+<p>Gandharven, Yakshas, Asuras<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#F2166</ref></bibl></note> und Sel'ge,</p>
+<p>Sie alle schau'n empor zu dir voll Staunen.</p>
+<p>Dein Riesenleib mit vielen Mündern, Augen,</p>
+<p>Mit vielen Armen, vielen Schenkeln, Füßen,</p>
+<p>Mit vielen Bäuchen, Rachen voller Zähnen, –</p>
+<p>Es bebt die Welt, ihn schauend – ich auch bebe.</p>
+<p>Den Himmel rührend, strahlend, mannigfärbig,</p>
+<p>Mit offnem Munde, großen Flammenaugen, –</p>
+<p>Schau' ich dich so, dann zittert meine Seele,</p>
+<p>Nicht find' ich Festigkeit und Ruh', o Vishnu.</p>
+<p>Schau deine Rachen ich mit dräunden Zähnen,</p>
+<p>Dem Feuer ähnlich bei der Zeiten Ende,</p>
+<p>Dann weiß ich nichts und finde nirgends Zuflucht, –</p>
+<p>Sei gnädig, Götterherr, du Weltenwohnstatt!</p>
+<p>Und diese Söhne all des Dhritarâshtra,</p>
+<p>Zusamt den Scharen königlicher Helden,</p>
+<p>Bhîshma und Drona, samt des Lenkers Sohne<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#F2167</ref></bibl></note>,</p>
+<p>Zusamt den Unsrigen, den besten Kämpfern;</p>
+<p>Sie nahen eilend sich zu deinen Rachen,</p>
+<p><pb n="68" facs="#f00045"/> Den schrecklichen, klaffend mit dräunden Zähnen;</p>
+<p>Es stecken manche schon zwischen den Zähnen,</p>
+<p>Man kann sie sehen mit zermalmten Köpfen!</p>
+<p>Gleichwie der Ströme mächt'ge Wasserwogen</p>
+<p>Zum Meere hin, ihm zugewendet, laufen,</p>
+<p>So diese Helden aus der Welt der Menschen</p>
+<p>Bewegen sich in deine Flammenrachen.</p>
+<p>Wie Schmetterlinge in ein flammend Feuer</p>
+<p>In voller Hast zum Untergange eilen,</p>
+<p>So eilen auch zum Untergang die Menschen</p>
+<p>In voller Hast hinein in deine Rachen.</p>
+<p>Du leckst und züngelst rings umher, verschlingend</p>
+<p>Die Menschen alle mit den Flammenrachen;</p>
+<p>Die ganze Welt mit ihrem Glanz erfüllend</p>
+<p>Glühn deine fürchterlichen Strahlen, Vishnu!</p>
+<p>Sag mir, wer bist du, Fürchterlichgestalt'ger?</p>
+<p>Verehrung dir, du höchster Gott, sei gnädig!</p>
+<p>Dich Uranfänglichen möcht' ich erkennen,</p>
+<p>Denn nicht begreifen kann ich die Erscheinung.</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Ich bin die Zeit, die alle Welt vernichtet,</p>
+<p>Erschienen, um die Menschen fortzuraffen;</p>
+<p>Auch ohne dich sind sie dem Tod verfallen,</p>
+<p>Die Kämpfer all, die dort in Reihen stehen.</p>
+<p>Darum erheb' dich! Ruhm sollst du erwerben!</p>
+<p>Den Feind besiegend, freu' dich reicher Herrschaft!</p>
+<p>Durch mich sind diese früher schon getötet,</p>
+<p>Du sei nur Werkzeug, Kämpfer mit der Linken.</p>
+<p>Den Drona, den Jayadratha, den Bhîshma,</p>
+<p><pb n="69" facs="#f00046"/> Den Karna und die andern Kämpferhelden,</p>
+<p>Die ich getötet, töte du! nicht zittre!</p>
+<p>Kämpfe! du wirst im Streit die Gegner fällen.</p>
+<lb/>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>Als dieses Wort des Krishna er vernommen,</p>
+<p>Die Hände faltend, zitternd, ihn verehrend,</p>
+<p>Sprach wieder also Arjuna zu Krishna,</p>
+<p>Nur stammelnd, ganz in Furcht, vor ihm sich neigend:</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Mit Recht erfreuet sich an deinem Ruhme</p>
+<p>Die Welt und ist dir ehrfurchtsvoll ergeben;</p>
+<p>Die Rakshas<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#F2168</ref></bibl></note> fliehn entsetzt nach allen Seiten,</p>
+<p>Der Sel'gen Scharen all vor dir sich neigen.</p>
+<p>Und warum sollten sie sich dir nicht beugen,</p>
+<p>Dem ersten Schöpfer, würd'ger selbst als Brahman?</p>
+<p>Du Götterherr, Endloser, Weltenwohnstatt,</p>
+<p>Du bist der Ew'ge, Höchste, Sein und Nichtsein!</p>
+<p>Du bist der erste Gott, der alte Urgeist,</p>
+<p>Du bist der höchste Schatz des ganzen Weltalls,</p>
+<p>Wisser und Wissenswürdges, höchste Stätte,</p>
+<p>Du hast das All gespannt, Endlosgestaltger.</p>
+<p>Wind, Feuer, Yama, Varuna, der Mond auch,</p>
+<p>Prajâpati bist du, und erster Ahnherr;</p>
+<p>Verehrung dir, Verehrung tausend Male,</p>
+<p>Und mehr noch, mehr, Verehrung dir, Verehrung!</p>
+<p>Verehrung dir im Angesicht, im Rücken,</p>
+<p>Von allen Seiten Ehre dir, du Alles!</p>
+<p><pb n="70" facs="#f00047"/> Unendlich mannhaft, unermeßlich kraftvoll,</p>
+<p>Vollendest du das All und bist selbst Alles.</p>
+<p>Wenn ungestüm, für meinen Freund dich haltend,</p>
+<p>Ich »Krishna«, »Yâdava«<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#F2169</ref></bibl></note> und »Freund« dich nannte,</p>
+<p>Unkundig deiner wunderbaren Größe,</p>
+<p>Zu unbedachtsam oder zu vertraulich;</p>
+<p>Und wenn im Scherz ich dich nicht richtig ehrte,</p>
+<p>Im Wandeln, Ruhen, Sitzen oder Essen,</p>
+<p>Ob du allein warst, ob vor allen diesen, –</p>
+<p>Ich bitt' dich um Vergebung, Unermeßner!</p>
+<p>Vater der Welt, die sich bewegt und fest ist,</p>
+<p>Verehrungswürdig, mehr uns als ein Lehrer, –</p>
+<p>Dir gleich ist niemand, – wer dir überlegen?</p>
+<p>In dieser Dreiwelt, unvergleichlich mächt'ger!</p>
+<p>Mich beugend drum, den Körper niederwerfend,</p>
+<p>Such' deine Gnade ich, du Herr der Ehren!</p>
+<p>Wie seines Sohns ein Vater, Freund des Freundes,</p>
+<p>Geliebter der Geliebten – mußt du schonen.</p>
+<p>Noch nie Geschautes freu' ich mich zu schauen,</p>
+<p>Allein vor Furcht bebt mir das Herz und zittert,</p>
+<p>Zeig' die Gestalt, o Gott mir, die ich kenne,</p>
+<p>Sei gnädig, Götterherr, Wohnstatt der Welten!</p>
+<p>Mit Diadem und Keule, mit dem Diskus</p>
+<p>In deiner Hand, so wünsch' ich dich zu sehen;</p>
+<p>Nimm wieder an die Form mit den vier Armen,</p>
+<p>Du Tausendarmiger, du Allgestalt'ger!</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Aus Gnaden hab' ich dir nun offenbaret</p>
+<p>Mein höchstes Wesen hier, kraft meiner Allmacht, –</p>
+<p><pb n="71" facs="#f00048"/> Strahlend, unendlich, ganz und uranfänglich, –</p>
+<p>Kein andrer hat vor dir sie je gesehen.</p>
+<p>Nicht durch den Veda, Opfer, Studium, Spenden,</p>
+<p>Zeremonien oder graus'ge Büßung</p>
+<p>Kann mich in solcher Form ein andrer schauen</p>
+<p>Im Menschenvolk, du großer Held der Kurus!</p>
+<p>Nicht soll dich Angst befangen und Verwirrung</p>
+<p>Beim Anblick meiner schrecklichen Gestaltung,</p>
+<p>Von Furcht befreit, fröhlichen Sinnes wieder</p>
+<p>Sollst du mich schaun, so wie ich dir bekannt bin.</p>
+<lb/>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>Als Krishna so zum Arjuna gesprochen,</p>
+<p>Da zeigt' er sich in alter Art ihm wieder,</p>
+<p>Und so beruhigte er den Erschreckten,</p>
+<p>In freundlicher Gestalt, der hochgesinnte.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Da wieder deine menschliche Gestalt ich schau', die freundliche,</p>
+<p>Kehrt die Besinnung mir zurück und wieder werd' ich, der ich war.</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Die schwer zu schauende Gestalt, die du von mir gesehen hast,</p>
+<p>Nach deren Anblick sehnen sich sogar die Götter immerfort.</p>
+<p>Durch Veden nicht, durch Buße nicht, durch Spenden und durch Opfer nicht</p>
+<p>Bin ich in dieser Form zu schaun, wie du mich jetzt gesehen hast.</p>
+<p>Nur wer mich ganz allein verehrt, der kann mich schaun in solcher Form,</p>
+<p><pb n="72" facs="#f00049"/> Kann mich erkennen ganz und gar und endlich eingehn auch in mir.</p>
+<p>Wer handelt so, wie's mir gefällt, mich ehrt, mich liebt, die Welt verschmäht,</p>
+<p>Und allen Wesen freundlich ist, der kommt zu mir, o Pându-Sohn!</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#N2164</ref>1</bibl> Ein Beiname des Vishnu-Krishna.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#N2165</ref>2</bibl> Verschiedene Götterordnungen.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#N2166</ref>3</bibl> Die götterfeindlichen Dämonen.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#N2167</ref>4</bibl> Sohn eines Wagenlenkers, eines Sûta – so wird der Held Karna genannt, als Adoptivsohn des Sûta Adhiratha.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#N2168</ref>5</bibl> Böse Geister, Unholde.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Elfter Gesang#N2169</ref>6</bibl> Ein Beiname des Krishna, nach seiner Herkunft aus dem Stamme der Yâdava, der Nachkommen des Yadu.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zwölfter Gesang</note>
+
+<head><pb n="73" facs="#f00050"/> Zwölfter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Die so beständig andachtsvoll dich verehren, und die dem Kult</p>
+<p>Des Unvergänglichen sich weih'n<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zwölfter Gesang#F2170</ref></bibl></note> – wer ist der Andacht besser kund?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Die ganz in mich versenkt nur mir andächtig stets Verehrung weihn,</p>
+<p>Von höchstem Glauben ganz erfüllt, denen gebührt der Andacht Preis.</p>
+<p>Doch die dem Unvergänglichen, Unsichtbaren Verehrung weihn,</p>
+<p>Das üb'rall weilt, unvorstellbar, fest, unbeweglich, gipfelhoch;</p>
+<p>Die, bänd'gend ihrer Sinne Schar, gleichgesinnt gegen jedermann,</p>
+<p>An aller Wesen Heil sich freun, – auch die erlangen mich gewiß.</p>
+<p>Mehr Mühsal aber haben sie, die sich dem Unsichtbaren weihn;</p>
+<p>Von Körperwesen wird nur schwer das unsichtbare Ziel erreicht.</p>
+<p>Die aber all ihr Tun auf mich hinwerfen, mir ergeben ganz,</p>
+<p>In Andacht, die nur mir geweiht, mich verehren, in mich versenkt,</p>
+<p>Denen werd' ich ein Retter sein aus dem Meere der Todeswelt,</p>
+<p>In Kürze schon, o Prithâ-Sohn, wenn all ihr Denken mir gehört.</p>
+<p>Drum richt' auf mich nur deinen Sinn und senk' in mich nur deinen Geist,</p>
+<p>So wirst du wohnen auch in mir nach dieser Zeit unzweifelhaft.</p>
+<p>Doch kannst dein Denken du in mich noch nicht versenken ganz und gar,</p>
+<p>Dann suche zu erreichen mich durch Andacht, die du eifrig übst.</p>
+<p>Bist du auch dazu noch zu schwach, dann weihe dich dem Tun für mich, –</p>
+<p>Wenn meinethalb du Werke tust, wird auch Vollendung dir zuteil.</p>
+<p>Wenn du auch das nicht leisten kannst, auf die Andacht zu mir gestützt,</p>
+<p><pb n="74" facs="#f00051"/> Verzicht' auf aller Taten Frucht, als einer, der sich selbst bezähmt.</p>
+<p>Mehr ist Erkenntnis als Bemühn, Versenkung noch viel höher steht,</p>
+<p>Noch höh'r Verzicht auf Tatenfrucht, – dann ist der Seelenfrieden da.</p>
+<p>Wer keinem Wesen feindlich ist, freundlich gesinnt und mitleidsvoll,</p>
+<p>Von Selbstsucht und von Dünkel frei, geduldig, gleich in Leid und Lust,</p>
+<p>Zufrieden, immer andachtsvoll, sich zügelnd, dem Entschlusse treu,</p>
+<p>Mit Sinn und Geist in mich versenkt, – wer so mich ehrt, der ist mir lieb.</p>
+<p>Vor dem die Welt nicht zittern muß, der auch nicht zittert vor der Welt,</p>
+<p>Wer frei von Freude, Unmut, Furcht und Aufregung, der ist mir lieb.</p>
+<p>Unbekümmert, rein und tüchtig, unparteiisch und unverzagt,</p>
+<p>Alle Pläne fahrenlassend, – wer so mich ehrt, der ist mir lieb.</p>
+<p>Wer nicht frohlocket und nicht haßt, um nichts trauert und nichts begehrt,</p>
+<p>Wer Wohl und Übel fahrenläßt und mich verehrt, der ist mir lieb.</p>
+<p>Gleichmütig gegen Feind und Freund, gleichmütig gegen Ehr' und Schmach,</p>
+<p>Kält' und Hitze, Glück und Unglück, befreit vom Hängen an der Welt;</p>
+<p>Lob und Tadel gleich viel achtend, schweigsam, zu frieden immerdar,</p>
+<p>Ohn' Haus und Heim, von festem Sinn, – solch ein Verehrer ist mir lieb.</p>
+<p>Und die dem Nektar meines Worts, dem heiligen, Verehrung weihn,</p>
+<p>Glaubensvoll, mir ganz ergeben, mich liebend – ja, die sind mir lieb!</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Zwölfter Gesang#N2170</ref>1</bibl> D.h. die das neutrale Brahman, die unpersönlich gedachte göttliche Substanz verehren. – Die Frage zielt also dahin, ob Verehrung eines persönlichen Gottes oder des unpersönlichen Absoluten höher zu werten sei.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Dreizehnter Gesang</note>
+
+<head><pb n="75" facs="#f00052"/> Dreizehnter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Dieser Leib, o Sohn der Kuntî, er wird bezeichnet als das »Feld«,</p>
+<p>Wer diesen kennt, den nennet man den »Feldkenner«<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2171</ref></bibl></note> – es ist der Geist!</p>
+<p>Wisse, daß ich Feldkenner bin auf allen Feldern, Bhârata!</p>
+<p>Vom »Feld« und von dem »Feldkenner« das Wissen ist des Namens wert<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2172</ref></bibl></note>.</p>
+<p>Doch was das Feld und wie es ist, wie sich verändernd und woher,</p>
+<p>Auch des Feldkenners Art und Macht vernimm in Kürze nun von mir.</p>
+<p>In manchen Rhythmen sang es einst vielfältig manches Sängers Mund,</p>
+<p>In klaren, wohlbegründeten Brahman-Büchern verkündet ist's.</p>
+<p>Die Elemente und das Ich, der Verstand, das Unsichtbare,</p>
+<p>Zehn Sinne und der inn're Sinn<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2173</ref></bibl></note>, auch die fünf Sinnesreiche noch;</p>
+<p>Begehren, Hassen, Lust und Leid, Körper, Denken und Festigkeit, –</p>
+<p>Zusammen wird's das »Feld« genannt, in dem ein ew'ger Wechsel wohnt<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2174</ref></bibl></note>.</p>
+<p>Bescheidenheit und Redlichkeit, das Nichtverletzen, die Geduld,</p>
+<p>Reinheit, Ehrfurcht vor dem Lehrer, Beständigkeit, Selbstzügelung;</p>
+<p>Entsagung von der Sinnenwelt, vor allem auch Selbstlosigkeit,</p>
+<p>Ein recht Erwägen, wie Geburt, Tod, Alter, Krankheit Schmerz bewirkt;</p>
+<p>Kein Hang zur Welt, noch Sichklammern an Söhne, Gattin, Haus und Hof,</p>
+<p>Beständige Gleichmütigkeit bei jedem Schicksal, gut und bös;</p>
+<p>Verehrung, die sich nicht verirrt, durch Andacht, die nur mir geweiht,</p>
+<p>Das Wohnen in der Einsamkeit, an Gesellschaft sich nicht erfreun;</p>
+<p>Stetes Erkennen höchsten Geist's, die Einsicht in des Wissens Zweck,</p>
+<p>Das ist es, was man Wissen nennt, – was anders ist, Nichtwissen heißt's.</p>
+<p>Ich sag' dir, was man wissen muß, was die Unsterblichkeit verschafft,</p>
+<p><pb n="76" facs="#f00053"/> Das anfangslose, höchste Brahm, nicht Sein noch Nichtsein wird's genannt.</p>
+<p>Hände und Füße, Augen, Köpf' und Münder hat es überall,</p>
+<p>Auch Ohren hat's in aller Welt, das All umfassend steht es da;</p>
+<p>Strahlend durch aller Sinne Kraft, von allen Sinnen doch ganz frei,</p>
+<p>Alltragend, qualitätenlos, und doch der Qualitäten froh;</p>
+<p>In- und außerhalb der Wesen, sich bewegend und unbewegt,</p>
+<p>Unerfaßbar ob der Feinheit, ganz fern und wiederum ganz nah;</p>
+<p>Nicht zerteilet in den Wesen und wie zerteilt doch steht es da,</p>
+<p>Als der Wesen Träger kenn' es, der sie verschlingt und wieder zeugt.</p>
+<p>Das Licht der Lichter wird's genannt, das über aller Finsternis,</p>
+<p>Wissen, wißbar, wissenswürdig, in Jedes Herzen steckt es drin.</p>
+<p>So vom »Feld« und von dem Wissen und Wissenswürdgen sagt' ich dir<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2175</ref></bibl></note>, –</p>
+<p>Wer mich verehrt und dies erkennt, wird teilhaft meines Wesens sein.</p>
+<p>Natur und Geist – das wisse du – ohne Anfang sie beide sind;</p>
+<p>Doch Veränd'rung und Qualität entspringen beid' aus der Natur.</p>
+<p>Bei allem, was das Tun betrifft, dafür ist die Natur Prinzip.</p>
+<p>Beim Genießen von Lust und Leid wird der Geist das Prinzip genannt.</p>
+<p>Der Geist, in die Natur gebannt, schmeckt, was sie schafft, die Qualität,</p>
+<p>Sein Hängen an der Qualität ist Ursach steter Neugeburt.</p>
+<p>Der Zeuge, der Gewährer auch, Träger, Genießer, großer Herr</p>
+<p>Und höchstes Selbst<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2176</ref></bibl></note> auch wird genannt in diesem Leib der höchste Geist<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2177</ref></bibl></note>.</p>
+<p>Wer so den Geist und die Natur zusamt den Qualitäten kennt,</p>
+<p>Wo und wie er sich auch bewegt, erleidet keine Neugeburt.</p>
+<p>Durch Versenkung schauen manche in sich und durch sich selbst das Selbst,</p>
+<p>Andre schaun's durch Kraft des Denkens<note place="end" n="8"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2178</ref></bibl></note>, durch Werkübung noch andere;</p>
+<p>Andre ehren es unwissend, da sie von andern es gehört;</p>
+<p>Auch sie besiegen so den Tod, der heil'gen Schrift ergeben ganz.</p>
+<p>Sooft ein Wesen auch entsteht, sei es beweglich oder fest,</p>
+<p>Es wird durch die Vereinigung des Felds und des Feldkundigen.</p>
+<p><pb n="77" facs="#f00054"/> Wer in den Lebewesen all denselben höchsten Herrn erblickt,</p>
+<p>Der nicht vergeht, wenn sie vergehn, – wer das erkennt, hat recht erkannt.</p>
+<p>Denn wer denselben Herrn erkennt als den, der allen innewohnt,</p>
+<p>Verletzt das Selbst nicht durch das Selbst und wandelt so die höchste Bahn<note place="end" n="9"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2179</ref></bibl></note>.</p>
+<p>Und wer die Taten allerwärts durch die <hi rendition="#i">Natur</hi> nur sieht geschehn,</p>
+<p>Das <hi rendition="#i">Selbst</hi> dabei als nichthandelnd erkennet, der hat recht erkannt.</p>
+<p>Wenn er die Sonderexistenz der Wesen all in Einem schaut,</p>
+<p>Und von Diesem aus entwickelt, dann wandelt er zum Brahman hin.</p>
+<p>Dies ewige und höchste Selbst, ohn' Anfang, ohne Qualität,</p>
+<p>Wenn es auch in dem Körper wohnt, doch handelt's nicht, wird nicht befleckt.</p>
+<p>Der Äther ist allüberall<note place="end" n="10"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#F2180</ref></bibl></note>, wird nicht befleckt, weil er zu fein, –</p>
+<p>So wird das Selbst auch nicht befleckt, auch wenn's in allen Körpern weilt.</p>
+<p>Wie die Sonne die ganze Welt allein mit ihrem Licht erhellt,</p>
+<p>So erleuchtet das ganze Feld der Herr des Felds, o Bhârata!</p>
+<p>Die zwischen Feld und Feldkenner den Unterschied mit Wissensaug'</p>
+<p>Erkennen, die Erlösung auch von der Natur, – die gehn zu Gott.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2171</ref>1</bibl> Das materielle und das geistige, erkennende Prinzip – Natur einerseits, Geist andererseits – werden sich hier gegenübergestellt unter originellen Namen. Das erstere wird als Feld oder Ort (kshetra) gefaßt und bezeichnet das Gebiet, auf welchem oder in welchem das geistige, erkennende Prinzip sich bewegt. Dieses letztere, die Seele, erhält die merkwürdige Bezeichnung Kenner des Feldes oder des Ortes, der Feldkenner (kshetrajna). Man begreift den Gedanken, doch muß man sich an die originelle Auffassung erst gewöhnen.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2172</ref>2</bibl> Das Wissen von jenen beiden großen Prinzipien verdient wirklich Wissen genannt zu werden.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2173</ref>3</bibl> Man rechnet fünf Wahrnehmungssinne – Gesicht, Gehör, Geruch, Geschmack, Gefühl – und fünf Tatsinne – Reden, Greifen, Gehen, Entleeren, Zeugen; dazu kommt als elfter der sogen. innere Sinn (manas), der sie als Zentralorgan regiert.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2174</ref>4</bibl> Nur der innerste Kern unseres geistigen Wesens gilt der indischen Philosophie als ewig, unwandelbar, göttlich oder der Vereinigung mit dem Göttlichen fähig. Nicht nur die Sinne, auch der sogen innere Sinn, der Verstand u.a.m. wird als Produkt der Natur, der Prakriti, die hier »das Feld« heißt, angesehen. Jener innerste, ewige, göttliche Kern unseres Wesens ist qualitätenlos; das ganze Reich der Qualitäten gehört der Natur, dem »Feld« an und ist eben darum ewigem Wechsel unterworfen. Das Ewige in uns ist von einem geistigen und einem körperlichen Leibe umgeben, welche beide nicht dauern, sondern sich wandeln, resp. auch zugrunde gehen. Die Erlösung des Ewigen in uns aus den Banden der Natur ist das Ziel, dem wir zustreben sollen.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2175</ref>5</bibl> Wieder stehen sich hier die beiden großen Prinzipien gegenüber. Wie das »Feld«, d.i. die Natur, mit dem Nichtwissen (im Vedânta), der Mâyâ, zusammenfällt, so das Wissen mit dem Wissenswürdigen, dem ewigen, geistigen Prinzip, dem alten Brahman-Atman, dem »Feldkenner«, wie es oben heißt, der Seele, die Eins ist und doch in eines Jeden Herzen steckt, scheinbar zerteilt und doch in Wahrheit ewig ungeteilt</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2176</ref>6</bibl> Der höchste Atman, Paramâtmâ (Atman = Selbst).</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2177</ref>7</bibl> Der höchste Purusha (purushah parah); Atman und Purusha sind als ein und dasselbe erkannt, nur verschiedene Bezeichnungen derselben Größe, die zu Anfang und Ende des Gesanges »der Feldkenner« genannt wird.</note>
+<lb/>
+<note place="end" n="8"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2178</ref>8</bibl> Sânkhya-Yoga; ähnlich <hi rendition="#i">Deussen:</hi> »Durch Hingebung an die Reflexion«.</note>
+<lb/>
+<note place="end" n="9"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2179</ref>9</bibl> Diese beiden Verse, 27 und 28, sind ein klassischer Ausdruck der schon in den Upanishaden gewonnenen Weisheit des tat tvam asi, der einzig haltbaren philosophischen Grundlage der altruistischen Moral. Sie sind es, auf welche darum Schopenhauer am Schluß seiner berühmten Abhandlung über die »Grundlage der Moral« hindeutet, mit den denkwürdigen Worten: »In allen Jahrhunderten hat die arme Wahrheit darüber erröten müssen, daß sie paradox war: und es ist doch nicht ihre Schuld. Sie kann nicht die Gestalt des thronenden allgemeinen Irrtums annehmen. Da sieht sie seufzend auf zu ihrem Schutzgott, der Zeit, welcher ihr Sieg und Ruhm zuwinkt, aber dessen Flügelschläge so groß und langsam sind, daß das Individuum darüber hinstirbt. So bin denn auch ich mir des Paradoxen, welches diese metaphysische Auslegung des ethischen Urphänomens für die an ganz andersartige Begründungen der Ethik gewöhnten occidentalisch Gebildeten haben muß, sehr wohl bewußt, kann jedoch der Wahrheit nicht Gewalt antun. Vielmehr ist alles, was ich aus dieser Rücksicht über mich vermag, daß ich durch eine Anführung belege, wie jene Metaphysik der Ethik schon vor Jahrtausenden die Grundansicht der indischen Weisheit war, auf welche ich zurückdeute, wie Kopernikus auf das von Aristoteles und Ptolemäos verdrängte Weltsystem der Pythagoreer. Im Bhagavad-Gita, Lectio 13; 27, 28, heißt es nach A.W.v. Schlegels Übersetzung: Eundem in omnibus animantibus consistentem summum dominum, istis pereuntibus haud pereuntem qui cernit, is vere cernit. – Eundem vere cernens ubique praesentem dominum, non violat semetipsum sua ipsius culpa: exinde pergit ad summum iter. –«</note>
+<lb/>
+<note place="end" n="10"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Dreizehnter Gesang#N2180</ref>10</bibl> Der freie Raum oder der Äther (âkâça) gilt bei den Indern als das fünfte Element.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Vierzehnter Gesang</note>
+
+<head><pb n="78" facs="#f00055"/> <pb n="80" facs="#f00056"/>Vierzehnter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Weiter will ich dir verkünden das höchste Wissen, das es gibt,</p>
+<p>Welches kennend die Weisen all höchste Vollkommenheit erreicht.</p>
+<p>Auf dieses Wissen fest gestützt sind eins geworden sie mit mir,</p>
+<p>Auch Weltschöpfung, Weltvernichtung bringt ihnen nicht Geburt und Schmerz.</p>
+<p>Das große Brahman ist mein Schoß, in den ich leg' den Lebenskeim,</p>
+<p>Das Werden aller Wesen hat dort seinen Ursprung, Bhârata.</p>
+<p>In allen Mutterschößen, Freund, welche Gestalten auch entstehn,</p>
+<p>Brahman ist deren Mutterschoß, den Samen geb' als Vater ich.</p>
+<p>Güte, Leidenschaft, Finsternis<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierzehnter Gesang#F2181</ref></bibl></note>, die Qualitäten der Natur,</p>
+<p>Sie fesseln in dem Leibe hier den Geist, den unvergänglichen.</p>
+<p>Güte ist strahlend, leidenlos, weil sie von allen Flecken frei,</p>
+<p>Sie fesselt durch das Hängen an dem Glück und an dem Wissen dich.</p>
+<p>Die Leidenschaft ist voll Begehr, erzeugt das Hängen an dem Durst<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierzehnter Gesang#F2182</ref></bibl></note>,</p>
+<p>Sie fesselt deine Seele hier durch Hängen an der Tatenlust.</p>
+<p>Finsternis aus Nichtwissen stammt und alle Sterblichen betört,</p>
+<p>Sie fesselt durch Nachlässigkeit, Faulheit und Schlaf, o Bhârata.</p>
+<p>Güte läßt hängen an dem Glück, Leidenschaft an der Tatenlust,</p>
+<p>Finsternis in Nachlässigkeit, nachdem das Wissen sie umhüllt.</p>
+<p>Zwingst Leidenschaft und Dunkel du, dann tritt die Güte siegreich vor,</p>
+<p>Wenn Leidenschaft und Güte-Dunkel; wenn Güt' und Dunkel-Leidenschaft.</p>
+<p>Wenn in des Leibes Pforten all des Wissens helles Licht erscheint,</p>
+<p>Dann wisse wohl, dann wuchs in ihm die Qualität der Güte groß.</p>
+<p><pb n="80" facs="#f00057"/> Habsucht, Streben, Unternehmen von Taten, Unruh und Begier,</p>
+<p>Diese entstehn, o Bhârata, wenn Leidenschaft erwachsen ist.</p>
+<p>Ein finstres Wesen, Nichtstreben, Nachlässigkeit, Betörung auch,</p>
+<p>Diese entstehn, o Kuru-Sohn, wenn Finsternis erwachsen ist.</p>
+<p>Ward Güte in dem Menschen groß, dann nach dem Tod erreichet er</p>
+<p>Jene fleckenlosen Welten der höchsten Wissens Kundigen.</p>
+<p>Stirbt er in Leidenschaft, dann kommt er unter Tät'gen neu zur Welt,</p>
+<p>Stirbt er im Dunkel, wird er neu geboren aus betörtem Schoß.</p>
+<p>Die Frucht der recht getanen Tat ist guten Wesens, fleckenlos,</p>
+<p>Die Frucht der Leidenschaft ist Leid, – Nichtwissen ist des Dunkels Frucht.</p>
+<p>Aus der Güte entsteht Wissen, aus der Leidenschaft die Begier,</p>
+<p>Nachlässigkeit, betörter Sinn, Nichtwissen aus dem Dunkel stammt.</p>
+<p>Hinauf gehn, die an Güte reich, – Leidenschaft in der Mitte bleibt;</p>
+<p>Hinunter geht der Finsterling von der niedersten Qualität.</p>
+<p>Wenn keinen Täter du mehr kennst als nur der Qualitäten Schar,</p>
+<p>Auch weißt, was über diesen steht, – dann gehst du in mein Wesen ein.</p>
+<p>Wenn der Mensch die leibzeugenden drei Qualitäten hat besiegt,</p>
+<p>Frei von Geburt, Tod, Alter, Schmerz erlangt er die Unsterblichkeit.</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>An welchen Zeichen wird, o Herr, solch ein siegreicher Mensch erkannt?</p>
+<p>Wie ist sein Wandel? wie gelangt er über alle drei hinaus?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Wenn er das Licht, das Streben auch und die Betörung, Pându-Sohn,</p>
+<p>Nicht haßt, wenn sie geworden sind, nicht wünscht, wenn sie geschwunden sind;</p>
+<p>Wenn von den Qualitäten er, gleichmütig ganz, nicht wird bewegt,</p>
+<p>»Die Qualitäten wirken!« denkt und stille steht, sich gar nicht rührt;</p>
+<p><pb n="81" facs="#f00058"/> Gleich achtend Glück und Ungemach, gleich achtend Erdkloß, Stein und Gold,</p>
+<p>Was lieb und unlieb, – festen Sinns, gleich achtend Tadel wie auch Lob;</p>
+<p>In Ehren wie in Schanden gleich, zu Freunden und zu Feinden gleich;</p>
+<p>Aufgebend all und jeden Plan, der ward der Qualitäten Herr.</p>
+<p>Und wer mich fest und unverrückt in liebevoller Andacht ehrt,</p>
+<p>Besiegt der Qualitäten Reich und wird für Brahmans Wesen reif.</p>
+<p>Ich bin des Brahman Fundament, des unsterblichen, ewigen,</p>
+<p>Des ewigen Gesetzes auch, des Glückes, das alleinzig ist.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierzehnter Gesang#N2181</ref>1</bibl> sattva Güte, rajas Leidenschaft, tamas Finsternis oder Dunkel – dies dürfte doch wohl noch die entsprechendste Übersetzung der bedeutsamen Termini für die drei großen Qualitäten sein. Nur »Güte« für sattva reicht eigentlich nicht ganz aus, da in dem indischen Worte sattva, sat – für uns unübersetzbar – der Begriff des Seins, des eigentlichen, wahren, wesenhaften Seins und der Begriff des Guten sich vereinigt; das »Echte« klingt an, genügt aber doch auch nicht. »Wesenheit«, wie Boxberger übersetzt, ist ein viel zu leeres, viel zu wenig besagendes Wort. Wir können das Manko unserer Sprache nicht ausfüllen, müssen uns nur immer daran erinnern, daß das indische Wort mehr umfaßt als das deutsche. Man vgl. übrigens unten Gesang 17, Vers 26-28, wo der Dichter selbst den Begriff des sat, des »Seienden«, erläutert. – Die Übersetzung der drei Qualitäten bei Dahlmann durch Licht, Trübung, Finsternis nimmt sich zwar sehr gut aus, aber sattva heißt nun leider niemals Licht!</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Vierzehnter Gesang#N2182</ref>2</bibl> Der Durst im übertragenen Sinne, die Begierde. – Vgl. übrigens R. Garbes Übersetzung und seine zugehörige Anmerkung.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Fünfzehnter Gesang</note>
+
+<head><pb n="82" facs="#f00059"/> Fünfzehnter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Wurzelaufwärts, zweigeabwärts, so steht der ew'ge Feigenbaum,</p>
+<p>Dessen Blätter Veda-Lieder; den Veda kennt, wer diesen kennt.</p>
+<p>Abwärts und aufwärts gehen dessen Zweige,</p>
+<p>Qualitäterwachsen, Sinnendinge sprossend;</p>
+<p>Nach unten auch die Wurzeln sich verbreiten,</p>
+<p>Die durch der Taten Band die Menschen fesseln.</p>
+<p>Seine Gestalt erfaßt man nicht auf Erden,</p>
+<p>Nicht End' noch Anfang, noch des Baumes Dauer;</p>
+<p>Wenn dieser Baum mit seinen mächt'gen Wurzeln</p>
+<p>Durch der Entsagung hartes Schwert gefällt ist,</p>
+<p>Dann muß man suchen jene höchste Stätte,</p>
+<p>Von der die Wandrer nimmer wiederkehren,</p>
+<p>Denkend: Ich geh' zu jenem ersten Urgeist,</p>
+<p>Von dem seit alters alles Werden ausgeht.</p>
+<p>Von Stolz und Torheit frei, Welthangbesieger,</p>
+<p>Im höchsten Selbst nur lebend, ohn' Begehren,</p>
+<p>Befreit von Lust und Leid der Gegensätze,</p>
+<p>Geht unbeirrt man so zur ew'gen Stätte.</p>
+<p>Den Ort erhellt die Sonne nicht, der Mond nicht und das Feuer nicht;</p>
+<p>Von wo man nimmer wiederkehrt, ja, meine höchste Wohnstatt ist's.</p>
+<p>Ein Teil von mir in dieser Welt als Einzelseele lang schon lebt,</p>
+<p>Die Sinne samt dem innern Sinn zieht er an sich aus der Natur.</p>
+<p>Wenn er als Herr den Leib erlangt und wenn er wieder tritt hinaus,</p>
+<p>Die Sinne fassend geht er hin, gleichwie der Wind die Düfte faßt.</p>
+<p><pb n="83" facs="#f00060"/> Gehör, Gesicht, Gefühl, Geschmack, Geruch, sowie den innern Sinn,</p>
+<p>Als Herr bemeisternd steht er da und genießet die Sinnenwelt.</p>
+<p>Ob er hinaus geht oder bleibt und genießt, qualitätbegabt,</p>
+<p>Törichte Menschen sehn ihn nicht, des Wissens Aug' nur läßt ihn schaun.</p>
+<p>Andächt'ge, die sich drum bemühn, die schaun ihn in dem eignen Selbst,</p>
+<p>Doch Toren, Unbereitete, ob sie sich mühn auch, sehn ihn nicht.</p>
+<p>Der Glanz, der in der Sonne ist und diese ganze Welt erhellt,</p>
+<p>Der in dem Mond, im Feuer ist, das, wisse, ist mein eigner Glanz.</p>
+<p>Eindringend in die Erde trag' die Wesen ich mit mei ner Kraft,</p>
+<p>Die Pflanzen all laß ich gedeihn als Soma, der im Saft besteht.</p>
+<p>Zum Feuer werdend dring' ich ein in der belebten Wesen Leib,</p>
+<p>Mit Hauch und Aushauch fest vereint koch' ich vierfache Speise dort<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfzehnter Gesang#F2183</ref></bibl></note>.</p>
+<p>In eines jeden Herz bin ich gedrungen,</p>
+<p>Erinnrung, Wissen und Bestreiten wirk' ich,</p>
+<p>Durch alle Veden bin ich zu erkennen,</p>
+<p>Bin Vedenkenner, schaffe den Vedânta<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfzehnter Gesang#F2184</ref></bibl></note>.</p>
+<p>Zwei Arten Geist gibt's in der Welt, – einer vergeht, der andre nicht;</p>
+<p>Der erste sind die Wesen all, den andern nennt man »Gipfelhoch«.</p>
+<p>Der höchste Geist ein andrer ist, er wird das höchste Selbst genannt,</p>
+<p>Er dringet in die Dreiwelt ein und trägt sie als der ew'ge Herr.</p>
+<p>Weit mehr als der vergängliche, mehr als der unvergängliche</p>
+<p>Bin ich – drum heiß' ich in der Welt und in der Schrift der höchste Geist.</p>
+<p>Wer von Betörung frei mich so erkennet als den höchsten Geist,</p>
+<p>Der weiß alles und ehret mich von ganzem Herzen, Bhârata!</p>
+<p>Geheimnisvollste Wissenschaft ist so von mir verkündet dir;</p>
+<p>Wer sie erfaßt, ist weisheitsvoll und hat, fürwahr, das Ziel erreicht.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfzehnter Gesang#N2183</ref>1</bibl> D.h. verdaue ich die vierfache Speise, nämlich Getrunkenes, Gelecktes, Gekautes und Verschlungenes; vgl. <hi rendition="#i">Deussen,</hi> Der Gesang des Heiligen, S. 103.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Fünfzehnter Gesang#N2184</ref>2</bibl> »Das Ende des Veda« – Bezeichnung der Upanishaden, wie auch der auf diesen fußenden systematischen Philosophie des Idealismus.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Sechzehnter Gesang</note>
+
+<head><pb n="84" facs="#f00061"/> Sechzehnter Gesang.</head>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Furchtlosigkeit, Wesensreinheit, in Wissensandacht Festigkeit,</p>
+<p>Spenden, Selbstbezähmung, Opfer, Studium, Buße und Redlichkeit;</p>
+<p>Nichtschäd'gen, Wahrheit, Nichtzürnen, Nichtverleumden, Friede, Verzicht,</p>
+<p>Milde, Mitleid mit dem Wesen, Scham, Nichtbegier, Nicht-Unstätsein;</p>
+<p>Kraft, Reinheit, Festigkeit, Geduld, Nichtkränken, nicht hochmüt'ger Sinn,</p>
+<p>Die finden sich bei einem, der zum Götterlos geboren ist.</p>
+<p>Heuchelei und Stolz und Hochmut, ein rauhes Wesen, Zornigkeit,</p>
+<p>Nichtwissen auch – bei dem, der zu Dämonenlos geboren ist.</p>
+<p>Götterlos führt zur Erlösung, Dämonenlos zur Fesselung!</p>
+<p>Nicht traure, denn zum Götterlos bist du geboren, Pându-Sohn!</p>
+<p>Zwiefach ist hier der Wesen Art: teils göttlich, teils dämonisch auch;</p>
+<p>Die göttliche ist schon erklärt, nun hör' von der dämonischen.</p>
+<p>Weder Handeln noch Nichthandeln verstehn dämonische Menschen recht;</p>
+<p>Guter Wandel, Reinheit, Wahrheit – die finden sich bei ihnen nicht.</p>
+<p>Die Welt ist unwahr, ohne Halt und ohne Herrn, – so sagen sie;</p>
+<p>Nicht folgerecht entstand die Welt, Begierde nur rief sie hervor.</p>
+<p>In diese Ansicht ganz verbohrt, törichten Sinnes und verderbt,</p>
+<p>Richten durch Freveltaten sie die Welt zugrund, – unsel'ges Volk!</p>
+<p>Von unstillbarer Gier erfüllt, voll Trug und Stolz und Übermut,</p>
+<p>Töricht, böse Dinge wählend, führen ein schmutz'ges Leben sie.</p>
+<p>Ihr Denken schweift ganz unbeschränkt, meint: mit dem Tod ist alles aus<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechzehnter Gesang#F2185</ref></bibl></note>!</p>
+<p>Genießen ist ihr höchstes Gut! »Es gibt nichts weiter«, denken sie.</p>
+<p>In hundert Hoffnungen verstrickt, der Gier verfallen und dem Zorn,</p>
+<p><pb n="85" facs="#f00062"/> Häufen sie, ihrer Lust zulieb, sich unrechtmäßig Schätze auf.</p>
+<p>Nun hab' ich dieses schon erlangt und jenen Wunsch erreich' ich noch,</p>
+<p>Dies hab' ich schon, und jener Schatz, der wird in Zukunft mir zuteil;</p>
+<p>Dieser Feind ist schon getötet, die andern werd' ich töten noch,</p>
+<p>Ich bin Herr, ich bin Genießer, bin erfolgreich, glücklich und stark!</p>
+<p>Ich bin reich, ich bin von Adel! welcher andre ist mir wohl gleich?</p>
+<p>Opfern, schenken, froh sein will ich! so denken sie, verblendet ganz.</p>
+<p>Wirr durch allerhand Gedanken, gefangen in des Irrtums Netz,</p>
+<p>Ergeben völlig dem Genuß, in schmutz'ge Hölle stürzen sie.</p>
+<p>Selbst sich ehrend, aufgeblasen, voll Stolz, voll Hochmut auf ihr Geld,</p>
+<p>Bringen sie heuchelnd Opfer dar, die dieses Namens gar nicht wert.</p>
+<p>Ichsucht, Gewalt, Begierde, Stolz und Zorn – dem sind ergeben sie;</p>
+<p>Mich hassen sie im eignen Leib wie auch in andern, grimmerfüllt.</p>
+<p>Diese Hasser, die greulichen, die schlechtsten Menschen in der Welt,</p>
+<p>Die argen, schleudr' ich fort und fort in dämonischen Mutterschoß.</p>
+<p>Durch dämonischen Mutterschoß betört in jeglicher Geburt,</p>
+<p>Erreichen sie mich nimmermehr und wandeln so die tiefste Bahn.</p>
+<p>Dreifältig ist das Höllentor, wodurch die Seele geht zugrund<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechzehnter Gesang#F2186</ref></bibl></note>:</p>
+<p>Begierde, Zorn und Habsucht sind's – darum laß fahren diese drei!</p>
+<p>Befreit von diesen, Kuntî-Sohn, den drei Pforten der Finsternis,</p>
+<p>Wirket der Mensch sein Seelenheil und wandelt so die höchste Bahn.</p>
+<p>Doch wer nach seiner Willkür lebt, nicht achtend heiliges Gesetz,</p>
+<p>Nicht erreicht die Vollendung der, nicht Glück und nicht die höchste Bahn.</p>
+<p>Drum sei dir Richtschnur das Gesetz bei der Feststellung deines Tuns.</p>
+<p>Weißt du, was das Gesetz bestimmt, dann kannst du deine Taten tun.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechzehnter Gesang#N2185</ref>1</bibl> <hi rendition="#i">Deussen:</hi> Auf maßloses, zum Verderben ausschlagendes Denken sich stützend; <hi rendition="#i">Garbe:</hi> Endlosem Trachten bis zum Tode hingegeben.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Sechzehnter Gesang#N2186</ref>2</bibl> Oder: wodurch das Selbst vernichtet wird. Seele und Selbst sind eins und dasselbe – âtman, wie auch die Weltseele das ewige, göttliche Selbst, der Atman-Brahman, ist – schon in den Upanishaden.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Siebzehnter Gesang</note>
+
+<head><pb n="86" facs="#f00063"/> Siebzehnter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Doch die nicht achten das Gesetz, doch gläubig Opfer bringen dar,</p>
+<p>Auf welchem Boden stehen die? – Güte, Leidenschaft, Finsternis?</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Dreifach der Menschen Glaube ist, – aus ihrem Wesen wächst er auf,</p>
+<p>Drum kann er gut, voll Leidenschaft, oder auch ganz verfinstert sein.</p>
+<p>Wie eines jeden Wesen ist, so ist sein Glaube, Bhârata!</p>
+<p>Aus Glauben ist der Mensch gemacht – wie er glaubet, so ist er selbst.</p>
+<p>Die Götter ehrt der Guten Schar, die Elben Leidenschaftliche,</p>
+<p>Gespenster und der Geister Heer ehret das Volk der Finsternis.</p>
+<p>Die graus'ge Büßung üben aus, wie das Gesetz sie nicht befiehlt,</p>
+<p>Voll Trug und Ichsucht, voll Begier, voll Leidenschaft und voller Trotz;</p>
+<p>Ganz sinnlos peinigend die Schar der Elemente in dem Leib,</p>
+<p>Und mich auch, der im Leibe weilt, – die sind dämonengleich gesinnt.</p>
+<p>Dreifach ist auch der Speise Art, wie einem jeden sie gefällt,</p>
+<p>Dreifach Opfer, Buße, Spenden – vernimm nun deren Unterschied.</p>
+<p>Was Leben, Sein, Gesundheit, Kraft, Glück und Freude vermehren kann,</p>
+<p>Schmackhafte, milde, feste Speise, lieblich, ist den Guten lieb.</p>
+<p>Scharf, sauer, salzig, allzu heiß, streng, unmilde, brennender Art, –</p>
+<p>Das liebt der Leidenschaftliche, das schafft ihm Krankheit, Weh und Schmerz.</p>
+<p>Was abgestanden, unschmackhaft, stinkend und schon verdorben ist,</p>
+<p>Überbleibsel und Unreines, das liebt das Volk der Finsternis.</p>
+<p><pb n="87" facs="#f00064"/> Wo man nach Vorschrift Opfer bringt, nach dem Erfolge nicht begehrt,</p>
+<p>Nur denkend: Also ist es Pflicht! – solch Opfer ist der Guten Art.</p>
+<p>Doch wo man nach Erfolg begehrt und Heuchelei beim Opfer übt,</p>
+<p>Ein solches Opfer ist die Art der Leidenschaftbefangenen.</p>
+<p>Ohne Regel, ohne Speisung, ohne Lieder und Opferlohn,</p>
+<p>Ohne Glauben – solch ein Opfer nennt man die Art der Finsternis.</p>
+<p>Götter, Priester, Lehrer, Weise ehren, Reinheit und Redlichkeit,</p>
+<p>Keusches Wesen, Nichtverletzen – dies die Buße des Körpers ist.</p>
+<p>Rede, welche nicht erreget, die wahr ist und voll Freundlichkeit,</p>
+<p>Übung in dem Veda-Studium – das heißt die Buße mit dem Wort.</p>
+<p>Herzensheiterkeit und Milde, Schweigen, Bezähmung seiner selbst,</p>
+<p>Reinheit des Wesens – dieses ist des Herzens Buße, wie man sagt.</p>
+<p>Solche Buße dreifacher Art, wenn sie im Glauben wird geübt,</p>
+<p>Andächtig, ohne Fruchtbegier – die ist der guten Menschen Art.</p>
+<p>Doch wenn's geschieht um Ehr' und Ruhm, oder sogar aus Heuchelei,</p>
+<p>Das ist schwankend und ohne Halt – das ist die Art der Leidenschaft.</p>
+<p>Doch wird mit Pein'gung seiner selbst die Buße töricht ausgeübt,</p>
+<p>Oder andern zum Verderben – das ist die Art der Finsternis.</p>
+<p>Wenn man spendet nur, weil es Pflicht, und an Vergeltung gar nicht denkt,</p>
+<p>Am rechten Ort, zur rechten Zeit – <hi rendition="#i">die</hi> Spende ist der Guten Art.</p>
+<p>Doch tut man es um Gegendienst, oder im Hinblick auf Erfolg,</p>
+<p>Oder ungern – das ist die Art der Leidenschaftbefangenen.</p>
+<p>Wenn man unwürd'gen Menschen gibt, unpassend auch nach Ort und Zeit,</p>
+<p>Unfreundlich, mit Geringschätzung – das ist die Art der Finsternis.</p>
+<p>Dreifach ist des Brahman Name: das Om! – das Das! – das Seiende! –</p>
+<p>Priester, Veden und Opfer sind von Diesem vormals festgesetzt.</p>
+<p>Die Theologen rufen drum zu Anfang immer erst ihr »Om«,</p>
+<p>Bei Opfer, Spenden, Büßungen, wenn nach der Regel sie geschehn.</p>
+<p>Die nach Erlösung Strebenden, die auf Erfolg nicht gehen aus,</p>
+<p>Rufen »das Das!« zu Anbeginn der Opfer, Buß' und Schenkungen.</p>
+<p>Von dem Sein und von der Güte braucht man das Wort »das Seiende«<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebzehnter Gesang#F2187</ref></bibl></note>,</p>
+<p><pb n="88" facs="#f00065"/> Auch bei rühmenswerten Taten wird dieser Ausdruck angewandt.</p>
+<p>In Opfer, Buß' und Spenden auch Beständigkeit heißt »Seiendes«,</p>
+<p>Und was man tut zu solchem Zweck, erhält denselben Namen auch.</p>
+<p>Was ohne Glauben ausgeführt, sei's Opfer, Spende, Buße, Tat,</p>
+<p>Das wird »Nichtseiendes«<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebzehnter Gesang#F2188</ref></bibl></note> genannt, – ist nach dem Tode nichts, noch hier.</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebzehnter Gesang#N2187</ref>1</bibl> sat »seiend«, zugleich auch »gut« bedeutend; vgl. oben Gesang 14. V. 5 Anm.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Siebzehnter Gesang#N2188</ref>2</bibl> asat »nicht seiend«, auch »nicht gut«.</note>
+
+</div>
+
+<div n="1">
+<note type="editorial">Achtzehnter Gesang</note>
+
+<head><pb n="89" facs="#f00066"/> Achtzehnter Gesang.</head>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Der Entsagung Wesen wünsch' ich zu kennen, o Großarmiger,</p>
+<p>Und des Verzichtes Wesen auch; erkläre sie gesondert mir!</p>
+<lb/>
+<p rendition="#c">Der Erhabene sprach</p>
+<lb/>
+<p>Entsagt man wunscherzeugter Tat, so wird Entsagung das genannt;</p>
+<p>Verzicht auf aller Taten Frucht, das nennt Verzicht der Weisen Schar.</p>
+<p>Gib auf das Tun, als eine Schuld! so sagen ein'ge Denker uns;</p>
+<p>Das Opfern, Spenden, Bußetun gib nicht auf! sagen andere.</p>
+<p>Höre meine Entscheidung hier von dem Verzicht, du Trefflichster!</p>
+<p>Der Verzicht, o du Manntiger, wird als dreifältiger gerühmt.</p>
+<p>Das Opfern, Spenden, Bußetun gib nimmer auf, nein, führ es aus!</p>
+<p>Denn das Opfer, Spend' und Buße, sie läutern den Verständigen.</p>
+<p>Doch muß man diese Taten tun, nachdem man auf das Hängen dran</p>
+<p>Und auf Erfolg verzichtet hat, – den höchsten Standpunkt nenn' ich das.</p>
+<p>Entsagung der notwend'gen Tat, die wäre übel angebracht;</p>
+<p>Unterlassung bloß aus Torheit zählt man zur Art der Finsternis.</p>
+<p>Wenn man aus Furcht vor Leibesmüh die Tat aufgibt, weil sie beschwert,</p>
+<p>Das ist die Art der Leidenschaft – solch ein Verzicht bringt keine Frucht.</p>
+<p>Doch tut man die notwend'ge Tat, nur denkend: »So ist's meine Pflicht!«</p>
+<p>Aufgebend Neigung und Erfolg – solch ein Verzicht ist Guter Art.</p>
+<p>Nicht haßt ein unerfreulich Werk, noch hängt an dem erfreulichen</p>
+<p>Der Verständge, der verzichtet, erfüllt von Güte, zweifelfrei.</p>
+<p>Nicht möglich ist's, im ird'schen Leib, aufzugeben jedwede Tat,</p>
+<p><pb n="90" facs="#f00067"/> Doch wer die Frucht der Tat aufgibt, der heißet ein Verzichtender.</p>
+<p>Erwünscht, gemischt und unerwünscht – dreifält'ge Frucht der Tat erlangt</p>
+<p>Der Nichtentsagende, im Tod – doch niemals der Entsagende.</p>
+<p>Vernimm nun, du Großarmiger, die fünf Prinzipien noch von mir,</p>
+<p>Die die Sânkhya-Lehre<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2189</ref></bibl></note> kündet, zur Vollendung jedweden Tuns:</p>
+<p>Ein Standort und ein Handelnder<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2190</ref></bibl></note> und Organe verschiedner Art,</p>
+<p>Mancherlei besondres Streben, das Schicksal als das fünfte noch.</p>
+<p>Welches Werk mit Körper, Rede und Gedanken der Mensch beginnt,</p>
+<p>Sei es nun richtig, sei's verkehrt, die fünf Prinzipien sind dabei.</p>
+<p>Wer darum also sich allein für den Täter der Taten hält,</p>
+<p>Infolge seiner Unbildung, der sieht nicht recht und ist ein Tor.</p>
+<p>Wer kein selbstsücht'ges Wesen hat, wessen Geist nicht beflecket wird,</p>
+<p>Ob alle Welt er tötet auch, tötet doch nicht, wird nicht verstrickt<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2191</ref></bibl></note>.</p>
+<p>Wissen, Wissenswürd'ges, Wisser – dreifach der Antrieb ist zur Tat;</p>
+<p>Werkzeug, Handelnder und Handlung, – dreifach der Inbegriff der Tat.</p>
+<p>Wissen, Tat sowie auch Täter sind dreifach nach der Qualität;</p>
+<p>Die Qualitätenlehre zeigt's; nun höre, wie sich das verhält:</p>
+<p>Wodurch in allen Wesen man das eine, ew'ge Sein erblickt,</p>
+<p>Ungeteilt in den geteilten – solch Wissen ist von guter Art.</p>
+<p>Doch wenn in allen Wesen man verschiedne Wesenheiten sieht,</p>
+<p>Ganz für sich und streng gesondert – so sieht die Leidenschaft es an.</p>
+<p>Doch hängt das Denken ohne Grund an einem Ding, als wär's das All,</p>
+<p>Der Wahrheit nicht gemäß, beschränkt – das ist die Art der Finsternis.</p>
+<p>Die pflichtgemäße Tat, die frei von Weltlust, Leidenschaft und Haß</p>
+<p>Getan ist ohne Rücksicht auf Erfolg – die ist von guter Art.</p>
+<p>Doch wenn, getrieben von Begier, von Ichbewußtsein ganz erfüllt,</p>
+<p>Hart sich mühend die Tat man tut – das ist die Art der Leidenschaft.</p>
+<p>Wenn, ohne Rücksicht auf die Kraft, auf Folgen, Schädigung, Verlust,</p>
+<p>Blindlings die Tat begonnen wird – das ist die Art der Finsternis.</p>
+<p>Frei von Weltlust, nicht sich prahlend, voll Festigkeit und Energie,</p>
+<p>Gleich bei Erfolg und Mißerfolg – solch einen Täter nennt man gut.</p>
+<p><pb n="91" facs="#f00068"/> Wer Erfolg begehrt, habsüchtig, andre verletzend, unrein ist,</p>
+<p>Bald froh, bald traurig – der gehört dem Reich der Leidenschaften an.</p>
+<p>Wer fahrlässig, gemein und frech, heimtückisch, hinterlistig, faul,</p>
+<p>Feig, saumselig – solch ein Täter gehört zum Reich der Finsternis.</p>
+<p>Auch den dreifachen Unterschied des Verstands und der Festigkeit</p>
+<p>Vernimm, je nach der Qualität, ganz klar gelegt, jedes für sich.</p>
+<p>Der, was zu tun, zu lassen ist, Gefahr sowie auch Sicherheit,</p>
+<p>Verstrickung wie Befreiung recht erkennet, <hi rendition="#i">der</hi> Verstand ist gut.</p>
+<p>Der das Recht sowie das Unrecht, was zu tun und zu lassen ist,</p>
+<p>Nicht recht erkennt, solcher Verstand gehört zum Reich der Leidenschaft.</p>
+<p>Wenn er das Unrecht hält für Recht, die Dinge ganz verkehrt ansieht,</p>
+<p>Ganz umnachtet, solcher Verstand gehört zum Reich der Finsternis.</p>
+<p>Die Festigkeit, mit welcher man Herz und Sinne und Lebenskraft</p>
+<p>In Andacht unverrückt festhält, das nenn' ich gute Festigkeit.</p>
+<p>Die Festigkeit, mit welcher man, was recht, nützlich und angenehm,</p>
+<p>Liebend, fruchtbegehrend, festhält, gehört zum Reich der Leidenschaft.</p>
+<p>Die Festigkeit, mit der ein Tor Schlaf, Furcht, Trauer, Kleinmütigkeit</p>
+<p>Und Übermut nicht fahrenläßt, gehört zum Reich der Finsternis.</p>
+<p>Nun höre vom dreifachen Glück durch mich, du bester Bhârata!</p>
+<p>Wo man ruht nach ernster Arbeit und an der Mühsal End' gelangt,</p>
+<p>Glück, das am Anfang Gift erscheint, am End' dem Nektar ähnlich ist,</p>
+<p>Ein solches Glück ist wahrhaft gut, durch Geistesheiterkeit erzeugt.</p>
+<p>Ein Glück, das anfangs nektargleich, am Ende doch als Gift sich zeigt,</p>
+<p>Die Sinne fesselnd an die Welt, gehört zum Reich der Leidenschaft.</p>
+<p>Glück, das gleich und in der Folge die Seele mit Verblendung schlägt,</p>
+<p>In Schlaf, Faulheit, Nachlässigkeit – solch Glück gehört zur Finsternis.</p>
+<p>Nicht auf Erden, noch im Himmel, unter den Göttern etwa gibt's</p>
+<p>Ein Sein, das von der Qualität, der natürlichen, völlig frei.</p>
+<p>Was Priester, Adlige und Volk, auch was die Çûdras<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2192</ref></bibl></note> tun, mein Freund,</p>
+<p>Die Taten alle sind verteilt nach Qualitäten ihrer Art.</p>
+<p>Ruhe, Selbstbeherrschung, Buße, Reinheit, Geduld und Redlichkeit,</p>
+<p><pb n="92" facs="#f00069"/> Rechtes Wissen und Gläubigkeit ist Priesters Pflicht, nach seiner Art.</p>
+<p>Heldenmut, Kraft und Festigkeit, Geschick im Kampf, Furchtlosigkeit,</p>
+<p>Spenden und rechtes Herrentum ist Adels Pflicht, nach seiner Art.</p>
+<p>Viehzucht, Ackerbau und Handel ist Volkes Pflicht, nach seiner Art,</p>
+<p>Im Dienen bloß besteht die Pflicht für den Çûdra, nach seiner Art.</p>
+<p>Wer Freude hat an seiner Pflicht, der Mann erlangt Vollkommenheit;</p>
+<p>Wie man, seines Tuns sich freuend, Vollendung findet, höre das!</p>
+<p>DEN, von dem die Wesen stammen, von dem das All geschaffen ist,</p>
+<p>DEN durch seine Taten ehrend, erlangt Vollendung hier der Mensch.</p>
+<p>Wie sie auch sei, die eigne Pflicht ist besser stets als fremde Pflicht;</p>
+<p>Bleibt man treu dem eignen Wesen, dann bleibt man frei von aller Schuld.</p>
+<p>Tat, die mit dir geboren ist<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2193</ref></bibl></note>, wenn sie auch sündig, gib nicht auf!</p>
+<p>Von Sünde ist doch alles Tun wie das Feuer vom Rauch umhüllt<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2194</ref></bibl></note>.</p>
+<p>Wer mit dem Geist an nichts mehr hängt, sich selbst besiegt und nichts begehrt,</p>
+<p>Zur Vollendung der Tatfreiheit<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#F2195</ref></bibl></note> kommt er durch der Entsagung Kraft.</p>
+<p>Wie er nach der Vollendung auch das Brahman noch erreicht, hör an!</p>
+<p>In Kürze will ich's künden dir, es ist des Wissens höchster Stand.</p>
+<p>Mit gereinigtem Geist versehn, sich bezähmend mit Festigkeit,</p>
+<p>Verzichtend auf die Sinnenwelt, Neigung und Haß abwerfend ganz;</p>
+<p>Einsam lebend, wenig essend, bezähmend Worte, Leib und Geist,</p>
+<p>Ganz Andacht und Kontemplation, der Entsagung ergeben ganz;</p>
+<p>Selbstbewußtsein, Gewaltsamkeit, Stolz, Zorn, Begierde und Besitz</p>
+<p>Aufgebend, selbstlos, friedevoll – so wird er reif zum Brahman-Sein.</p>
+<p>Brahman-geworden, heitern Geists, trauert er nicht und wünschet nicht,</p>
+<p>Gegen alle Geschöpfe gleich, faßt höchste Liebe er zu mir.</p>
+<p>Durch die Liebe erkennt er mich in Wahrheit, wer und wie ich bin;</p>
+<p>Hat er in Wahrheit mich erkannt, kommt er zu mir ohn' Aufenthalt.</p>
+<p>Auch wenn er alle Taten stets ausführt, – auf mich vertrauend ganz,</p>
+<p>Erlangt durch meine Gnade er eine ewige feste Statt.</p>
+<p>Im Geiste alles Tun auf mich hinwerfend, mir ergeben ganz,</p>
+<p><pb n="93" facs="#f00070"/> Auf des Geistes Andacht bauend, denke beständig nur an mich.</p>
+<p>Mein denkend, die Gefahren all durch meine Gnade du besiegst;</p>
+<p>Doch wenn du, allzu selbstbewußt, mein Wort nicht hörst, gehst du zugrund.</p>
+<p>Wenn du in deinem Eigensinn etwa »ich will nicht kämpfen!« denkst,</p>
+<p>Vergeblich ist dann dein Entschluß – es wird dich treiben die Natur.</p>
+<p>Gefesselt durch die eigne Pflicht, wie sie aus deiner Art entspringt,</p>
+<p>Wirst, was du töricht nicht gewollt, du wider Willen dennoch tun.</p>
+<p>Im Herzen aller Wesen drin wohnet der Herr, o Arjuna!</p>
+<p>Er bewegt wie im Puppenspiel die Wesen alle wunderbar.</p>
+<p>Bei ihm such' deine Zuflucht du mit ganzer Seele, Bhârata!</p>
+<p>Durch seine Gnad' erlangst du dann höchsten Frieden und ew'gen Stand.</p>
+<p>Ein Wissen hab ich dir vertraut, das noch geheimer als geheim;</p>
+<p>Nachdem du's ganz erwogen hast, verfahre weiter, wie du willst.</p>
+<p>Doch das Allergeheimste noch vernimm von mir, das höchste Wort,</p>
+<p>Du bist mir teuer, überaus, darum verkünd' ich dir das Heil.</p>
+<p>Mein gedenkend, mich verehrend, mir opfernd, beuge dich vor mir!</p>
+<p>Zu mir dann kommst du! Wahrheit ist's, was ich versprech' – du bist mir lieb.</p>
+<p>Alle Satzungen aufgebend, such' mich allein als Zufluchtsort!</p>
+<p>Von allen Sünden werd' ich dann dich erlösen – sei unbesorgt!</p>
+<p>Doch künde niemals dieses Wort dem, welcher keine Buße tut,</p>
+<p>Der mich nicht ehrt, auf mich nicht hört, wider mich murret fort und fort.</p>
+<p>Wer dies geheimnisvolle Wort meinen Verehrern weitergibt,</p>
+<p>Höchste Verehrung zollend mir, der kommt zu mir ganz zweifellos.</p>
+<p>Ja, keiner von den Menschen all tut Liebres mir, als solch ein Mann!</p>
+<p>Kein andrer wird auf Erden mir drum lieber sein als eben der.</p>
+<p>Und wer dies heilige Gespräch zwischen uns beiden sich einprägt,</p>
+<p>Mit des Wissens Opfer ehret mich ein solcher – so denke ich!</p>
+<p>Der Mann auch, welcher glaubensvoll dies hört und nicht dawider murrt,</p>
+<p>Auch der wird als Erlöster wohl die reine Welt der Frommen schaun.</p>
+<p><pb n="94" facs="#f00071"/> Hast du's gehört, o Prithâ-Sohn, mit ganz davon ergriffnem Sinn?</p>
+<p>Und ist dir der Unwissenheit Betörung nun dadurch zerstört?</p>
+<lb/>
+<p rendition="#c">Arjuna sprach</p>
+<lb/>
+<p>Die Torheit ist durch dich zerstört, Erinnrung ist mir aufgewacht,</p>
+<p>Ich stehe fest, der Zweifel schwand, – ich werde tun nach deinem Wort.</p>
+<lb/>
+<p rendition="#c">Sanjaya sprach</p>
+<lb/>
+<p>So hab' ich dies Gespräch gehört, das wunderbar' entzückende,</p>
+<p>Zwischen Krishna Vâsudeva und dem hochherz'gen Prithâ-Sohn.</p>
+<p>Durch Vyâsas Gnade hörte ich dieses geheime, höchste Wort,</p>
+<p>Von Krishna, der leibhaftig dort von Andacht sprach, der Andachtsherr.</p>
+<p>Immer wieder mich erinnernd an dies Gespräch, so wunderbar,</p>
+<p>Das heil'ge, das ich dort gehört, freu' ich mich immer, fort und fort.</p>
+<p>Immer wieder mich erinnernd der wunderbaren Gottgestalt,</p>
+<p>Erfaßt gewalt'ges Staunen mich, und ich freue mich fort und fort.</p>
+<p>Wo Krishna weilt, der Andachtsherr, und der Schütze, der Prithâ-Sohn,</p>
+<p>Da ist Glück, Sieg und Gedeihen, so glaub' ich, unerschütterlich!</p>
+<lb/>
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2189</ref>1</bibl> Die auf Reflexion gestützte Lehre, von der schon öfters die Rede war. Ich habe an dieser Stelle die indische Bezeichnung Sânkhya-Lehre beibehalten, weil hier wie im Vorausgehenden die dem späteren Sânkhya-System so überaus charakteristische Lehre von den drei Qualitäten bereits so stark ausgeprägt hervortritt.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2190</ref>2</bibl> Unter dem Standort ist der Körper verstanden, unter dem Handelnden die empirische individuelle Seele.</note>
+<lb/>
+<note place="end" n="3"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2191</ref>3</bibl> So hart dies auch klingt, geht es doch nicht nur auf den Fall des Arjuna, sondern stimmt im Grunde auch mit unseren Anschauungen überein: Der Soldat, der in der Schlacht seine Pflicht tut, wird auch von uns nicht als ein Mörder betrachtet.</note>
+<lb/>
+<note place="end" n="4"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2192</ref>4</bibl> Es sind dies die vier alten Kasten der Inder. Unter »Volk« wird die Gesamtheit der arischen Inder verstanden, sofern sie nicht Priester (Brahmanen) oder Adlige (Ritter, Krieger) sind. Die Çûdras sind nichtarische Inder, welche sich aber dem System der brahmanischen Lebensordnung gefügt haben und nun als unterste, dienende Kaste gezählt werden.</note>
+<lb/>
+<note place="end" n="5"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2193</ref>5</bibl> D.h. die Taten, zu welchen ein jeder durch seine Geburt in dieser oder jener Kaste verbunden und verpflichtet ist, seinem Wesen entsprechend.</note>
+<lb/>
+<note place="end" n="6"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2194</ref>6</bibl> Ich erinnere hier an das tiefsinnige Wort Goethes: Der Handelnde hat immer unrecht, nur der Betrachtende hat recht.</note>
+<lb/>
+<note place="end" n="7"><bibl><ref>/Philosophie/M/Anonym/Aus dem Mahabharata: Bhagavadgita/Achtzehnter Gesang#N2195</ref>7</bibl> D.h. zur höchsten Vollendung, welche in der völligen Befreiung von den Taten, resp. den Fesseln der Taten, besteht.</note>
+
+</div>
+
+</body></text></TEI>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Werke in fünf Bänden</title>
+        <title type="volume">Band 2</title>
+        <author><persName ref="http://d-nb.info/gnd/54727">
+        <forename>Wilhelm</forename>
+        <nameLink>von</nameLink>
+        <surname>Humboldt</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Wilhelm von Humboldt: Werke in fünf Bänden. Herausgegeben von Andreas
+      Flitner und Klaus Giel, Darmstadt: Wissenschaftliche Buchgemeinschaft, 1963.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Werke in fünf Bänden</title>
+      <title level="m" type="volume" n="2">Band 2</title>
+      <author><persName ref="http://d-nb.info/gnd/54727">
+        <forename>Wilhelm</forename>
+        <nameLink>von</nameLink>
+        <surname>Humboldt</surname>
+      </persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/16172">
+        <forename>Andreas</forename>
+        <surname>Flitner</surname>
+      </persName>
+      </editor><editor><persName ref="http://d-nb.info/gnd/40555">
+        <forename>Klaus</forename>
+        <surname>Giel</surname>
+      </persName>
+      </editor></titleStmt>
+          <editionStmt>
+            <edition/>
+          </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Wissenschaftliche Buchgesellschaft</name>
+      </publisher><pubPlace>Darmstadt</pubPlace>
+      <date type="publication">1963</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden 1793. Erstdruck in: Sechs ungedruckte Aufsätze über das klassische Altertum von Wilhelm von Humboldt, herausgegeben von Albert Leitzmann, Leipzig 1896.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Über das Studium des Althertums, und des Griechischen insbesondre</note>
+
+
+<head>Wilhelm von Humboldt</head>
+<head>Über das Studium des Alterthums, und des Griechischen insbesondre</head>
+<pb n="1" facs="#f0001"/>
+<head>1</head>
+<p rendition="#et">Das Studium der Ueberreste des Alterthums – Litteratur und Kunstwerke – gewährt einen zwiefachen Nuzen, einen materialen und einen formalen. Einen<hi rendition="#i"> materialen</hi>, indem es andren Wissenschaften Stoff darbietet, den sie bearbeiten. Insofern ist dasselbe, und sind also die humanistischen Wissenschaften Hülfswissenschaften von jenen, und wie wichtig dieser Nuzen auch an sich sein mag, so ist er ihnen eigentlich fremd.</p>
+<lb/>
+<p rend="h4">2</p>
+<p rendition="#et">Der <hi rendition="#i">formale</hi> Nuzen kann wiederum zwiefach sein, einmal insofern man die Ueberreste des Alterthums an sich und als Werke der Gattung, zu der sie gehören, betrachtet, und also allein auf sie selbst sieht; und zweitens indem man sie als Werke aus der Periode, aus welcher sie stammen, betrachtet, und auf ihre Urheber sieht<note place="end" n="1"><bibl><ref>/Philosophie/M/Humboldt, Wilhelm von/Über das Studium des Althertums, und des Griechischen insbesondre#F2778</ref></bibl></note>. Der erste <hi rendition="#i">Nuzen</hi> ist der <hi rendition="#i">ästhetische</hi>; er ist überaus wichtig, aber nicht der Einzige. Darin dass man ihn oft für den einzigen gehalten hat, liegt eine Quelle mehrerer falscher Beurtheilungen der Alten.</p>
+<lb/>
+<p rend="h4">3</p>
+<p rendition="#et">Aus der Betrachtung der Ueberreste des Alterthums in Rüksicht auf ihre Urheber entsteht die <hi rendition="#i">Kenntniss</hi> der Alten selbst, oder <hi rendition="#i">der Menschheit im Alterthum</hi>. Dieser Gesichtspunkt ist es, welcher allein in den folgenden Säzen aufgefasst werden soll, theils seiner innren Wichtigkeit wegen, theils weil er seltner genommen zu werden pflegt.</p>
+<lb/>
+<p rend="h4"><pb n="1" facs="#f0002"/> 4</p>
+<p rendition="#et">Das Studium einer Nation gewährt schlechterdings alle diejenigen Vortheile, welche die Geschichte überhaupt darbietet, indem dieselbe durch Beispiele von Handlungen und Begebenheiten die Menschenkenntniss erweitert, die Beurtheilungskraft schärft, den Charakter erhöht und verbessert; aber es thut noch mehr. Indem es nicht sowohl dem Faden auf einander folgender Begebenheiten nachspürt, als vielmehr den Zustand und die gänzliche Lage der Nation zu erforschen versucht, liefert es gleichsam eine <hi rendition="#i">Biographie</hi> derselben.</p>
+<lb/>
+<p rend="h4">5</p>
+<p rendition="#et">Das Auszeichnende einer solchen Biographie ist vorzüglich das, dass, indem der ganze politische, religiöse und häusliche Zustand der Nation geschildert wird, <hi rendition="#i">ihr Charakter nach allen seinen Seiten, und in seinem ganzen Zusammenhange entwikkelt, nicht bloss die gegenseitigen Beziehungen der einzelnen Charakterzüge unter einander, sondern auch ihre Relationen zu den äussren Umständen, als Ursachen oder Folgen, einzeln untersucht werden</hi>; und die Vortheile dieses charakteristischen Kennzeichens eines solchen Studiums verfolge ich hier allein, mit Uebergehung jener übrigen, öfter berührten.</p>
+<lb/>
+<p rend="h4">6</p>
+<p rendition="#et">Man pflegt Menschenkenntniss nur zum Umgange mit Menschen nothwendig zu halten, und man pflegt es Menschenkenntniss zu nennen, wenn man eine Menge einzelner Menschen beobachtet und dadurch eine Fertigkeit erworben hat, aus ihren äussren Handlungen ihre inneren Absichten zu errathen, und umgekehrt durch künstlich ihnen gegebene Beweggründe sie zu Handlungen zu bestimmen, und in einem gewissen politischen Sinne mag beides wahr sein. Allein im philosophischen kann Menschenkenntniss – Kenntniss des Menschen überhaupt, wie der einzelnen wirklichen Individuen – nichts anders heissen, als <hi rendition="#i">die Kenntniss der verschiedenen intellektuellen, empfindenden, und moralischen <pb n="2" facs="#f0003"/> menschlichen Kräfte, der Modifikationen, die sie durch einander gewinnen, der möglichen Arten ihres richtigen und unrichtigen Verhältnisses, der Beziehung der äusseren Umstände auf sie</hi>, dessen, was diese in einer gegebnen Stimmung unausbleiblich wirken müssen, und was sie nie zu wirken vermögen, kurz <hi rendition="#i">der Geseze der Nothwendigkeit der von innen, und der Möglichkeit der von aussen gewirkten Umwandlungen</hi>. Diese Kenntniss ist, oder vielmehr das Streben nach dieser – da hier nur Streben möglich ist – führt zur wahren Menschenkenntniss, und diess ist jedem Menschen, als Menschen, und lebte er auch ganz von Menschen abgesondert, nur in verschiedenen Graden der Intension und Extension unentbehrlich.</p>
+<lb/>
+
+
+<p rend="h4">7</p>
+<p rendition="#et">Zuerst – um vom Leichtesten anzufangen – <hi rendition="#i">dem handelnden Menschen</hi>, dem ich in der Folge den nur mit Ideen Beschäftigten, so wie endlich beiden den bloss Geniessenden entgegensezen werde. Alles praktische Leben, vom Umgange in der gleichgültigsten Gesellschaft bis zu dem Regierendes grössesten Staats, bezieht sich mehr oder minder unmittelbar auf den Menschen; und wer seiner moralischen Würde wahrhaft eingedenk ist, wird in keinem dieser Verhältnisse des höchsten Zweks aller Moralität, der Veredlung und steigenden Ausbildung des Menschen vergessen. Dazu ist jene Kenntniss ihm unentbehrlich, theils um jenen Zwek zu befördern, theils, wenn sein Geschäft so heterogen ist – wie es denn auch sehr achtungswürdige dieser Art geben kann – dass es ihm von gewissen Seiten Einschränkungen in den Weg stellen muss, doch immer das höchst mögliche Minimum dieser Einschränkungen zu bewahren. So lehrt sie ihn, was er moralisch unternehmen dürfe und politisch mit Erfolg unternehmen könne, und leitet dadurch seinen Verstand. – Aber auch zweitens seinen Willen, indem sie allein wahre Achtung des Menschen erzeugt. Alle Unvollkommenheiten lassen sich auf Misverhältnisse der Kräfte zurükbringen. Indem nun jene Kenntniss das Ganze zeigt, werden diese gleichsam aufgehoben, und es erscheint <pb n="3" facs="#f0004"/> zugleich die Nothwendigkeit ihres Entstehens und die Möglichkeit ihrer Ausgleichung, so dass das, vorher einseitig betrachtete Individuum durch diesen allseitigen Ueberblik gleichsam in eine andre höhere Klasse versezt wird.</p>
+<lb/>
+<p rend="h4">8</p>
+<p rendition="#et">Der mit Ideen Beschäftigte ist – da ich mich hier der Genauigkeit logischer Eintheilungen überheben kann – Historiker im allerweitesten Sinne des Worts, oder Philosoph, oder Künstler. Der <hi rendition="#i">Historiker</hi>, insofern ich von dem im eigentlichsten Verstande – dem Beschreiber der Menschen und menschlichen Handlungen – abstrahire, bedarf jener Kenntniss vielleicht am wenigsten. Wenn indess auch der Forscher des am mindesten mit Menschenähnlichkeit begabten Theils der Natur nicht bloss die äussren Erscheinungen aufzählen, sondern auch den innern Bau erspähen will; so kann er derselben schlechterdings nicht gänzlich entbehren. Denn nicht bloss dass alle unsre Ideen von Organisation ursprünglich vom Menschen ausgehen; so herrscht auch durch die ganze Natur eine Analogie wie der äussren Gestalten, so des inneren Baues. Es lässt sich daher kein tiefer Blik in die Beschaffenheit der Organisation auch der leblosen Natur ohne physiologische Kenntniss des Menschen thun, und diese ist wiederum nicht ohne psychologische möglich; und ebenso steigt umgekehrt mit dem Umfange dieser lezteren die Schärfe jenes ersten Bliks, wenn gleich freilich in oft sehr kleinen Graden. Endlich muss ich bemerklich machen, dass ich hier den Blik auf den Zusammenhang der ganzen Natur, und die Beziehung der leblosen auf die menschliche – die kein grosser Naturkündiger versäumen wird – ganz übergehe, wie es denn überhaupt meine Absicht ist, nur zu versuchen, das für sich minder Klare in ein helleres Licht zu stellen.</p>
+<lb/>
+<p rend="h4">9</p>
+<p rendition="#et">Diesem Grundsaze getreu, bleibe ich bei dem <hi rendition="#i">Philosophen</hi> nur bei dem abstraktesten Metaphysiker stehen. Aber wenn auch dieser das ganze Erkenntnissvermögen ausmessen soll, <pb n="4" facs="#f0005"/> wenn es ferner von dem Gebiete der Erscheinungen in das Gebiet der wirklichen Wesen keinen andren Weg, als durch die praktische Vernunft giebt, wenn Freiheit und Nothwendigkeit eines allgemein gebietenden Gesezes allein zu Beweisen für die wichtigsten, übersinnlichen Principien führen können; so muss die mannigfaltigste Beobachtung der, in andren und andren Graden gemischten menschlichen Kräfte auch diess Geschäft um vieles erleichtern, und am sichersten das sehen lassen, was allgemein ist und sich in jeder Mischung gleich erhält.</p>
+<lb/>
+<p rend="h4">10</p>
+<p rendition="#et">Des <hi rendition="#i">Künstlers</hi> einziger Zwek ist Schönheit. Schönheit ist das allgemeine, nothwendige, reine Wohlgefallen an einem Gegenstand ohne Begriff. Ein Wohlgefallen, das nicht durch Ueberzeugung erzwungen werden kann und doch abgenöthigt sein soll, das allgemein sein muss, und dessen Gegenstand nicht durch den Begriff reizt, muss sich nothwendig auf die ganze Seelenstimmung des Empfindenden in ihrer grössesten Individualität beziehen, wie auch schon die unendliche Verschiedenheit in Geschmaksurtheilen zeigt. Wer es also hervorbringen will, muss sein Wesen mit den feinsten und verschiedenartigsten Wesen gleichsam identificirt haben, und wie ist diess ohne tiefes und anhaltendes Studium möglich? – Auch ausser dieser, zwar allgemein beweisenden, aber auch abstrakteren Erörterung, gehört der Künstler gleichsam zur Klasse der praktischen Menschen, und bedarf umsomehr alles desjenigen, was jenen unentbehrlich ist, als er unmittelbar auf das Höchste und Edelste wirkt. Nicht also bloss um als Mensch moralisch, sondern auch um als Künstler mit Erfolg zu wirken, muss er den Gegenstand tief kennen, auf welchen er wirkt. – Endlich ist sein Geschäft entweder Ausdruk oder Schilderung. Das Erstere bezieht sich allein und unmittelbar, das Leztere, da die Schilderung sonst nicht gefasst wird, mittelbar auf Empfindung, und so bleibt diese und der empfindende Mensch überhaupt immer sein Hauptstudium.</p>
+<lb/>
+<p rend="h4"><pb n="5" facs="#f0006"/> 11</p>
+<p rendition="#et">Von dem bloss <hi rendition="#i">Geniessenden</hi> endlich liesse sich eigentlich nichts sagen, da der Eigensinn des Genusses keine Regel annimmt. Aber ich stelle mich billig hier in die Stelle nicht gerade der edelsten Menschen, aber der Menschen überhaupt in ihren edleren. Momenten. In diesen nun sind die Freuden der höchsten Gattung die, welche man durch sich und andre empfängt, durch Selbstbeobachtung, Umgang in allen Abstufungen, Freundschaft, Liebe. Je höher diese sind, desto eher sind sie zerstört ohne ein scharfes Auffassen des wahren Seins seiner selbst und andrer. Diess aber ist nie möglich, ohne tiefes Studium des Men schen überhaupt. – Diesen Freuden an die Seite treten nicht unbillig diejenigen, welche der ästhetische Genuss der Werke der Natur und der Kunst gewährt. Diese wirken vorzüglich durch Erregung der Empfindungen, welche durch die äussren Gestalten, gleichsam als durch Symbole gewekt werden. Je mehr lebendige Ansichten möglicher menschlicher Empfindungen nun das Studium des Menschen verschaft hat, desto mehr äussrer Gestalten ist die Seele empfänglich. – Da ich des, aus der eignen Thätigkeit entspringenden Genusses schon mit dieser Thätigkeit selbst im Vorigen erwähnt habe (7-10), so bleibt mir nur noch der sinnliche übrig. Aber auch dieser wird, indem die Phantasie ihm das reiche Schauspiel seiner möglichen Mannigfaltigkeit nach der Verschiedenheit des geniessenden Individuums zugesellt, und indem sie so gleichsam mehrere Individuen in Eins vereint, vervielfacht, erhöht und verfeinert. – Endlich mindert sich durch eine solche Ansicht das Gefühl auch des wirklichen Unglüks. Das Leiden, wie das Laster, ist eigentlich nur partiell. Wer das Ganze vor Augen hat, sieht, wie es dort erhebt, wenn es hier niederschlägt.</p>
+<lb/>
+
+
+<p rend="h4">12</p>
+<p rendition="#et">Ich habe bis jezt den Menschen mit Fleiss abgesondert in einzelnen Energien betrachtet. Zeigte sich aber auch in keiner die Unentbehrlichkeit der Kenntniss, von der ich hier rede, so würde sie sich doch gerade dadurch bewähren, <hi rendition="#i"><pb n="6" facs="#f0007"/> dass sie vorzüglich nothwendig ist, um das einzelne Bestreben zu Einem Ganzen und gerade zu der Einheit des edelsten Zweks, der höchsten, proportionirlichsten Ausbildung des Menschen zu vereinen</hi>. Denn das Beschäftigen einzelner Seiten der Kraft bewirkt leicht mindere Rüksicht auf den Nuzen dieses Beschäftigens, als Energie, und zu grosse auf den Unzen des Hervorgebrachten, als eines Ergon, und nur häufiges Betrachten des Menschen in der Schönheit seiner Einheit führt den zerstreuten Blik auf den wahren Endzwek zurük.</p>
+<lb/>
+
+
+<p rend="h4">13</p>
+<p rendition="#et">So wirkt jene Kenntniss, wenn sie erworben ist, gleichsam als Material; aber gleich heilsam und vielleicht noch heilsamer wirkt gleichsam <hi rendition="#i">ihre Form, die Art sie zu erwerben</hi>. Um den Charakter Eines Menschen und noch mehr einer noch vielseitigeren Nation in seiner Einheit zu fassen, muss man auch sich selbst mit seinen vereinten Kräften in Bewegung sezen. Der Auffassende muss sich immer dem auf gewisse Weise ähnlich machen, das er auffassen will. Daher entsteht also grössere Uebung, alle Kräfte gleichmässig anzuspannen, eine Uebung, die den Menschen so vorzüglich bildet. – Wer sich mit diesem Studium anhaltend beschäftigt, fasst ferner eine unendliche Mannigfaltigkeit der Formen auf, und so schleifen sich gleichsam die Ekken seiner eignen ab, und aus ihr, vereint mit den aufgenommenen, entstehen ewig wiederum neue. – So ist jene Kenntniss gerade darum heilsam, warum jede andre mangelhaft sein würde, darum, dass sie, nie ganz erreichbar, zu unaufhörlichem Studium zwingt, und so wird die höchste Menschlichkeit durch das tiefste Studium des Menschen gewirkt.</p>
+<lb/>
+
+
+<p rend="h4">14</p>
+<p rendition="#et">Das bis jezt betrachtete Studium des Menschen überhaupt an dem Charakter einer einzelnen Nation, aus den von ihr hinterlassenen Denkmälern, ist zwar bei einer jeden Nation in gewissem Grade möglich, in einem vorzüglicheren aber bei einer oder der andren nach folgenden vier Momenten: <pb n="7" facs="#f0008"/> 1., <hi rendition="#i">je nachdem die von ihr vorhandnen Ueberreste ein treuer Abdruk ihres Geistes und ihres Charakters sind, oder nicht</hi>. Jedes Produkt der Wissenschaft oder der Kunst hat seine eigne, durch seine Natur bestimmte, gleichsam objektive, idealische Vollkommenheit, aber selbst bei dem äussersten Annähern an diese Vollkommenheit prägt sich dennoch die Individualität des Geistes, der es hervorbringt, mehr oder minder darin aus, am meisten aber freilich da, wo am mindesten absichtlich auf die Erreichung jener Vollkommenheit gesehen ist. Daher der objektive Werth und die Individualität eines Geistesprodukts nicht selten im umgekehrten Verhältnisse stehen. Am auffallendsten ist dieser Unterschied bei den eigentlichen Geistesprodukten, weniger bei den Künsten, und unter diesen mehr bei den energischen (Musik, Tanz) als bei den bildenden (Mahlerei, Bildhauerkunst).</p>
+<lb/>
+<p rend="h4">15</p>
+<p rendition="#et">2., <hi rendition="#i">je nachdem der Charakter einer Nation Vielseitigkeit und Einheit</hi> – welche im Grunde Eins sind – <hi rendition="#i">besizt</hi>. Einzelne grosse und schöne Charakterzüge und ihre Betrachtung hat ihren unbestrittenen, aber hieher nicht gehörigen Nuzen. Das Studium des Menschen überhaupt an einem einzelnen Beispiel erfordert Mannigfaltigkeit der verschiednen Seiten des Charakters, und Einheit ihrer Verbindung zu Einem Ganzen.</p>
+<lb/>
+<p rend="h4">16</p>
+<p rendition="#et">3., <hi rendition="#i">je nachdem eine Nation reich ist an Mannigfaltigkeit der verschiedenen Formen</hi>. Es kommt also hier wieder nicht sowohl darauf an, ob die Nation, deren Studium jenen Nuzen gewähren soll, auf einem vorzüglichen Grade der Ausbildung oder der Sittlichkeit stehe, sondern bei weitem mehr darauf, ob sie von aussen reizbar, und von innen beweglich genug ist, eines grossen Reichthums der Gestalten empfänglich zu sein.</p>
+<lb/>
+<pb n="8" facs="#f0009"/> <p rend="h4">17</p>
+<p rendition="#et">4., <hi rendition="#i">je nachdem der Charakter einer Nation von der Art ist, dass er demjenigen Charakter des Menschen überhaupt, welcher in jeder Lage, ohne Rüksicht auf individuelle Verschiedenheiten da sein kann und da sein sollte, am nächsten kommt</hi>. Verschiedenheiten dieser Art unter Nationen zeigt auch eine oberflächliche Vergleichung; Nationen, die eine so lokale Ausbildung haben, dass ihr Studium mehr Studium einer einzelnen Menschengattung, als der Menschennatur überhaupt ist, und Nationen, in welchen sich auf der andren Seite diese Menschennatur hauptsächlich austrugt. Das, wovon ich hier rede, kann aus doppeltem Grunde entstehen, einmal durch Mangel der Individualität, durch Nichtigkeit, zweitens durch Einfachheit des Charakters. Nur das Leztere ist heilsam. – Das Studium des Menschen gewönne am meisten durch Studium und Vergleichung aller Nationen aller Länder und Zeiten. Allein ausser der Immensität dieses Studiums kommt es mehr auf den Grad der Intension an, mit dem Eine Nation, als auf den der Extension, mit welchem eine Menge von Nationen studirt wird. Ist es also rathsam, bei Einer oder einem Paar stehen zu bleiben; so ist es gut, diejenigen zu wählen, welche gleichsam mehrere andre repräsentiren.</p>
+<lb/>
+<p rend="h4">18</p>
+<p rendition="#et">Dass nach diesen 4 Momenten die alten Nationen die sind, deren Studium jenen hier allein ausgeführten Nuzen der Kenntniss und Bildung des Menschen am reichsten gewähret, soll die Folge zu zeigen bemüht sein. – Alte nenne ich hier ausschliessend die Griechen, und unter diesen oft ausschliessend die Athener. Die Gründe hievon werde ich, wenn sie sich nicht durch die Folge des Raisonnements von selbst entdekken, weiter unten noch mit Einem Worte berühren. – l. Moment. (14) Die Ueberreste der Griechen tragen die meisten Spuren der Individualität ihrer Urheber an sich. Die beträchtlichsten sind die litterarischen. In diesen fällt der Betrachtung zuerst die <hi rendition="#i">Sprache</hi> auf. In einer Sprache entstehen Abweichungen von der Individualität <pb n="9" facs="#f00010"/> der Sprechenden vorzüglich aus folgenden 3 Gründen: 1., durch Entlehnen von Wörtern oder Redensarten aus fremden Sprachen. 2., durch das Bedürfniss, völlig allgemeine und abstrakte Begriffe, worauf sich vorhandene Wörter nicht gut anwenden lassen wollen, entweder durch völlig neugebildete, oder gewaltsam übertragene Ausdrükke zu bezeichnen, wobei die Abweichung des neuen Ausdruks immer in dem Grade grösser ist, als ein Volk weniger reizbare und schaffende Phantasie besizt, den abstrakten Begriff unter einem, aus seinem bisherigen Vorrath genommenen sinnlichen Bilde zu fassen. 3., durch Nachdenken über die Natur der Sprache überhaupt, und die Analogie der eignen insbesondre, woraus viele Abänderungen des durch den Sprachgebrauch Eingeführten, und näher mit der Individualität der Lage der Redenden Verknüpften vorzüglich im Syntax und in der Grammatik überhaupt entspringen. Nun waren die Griechen mit keinem einzigen höher gebildeten Volke vor oder neben ihnen in allgemeiner und vertrauter Bekanntschaft; es finden sich daher in ihrer Sprache nur fremde Wörter, und auch diese gegen das Ganze nur in unbedeutender Anzahl, von fremden Beugungen und Konstruktionen wenigstens keine deutliche Spur. So fällt jener erste Grund hinweg. Nicht minder aber die beiden lezteren, da in Vergleichung mit der sehr frühen Ausbildung der Sprache sehr spät eine bestimmtere Philosophie und noch später Philosophie der Sprache entstand, und in Rüksicht auf den zweiten Grund insbesondre kein Volk leicht eine so reiche Phantasie im Schaffen metaphorischer Ausdrücke besizt, als den Griechen eigen war. – Einzelne Beispiele in Absicht der Bildung der Wörter, der Beugungen und Verbindungen könnten hier die Uebereinstimmung der Sprache der Griechen mit ihrem Charakter zeigen.</p>
+<lb/>
+<p rend="h4">19</p>
+<p rendition="#et">Die Geistesprodukte selbst sind Geschichte, Dichtung (wozu ich hier Kunst überhaupt rechne) und Philosophie. – Die <hi rendition="#i">Geschichte</hi> ist grossentheils Griechische, und wo sie es auch nicht ist, sind wenigstens die früheren griechischen Geschichtschreiber <pb n="10" facs="#f00011"/> noch zu wenig gewohnt, mehrere Völker zu vergleichen, und Eignes und Fremdes von einander abzusondern, auch zu sehr mit allem Vaterländischen beschäftigt, als dass nicht sehr oft der Grieche durchblikken sollte. In der Griechischen Geschichte selbst aber macht eine Zusammenkunft mehrerer Umstände, wozu ich vorzüglich den grösseren Einfluss einzelner Personen auf die öffentlichen Angelegenheiten, die Verbindung des religiösen Zustandes mit dem politischen, und des häuslichen mit dem religiösen, ferner den kleinen Umfang der Geschichte selbst, der ein grösseres Détail erlaubte, endlich die noch mehr kindischen Ideen von Merkwürdigkeit und Wichtigkeit rechne, dass die alte Geschichte unendlich mehr Charakter- und Sittenschilderungen enthält, als die neuere.</p>
+<lb/>
+<p rend="h4">20</p>
+<p rendition="#et">Wenn <hi rendition="#i">Dichtung</hi> und Geschichte gesondert sein soll, so sezt diess schon bestimmtere Ideen über Möglichkeit und Unmöglichkeit, Wahrscheinlichkeit und Unwahrscheinlichkeit, mit Einem Worte Kritik voraus. Diese erhielten die Griechen erst spät, und vorzüglich durch die Verbindung ihrer Fabel mit Religion und Nationalstolz später, als sich sonst hätte erwarten lassen. Sehr lange ist also Dichtung und Geschichte gar nicht gesondert, und als sie wirklich sich mehr von einander trennten, durfte der Künstler, der nicht sowohl für Kenner und Dilettanten der schönen Künste, als für ein Volk arbeitete, das in dem Kunstwerk nicht die Kunst allein, auch sich und seinen Ruhm sehen wollte, sich nicht von dem entfernen, was Eindruk auf diess Volk zu machen im Stande und also mit seiner Individualität nah verwandt war. Wie hätten auch wirkliche Abänderungen der Fabel durch den Künstler nicht wieder im höchsten Grade Griechisch werden sollen, da er keine fremde Muster vor sich hatte, und selbst die eigentliche Theorie der Künste erst später entstand? – Ferner entsprangen alle vorzüglichste Arten der Dichtung – epische, tragische, lyrische – bei den Griechen aus Sitten und öffentlichen Einrichtungen, bei Gastmählern, Festen, Opfern, und so behielten sie bis <pb n="11" facs="#f00012"/> in die spätesten Zeiten einen Anstrich dieses historischen, nicht eigentlich ästhetischen Ursprungs.</p>
+<lb/>
+<p rend="h4">21</p>
+<p rendition="#et">Die <hi rendition="#i">Philosophie</hi> sollte am wenigsten Spuren der Eigenthümlichkeit des Philosophirenden tragen. Aber die praktische zeigte bei den Griechen immer in einem sehr hohen Grade den Griechen, und die spekulative that diess wenigstens auch sehr lange.</p>
+<p rendition="#et">Gegenblik auf moderne Nationen. – Ihre Sprache (18) durch Entlehnen von fremden, und Philosophie in hohem Grade umgebildet. – Selbst ihre vaterländische Geschichte (19) durch Vertrautheit mit allen Zeiten und Erdstrichen, und andre zusammenkommende Ursachen minder individuell erzählt. – Ihre Dichtung (20) fast ganz aus fremder Mythologie genommen, und nach objektiven allgemeinen Theorien geformt. – Ihre Philosophie (21) abstrakt und allgemein.</p>
+<lb/>
+
+
+<p rend="h4">22</p>
+<p rendition="#et">2. Moment. (15) <hi rendition="#i">Der Grieche in der Periode, wo wir die erste vollständigere Kenntniss von ihm haben, steht noch auf einer sehr niedrigen Stufe der Kultur</hi>. In diesem Zustande wird, da der Bedürfnisse und Befriedigungsmittel nur wenige sind, immer weit mehr Sorgfalt auf die Entwicklung der persönlichen Kräfte, als auf die Bereitung und den Gebrauch von Sachen verwandt. Der Mangel dieser Hülfsmittel macht auch jene Entwicklung nothwendiger. Da überhaupt noch keine Veranlassung vorhanden ist, einzelne Seiten vorzüglich zu beschäftigen, da der Mensch nur schlechthin dem Gange der Natur folgt; so ist, wo er handelnd oder leidend wird, sein ganzes Wesen um so mehr vereint in Thätigkeit, als er vorzüglich durch Sinnlichkeit afficirt wird, und gerade diese am stärksten das ganze Wesen ergreift. <hi rendition="#i">Es ist daher bei Nationen auf einer niedrigeren Stufe der Kultur</hi> verhältnissmässig<hi rendition="#i"> mehr Entwikklung der Persönlichkeit in ihrem Ganzen, als bei Nationen auf einer höheren</hi>.</p>
+<lb/>
+<p><pb n="12" facs="#f00013"/> </p>
+
+<p rend="h4">23</p>
+<p rendition="#et">Bei den Griechen zeigt sich aber ein doppeltes, äusserst merkwürdiges, und vielleicht in der Geschichte einziges Phänomen. <hi rendition="#i">Als sie noch sehr viele Spuren der Rohheit anfangender Nationen verriethen, besassen sie schon eine überaus grosse Empfänglichkeit für jede Schönheit der Natur und der Kunst, einen feingebildeten Takt, und einen richtigen Geschmack, nicht der Kritik, aber der Empfindung</hi>, und finden sich Instanzen gegen diesen Takt und diesen Geschmak so ist wenigstens jene Reizbarkeit und Empfänglichkeit unläugbar; <hi rendition="#i">und wiederum als die Kultur schon auf einen sehr hohen Grad gestiegen war, erhielt sich dennoch eine Einfachheit des Sinns und Geschmaks, den man sonst nur in der Jugend der Nationen antrift</hi>. Die Entwikklung der Ursachen hievon gehört nicht hieher. Genug das Phänomen ist da. In seinem ersten Lallen verräth der Grieche feines und richtiges Gefühl; und in dem reifen Alter des Mannes verliert er nicht ganz seinen ersten einfachen Kindersinn. Hierin, dünkt mich, liegt ein grosser Theil des eigentlich Charakteristischen der Nation.</p>
+<lb/>
+
+
+<p rend="h4">24</p>
+<p rendition="#et">Da sich die den Griechen eigenthümliche Reizbarkeit für das Schöne (23) mit der, bei allen minder kultivirten Nationen gewöhnlichen grösseren Aufmerksamkeit auf die Entwikklung der persönlichen, und vorzüglich der körperlichen Kräfte (22) und mit dem in griechischem Klima besonders stark wirkenden Hange zur Sinnlichkeit verband; musste Sorgfalt für die Ausbildung des Körpers zu Stärke und Behendigkeit um so nothwendiger entspringen, als auch die äussere Lage beides unentbehrlich machte, und der Ausdruk von beidem in dem Aeussren der Bildung bei einem leicht beweglichen Schönheitssinn Achtung und Liebe gewinnen. Aber auch da die Kultur sehr hoch gestiegen war, und längst die vorzügliche Achtung der körperlichen Kraft verdrängt hatte, erhielt sich dennoch immer mehr, als bei irgend einem andren Volke die Sorgfalt für die Ausbildung der körperlichen Stärke, Behendigkeit und Schönheit. Wo <pb n="13" facs="#f00014"/> nun noch allgemeine und abstrakte Begriffe selten sind, und die Empfänglichkeit für das Schöne in so hohem Grade prädominirt, da muss man sich auch die bloss geistigen Vorzüge natürlich zuerst unter diesem Bilde darstellen, und in einer griechischen Seele verschmolz körperliche und geistige Schönheit so zart in einan der, dass noch jezt die Geburten jenes Verschmelzens, z.B. die Raisonnements über Liebe in Platon ein wahrhaft entzükkendes Vergnügen gewähren. War aber auch diese Stimmung in diesem Grade nur einzeln und individuell, so lässt sich doch soviel überhaupt als historisches Faktum aufstellen, <hi rendition="#i">dass die Sorgfalt für die körperliche und geistige Bildung in Griechenland sehr gross und vorzüglich von Ideen der Schönheit geleitet war</hi>.</p>
+<lb/>
+<p rend="h4">25</p>
+<p rendition="#et">Wenn nun irgend eine Vorstellung menschlicher Vollkommenheit Vielseitigkeit und Einheit hervorzubringen im Stande ist; so muss diess diejenige sein, die von dem Begriff der Schönheit und der Vorstellung der sinnlichen ausgeht. Dieser Vorstellungsart zufolge darf es dem moralischen Menschen ebensowenig am richtigen Ebenmaasse der einzelnen Charakterseiten mangeln, als einem schönen Gemählde oder einer schönen Statue an dem Ebenmaasse ihrer Glieder; und wer, wie der Grieche, mit Schönheit der Formen genährt, und so enthusiastisch, wie er, für Schönheit und vorzüglich auch für sinnliche gestimmt ist, der muss endlich gegen die moralische Disproportion ein gleich feines Gefühl besizen, als gegen die physische. Aus allem Gesagten ist also <hi rendition="#i">eine grosse Tendenz der Griechen, den Menschen in der möglichsten Vielseitigkeit und Einheit auszubilden</hi>, unläugbar.</p>
+<p rendition="#et">Bemerken muss ich hier – und zwar gerade hier, weil hier am leichtesten der Einwurf entstehen kann, dem die Bemerkung begegnen soll – dass, was hier von dem Charakter der Griechen gesagt ist, zwar unmöglich von einer ganzen Nation in allen ihren einzelnen Individuen buchstäblich wahr sein kann. Gewiss ist es aber doch, dass es einzelne Individuen der beschriebnen Stimmung wirklich <pb n="14" facs="#f00015"/> gab, dass diese nicht allein häufiger, als anderswo existirten, sondern dass auch gleichsam Nüancen dieser Stimmung in der ganzen Nation verstreut waren, und dass die Schriftsteller, vorzüglich die Dichter und Philosophen – gleichsam der Abdruk des Geistes des edelsten Theils der Nation – auf solche Charaktere vorzüglich führen; und mehr ist nicht nothwendig, um die Erreichung des Zweks möglich zu machen, zu welchem hier das Studium der Alten empfohlen wird.</p>
+<lb/>
+
+
+<p rend="h4">26</p>
+<p rendition="#et">Diese Sorgfalt für die Ausbildung und diese Art der Ausbildung des Menschen zu befördern, trugen noch andre, in der äussren Lage der Griechen gegründete Umstände bei. Zu diesen rechne ich vorzüglich folgende; 1., <hi rendition="#i">die Sklaverei</hi>. Diese überhob den Freien eines grossen Theils der Arbeiten, deren Gelingen einseitige Uebung des Körpers und des Geistes – mechanische Fertigkeiten – erfordert. Er hatte nun Musse, seine Zeit zur Ausbildung seines Körpers durch Gymnastik , seines Geistes durch Künste und Wissenschaften, seines Charakters überhaupt durch thätigen Antheil an der Staatsverfassung, Umgang, und eignes Nachdenken zu bilden. – Dann erhob auch den Freien die Vorstellung seiner Vorzüge vor dem Sklaven, die er nicht bloss dem Glük zu danken glaubte, sondern auf die er durch persönliche Erhabenheit, und – bei der, freilich durch ihren Stand entsprungnen Herabwürdigung der Sklaven – mit Recht, Anspruch machte; die er auch zum Theil, wie bei der Vertheidigung des Vaterlandes, mit Gefahren und Beschwerden erkaufte, die der Sklave nicht mit ihm theilte. – Hieraus zusammengenommen bildete sich die Liberalität, die sich bei keinem Volke wieder in dem hohen Grade findet, d.i. diese Herrschaft edler, grosser, eines Freien wahrhaft würdiger Gesinnungen in der Seele, und dieser lebendige Ausdruk derselben in der Stattlichkeit der Bildung und der Grazie der Bewegungen des Körpers.</p>
+<lb/>
+<p rend="h4"><pb n="15" facs="#f00016"/> 27</p>
+<p rendition="#et">2., <hi rendition="#i">die Regierungsverfassung und politische Einrichtung überhaupt</hi>. Die einzige eigentlich gesezmässige Verfassung in Griechenland war die republikanische, an welcher jeder Bürger mehr oder minder Antheil nehmen konnte. Wer also etwas durchzusezen wünschte, musste, da ihm Gewalt fehlte, Ueberredung gebrauchen. Er konnte also Studium der Menschen, und Fähigkeit sich ihnen anzupassen, Gewandtheit des Charakters, nicht entbehren. Aber das oft überfein ausgebildete Volk verlangte noch mehr. Es gab nicht bloss der Stärke oder der Natur der Gründe nach, es sah auch auf die Form, die Beredsamkeit, das Organ, den körperlichen Anstand. Es blieb also beinah keine Seite übrig, welche der Staatsmann ungestraft vernachlässigen durfte. Dann erforderte die Staatsverwaltung noch nicht abgesonderte weitläuftige Fächer von Kenntnissen, noch Talente dieser Art. Die einzelnen Theile derselben waren noch nicht so getrennt, dass man sich ausschliessend für sein Leben nur Einem gewidmet hätte. Dieselben Eigenschaften, die den Griechen zum grossen Menschen machten, machten ihn auch zum grossen Staatsmann. So fuhr er, indem er an den Geschäften des Staats Theil nahm, nur fort, sich selbst höher und vielseitiger auszubilden.</p>
+<lb/>
+<p rend="h4">28</p>
+<p rendition="#et">3., <hi rendition="#i">die Religion</hi>. Sie war ganz sinnlich, beförderte alle Künste, und erhob sie durch ihre genaue Verbindung mit der Staatsverfassung zu einer bei weitem höheren Würde und grösseren Unentbehrlichkeit. Dadurch nährte sie nicht allein das Schönheitsgefühl, von dem ich oben sprach (24), sondern machte es auch, da an ihren, immer von den Künsten begleiteten Cärimonien das ganze Volk Theil nahm, allgemeiner. Indem nun, wie ich vorhin (25) zu zeigen versucht, diess Schönheitsgefühl die richtige und gleichmässige Ausbildung des Menschen beförderte, trug sie mittelbar hiezu ganz vorzüglich bei.</p>
+<lb/>
+<p><pb n="16" facs="#f00017"/> </p>
+
+<p rend="h4">29</p>
+<p rendition="#et">4., <hi rendition="#i">den Nationalstolz</hi>. Wie der Grieche überhaupt einen hohen Grad von Lebhaftigkeit und Reizbarkeit besass, so drukte sich diese vorzüglich stark in dem Gefühl für Ehre und Nachruhm aus, und bei der engen Verbindung des Bürgers mit dem Staat in Gefühl für Ehre der Nation. Da nun der Werth der Nation auf dem Werthe ihrer Bürger beruhte, und von diesem vorzüglich ihre Siege im Kriege und ihre Blüthe im Frieden abhieng, so verdoppelte dieser Nationalstolz die Aufmerksamkeit auf die Ausbildung des persönlichen Werths. – Dann eignete sich der Ruhm der Nation jedes Verdienst oder Talent eines Einzelnen ihrer Mitbürger zu. Die Nation nahm also jedes in Schuz, und hieraus entstand ein neuer Grund der Achtung für Künste und Wissenschaften.</p>
+<lb/>
+
+
+<p rend="h4">30</p>
+<p rendition="#et">5., <hi rendition="#i">die Trennung Griechenlands in mehrere kleine Staaten</hi>. Wenn ein Staat allein und für sich existirt; so nimmt die Ausbildung seiner Kräfte den Weg, den eine einzelne Kraft nehmen muss. Sie erhöht sich in sich, und wenn sie ein gewisses Maass erreicht hat, artet sie in etwas andres aus. Ihre Ausartungen sind aber immer in ihr allein motivirt, und damit ist allemal Einseitigkeit, nur mehr oder minder, verbunden. In Griechenland aber machte die gegenseitige Gemeinschaft der verschiednen Nationen, die fast alle auf verschiednen Graden der Kultur standen, und eine sehr verschiedne Art der Ausbildung besassen, dass sich von einer Nation auf die andre manches übertrug, und wenn auch, bei der Einrichtung der alten Nationen, das Fremde nur schwer bei ihnen Eingang finden konnte, so gieng doch immer mehr über, als wenn jede abgesondert existirt hätte. Diess geschah aber um so mehr, als doch alle immer Griechen, und also in der ursprünglichen Anlage der Charaktere einander gleich waren, so dass dadurch Uebergänge der Sitten von der einen zur andren erleichtert wurden. – Ja wenn auch diese nicht Statt fanden, machte dennoch das blosse neben einander Existiren und die gegenseitige Eifersucht, dass die eine Vorzüge nicht vernachlässigen durfte, <pb n="17" facs="#f00018"/> durch welche die andre überlegen werden konnte, und aufs mindeste sezte diese Eifersucht die Kräfte einer jeden in thätigere Bewegung.</p>
+<lb/>
+<p rend="h4">31</p>
+<p rendition="#et">3. Moment. (16) Viele zusammenkommende Ursachen brachten zwar bei den Alten sehr entschiedene Nationalcharaktere und daher weniger Diversität in dem Charakter und der Ausbildung der einzelnen Bürger hervor, und so herrschte unter diesen von dieser Seite eine verhältnissmässig geringere Mannigfaltigkeit, als unter den Neueren. Allein auf der andren Seite machten doch auch hievon die mehr wissenschaftlich gebildeten Nationen eine beträchtliche Ausnahme, und ausserdem kamen 2 Umstände zusammen, jene Mannigfaltigkeit wieder, und vielleicht um mehr zu befördern, als sie von jener Seite her litt. 1.,<hi rendition="#i"> die Phantasie des Griechen</hi> war so <hi rendition="#i">reizbar von aussen</hi>, und <hi rendition="#i">er selbst in sich so beweglich</hi>, dass er nicht bloss für jeden Eindruk in hohem Grade empfänglich war, sondern auch jedem einen grossen Einfluss auf seine Bildung erlaubte, durch den wenigstens die ihm an sich eigenthümliche eine veränderte Gestalt annahm.</p>
+<lb/>
+<p rend="h4">32</p>
+<p rendition="#et">2., <hi rendition="#i">die Religion übte schlechterdings keine Herrschaft über den Glauben und die Gesinnungen aus</hi>, sondern schränkte sich auf Cärimonien ein, die jeder Bürger zugleich immer von der politischen Seite betrachtete; <hi rendition="#i">und ebensowenig legten die Ideen von Moralität dem Geiste Fesseln an</hi>, da dieselbe nicht auf einzelne Tugenden und Laster, nach dem Maasse einer einseitig abgewägten Nüzlichkeit oder Schädlichkeit beschränkt war, sondern vielmehr überhaupt nach Ideen der Schönheit und Liberalität bestimmt wurde.</p>
+<lb/>
+<p rend="h4">33</p>
+<p rendition="#et">4. Moment. (17) Ein den Griechischen Charakter vorzüglich auszeichnender Zug ist, wie oben (23) bemerkt worden, ein ungewöhnlicher Grad der Ausbildung des Gefühls <pb n="18" facs="#f00019"/> und der Phantasie in einer noch sehr frühen Periode der Kultur, und ein treueres Bewahren der kindlichen Einfachheit und Naivetät in einer schon ziemlich späten. <hi rendition="#i">Es zeigt sich daher in dem Griechischen Charakter meistentheils der ursprüngliche Charakter der Menschheit überhaupt</hi>, nur mit einem so hohen Grade der Verfeinerung versezt, als vielleicht nur immer möglich sein mag; und vorzüglich ist der Mensch, welchen die Griechischen Schriftsteller darstellen, aus lauter höchst einfachen, grossen und – wenigstens aus gewissen Gesichtspunkten betrachtet – immer schönen Zügen zusammengesezt. Das Studium eines solchen Charakters muss in jeder Lage und jedem Zeitalter allgemein heilsam auf die menschliche Bildung wirken, da derselbe gleichsam die Grundlage des menschlichen Charakters überhaupt ausmacht. Vorzüglich aber muss es in einem Zeitalter, wo durch unzählige vereinte Umstände die Aufmerksamkeit mehr auf Sachen, als auf Menschen, und mehr auf Massen von Menschen, als auf Individuen, mehr auf äussren Werth und Nuzen, als auf innere Schönheit und Genuss gerichtet ist, und wo hohe und mannigfaltige Kultur sehr weit von der ersten Einfachheit abgeführt hat, heilsam sein, auf Nationen zurükzublikken, bei welchen diess alles beinah gerade umgekehrt war.</p>
+<lb/>
+
+
+<p rend="h4">34</p>
+<p rendition="#et"><hi rendition="#i">Ein zweiter vorzüglich charakteristischer Zug der Griechen ist die hohe Ausbildung des Schönheitsgefühls und des Geschmaks und vorzüglich die allgemeine Ausbreitung dieses Gefühls unter der ganzen Nation</hi>, wovon sich Beispiele in Menge aufzählen lassen. Nun aber ist keine Art der Ausbildung in allen Zeiten und Erdstrichen so unentbehrlich, als gerade diese, die das ganze Wesen des Menschen, wie es an sich beschaffen sein möge, erst gleichsam in Eins vereint, und ihm die wahre Politur und den wahren Adel ertheilt; und nun ist auch gerade keine jezt und bei uns so nothwendig, als diese, da es bei uns so eine Menge von Tendenzen giebt, die geradezu von allem Geschmak und Schönheitsgefühl entfernen müssen.</p>
+<lb/>
+<p rend="h4"><pb n="19" facs="#f00020"/> 35</p>
+<p rendition="#et">So ist die Stimmung des Charakters der Griechen nach allen oben aufgezählten Momenten überaus vortheilhaft für das Studium des Menschen überhaupt an derselben, als einem einzelnen Beispiele. Aber diess<hi rendition="#i"> Studium</hi> ist auch bei ihnen vorzüglich <hi rendition="#i">möglich</hi> aus folgenden 2 Umständen: 1., hat sich eine überaus beträchtliche Menge von Denkmälern der Griechischen Welt erhalten, vorzüglich eine Menge litterarischer, welche in jeder Rüksicht zu dem gegenwärtigen Zwekke die wichtigsten sind. 2., erfordert das Studium einer Nation, und vorzüglich aus ihren Denkmälern, ohne lebendiges Anschauen, wenn es irgend gelingen soll, sowohl an sich einen entschiedenen Nationalcharakter, als auch überhaupt abgeschnittene, mit denen des Studirenden kontrastirende Züge. Nun aber geht die Bildung des Menschen in Massen immer der Bildung der Individuen voraus, und darum und aus andren hinzukommenden Ursachen haben alle anfangende Nationen sehr entschiedene und abgeschnittene Nationalcharaktere. Bei den Griechen aber vereinigten sich, diess zu befördern, noch andre, ihnen eigenthümliche Umstände.</p>
+<lb/>
+<p rend="h4">36</p>
+<p rendition="#et">Giebt man zu, dass man in der That zu dem hier ins Licht gestellten Endzwek des Studiums Einer Nation vorzugsweise bedarf; so lässt sich nun auch bald entscheiden: <hi rendition="#i">ob leicht eine andre an die Stelle der Griechischen treten könne</hi>? Es müssten nemlich von einer solchen alle hier aufgestellte Gründe und zwar, welches wohl zu bemerken ist, zusammengenommen gelten, oder die mangelnden durch andre gleich wichtige ersezt werden. Die stärksten unter denselben aber beruhten alle mittelbar und unmittelbar darauf, dass die Griechen, wenigstens für uns, eine anfangende Nation sind. (18-23 33 35) Diess Erforderniss wird also auch unumgänglich nothwendig und unerlasslich sein. Ob sich nun in irgend einem noch unentdekten Erdstrich eine solche Nation zeigen wird<note place="end" n="2"><bibl><ref>/Philosophie/M/Humboldt, Wilhelm von/Über das Studium des Althertums, und des Griechischen insbesondre#F2779</ref></bibl></note>, welche mit dieser Eigenthümlichkeit <pb n="20" facs="#f00021"/> die übrigen, oder ähnliche, oder höhere Vorzüge, als die Griechische, verbände, oder ob genauere Bekanntschaft mit den Chinesern und Indianern diese als solche Nationen zeigen wird? ist im Voraus zu entscheiden nicht möglich. Dass aber weder die Römische, noch gar eine neuere Nation an ihre Stelle treten könne, bewirkt schon der einzige Umstand, dass diese alle aus den Griechen mittelbar und unmittelbar schöpften; und von den übrigen, mit den Griechen gleich alten Nationen haben wir zu wenig Denkmäler übrig. Meines Erachtens werden also die Griechen immer in dieser Rüksicht einzig bleiben; nur dass diess nicht gerade ein ihnen eigner Vorzug, sondern mehr eine Zufälligkeit ihrer und unsrer relativen Lage ist.</p>
+<lb/>
+
+
+<p rend="h4">37</p>
+<p rendition="#et">Wenn das Studium der Griechen in der Absicht unternommen wird, die ich hier dargestellt habe, so erfordert es natürlich seine eignen allgemeinen und besondren Vorschriften. Die allgemeinsten und hauptsächlichsten möchten etwa folgende sein: 1., der Nuzen eines solchen Studiums kann nie durch eine, auch von dem gelehrtesten Manne und dem grössesten Kopfe entworfene Schilderung der Griechen erreicht werden. Denn einmal wird dieselbe immer, wenn sie völlig treu sein soll, nicht individuell genug sein können, und wenn sie völlig individuell sein soll, wird es ihr an Treue mangeln müssen; und zweitens besteht auch der grösseste Nuzen eines solchen Studiums nicht gerade in dem Anschauen eines solchen Charakters, als der Griechische war, sondern in dem eignen Aufsuchen desselben. Denn durch dieses wird der Aufsuchende selbst auf eine ähnliche Weise gestimmt; Griechischer Geist geht in ihn über; und bringt durch die Art, wie er sich mit seinem eignen vermischt, schöne Gestalten hervor. <hi rendition="#i">Es bleibt daher nichts, als eignes Studium übrig, in unaufhörlicher Rüksicht auf diesen Zwek unternommen</hi>.</p>
+<lb/>
+<pb n="21" facs="#f00022"/> <p rend="h4">38</p>
+<p rendition="#et">2., <hi rendition="#i">muss das Studium der Griechen selbst nach einer gewissen systematischen, und auf diesen Endzwek bezogenen Ordnung vorgenommen werden</hi>. Denn wenn gleich alle Schriftsteller in Rüksicht auf diesen Zwek wichtig sind; so hält man sich doch billig fürs erste allein an die reichsten, und wählt in diesen eine feste Ordnung, die aber hier schwer zu finden ist, da, wenn man auf die Materien sehen will, man hier eigentlich nicht die Gattung der Schriftsteller, sondern der Sachen, die sie behandeln, betrachten müsste, und wenn man der Zeit folgen will, es schwer ist, nur zu bestimmen, ob man auf die Periode des Lebens des Schriftstellers, oder auf die der von ihm behandelten Gegenstände, oder auf beides gewissermaassen zugleich sehen solle?</p>
+<lb/>
+
+
+<p rend="h4">39</p>
+<p rendition="#et">3., <hi rendition="#i">muss man am längsten nicht allein bei den Perioden verweilen, in welchen die Griechen am schönsten und gebildetsten waren, sondern auch gerade im Gegentheil ganz vorzüglich bei den ersten und frühesten</hi>. Denn in diesen liegen eigentlich die Keime des wahren Griechischen Charakters; und es ist leichter und interessanter in der Folge zu sehen, wie er nach und nach sich verändert, und endlich ausartet. – Auch passen mehrere der im Vorigen ausgeführten Gründe (22 23 33) ganz vorzüglich nur auf diese frühen Perioden.</p>
+<lb/>
+<p rend="h4">40</p>
+<p rendition="#et">Die Hülfsmittel zu diesem Studium und insbesondre in der hier entwikkelten Absicht sind vorzüglich folgende: 1., <hi rendition="#i">unmittelbare Bearbeitung der Quellen selbst durch Kritik und Interpretation</hi>. Diese verdient natürlich die erste Stelle.</p>
+<lb/>
+
+
+<p rend="h4">41</p>
+<p rendition="#et">2., Schilderung des Zustandes der Griechen, <hi rendition="#i">Griechische Antiquitäten im weitesten Sinne des Worts</hi>, welchem der hier aufgestellte Endzwek die höchste Ausdehnung giebt. <pb n="22" facs="#f00023"/> Diese Hülfsarbeit ist nothwendig theils zum Verständniss der einzelnen Quellen, theils zur allgemeinen Uebersicht, und zur Einleitung in das gesammte Studium überhaupt. Jeder Schriftsteller behandelt nur einen einzelnen Gegenstand, und man ist das Einzelne nicht im Stande in seiner ganzen Anschaulichkeit aufzufassen, ohne von der Lage überhaupt gehörig unterrichtet zu sein.</p>
+<lb/>
+<p rend="h4">42</p>
+<p rendition="#et">3., <hi rendition="#i">Uebersezungen</hi>. Diese können in Absicht des übersezten Schriftstellers einen dreifachen Nuzen haben. 1., ihn diejenigen kennen zu lehren, die sein Original nicht selbst zu lesen im Stande sind. 2., für denjenigen, der das Original selbst liest, zum Verständniss desselben zu dienen. 3., denjenigen, der das Original zu lesen im Begriff ist, vorläufig mit ihm bekannt zu machen, ihn in seine Manier, seinen Geist einzuweihen. Bestimmt man die Wichtigkeit dieses verschiednen Nuzens nach dem hier genommenen Gesichtspunkt, so ist der 1<hi rendition="#sup">ste</hi> der kleinste und geringfügigste; der 2<hi rendition="#sup">te</hi> wichtiger, aber immer klein, da gerade hiezu Uebersezungen die schlechteren Hülfsmittel sind; der 3<hi rendition="#sup">te</hi> aber der wichtigste, da durch ihn die Uebersezung zum Lesen des Originals reizt, und bei dem Leser selbst auf eine höhere Art unterstüzt, indem sie nicht einzelne Stellen verständigt, sondern den Geist des Lesers gleichsam zum Geist des Schriftstellers stimmt, auch der leztere noch klarer erscheint, wenn man ihn in dem zwiefachen Medium zwei verschiedner Sprachen erblikt. Die Erreichung dieses lezten Nuzens muss allein auf die Schäzung des Originals führen, und so ist der höchste Nuzen einer Uebersezung derjenige, welcher sie selbst zerstört. Die Haupterfordernisse einer Uebersezung wechslen nun nach diesem dreifachen Zwekke. Zu dem 1<hi rendition="#sup">sten</hi> wird Anpassung des übersezten alten Schriftstellers auf den modernen Leser, also oft absichtliche Abweichung von der Treue erfordert; zu dem 2<hi rendition="#sup">ten</hi> Treue der Worte und des Buchstabens; zu dem 3<hi rendition="#sup">ten</hi> Treue des Geistes, wenn ich so sagen darf, und des Gewandes, worin er gekleidet ist, wobei also vorzüglich viel auf die Nachahmung der Diktion <pb n="23" facs="#f00024"/> bei Prosaikern und des Rhythmus und des Versbaues bei Dichtern ankommt.</p>
+<lb/>
+<p rend="h4">43</p>
+<p rendition="#et">Um den im Vorigen dargestellten <hi rendition="#i">Nuzen</hi> in seiner ganzen Grösse hervorzubringen, erfordert das Studium des Alterthums die grösseste, ausgebreitetste, und genaueste Gelehrsamkeit, die sich natürlich nur bei sehr Wenigen finden kann. Allein der Nuzen ist immer, wenn gleich in geringeren Graden auch da vorhanden, wo man sich nur überhaupt, wenn gleich mit minderem Streben nach Gründlichkeit, mit diesem Studium beschäftigt; und er theilt sich endlich auch sogar allen denen mit, welchen diess Studium auch ewig ganz fremd bleibt. Denn in der Verbindung einer hoch kultivirten Gesellschaft kann im genauesten Verstande jede Kenntniss eines Einzelnen ein Eigenthum Aller genannt werden.</p>
+<pb n="24" facs="#f00025"/> <lb/>
+
+<p rend="h4">Fußnoten</p>
+<note place="end" n="1"><bibl><ref>/Philosophie/M/Humboldt, Wilhelm von/Über das Studium des Althertums, und des Griechischen insbesondre#N2778</ref>1</bibl> Diess unterscheide ich noch.</note>
+<lb/>
+<note place="end" n="2"><bibl><ref>/Philosophie/M/Humboldt, Wilhelm von/Über das Studium des Althertums, und des Griechischen insbesondre#N2779</ref>2</bibl> Vergl. Kants Krit. d. Urtheilskraft. S. 258-260.</note>
+
+</body></text></TEI>

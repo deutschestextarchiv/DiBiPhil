@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">1. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="1">1. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden um 480 v. Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente</note>
+
+
+<head>Parmenides aus Elea</head>
+<head>Fragmente</head>
+<pb n="148" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Aus: Über die Natur</note>
+
+<head>Aus: Über die Natur</head>
+<p rendition="#et">1. Das Rossegespann, das mich fährt, zog mich fürder, soweit ich nur wollte, nachdem es mich auf den vielgerühmten Weg der Göttin geleitet, der den wissenden Mann durch alle Städte führt. Dort also ging meine Fahrt; dort fuhren mich nämlich die vielverständigen Rosse, die den Wagen zogen, und die Mädchen wiesen den Weg. Die Achse knirschte sich heißlaufend in den Naben mit pfeifendem Tone (denn sie ward beiderseits von zwei wirbelnden Kreisen beflügelt), <pb n="148" facs="#f0002"/> wenn die Heliadenmädchen, welche das Haus der Nacht verlassen und nun den Schleier von ihrem Haupte zurückgeschlagen hatten, die Fahrt zum Lichte beeilten. Da steht das Tor, wo sich die Pfade des Tages und der Nacht scheiden; Türsturz und steinerne Schwelle hält es auseinander; das Tor selbst, das ätherische, hat eine Füllung von großen Flügeltüren; die wechselnden Schlüssel verwahrt Dike, die gewaltige Rächerin. Ihr nun sprachen die Mädchen mit Schmeichelworten zu und beredeten sie klug, ihnen den verpflöckten Riegel geschwind von dem Tore zu stoßen. Da sprang es auf und öffnete weit den Schlund der Füllung, als sich die erzbeschlagenen Pfosten, die mit Zapfen und Dornen eingefügten, nach einander in ihren Pfannen drehten. <pb n="149" facs="#f0003"/> Dorthin mitten durchs Tor lenkten die Mädchen stracks dem Geleise nach Wagen und Rosse. Da nahm mich die Göttin huldreich auf. Sie ergriff meine Rechte und sprach mich mit folgendem Worte an: Jüngling, der Du unsterblichen Lenkern gesellt mit dem Rossegespann, das Dich trägt, unserem Hause nahst, sei mir gegrüßt! Kein böser Stern leitete Dich auf diesen Weg (denn weit ab fürwahr liegt er von der Menschen Pfade), sondern Recht und Gerechtigkeit. So sollst Du denn alles erfahren: der wohlgerundeten Wahrheit unerschütterliches Herz und der Sterblichen Wahngedanken, denen verläßliche Wahrheit nicht innewohnt. Doch wirst Du trotzdem auch das erfahren, wie man bei allseitiger Durchforschung annehmen müßte, daß sich jenes Scheinwesen verhalte.</p>
+<p rendition="#et">Doch von diesem Wege der Forschung halte Du Deinen Gedanken fern und laß Dich nicht durch die vielerfahrene Gewohnheit auf diesen Weg zwingen, [nur] Deinen Blick den ziellosen, Dein Gehör das<pb n="150" facs="#f0004"/> brausende, Deine Zunge walten zu lassen: nein, mit dem Verstande bringe die vielumstrittene Prüfung, die ich Dir riet, zur Entscheidung. Es bleibt Dir dann nur noch Mut zu Einem Wege . . .</p>
+<p rendition="#et">2. Betrachte wie doch das Ferne Deinem Verstande zuverläßig nahe tritt. Denn er wird ja das Seiende nicht aus dem Zusammenhange des Seienden abtrennen, weder so, daß es sich in seinem Gefüge überall gänzlich auflockere, noch so, daß es sich zusammenballe.</p>
+<p rendition="#et">3. Ein Gemeinsames [Zusammenhängendes] aber ist mir [das Seiende,] wo ich auch beginne. Denn dahin werde ich wieder zurückkommen.</p>
+<p rendition="#et"><pb n="151" facs="#f0005"/> 4. Wohlan, so will ich denn verkünden (Du aber nimm mein Wort zu Ohren), welche Wege der Forschung allein denkbar sind: der eine Weg, daß [das Seiende] ist und daß es unmöglich nicht sein kann, das ist der Weg der Überzeugung (denn er folgt der Wahrheit), der andere aber, daß es nicht ist und daß dies Nichtsein notwendig sei, dieser Pfad ist (so künde ich Dir) gänzlich unerforschbar. Denn das Nichtseiende kannst Du weder erkennen (es ist ja unausführbar) noch aussprechen.</p>
+<p rendition="#et">5. Denn [das Seiende] denken und sein ist dasselbe.</p>
+<p rendition="#et"><pb n="152" facs="#f0006"/> 6. Dies ist nötig zu sagen und zu denken, daß [nur] das Seiende existiert. Denn seine Existenz ist möglich, die des Nichtseienden dagegen nicht; das heiß' ich Dich wohl zu beherzigen. Es ist dies nämlich der erste Weg der Forschung, vor dem ich Dich warne. Sodann aber auch vor jenem, auf dem da einherschwanken nichts wissende Sterbliche, Doppelköpfe. Denn Ratlosigkeit lenkt den schwanken Sinn in ihrer Brust. So treiben sie hin stumm zugleich und blind die Ratlosen, urteilslose Haufen, denen Sein und Nichtsein für dasselbe gilt und nicht für dasselbe, für die es bei allem einen Gegenweg gibt.</p>
+<p rendition="#et">7. Denn unmöglich kann das Vorhandensein von Nichtseiendem zwingend erwiesen werden. Vielmehr halte Du Deine Gedanken von diesem Wege der Forschung ferne.</p>
+<p rendition="#et"><pb n="153" facs="#f0007"/> 8. So bleibt nur noch Kunde von Einem Wege, daß [das Seiende] existiert. Darauf stehn gar viele Merkzeichen; weil ungeboren, ist es <pb n="154" facs="#f0008"/> auch unvergänglich, ganz, eingeboren, unerschütterlich und ohne Ende. Es war nie und wird nicht sein, weil es zusammen nur im Jetzt vorhanden ist als Ganzes, Einheitliches, Zusammenhängendes [Kontinuierliches]. Denn was für einen Ursprung willst Du für das Seiende ausfindig machen? Wie und woher sein Wachstum? [Weder aus dem Seienden kann es hervorgegangen sein; sonst gäbe es ja ein anderes Sein vorher], noch kann ich Dir gestatten [seinen Ursprung] aus dem Nichtseienden auszusprechen oder zu denken. Denn unaussprechbar und unausdenkbar ist es, wie es nicht vorhanden sein könnte. Welche Verpflichtung hätte es denn auch antreiben sollen, früher oder später mit dem Nichts zu beginnen und zu wachsen? So muß es also entweder auf alle Fälle oder überhaupt nicht vorhanden sein.</p>
+<p rendition="#et">Auch kann ja die Kraft der Überzeugung niemals einräumen, es könne aus Nichtseiendem irgend etwas anderes als eben Nichtseiendes hervorgehen. Drum hat die Gerechtigkeit Werden und Vergehen nicht <pb n="155" facs="#f0009"/> aus ihren Banden freigegeben, sondern sie hält es fest[.] Die Entscheidung aber hierüber liegt in folgendem: es ist oder es ist nicht! Damit ist also notwendigerweise entschieden, den einen Weg als undenkbar und unsagbar beiseite zu lassen (es ist ja nicht der wahre Weg), den anderen aber als vorhanden und wirklich zu betrachten. Wie könnte nun demnach das Seiende in der Zukunft bestehen, wie könnte es einstmals entstanden sein? Denn entstand es, so ist es nicht und ebensowenig, wenn es in Zukunft einmal entstehen sollte. So ist Entstehen verlöscht und Vergehen verschollen.</p>
+<p rendition="#et">Auch teilbar ist es nicht, weil es ganz gleichartig ist. Und es gibt nirgend etwa ein stärkeres Sein, das seinen Zusammenhang hindern könnte, noch ein geringeres; es ist vielmehr ganz von Seiendem erfüllt. Darum ist es ganz zusammenhängend; denn ein Seiendes stößt dicht an das andere.</p>
+<p rendition="#et">Aber unbeweglich liegt es in den Schranken gewaltiger Bande ohne Anfang und Ende; denn Entstehen und Vergehen ist weit in die Ferne verschlagen, wohin sie die wahre Überzeugung verstieß; und als Selbiges <pb n="156" facs="#f00010"/> im Selbigen verharrend ruht es in sich selbst und verharrt so standhaft alldort. Denn die starke Notwendigkeit hält es in den Banden der Schranke, die es rings umzirkt. Darum darf das Seiende nicht ohne Abschluß sein. Denn es ist mangellos. Fehlte ihm der, so wäre es eben durchaus mangelhaft.</p>
+<p rendition="#et">Denken und des Gedankens Ziel ist ein und dasselbe; denn nicht ohne das Seiende, in dem es sich ausgesprochen findet, kannst Du das Denken antreffen. Es gibt ja nichts und wird nichts anderes geben außerhalb des Seienden, da es ja das Schicksal an das unzerstückelte und unbewegliche Wesen gebunden hat. Darum muß alles leerer Schall sein, was die Sterblichen [in ihrer Sprache] festgelegt haben, überzeugt, es sei wahr: Werden sowohl als Vergehen, Sein sowohl als Nichtsein, Veränderung des Ortes und Wechsel der leuchtenden Farbe.</p>
+<p rendition="#et">Aber da eine letzte Grenze vorhanden, so ist [das Seiende] abgeschlossen <pb n="157" facs="#f00011"/> nach allen Seiten hin, vergleichbar der Masse einer wohlgerundeten Kugel, von der Mitte nach allen Seiten hin gleich stark. Es darf ja nicht da und dort etwa größer oder schwächer sein. Denn da gibt es weder ein Nichts, das eine Vereinigung aufhöbe, noch kann ein Seiendes irgendwie hier mehr, dort weniger vorhanden sein als das Seiende, da es ganz unverletzlich ist. Denn [der Mittelpunkt,] wohin es von allen Seiten gleichweit ist, zielt gleichmäßig auf die Grenzen.</p>
+<p rendition="#et">Damit beschließe ich mein verläßliches Reden und Denken über die Wahrheit. Von hier ab lerne die menschlichen Wahngedanken kennen, indem Du meiner Verse trüglichen Bau anhörst.</p>
+<p rendition="#et">Denn sie haben ihre Ansichten dahin festgelegt, zwei Formen zu benennen; von denen man [freilich] eine nicht [benennen] sollte (in diesem Punkte sind sie in die Irre gegangen). Sie schieden aber [beider]<pb n="158" facs="#f00012"/> Gestalt gegensätzlich und sonderten ihre Merkzeichen voneinander: hier das ätherische Flammenfeuer, das milde, gar leichte, sich selber überall gleiche, dem anderen, aber ungleiche. Dagegen gerade entgegengesetzt die lichtlose Finsternis, ein dichtes und schweres Gebilde. Diese Welteinrichtung teile ich Dir, scheinbar wie sie ist, ganz mit; so ist's unmöglich, daß Dir irgend welche menschliche Ansicht den Rang ablaufe.</p>
+<p rendition="#et">9. Aber da alles [Einzelne] Licht und Finsternis benannt und nach ihren Kräften diese Namen diesen und jenen zugeteilt worden, so ist <pb n="159" facs="#f00013"/> das All voll von Licht und zugleich von unsichtbarer Finsternis, die sich beide die Wage halten. Denn keinem kommt ein Anteil am anderen zu.</p>
+<p rendition="#et">10. Du wirst aber erfahren des Äthers Wesen und alle Sternbilder im Äther und der reinen klaren Sonnenfackel sengendes Wirken, und woher sie entstanden, und das irrende Wirken und Wesen des rundäugigen Mondes wirst Du erkunden, wirst aber auch erfahren, woher der rings umfassende Himmel entsproß und wie die Notwendigkeit ihn führend die Schranken der Gestirne festzuhalten zwang.</p>
+<p rendition="#et">11. [Ich will zu reden beginnen,] wie Erde und Sonne und Mond und <pb n="160" facs="#f00014"/> der allumfassende Himmelsäther und die himmlische Milchstraße und der äußerste Olympos und der Sterne heiße Kraft zur Geburt strebten.</p>
+<p rendition="#et">12. Denn die engeren [Kränze] wurden angefüllt mit ungemischtem Feuer, die nach diesen folgenden mit Finsternis, dazwischen aber ergießt sich des Feuers Anteil. In der Mitte von diesen ist die Göttin, die<pb n="161" facs="#f00015"/> alles lenkt. Denn überall regt sie weherfüllte Geburt und Paarung an, indem sie das Weib dem Manne zur Gattung sendet und umgekehrt den Mann dem Weibe.</p>
+<p rendition="#et">13. Zuerst erschuf sie [die Göttin] von allen Göttern den Eros.</p>
+<p rendition="#et">14. Nachterhellendes, um die Erde irrendes fremdes Licht.</p>
+<p rendition="#et">15. [Der Mond] stets schauend nach der Sonne Strahlen.</p>
+<p rendition="#et">15<hi rendition="#sup">a</hi>. [P. nannte die Erde] ›im Wasser gewurzelt‹.</p>
+<p rendition="#et"><pb n="162" facs="#f00016"/> 16. Denn wie sich der Sinn jedesmal verhält in bezug auf die Mischung seiner vielfach irrenden Organe, so tritt er dem Menschen nahe. Denn ein und dasselbe ist's was denkt bei den Menschen allen und einzelnen: die Beschaffenheit seiner Organe. Denn das Mehrere ist der Gedanke.</p>
+<p rendition="#et">17. Auf der Rechten [der Gebärmutter entstehen] die Knaben, auf der Linken die Mädchen.</p>
+<p rendition="#et">18. Denn wenn Mann und Frau der Liebe Keime mischen, formt die Kraft, die sie in den Adern aus verschiedenem Blute bildet, wenn sie die gleichmäßige Mischung erhält, wohlgebaute Körper. Doch wenn in dem gemischten Samen verschiedene Kräfte streiten und diese in dem <pb n="163" facs="#f00017"/> gemischten Körper keine Einheit schaffen, so werden sie graunvoll das keimende Leben durch Doppelgeschlechtigkeit heimsuchen.</p>
+<p rendition="#et">19. Also entstand dies nach dem Wahne und besteht noch jetzt und wird von nun an in Zukunft so wachsen und dann sein Ende nehmen. Einem jeglichen dieser Dinge aber haben die Menschen ihren Namensstempel aufgedrückt.</p>
+<p rendition="#et">20. Aber darunter befindet sich ein Pfad, ein schauriger, lehmiger Hohlweg. Dieser führt am besten zum lieblichen Haine der weitverehrten Aphrodite.</p>
+<p rendition="#et">21. Mit täuschendem Lichte.</p>
+<p rendition="#et">22. Wunderbar schwer zu überzeugen [= Plato Parm. 135 A].</p>
+<p rendition="#et">23. [Inseln der Seligen hieß vor Alters die Burg des böotischen Theben].</p>
+<p rendition="#et"><pb n="164" facs="#f00018"/> 24. [Die Telchinen entstanden aus den Hunden des Aktaion, die Zeus in Menschen verwandelte].</p>
+<p rendition="#et">25. [= Empedokl. fr. 28.]</p>
+
+</div>
+
+</body></text></TEI>

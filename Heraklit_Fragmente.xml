@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Fragmente der Vorsokratiker</title>
+        <title type="volume">1. Band</title>
+        <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author><editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/115266127">
+            <surname>Geyken</surname>
+            <forename>Alexander</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1018099549">
+            <surname>Haaf</surname>
+            <forename>Susanne</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName ref="http://d-nb.info/gnd/1019062681">
+            <surname>Jurish</surname>
+            <forename>Bryan</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Thomas</surname>
+            <forename>Christian</forename>
+          </persName>
+        </editor>
+        <editor corresp="#DTACorpusPublisher">
+          <persName>
+            <surname>Wiegand</surname>
+            <forename>Frank</forename>
+          </persName>
+        </editor>
+        <respStmt><persName>
+            <surname>Boenig</surname>
+            <forename>Matthias</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1204665788">
+            <surname>Hug</surname>
+            <forename>Marius</forename>
+          </persName><persName>
+            <surname>Bracke</surname>
+            <forename>Yannic</forename>
+          </persName><persName>
+            <surname>Dietrich</surname>
+            <forename>Dennis</forename>
+          </persName><persName ref="http://d-nb.info/gnd/1018099549"><surname>Haaf</surname><forename>Susanne</forename></persName><orgName ref="https://www.bbaw.de">BBAW</orgName><resp>
+            <note type="remarkResponsibility">ZDL (AP3): Anreicherung und Korrektur der Metadaten. Konversion und Kuration der Textsammlung.</note>
+          </resp></respStmt>
+        <respStmt>
+          <orgName>Editura GmbH &amp; Co. KG</orgName>
+          <resp>
+            <note type="remarkResponsibility">Digitalisierung von allgemeinfreien Werken und zugehörigen Metadaten. Publikation der Daten als "Digitale Bibliothek".</note>
+          </resp>
+        </respStmt>
+        
+        
+        <respStmt>
+          <orgName ref="https://www.clarin-d.de">CLARIN-D</orgName>
+          <resp>
+            <note type="remarkResponsibility">Langfristige Bereitstellung der DTA-Ausgabe.</note>
+            <ref target="https://clarin.bbaw.de"/>
+          </resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>DTABf-Version des ursprünglich von der Editura GmbH &amp; Co. KG digitalisierten, vom TextGrid Verbund erworbenen und von EncycNet nach TEI konvertierten Textes.</edition>
+      </editionStmt>
+      <extent><measure type="images"/><measure type="tokens"/><measure type="types"/><measure type="characters"/></extent>
+      <publicationStmt>
+        <publisher xml:id="DTACorpusPublisher">
+          <email>dta@bbaw.de</email>
+          <orgName role="project">Deutsches Textarchiv</orgName>
+          <orgName role="hostingInstitution" xml:lang="en">Berlin-Brandenburg Academy of Sciences
+            and Humanities (BBAW)</orgName>
+          <orgName role="hostingInstitution" xml:lang="de">Berlin-Brandenburgische Akademie der
+            Wissenschaften (BBAW)</orgName>
+          <address>
+            <addrLine>Jägerstr. 22/23, 10117 Berlin</addrLine>
+            <country>Germany</country>
+          </address>
+        </publisher>
+        <pubPlace>Berlin</pubPlace>
+        <date type="publication">2023-06-02T12:00:00Z</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <bibl type="M">Die Fragmente der Vorsokratiker. Griechisch und Deutsch von Hermann Diels. Vierte
+      Auflage, 1. und 2. Band, Berlin: Weidmannsche Buchhandlung, 1922.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title level="m" type="main">Die Fragmente der Vorsokratiker</title>
+      <title level="m" type="sub">Griechisch und Deutsch von Hermann Diels</title>
+      <title level="m" type="volume" n="1">1. Band</title>
+      <author><persName ref="http://d-nb.info/gnd/61457">
+        <forename>Hermann</forename>
+        <surname>Diels</surname>
+      </persName>
+      </author></titleStmt>
+          <editionStmt>
+            <edition n="4">{4}</edition>
+      </editionStmt>
+          <extent/>
+          <publicationStmt>
+            <publisher><name>Weidmannsche Buchhandlung</name>
+      </publisher><pubPlace>Berlin</pubPlace>
+      <date type="publication">1922</date>
+      <date type="firstPublication">1903</date>
+    </publicationStmt>
+          <seriesStmt><title type="main"/></seriesStmt>
+          <notesStmt>
+            <note>
+      Entstanden Ende des 6. bzw. Anfang des 5. Jahrhunderts v. Chr. Der Text folgt der Übersetzung durch Hermann Diels von 1901, von dem auch die Anordnung und Numerierung der Fragmente sowie die in eckigen Klammern eingeschlossenen Ergänzungen und Erläuterungen des überlieferten Textes herrühren.
+   </note>
+   </notesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <repository/>
+            <idno>
+              <idno/>
+            </idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <p/>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl><p>Dieser digitale Volltext wurde durch Transformation, Konvertierung und manuelle Erfassung aus mehreren Text- und Datenressourcen gewonnen.</p><p>Der Text ist kodiert nach <ref target="http://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p></editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="deu">German</language>
+      </langUsage>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+    </profileDesc>
+  </teiHeader><text><body>
+<note type="editorial">Fragmente</note>
+
+
+<head>Heraklit aus Ephesus</head>
+<head>Fragmente</head>
+<pb n="77" facs="#f0001"/>
+
+
+<div n="1">
+<note type="editorial">Aus: Über die Natur</note>
+
+<head>Aus: Über die Natur</head>
+<p rendition="#et">1. Für dies Wort [Weltgesetz] aber, ob es gleich ewig ist, gewinnen die Menschen kein Verständnis, weder ehe sie es vernommen noch sobald sie es vernommen. Alles geschieht nach diesem Wort, und doch geberden sie sich wie Unerprobte, so oft sie es probieren mit solchen Worten und Werken, wie ich sie künde, ein jegliches nach seiner Natur zerlegend und deutend, wie sich's damit verhält. Die anderen Menschen wissen freilich nicht, was sie im Wachen tun, wie sie ja auch vergessen, was sie im Schlafe [tun].</p>
+<p rendition="#et">2. Drum ist's Pflicht dem Gemeinsamen zu folgen. Aber obschon das Wort [Weltgesetz] allen gemein ist, leben die meisten doch so, als ob sie eine eigene Einsicht hätten.</p>
+<p rendition="#et"><pb n="77" facs="#f0002"/> 3. [Die Sonne hat] die Breite des menschlichen Fußes.</p>
+<p rendition="#et">4. Bestände das Glück in körperlichen Lustgefühlen, so müßte man die Ochsen glücklich nennen, wenn sie Erbsen zu fressen finden.</p>
+<p rendition="#et">5. Reinigung von Blutschuld suchen sie vergeblich, indem sie sich mit Blut besudeln, wie wenn einer der in Kot getreten, sich mit Kot abwaschen wollte. Für wahnsinnig würde ihn doch halten, wer etwa von den Leuten ihn bei solchem Treiben bemerkte. Und sie beten auch zu diesen Götterbildern, wie wenn einer mit Gebäuden Zwiesprache pflegen wollte. Sie kennen eben die Götter und Heroen nicht nach ihrem wahren Wesen.</p>
+<p rendition="#et">6. [Die Sonne ist] neu an jedem Tag.</p>
+<p rendition="#et">7. Würden alle Dinge zu Rauch, würde man sie mit der Nase unterscheiden.</p>
+<p rendition="#et"><pb n="78" facs="#f0003"/> 8. Das auseinander Strebende vereinigt sich und aus den verschiedenen [Tönen] entsteht die schönste Harmonie und alles entsteht durch den Streit.</p>
+<p rendition="#et">9. Esel würden Häckerling dem Golde vorziehen.</p>
+<p rendition="#et">10. [Auch die Natur strebt wohl nach dem Entgegengesetzten und bringt hieraus und nicht aus dem Gleichen den Einklang hervor, wie sie z.B. das männliche mit dem weiblichen Geschlechte paarte und nicht etwa beide mit dem gleichen, und die erste Eintracht durch Vereinigung des Gegensätzlichen, nicht des Gleichartigen herstellte. Auch die Kunst bringt dies, offenbar durch Nachahmung der Natur, zustande. Die Malerei mischt auf dem Bilde die Bestandteile der weißen und schwarzen, der gelben und roten Farbe und bewirkt dadurch die Ähnlichkeit mit dem Originale; die Musik mischt hohe und tiefe, lange und kurze Töne in verschiedenen Stimmen und bringt dadurch eine einheitliche Harmonie zustande; die Schreikunst mischt Vokale und <pb n="79" facs="#f0004"/> Konsonanten und stellt daraus die ganze Kunst zusammen. Das gleiche spricht sich auch in dem Worte des dunklen Herakleitos aus:] Verbindungen sind: Ganzes und Nichtganzes, Eintracht, Zwietracht, Einklang, Mißklang und aus allem eins und aus einem alles.</p>
+<p rendition="#et">11. Alles, was da kreucht, wird mit [Gottes] Geißel zur Weide getrieben.</p>
+<p rendition="#et">12. Wer in dieselben Finten hinabsteigt, dem strömt stets anderes</p>
+<p rendition="#et">Wasser zu. Auch die Seelen dünsten aus dem Feuchten hervor. 13. Am Dreck sich ergetzen.</p>
+<p rendition="#et"><pb n="80" facs="#f0005"/> 14. [Wem prophezeit Heraklit?] Den Nachtschwärmern, Magiern, Bakchen, Mänaden und Eingeweihten. [Diesen droht er mit der Strafe nach dem Tode, diesen prophezeit er das Feuer.] Denn in unheiliger Weise findet die Einführung in die Weihen statt wie sie bei den Leuten im Schwange sind.</p>
+<p rendition="#et">15. Denn wenn es nicht Dionysos wäre, dem sie die Prozession veranstalten und das Phalloslied singen, so wär's ein ganz schändliches Tun. Ist doch Hades eins mit Dionysos, dem sie da toben und Fastnacht feiern!</p>
+<p rendition="#et">16. Wie kann einer verborgen bleiben vor dem, was nimmer untergeht!</p>
+<p rendition="#et">17. Denn viele hegen nicht solche Gedanken, so viele auch darauf stoßen, noch verstehen sie, wenn man sie belehrt; aber sie bilden es sich ein.</p>
+<p rendition="#et">18. Wenn er's nicht erhofft, wird er das Unverhoffte nicht finden. Denn sonst ist's unerforschlich und unzugänglich.</p>
+<p rendition="#et"><pb n="81" facs="#f0006"/> 19. Leute, die weder zu hören noch zu reden verstehen.</p>
+<p rendition="#et">20. [Heraklit scheint die Geburt als ein Unglück zu betrachten, wenn er sagt:] Wann sie geboren sind, schicken sie sich an zu leben und dadurch den Tod zu erleiden, oder vielmehr auszuruhen, und sie hinterlassen Kinder, daß auch sie den Tod erleiden.</p>
+<p rendition="#et">21. Tod ist alles, was wir im Wachen sehen, und Schlaf, was im Schlummer.</p>
+<p rendition="#et">22. Denn die Goldgräber schaufeln viel Erde und finden wenig. 23. Gäb' es jenes [das Ungerechte?] nicht, so kennten sie der Dike Namen nicht.</p>
+<p rendition="#et">24. Im Kriege Gefallene ehren Götter und Menschen.</p>
+<p rendition="#et">25. Größerer Tod empfängt größere Belohnung.</p>
+<p rendition="#et"><pb n="82" facs="#f0007"/> 26. Der Mensch zündet sich in der Nacht ein Licht an, wann er gestorben ist und doch lebt. Er berührt den Toten im Schlummer, wann sein Augenlicht erloschen; im Wachen berührt er den schlummernden.</p>
+<p rendition="#et">27. Der Menschen wartet nach dem Tode, was sie nicht erwarten oder wähnen.</p>
+<p rendition="#et">28. Denn was der Glaubwürdigste erkennt, festhält, ist nur Glaubliches. Aber freilich die Lügenschmiede und ihre Eideshelfer wird doch auch Dike zu fassen wissen.</p>
+<p rendition="#et">29. Eins gibt es, was die Besten allem anderen vorziehen: den Ruhm den ewigen den vergänglichen Dingen. Die Meisten freilich liegen da vollgefressen wie das liebe Vieh.</p>
+<p rendition="#et"><pb n="83" facs="#f0008"/> 30. Diese Weltordnung, dieselbige für alle Wesen, hat kein Gott und kein Mensch geschaffen, sondern sie war immerdar und ist und wird sein ewig lebendiges Feuer, nach Maßen erglimmend und nach Maßen erlöschend.</p>
+<p rendition="#et">31. Feuers Wandlungen: erstens Meer, die Hälfte davon Erde, die andere Glutwind. [Das bedeutet, daß das Feuer durch das das Weltall regierende] Wort [oder Gott durch die Luft hindurch in Wasser verwandelt wird als den Keim der Weltbildung, den er] Meer [nennt. Daraus entsteht wiederum Erde, Himmel und das dazwischen Liegende. Wie dann die Welt wieder ins Ursein zurückkehrt und der Weltbrand entsteht, spricht er klar im Folgenden aus:] Es [das Feuer] zerfließt als Meer und erhält sein Maß nach demselben Wort [Gesetz] wie es galt, ehe denn es Erde ward.</p>
+<p rendition="#et"><pb n="84" facs="#f0009"/> 32. Eins, das allein Weise, will nicht und will doch auch wieder mit Zeus' Namen benannt werden.</p>
+<p rendition="#et">33. Gesetz heißt auch dem Willen eines einzigen folgen.</p>
+<p rendition="#et">34. Sie verstehen es nicht, auch wenn sie es vernommen. So sind sie wie Taube. Das Sprichwort bezeugt's ihnen: ›Anwesend sind sie abwesend‹.</p>
+<p rendition="#et">35. Gar vieler Dinge kundig müssen weisheitsliebende Männer sein.</p>
+<p rendition="#et">36. Für die Seelen ist es Tod zu Wasser zu werden, für das Wasser Tod zur Erde zu werden. Aus der Erde wird Wasser, aus Wasser Seele.</p>
+<p rendition="#et">37. Säue baden sich in Kot, Geflügel in Staub oder Asche.</p>
+<p rendition="#et">38. Thales [war nach einigen der] erste Astronom. [Das bezeugt auch Heraklit und Demokrit..]</p>
+<p rendition="#et">39. In Priene lebte Bias des Teutames Sohn, dessen Ruf [Geltung] größer ist als der der andern.</p>
+<p rendition="#et"><pb n="85" facs="#f00010"/> 40. Vielwisserei lehrt nicht Verstand haben. Sonst hätte es den Hesiod belehrt und Pythagoras, ferner auch Xenophanes und Hekataios.</p>
+<p rendition="#et">41. In Einem besteht die Weisheit, die Vernunft zu erkennen, als welche alles und jedes zu lenken weiß.</p>
+<p rendition="#et">42. Homer verdiente aus den Preiswettkämpfen verwiesen und mit Ruten gestrichen zu werden und ebenso Archilochos.</p>
+<p rendition="#et">43. Frevelmut soll man eher löschen als Feuersbrunst.</p>
+<p rendition="#et">44. Das Volk soll kämpfen um sein Gesetz wie um seine Mauer.</p>
+<p rendition="#et">45. Der Seele Grenzen kannst du nicht ausfinden, und ob du jegliche Straße abschrittest; so tiefen Grund hat sie.</p>
+<p rendition="#et">46. [Eigendünkel nannte er] eine fallende Sucht [und trügerisch das Auge.]</p>
+<p rendition="#et"><pb n="86" facs="#f00011"/> 47. Urteilen wir nicht vorschnell über die wichtigsten Dinge ab!</p>
+<p rendition="#et">48. Des Bogens Name ist also Leben, sein Werk Tod.</p>
+<p rendition="#et">49. Einer gilt mir zehntausend, falls er der Beste ist.</p>
+<p rendition="#et">49<hi rendition="#sup">a</hi>. In dieselben Fluten steigen wir und steigen wir nicht: wir sind es und sind es nicht.</p>
+<p rendition="#et">50. Habt ihr nicht mich, sondern mein Wort [Gesetz] vernommen, ist es weise zuzugestehen, daß alles eins ist.</p>
+<p rendition="#et">51. Sie verstehen nicht, wie es [das Eine] auseinanderstrebend ineinander geht: gegenstrebige Vereinigung wie beim Bogen und der Leier.</p>
+<p rendition="#et"><pb n="87" facs="#f00012"/> 52. Die Zeit ist ein Knabe, der spielt, hin und her die Brettsteine setzt: Knabenregiment!</p>
+<p rendition="#et">53. Krieg ist aller Dinge Vater, aller Dinge König. Die einen macht er zu Göttern, die anderen zu Menschen, die einen zu Sklaven, die anderen zu Freien.</p>
+<p rendition="#et">54. Verborgene Vereinigung besser als offene.</p>
+<p rendition="#et">55. Alles, was man sehen, hören und lernen kann, das ziehe ich vor.</p>
+<p rendition="#et">56. Die Menschen lassen sich über die Kenntnis der sichtbaren Dinge ähnlich zum besten halten wie Homer, der doch weiser war als die Hellenen allesamt. Ihn foppten nämlich Jungen, die der Läusejagd oblagen, indem sie ihm zuriefen: alles was wir gesehen und gegriffen, lassen wir da; was wir aber nicht gesehen und nicht gegriffen, das bringen wir mit,</p>
+<p rendition="#et">57. Lehrer aber der meisten ist Hesiod. Sie sind überzeugt, er weiß am meisten, er der doch Tag und Nacht nicht kannte. Ist ja doch eins!</p>
+<p rendition="#et"><pb n="88" facs="#f00013"/> 58. Und Gut und Schlecht [ist eins.] Fordern doch die Ärzte, wenn sie [die Kranken] auf jede Art schneiden, brennen [und schlimm quälen,] noch Lohn dazu [von den Kranken,] während sie doch durchaus nicht verdienten, solchen zu erhalten, da sie ja nur dasselbe bewirken, [d.h. durch ihre Guttaten die Krankheiten nur aufheben.]</p>
+<p rendition="#et">59. Der Walkerschraube Weg, grad und krumm, ist ein und derselbe.</p>
+<p rendition="#et">60. Der Weg auf und ab ist ein und derselbe.</p>
+<p rendition="#et">61. Meerwasser ist das reinste und scheußlichste: für Fische trinkbar und lebenerhaltend, für Menschen untrinkbar und tötlich.</p>
+<p rendition="#et">62. Unsterbliche sterblich, Sterbliche unsterblich: sie leben gegenseitig ihren Tod und sterben ihr Leben.</p>
+<p rendition="#et"><pb n="89" facs="#f00014"/> 63. [Er spricht auch von einer Auferstehung des Fleisches, des irdischen, sichtbaren, in dem wir geboren sind, und weiß, daß Gott diese Auferstehung bewirkt. Sein Ausspruch lautet:] Vor ihm aber, der dort ist, erhöben sie sich und wach würden Wächter der Lebendigen und der Toten. [Er sagt aber auch, es finde ein Gericht der Welt und alles dessen, was drinnen ist, durch Feuer statt, in folgendem:]</p>
+<p rendition="#et">64. Das Weltall aber steuert der Blitz, [d.h. er lenkt es. Unter Blitz versteht er nämlich das ewige Feuer. Er sagt auch, dieses Feuer sei vernunftbegabt und Ursache der ganzen Weltregierung. Er nennt]</p>
+<p rendition="#et">65. [es aber] Mangel und Überfluß. [Mangel ist nach ihm die Weltbildung,]</p>
+<p rendition="#et">66. [dagegen der Weltbrand Überfluß.] Denn alles, [sagt er,] wird das Feuer, das heranrücken wird, richten und verdammen.</p>
+<p rendition="#et">67. Gott ist Tag Nacht, Winter Sommer, Krieg Frieden, Überfluß und <pb n="90" facs="#f00015"/> Hunger. Er wandelt sich aber wie das Feuer, das, wenn es mit Räucherwerk vermengt wird, nach dem Duft, den ein jegliches [ausströmt,] benannt wird.</p>
+<p rendition="#et">67<hi rendition="#sup">a</hi>. Wie die Spinne, die in der Mitte ihres Netzes sitzt, merkt, sobald eine Fliege irgend einen Faden ihres Netzes zerstört, und darum schnell dahin eilt, als ob sie um die Herstellung [?] des Fadens sich härmte, so wandert des Menschen Seele bei der Verletzung irgend eines Körperteils rasch dahin, als ob sie über die Verletzung des Körpers, mit dem sie fest und nach einem bestimmten Verhältnis verbunden ist, ungehalten sei.</p>
+<p rendition="#et"><pb n="91" facs="#f00016"/> 68. Heilmittel [nannte er die auf die Seele wirkenden Sühnmittel.]</p>
+<p rendition="#et">69. [Bei den Opfern sind zwei Arten zu unterscheiden. Die einen werden dargebracht von innerlich vollständig gereinigten Menschen, wie das hier und da bei einem Einzelnen vorkommen mag, wie Heraklit sagt, oder bei einigen wenigen, leicht zu zählenden Männern. Die anderen aber sind materiell] usw.</p>
+<p rendition="#et">70. Kinderspiele [nannte er die menschlichen Gedanken.]</p>
+<p rendition="#et">71. [Man soll sich auch an den Mann erinnern,] der vergißt, wohin der Weg führt.</p>
+<p rendition="#et">72. Mit dem Worte, mit dem sie doch am meisten beständig zu verkehren haben, [dem Lenker des Alls,] entzweien sie sich, und die Dinge, auf die sie täglich stoßen, scheinen ihnen fremd.</p>
+<p rendition="#et">73. Man soll nicht handeln und reden wie Schlafende. [Denn auch im Schlaf glauben wir zu handeln und zu reden.]</p>
+<p rendition="#et">74. [Man soll es ferner nicht tun] als Kinder der Erzeuger, [d.h. schlicht ausgedrückt ›wie wir es überkommen haben‹.]</p>
+<p rendition="#et"><pb n="92" facs="#f00017"/> 75. [Die Schlafenden nennt, glaub' ich, Heraklit] Arbeiter und Mitwirker an den Weltereignissen.</p>
+<p rendition="#et">76. Feuer lebt der Erde Tod und Luft des Feuers Tod; Wasser lebt der Luft Tod und Erde den des Wassers [?].</p>
+<p rendition="#et">77. Für die Seelen ist es Lust oder Tod naß zu werden. [Die Lust bestehe aber in ihrem Eintritt in das Leben. Anderswo aber sagt er:] Wir leben jener, [der Seelen,] Tod und jene leben unsern Tod.</p>
+<p rendition="#et">78. Denn des Menschen Sinn hat keine Einsichten, wohl aber der göttliche.</p>
+<p rendition="#et">79. Kindisch heißt der Mann der Gottheit wie der Knabe dem Manne.</p>
+<p rendition="#et"><pb n="93" facs="#f00018"/> 80. Man soll aber wissen, daß der Krieg das Gemeinsame ist und das Recht der Streit, und daß alles durch Streit und Notwendigkeit zum Leben kommt.</p>
+<p rendition="#et">81. [Die rednerische Unterweisung zielt mit all ihren Lehrsätzen auf diesen Punkt und nach Heraklit ist sie] Führer zur Abschlachtung.</p>
+<p rendition="#et">82. [Der schönste Affe ist häßlich mit dem Menschengeschlechte verglichen.]</p>
+<p rendition="#et">83. [Der weiseste Mensch wird gegen Gott gehalten wie ein Affe erscheinen in Weisheit, Schönheit und allem andern.]</p>
+<p rendition="#et">84. Sich wandelnd ruht es aus [das ätherische Feuer im menschlichen Körper] [und] Es ist ermattend, denselben [Herren] zu frohnen und dienen.</p>
+<p rendition="#et">85. Mit dem Herzen zu kämpfen ist hart. Denn jeden seiner Wünsche erkauft man um seine Seele.</p>
+<p rendition="#et"><pb n="94" facs="#f00019"/> 86. [Die Kenntnis des Göttlichen] entzieht sich [größtenteils] dem Verständnis, weil man nicht daran glaubt.</p>
+<p rendition="#et">87. Ein hohler Mensch pflegt bei jedem Wort erschreckt dazustehen.</p>
+<p rendition="#et">88. Und es ist immer ein und dasselbe was in uns wohnt: Lebendes und Totes und das Wache und das Schlafende und Jung und Alt. Wenn es umschlägt, ist dieses jenes und jenes wiederum, wenn es umschlägt, dieses.</p>
+<p rendition="#et">89. Die Wachenden haben eine gemeinsame Welt, [doch im Schlummer wendet sich jeder von dieser ab an seine eigene.]</p>
+<p rendition="#et">90. Umsatz findet wechselweise statt des Alls gegen das Feuer und des Feuers gegen das All, wie des Goldes gegen Waren und der Waren gegen Gold.</p>
+<p rendition="#et"><pb n="95" facs="#f00020"/> 91. Man kann nicht zweimal in denselben Fluß steigen [nach Heraklit und nicht zweimal eine ihrer Beschaffenheit nach identische vergängliche Substanz berühren, sondern durch das Ungestüm und die Schnelligkeit ihrer Umwandlung] zerstreut und sammelt sie wiederum und naht sich und entfernt sich.</p>
+<p rendition="#et">92. Die Sibylle, die mit rasendem Munde Ungelachtes und Ungeschminktes und Ungesalbtes redet, [reicht mit ihrer Stimme durch tausend Jahre.] Denn der Gott treibt sie.</p>
+<p rendition="#et">93. Der Herr, der das Orakel in Delphi besitzt, sagt nichts und birgt nichts, sondern er deutet an.</p>
+<p rendition="#et">94. Denn die Sonne wird ihre Maße nicht überschreiten; ansonst werden sie die Erinyen, der Dike Schergen, ausfindig machen.</p>
+<p rendition="#et"><pb n="96" facs="#f00021"/> 95. Denn seinen Unverstand bergen ist besser: [nur ist's schwer in der Ausgelassenheit und beim Wein.]</p>
+<p rendition="#et">96. Denn Leichname sollte man eher wegwerfen als Mist.</p>
+<p rendition="#et">97. Denn Hunde bellen die an, die sie nicht kennen.</p>
+<p rendition="#et">98. Die Seelen riechen im Hades.</p>
+<p rendition="#et">99. Gäb' es keine Sonne, trotz der übrigen Gestirne wär' es Nacht.</p>
+<p rendition="#et">100. [Die Sonne als Wächterin des Jahreslaufs bringt die Veränderungen zum Vorschein und] die Horen, die alles bringen.</p>
+<p rendition="#et">101. Ich habe mich selbst gesucht.</p>
+<p rendition="#et">101<hi rendition="#sup">a</hi>. Augen sind genauere Zeugen als die Ohren.</p>
+<p rendition="#et"><pb n="97" facs="#f00022"/> 102. Bei Gott ist alles schön und gut und gerecht; die Menschen aber halten einiges für gerecht, anderes für ungerecht.</p>
+<p rendition="#et">103. Denn beim Kreisumfang ist Anfang und Ende gemeinsam. 104. Denn was ist ihr Sinn oder Verstand? Straßensängern glauben sie und zum Lehrer haben sie den Pöbel. Denn sie wissen nicht, daß die meisten schlecht und nur wenige gut sind.</p>
+<p rendition="#et">105. Homer [sei ein] Astrologe [gewesen, schließt Heraklit aus dieser Stelle [Ilias 18, 251] ›Auch wurden in einer Nacht sie geboren‹ und aus [6,478] ›Nie so mein ich, entrann von den Sterblichen einer dem Schicksal‹.]</p>
+<p rendition="#et">106. Ein Tag ist wie der andere.</p>
+<p rendition="#et">107. Schlimme Zeugen sind Augen und Ohren den Menschen, sofern sie Barbarenseelen haben.</p>
+<p rendition="#et"><pb n="98" facs="#f00023"/> 108. Keiner von allen, deren Worte ich vernommen, gelangt dazu zu erkennen, daß die Weisheit etwas von allem abgesondertes ist.</p>
+<p rendition="#et">109. Seinen Unverstand zu bergen ist besser [als ihn zur Schau zu stellen.]</p>
+<p rendition="#et">110. Für die Menschen wäre es nicht besser, wenn ihnen alle ihre</p>
+<p rendition="#et">Wünsche erfüllt würden.</p>
+<p rendition="#et">111. Krankheit macht die Gesundheit angenehm, Übel das Gute Hunger den Überfluß, Mühe die Ruhe.</p>
+<p rendition="#et">112. Das Denken ist der größte Vorzug, und die Weisheit besteht darin, die Wahrheit zu sagen und nach der Natur zu handeln, auf sie hinhörend.</p>
+<p rendition="#et">113. Gemeinsam ist allen das Denken.</p>
+<p rendition="#et">114. Wenn man mit Verstand reden will, muß man sich wappnen mit diesem allen Gemeinsamen wie eine Stadt mit dem Gesetz und noch <pb n="99" facs="#f00024"/> stärker. Nähren sich doch alle menschlichen Gesetze aus dem einen göttlichen. Denn es gebietet, soweit es nur will, und genügt allem und siegt ob allem.</p>
+<p rendition="#et">115. Der Seele ist das Wort [Weltvernunft] eigen, das sich selbst mehrt.</p>
+<p rendition="#et">116. Allen Menschen ist es gegeben sich selbst zu erkennen und klug zu sein.</p>
+<p rendition="#et">117. Hat sich ein Mann betrunken, wird er von einem unerwachsenen Knaben geführt. Er taumelt und merkt nicht, wohin er geht; denn seine Seele ist feucht.</p>
+<p rendition="#et">118. Trockner Glast: weiseste und beste Seele.</p>
+<p rendition="#et">119. Dem Menschen ist seine Eigenart sein Dämon.</p>
+<p rendition="#et"><pb n="100" facs="#f00025"/> 120. Die Grenzen von Morgen und Abend sind der Bär und gegenüber dem Bären der Berg [?] des strahlenden Zeus.</p>
+<p rendition="#et">121. Recht täten die Ephesier, wenn sie sich alle Mann für Mann aufhängten und den Unmündigen ihre Stadt hinterließen, sie, die Hermodoros, ihren wackersten Mann, aus der Stadt gejagt haben mit den Worten: Von uns soll keiner der wackerste sein oder, wenn schon, dann anderswo und bei andern.</p>
+<p rendition="#et">122. Annäherung.</p>
+<p rendition="#et">123. Die Natur liebt es sich zu verstecken.</p>
+<p rendition="#et">124. Die schönste Weltordnung ist wie ein aufs geratewohl hingeschütteter <pb n="101" facs="#f00026"/> Kehrichthaufen.</p>
+<p rendition="#et">125. Auch der Gerstentrank zersetzt sich, wenn man ihn nicht umrührt.</p>
+<p rendition="#et">125<hi rendition="#sup">a</hi>. Möge es euch nie an Reichtum fehlen, Ephesier, damit eure Verlotterung an den Tag kommen kann.</p>
+<p rendition="#et">126. Das Kalte wird warm, Warmes kalt, Nasses trocken, Dürres feucht.</p>
+
+</div>
+
+<div n="1">
+<note type="editorial">Zweifelhafte, falsche und gefälschte Fragmente</note>
+
+<head>Zweifelhafte, falsche und gefälschte Fragmente</head>
+<p rendition="#et">126<hi rendition="#sup">a</hi>. Nach dem Gesetze der Zeiten aber wird die Siebenzahl bei dem Monde zusammengerechnet, gesondert aber erscheint sie bei den Bären, den beiden Sternbildern unvergänglichen Gedenkens.</p>
+<p rendition="#et"><pb n="102" facs="#f00027"/> 126<hi rendition="#sup">b</hi>. Stets wächst das eine so, das andere so, je nach seinem Bedürfnis.</p>
+<p rendition="#et">127. Wenn es Götter gibt, weshalb beweint ihr sie? Wenn ihr sie aber beweint, haltet sie doch nicht mehr für Götter!</p>
+<p rendition="#et">128. Sie beten zu den Götterbildern, die nicht hören, als ob sie Gehör hätten, die nichts zurückgeben, wie sie ja auch nichts fordern könnten.</p>
+<p rendition="#et">129. Pythagoras, des Mnesarchos Sohn, hat von allen Menschen am meisten sich der Forschung beflissen, und nachdem er sich diese <pb n="103" facs="#f00028"/> Schriften auserlesen, machte er sich daraus eine eigene Weisheit: Vielwisserei, Künstelei.</p>
+<p rendition="#et">130. Man soll nicht so spaßhaft sein, daß man selbst zum Spaße wird.</p>
+<p rendition="#et">131. Selbstdünkel ist Fortschritts Rückschritt.</p>
+<p rendition="#et">132. Ehrenbezeugungen verknechten Götter und Menschen.</p>
+<p rendition="#et">133. Böse Menschen sind die Widersacher der wahrhaftigen.</p>
+<p rendition="#et">134. Bildung ist den Gebildeten eine zweite Sonne.</p>
+<p rendition="#et">135. Der kürzeste Weg zum Ruhm ist gut zu werden.</p>
+<p rendition="#et">136. Seelen im Kriege gefallen sind reiner als Seuchen erlegene.</p>
+<p rendition="#et">137. Denn es gibt auf alle Fälle Schicksalsbestimmungen . . .</p>
+
+</div>
+
+</body></text></TEI>
