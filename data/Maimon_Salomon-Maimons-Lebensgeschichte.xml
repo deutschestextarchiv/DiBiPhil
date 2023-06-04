@@ -3,7 +3,7 @@
       schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Geschichte des eigenen Lebens (1754&amp;#8211;1800)</title>
+        <title type="main">Geschichte des eigenen Lebens (1754–1800)</title>
         <author><persName ref="http://d-nb.info/gnd/7647X">
         <surname>Maimon</surname>
         <forename>Salomon</forename>
@@ -102,11 +102,11 @@
       </publicationStmt>
       <sourceDesc>
         
-        <bibl type="M">Maimon, Salomon: Geschichte des eigenen Lebens (1754&amp;#8211;1800). Berlin:
+        <bibl type="M">Maimon, Salomon: Geschichte des eigenen Lebens (1754–1800). Berlin:
       Schocken, 1935.</bibl>
         <biblFull>
           <titleStmt>
-            <title level="m" type="main">Geschichte des eigenen Lebens (1754&amp;#8211;1800)</title>
+            <title level="m" type="main">Geschichte des eigenen Lebens (1754–1800)</title>
       <author><persName ref="http://d-nb.info/gnd/7647X">
         <surname>Maimon</surname>
         <forename>Salomon</forename>
