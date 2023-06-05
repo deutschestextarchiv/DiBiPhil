@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Gītagovinda</title>
-        <author><persName ref="http://d-nb.info/gnd/80927">Jayadeva</persName>
+        <author><persName ref="http://d-nb.info/gnd/118680927">Jayadeva</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -106,12 +106,12 @@
           <titleStmt>
             <title level="m" type="main">Gītagovinda</title>
       <title level="m" type="sub">Das indische Hohelied des bengalischen Dichters Jayadeva</title>
-      <author><persName ref="http://d-nb.info/gnd/80927">Jayadeva</persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/34443">
+            <author><persName ref="http://d-nb.info/gnd/118680927">Jayadeva</persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/116534443">
         <forename>Herman</forename>
         <surname>Kreyenborg</surname>
       </persName>
-      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/118603817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

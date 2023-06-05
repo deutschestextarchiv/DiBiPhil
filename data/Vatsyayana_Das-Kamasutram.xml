@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Das Kāmasūtram des Vātsyāyana</title>
-        <author><persName ref="http://d-nb.info/gnd/76761">Vātsyāyana</persName>
+        <author><persName ref="http://d-nb.info/gnd/118976761">Vātsyāyana</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -107,8 +107,8 @@
             <title level="m" type="main">Das Kāmasūtram des Vātsyāyana</title>
       <title level="m" type="sub">Die indische Ars Amatoria nebst dem vollständigen Kommentare
         des Yaśodhara</title>
-      <author><persName ref="http://d-nb.info/gnd/76761">Vātsyāyana</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/14381"><forename>Richard</forename><surname>Schmidt</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118976761">Vātsyāyana</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/117514381"><forename>Richard</forename><surname>Schmidt</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="7">{7}</edition>
       </editionStmt>

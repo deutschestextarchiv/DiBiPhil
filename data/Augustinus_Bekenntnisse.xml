@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Die Bekenntnisse</title>
-        <author><persName ref="http://d-nb.info/gnd/05114">Augustinus</persName>
+        <author><persName ref="http://d-nb.info/gnd/118505114">Augustinus</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Die Bekenntnisse</title>
-      <author><persName ref="http://d-nb.info/gnd/05114">Augustinus</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/34541"><forename>Georg</forename><surname>Rapp</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118505114">Augustinus</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/116334541"><forename>Georg</forename><surname>Rapp</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="4">Vierte, durchgesehene Auflage</edition>
       </editionStmt>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Aurora oder Morgenröte im Aufgang</title>
-        <author><persName ref="http://d-nb.info/gnd/12579">
+        <author><persName ref="http://d-nb.info/gnd/118512579">
         <forename>Jakob</forename>
         <surname>Böhme</surname>
       </persName>
@@ -107,11 +107,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Aurora oder Morgenröte im Aufgang</title>
-      <author><persName ref="http://d-nb.info/gnd/12579">
+      <author><persName ref="http://d-nb.info/gnd/118512579">
         <forename>Jakob</forename>
         <surname>Böhme</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/23957">Gerhard Wehr</persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/115623957">Gerhard Wehr</persName>
       </editor></titleStmt>
           <editionStmt>
             <edition/>

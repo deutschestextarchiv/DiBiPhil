@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Zürcher Ausgabe</title>
         <title type="volume">Band 5</title>
-        <author><persName ref="http://d-nb.info/gnd/10465">
+        <author><persName ref="http://d-nb.info/gnd/118610465">
         <forename>Arthur</forename>
         <surname>Schopenhauer</surname>
       </persName>
@@ -112,7 +112,7 @@
             <title level="m" type="main">Zürcher Ausgabe</title>
       <title level="m" type="sub">Werke in zehn Bänden</title>
       <title level="m" type="volume" n="5">Band 5</title>
-      <author><persName ref="http://d-nb.info/gnd/10465">
+      <author><persName ref="http://d-nb.info/gnd/118610465">
         <forename>Arthur</forename>
         <surname>Schopenhauer</surname>
       </persName>

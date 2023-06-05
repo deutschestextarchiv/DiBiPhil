@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Friedrich Schleiermacher's Monologen</title>
-        <author><persName ref="http://d-nb.info/gnd/08045">
+        <author><persName ref="http://d-nb.info/gnd/118608045">
         <forename>Friedrich</forename>
         <surname>Schleiermacher</surname>
       </persName>
@@ -108,11 +108,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Friedrich Schleiermacher's Monologen</title>
-      <author><persName ref="http://d-nb.info/gnd/08045">
+      <author><persName ref="http://d-nb.info/gnd/118608045">
         <forename>Friedrich</forename>
         <surname>Schleiermacher</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/41726">
+      </author><editor><persName ref="http://d-nb.info/gnd/118841726">
         <forename>J. H.</forename>
         <nameLink>von</nameLink>
         <surname>Kirchmann</surname>

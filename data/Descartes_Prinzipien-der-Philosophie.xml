@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">René Descartes' philosophische Werke</title>
         <title type="volume">Abteilung 3</title>
-        <author><persName ref="http://d-nb.info/gnd/24844">
+        <author><persName ref="http://d-nb.info/gnd/118524844">
         <forename>René</forename>
         <surname>Descartes</surname>
       </persName>
@@ -110,11 +110,11 @@
           <titleStmt>
             <title level="m" type="main">René Descartes' philosophische Werke</title>
       <title level="m" type="volume" n="3">Abteilung 3</title>
-      <author><persName ref="http://d-nb.info/gnd/24844">
+      <author><persName ref="http://d-nb.info/gnd/118524844">
         <forename>René</forename>
         <surname>Descartes</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/41726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118841726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

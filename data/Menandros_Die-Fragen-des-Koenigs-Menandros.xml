@@ -104,7 +104,7 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Die Fragen des Königs Menandros</title>
-      <editor role="translator"><persName ref="http://d-nb.info/gnd/24201"><roleName>Dr. phil.</roleName><forename>F. Otto</forename><surname>Schrader</surname></persName></editor></titleStmt>
+      <editor role="translator"><persName ref="http://d-nb.info/gnd/117024201"><roleName>Dr. phil.</roleName><forename>F. Otto</forename><surname>Schrader</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

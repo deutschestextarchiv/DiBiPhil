@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Werke in zwölf Bänden</title>
         <title type="volume">Band 2</title>
-        <author><persName ref="http://d-nb.info/gnd/59796">
+        <author><persName ref="http://d-nb.info/gnd/118559796">
         <forename>Immanuel</forename>
         <surname>Kant</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Werke in zwölf Bänden</title>
       <title level="m" type="volume" n="2">Band 2</title>
-      <author><persName ref="http://d-nb.info/gnd/59796">
+      <author><persName ref="http://d-nb.info/gnd/118559796">
         <forename>Immanuel</forename>
         <surname>Kant</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/6635X">
+      </author><editor><persName ref="http://d-nb.info/gnd/11876635X">
         <forename>Wilhelm</forename>
         <surname>Weischedel</surname>
       </persName>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Lao Zi Dao De Jing</title>
-        <author><persName ref="http://d-nb.info/gnd/69678">
+        <author><persName ref="http://d-nb.info/gnd/118569678">
         <forename>Lao</forename>
         <surname>Zi</surname>
       </persName>
@@ -109,11 +109,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Lao Zi Dao De Jing</title>
-      <author><persName ref="http://d-nb.info/gnd/69678">
+      <author><persName ref="http://d-nb.info/gnd/118569678">
         <forename>Lao</forename>
         <surname>Zi</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/54240"><forename>Lutz</forename><surname>Geldsetzer</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/119554240"><forename>Lutz</forename><surname>Geldsetzer</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

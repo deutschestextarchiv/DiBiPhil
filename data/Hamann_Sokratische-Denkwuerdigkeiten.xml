@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Sokratische Denkwürdigkeiten</title>
-        <author><persName ref="http://d-nb.info/gnd/4523X">
+        <author><persName ref="http://d-nb.info/gnd/11854523X">
         <forename>Johann Georg</forename>
         <surname>Hamann</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Sokratische Denkwürdigkeiten</title>
       <title level="m" type="sub">Aesthetica in nuce</title>
-      <author><persName ref="http://d-nb.info/gnd/4523X">
+      <author><persName ref="http://d-nb.info/gnd/11854523X">
         <forename>Johann Georg</forename>
         <surname>Hamann</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/36396">
+      </author><editor><persName ref="http://d-nb.info/gnd/119436396">
         <forename>Sven-Aage</forename>
         <surname>Jorgensen</surname>
       </persName>

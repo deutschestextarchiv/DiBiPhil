@@ -104,7 +104,7 @@
           <titleStmt>
             <title level="m" type="main">I Ging</title>
       <title level="m" type="sub">Buch der Wandlungen</title>
-      <editor role="translator"><persName ref="http://d-nb.info/gnd/71876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
+      <editor role="translator"><persName ref="http://d-nb.info/gnd/118771876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="14">{14}</edition>
       </editionStmt>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Die Tröstungen der Philosophie</title>
-        <author><persName ref="http://d-nb.info/gnd/1282X">Boetius</persName>
+        <author><persName ref="http://d-nb.info/gnd/11851282X">Boethius</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Die Tröstungen der Philosophie</title>
-      <author><persName ref="http://d-nb.info/gnd/1282X">Boetius</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/64646"><forename>Richard</forename><surname>Scheven</surname></persName></editor></titleStmt>
+      <author><persName ref="http://d-nb.info/gnd/11851282X">Boethius</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/102764646"><forename>Richard</forename><surname>Scheven</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

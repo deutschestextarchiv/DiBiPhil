@@ -104,11 +104,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Atharwaweda</title>
-      <editor><persName ref="http://d-nb.info/gnd/34443">
+      <editor><persName ref="http://d-nb.info/gnd/116534443">
         <forename>Herman</forename>
         <surname>Kreyenborg</surname>
       </persName>
-      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/118603817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

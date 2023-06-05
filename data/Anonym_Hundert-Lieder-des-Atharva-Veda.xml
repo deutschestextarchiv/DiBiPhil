@@ -104,7 +104,7 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Hundert Lieder des Atharva-Veda</title>
-      <editor role="translator"><persName ref="http://d-nb.info/gnd/35907"><roleName>Professor Dr.</roleName><forename>J.</forename><surname>Grill</surname></persName></editor></titleStmt>
+            <editor role="translator"><persName ref="http://d-nb.info/gnd/116835907"><roleName>Professor Dr.</roleName><forename>J.</forename><surname>Grill</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

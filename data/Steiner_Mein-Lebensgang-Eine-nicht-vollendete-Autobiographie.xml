@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Mein Lebensgang</title>
-        <author><persName ref="http://d-nb.info/gnd/17443">
+        <author><persName ref="http://d-nb.info/gnd/118617443">
         <surname>Steiner</surname>
         <forename>Rudolf</forename>
       </persName>
@@ -107,7 +107,7 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Mein Lebensgang</title>
-      <author><persName ref="http://d-nb.info/gnd/17443">
+      <author><persName ref="http://d-nb.info/gnd/118617443">
         <surname>Steiner</surname>
         <forename>Rudolf</forename>
       </persName>

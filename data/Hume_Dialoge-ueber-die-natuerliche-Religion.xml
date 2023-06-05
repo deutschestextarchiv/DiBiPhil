@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Dialoge über natürliche Religion</title>
-        <author><persName ref="http://d-nb.info/gnd/54735">
+        <author><persName ref="http://d-nb.info/gnd/118554735">
         <forename>David</forename>
         <surname>Hume</surname>
       </persName>
@@ -110,11 +110,11 @@
           <titleStmt>
             <title level="m" type="main">Dialoge über natürliche Religion</title>
       <title level="m" type="sub">Über Selbstmord und Unsterblichkeit der Seele</title>
-      <author><persName ref="http://d-nb.info/gnd/54735">
+      <author><persName ref="http://d-nb.info/gnd/118554735">
         <forename>David</forename>
         <surname>Hume</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/39603"><forename>Friedrich</forename><surname>Paulsen</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118739603"><forename>Friedrich</forename><surname>Paulsen</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="3">{3}</edition>
       </editionStmt>

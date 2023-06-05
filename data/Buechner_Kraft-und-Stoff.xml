@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Kraft und Stoff</title>
-        <author><persName ref="http://d-nb.info/gnd/67939">
+        <author><persName ref="http://d-nb.info/gnd/118667939">
         <forename>Ludwig</forename>
         <surname>Büchner</surname>
       </persName>
@@ -108,11 +108,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Kraft und Stoff</title>
-      <author><persName ref="http://d-nb.info/gnd/67939">
+      <author><persName ref="http://d-nb.info/gnd/118667939">
         <forename>Ludwig</forename>
         <surname>Büchner</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/12706">
+      </author><editor><persName ref="http://d-nb.info/gnd/118512706">
         <forename>Wilhelm</forename>
         <surname>Bölsche</surname>
       </persName>

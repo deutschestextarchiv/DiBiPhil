@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Epiktet's Handbüchlein der stoischen Moral</title>
-        <author><persName ref="http://d-nb.info/gnd/30577">Epiktet</persName>
+        <author><persName ref="http://d-nb.info/gnd/118530577">Epiktet</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Epiktet's Handbüchlein der stoischen Moral</title>
-      <author><persName ref="http://d-nb.info/gnd/30577">Epiktet</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/68237"><forename>Carl</forename><surname>Conz</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118530577">Epiktet</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/116668237"><forename>Carl</forename><surname>Conz</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

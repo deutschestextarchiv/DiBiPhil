@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Johann Gottlieb Fichtes sämmtliche Werke</title>
         <title type="volume">Band 5</title>
-        <author><persName ref="http://d-nb.info/gnd/32847">
+        <author><persName ref="http://d-nb.info/gnd/118532847">
         <forename>Johann Gottlieb</forename>
         <surname>Fichte</surname>
       </persName>
@@ -109,12 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Johann Gottlieb Fichtes sämmtliche Werke</title>
       <title level="m" type="volume" n="5">Band 5</title>
-      <author><persName ref="http://d-nb.info/gnd/32847">
+      <author><persName ref="http://d-nb.info/gnd/118532847">
         <forename>Johann Gottlieb</forename>
         <surname>Fichte</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/87018">I. H. Fichte</persName>
-      </editor></titleStmt>
+      </author><editor><persName ref="https://d-nb.info/gnd/118687018"><forename>Immanuel Hermann</forename><surname>Fichte</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

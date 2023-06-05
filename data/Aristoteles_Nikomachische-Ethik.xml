@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Nikomachische Ethik</title>
-        <author><persName ref="http://d-nb.info/gnd/50130">Aristoteles</persName>
+        <author><persName ref="http://d-nb.info/gnd/118650130">Aristoteles</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Nikomachische Ethik</title>
-      <author><persName ref="http://d-nb.info/gnd/50130">Aristoteles</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/0455X"><forename>Adolf</forename><surname>Lasson</surname></persName></editor></titleStmt>
+      <author><persName ref="http://d-nb.info/gnd/118650130">Aristoteles</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/11600455X"><forename>Adolf</forename><surname>Lasson</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

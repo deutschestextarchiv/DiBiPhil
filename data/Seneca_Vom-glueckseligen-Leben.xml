@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Ausgewählte Schriften</title>
-        <author><persName ref="http://d-nb.info/gnd/64543">Seneca</persName>
+        <author><persName ref="http://d-nb.info/gnd/118613200">Seneca</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Ausgewählte Schriften</title>
-      <author><persName ref="http://d-nb.info/gnd/64543">Seneca</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/48945"><forename>Albert</forename><surname>Forbiger</surname></persName></editor></titleStmt>
+      <author><persName ref="http://d-nb.info/gnd/118613200">Seneca</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/116648945"><forename>Albert</forename><surname>Forbiger</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

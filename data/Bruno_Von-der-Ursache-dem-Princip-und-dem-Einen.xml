@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Von der Ursache, dem Prinzip und dem Einen</title>
-        <author><persName ref="http://d-nb.info/gnd/16221">
+        <author><persName ref="http://d-nb.info/gnd/118516221">
         <forename>Giordano</forename>
         <surname>Bruno</surname>
       </persName>
@@ -108,11 +108,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Von der Ursache, dem Prinzip und dem Einen</title>
-      <author><persName ref="http://d-nb.info/gnd/16221">
+      <author><persName ref="http://d-nb.info/gnd/118516221">
         <forename>Giordano</forename>
         <surname>Bruno</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/0455X"><forename>Adolf</forename><surname>Lasson</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/11600455X"><forename>Adolf</forename><surname>Lasson</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="3">{3}</edition>
       </editionStmt>

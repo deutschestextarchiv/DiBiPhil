@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Das wahre Buch vom quellenden Urgrund</title>
-        <author><persName ref="http://d-nb.info/gnd/01831">
+        <author><persName ref="http://d-nb.info/gnd/119101831">
         <forename>Liä</forename>
         <surname>Dsi</surname>
       </persName>
@@ -110,11 +110,11 @@
             <title level="m" type="main">Das wahre Buch vom quellenden Urgrund</title>
       <title level="m" type="sub">Die Lehren der Philosophen Liä Yü Kou und Yang
         Dschu</title>
-      <author><persName ref="http://d-nb.info/gnd/01831">
+      <author><persName ref="http://d-nb.info/gnd/119101831">
         <forename>Liä</forename>
         <surname>Dsi</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/71876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118771876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

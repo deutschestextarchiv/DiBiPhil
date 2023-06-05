@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Essais [Versuche] nebst des Verfassers Leben</title>
         <title type="volume">Band 2</title>
-        <author><persName ref="http://d-nb.info/gnd/83573">
+        <author><persName ref="http://d-nb.info/gnd/118583573">
         <forename>Michel</forename>
         <nameLink>de</nameLink>
         <surname>Montaigne</surname>
@@ -111,12 +111,12 @@
           <titleStmt>
             <title level="m" type="main">Essais [Versuche] nebst des Verfassers Leben</title>
       <title level="m" type="volume" n="2">Band 2</title>
-      <author><persName ref="http://d-nb.info/gnd/83573">
+      <author><persName ref="http://d-nb.info/gnd/118583573">
         <forename>Michel</forename>
         <nameLink>de</nameLink>
         <surname>Montaigne</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/48429"><forename>Johann Daniel</forename><surname>Tietz</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/115648429"><forename>Johann Daniel</forename><surname>Tietz</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

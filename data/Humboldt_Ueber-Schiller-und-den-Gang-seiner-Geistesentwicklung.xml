@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Werke in fünf Bänden</title>
         <title type="volume">Band 2</title>
-        <author><persName ref="http://d-nb.info/gnd/54727">
+        <author><persName ref="http://d-nb.info/gnd/118554727">
         <forename>Wilhelm</forename>
         <nameLink>von</nameLink>
         <surname>Humboldt</surname>
@@ -110,16 +110,16 @@
           <titleStmt>
             <title level="m" type="main">Werke in fünf Bänden</title>
       <title level="m" type="volume" n="2">Band 2</title>
-      <author><persName ref="http://d-nb.info/gnd/54727">
+      <author><persName ref="http://d-nb.info/gnd/118554727">
         <forename>Wilhelm</forename>
         <nameLink>von</nameLink>
         <surname>Humboldt</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/16172">
+      </author><editor><persName ref="http://d-nb.info/gnd/116616172">
         <forename>Andreas</forename>
         <surname>Flitner</surname>
       </persName>
-      </editor><editor><persName ref="http://d-nb.info/gnd/40555">
+      </editor><editor><persName ref="http://d-nb.info/gnd/119440555">
         <forename>Klaus</forename>
         <surname>Giel</surname>
       </persName>

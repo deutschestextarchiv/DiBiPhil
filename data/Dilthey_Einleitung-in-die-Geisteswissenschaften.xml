@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Gesammelte Schriften</title>
         <title type="volume">Band 1</title>
-        <author><persName ref="http://d-nb.info/gnd/25727">
+        <author><persName ref="http://d-nb.info/gnd/118525727">
         <forename>Wilhelm</forename>
         <surname>Dilthey</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Gesammelte Schriften</title>
       <title level="m" type="volume" n="1">Band 1</title>
-      <author><persName ref="http://d-nb.info/gnd/25727">
+      <author><persName ref="http://d-nb.info/gnd/118525727">
         <forename>Wilhelm</forename>
         <surname>Dilthey</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/42370">
+      </author><editor><persName ref="http://d-nb.info/gnd/118542370">
         <forename>Bernhard</forename>
         <surname>Groethuysen</surname>
       </persName>

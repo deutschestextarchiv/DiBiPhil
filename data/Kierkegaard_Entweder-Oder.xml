@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Entweder-Oder</title>
-        <author><persName ref="http://d-nb.info/gnd/62002">
+        <author><persName ref="http://d-nb.info/gnd/118562002">
         <forename>Søren</forename>
         <surname>Kierkegaard</surname>
       </persName>
@@ -108,11 +108,11 @@
           <titleStmt>
             <title level="m" type="main">Entweder-Oder</title>
       <title level="m" type="sub">Ein Lebensfragment</title>
-      <author><persName ref="http://d-nb.info/gnd/62002">
+      <author><persName ref="http://d-nb.info/gnd/118562002">
         <forename>Søren</forename>
         <surname>Kierkegaard</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/50541"><forename>Alexander</forename><surname>Michelsen</surname></persName></editor><editor role="translator"><persName ref="http://d-nb.info/gnd/254471"><forename>Otto</forename><surname>Gleiß</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/127750541"><forename>Alexander</forename><surname>Michelsen</surname></persName></editor><editor role="translator"><persName ref="http://d-nb.info/gnd/254471"><forename>Otto</forename><surname>Gleiß</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

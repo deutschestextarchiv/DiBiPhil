@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Der Fürst</title>
-        <author><persName ref="http://d-nb.info/gnd/75775">
+        <author><persName ref="http://d-nb.info/gnd/118575775">
         <forename>Nicolò</forename>
         <surname>Machiavelli</surname>
       </persName>
@@ -107,7 +107,7 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Der Fürst</title>
-      <author><persName ref="http://d-nb.info/gnd/75775">
+      <author><persName ref="http://d-nb.info/gnd/118575775">
         <forename>Nicolò</forename>
         <surname>Machiavelli</surname>
       </persName>

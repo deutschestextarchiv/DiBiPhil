@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Werke</title>
         <title type="volume">Band 11</title>
-        <author><persName ref="http://d-nb.info/gnd/47739">
+        <author><persName ref="http://d-nb.info/gnd/118547739">
         <forename>Georg Wilhelm Friedrich</forename>
         <surname>Hegel</surname>
       </persName>
@@ -110,15 +110,15 @@
           <titleStmt>
             <title level="m" type="main">Werke</title>
       <title level="m" type="volume" n="11">Band 11</title>
-      <author><persName ref="http://d-nb.info/gnd/47739">
+      <author><persName ref="http://d-nb.info/gnd/118547739">
         <forename>Georg Wilhelm Friedrich</forename>
         <surname>Hegel</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/0421X">
+      </author><editor><persName ref="http://d-nb.info/gnd/10590421X">
         <forename>Eva</forename>
         <surname>Moldenhauer</surname>
       </persName>
-      </editor><editor><persName ref="http://d-nb.info/gnd/4459X">
+      </editor><editor><persName ref="http://d-nb.info/gnd/12264459X">
         <forename>Karl Markus</forename>
         <surname>Michel</surname>
       </persName>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Des Marcus Tullius Cicero fünf Bücher über das höchste Gut und Übel</title>
-        <author><persName ref="http://d-nb.info/gnd/20814">
+        <author><persName ref="http://d-nb.info/gnd/118520814">
         <forename>Marcus Tullius</forename>
         <surname>Cicero</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Des Marcus Tullius Cicero fünf Bücher über das
         höchste Gut und Übel</title>
-      <author><persName ref="http://d-nb.info/gnd/20814">
+      <author><persName ref="http://d-nb.info/gnd/118520814">
         <forename>Marcus Tullius</forename>
         <surname>Cicero</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/41726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118841726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

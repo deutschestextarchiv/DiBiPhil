@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Werke in drei Bänden</title>
         <title type="volume">Band 1</title>
-        <author><persName ref="http://d-nb.info/gnd/87943">
+        <author><persName ref="http://d-nb.info/gnd/118587943">
         <forename>Friedrich</forename>
         <surname>Nietzsche</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Werke in drei Bänden</title>
       <title level="m" type="volume" n="1">Band 1</title>
-      <author><persName ref="http://d-nb.info/gnd/87943">
+      <author><persName ref="http://d-nb.info/gnd/118587943">
         <forename>Friedrich</forename>
         <surname>Nietzsche</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/17132">
+      </author><editor><persName ref="http://d-nb.info/gnd/101117132">
         <forename>Karl</forename>
         <surname>Schlechta</surname>
       </persName>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Die Theodicee</title>
-        <author><persName ref="http://d-nb.info/gnd/71249">
+        <author><persName ref="http://d-nb.info/gnd/118571249">
         <forename>Gottfried Wilhelm</forename>
         <surname>Leibniz</surname>
       </persName>
@@ -107,11 +107,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Die Theodicee</title>
-      <author><persName ref="http://d-nb.info/gnd/71249">
+      <author><persName ref="http://d-nb.info/gnd/118571249">
         <forename>Gottfried Wilhelm</forename>
         <surname>Leibniz</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/41726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118841726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

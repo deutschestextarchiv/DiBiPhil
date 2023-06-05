@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Der Sonnenstaat</title>
-        <author><persName ref="http://d-nb.info/gnd/3819X">
+        <author><persName ref="http://d-nb.info/gnd/11863819X">
         <forename>Thomas</forename>
         <surname>Campanella</surname>
       </persName>
@@ -108,11 +108,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Der Sonnenstaat</title>
-      <author><persName ref="http://d-nb.info/gnd/3819X">
+      <author><persName ref="http://d-nb.info/gnd/11863819X">
         <forename>Thomas</forename>
         <surname>Campanella</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/14382"><forename>Ignaz Emanuel</forename><surname>Wessely</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/117314382"><forename>Ignaz Emanuel</forename><surname>Wessely</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

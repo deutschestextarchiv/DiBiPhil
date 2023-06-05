@@ -104,12 +104,12 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Indische Liebeslyrik</title>
-      <editor><persName ref="http://d-nb.info/gnd/95215">
+      <editor><persName ref="http://d-nb.info/gnd/118695215">
         <forename>Helmuth</forename>
         <nameLink>von</nameLink>
         <surname>Glasenapp</surname>
       </persName>
-      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/03817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/118603817"><forename>Friedrich</forename><surname>Rückert</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

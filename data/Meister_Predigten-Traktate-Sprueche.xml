@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Meister Eckharts mystische Schriften</title>
-        <author><persName ref="http://d-nb.info/gnd/28823">
+        <author><persName ref="http://d-nb.info/gnd/118528823">
         <surname>Meister</surname>
         <forename>Eckhart</forename>
       </persName>
@@ -107,11 +107,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Meister Eckharts mystische Schriften</title>
-      <author><persName ref="http://d-nb.info/gnd/28823">
+      <author><persName ref="http://d-nb.info/gnd/118528823">
         <surname>Meister</surname>
         <forename>Eckhart</forename>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/69074"/></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118569074"><surname>Landauer</surname><forename>Gustav</forename></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

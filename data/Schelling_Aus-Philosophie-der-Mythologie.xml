@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Werke</title>
         <title type="volume">Band 3</title>
-        <author><persName ref="http://d-nb.info/gnd/07057">Friedrich Wilhelm Joseph von Schelling</persName>
+        <author><persName ref="http://d-nb.info/gnd/118607057"><forename>Friedrich Wilhelm Joseph</forename><nameLink>von</nameLink><surname>Schelling</surname></persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -107,8 +107,8 @@
             <title level="m" type="main">Werke</title>
       <title level="m" type="sub">Auswahl in drei Bänden</title>
       <title level="m" type="volume" n="3">Band 3</title>
-      <author><persName ref="http://d-nb.info/gnd/07057">Friedrich Wilhelm Joseph von Schelling</persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/9182X">
+      <author><persName ref="http://d-nb.info/gnd/118607057"><forename>Friedrich Wilhelm Joseph</forename><nameLink>von</nameLink><surname>Schelling</surname></persName>
+      </author><editor><persName ref="https://d-nb.info/gnd/141123656">
         <forename>Otto</forename>
         <surname>Weiß</surname>
       </persName>

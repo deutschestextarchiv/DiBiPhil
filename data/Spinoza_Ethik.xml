@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Ethik</title>
-        <author><persName ref="http://d-nb.info/gnd/16242">Spinoza</persName>
+        <author><persName ref="http://d-nb.info/gnd/118616242">Spinoza</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,12 +104,12 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Ethik</title>
-      <author><persName ref="http://d-nb.info/gnd/16242">Spinoza</persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/20574">
+            <author><persName ref="http://d-nb.info/gnd/118616242">Spinoza</persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/130220574">
         <forename>Helmut</forename>
         <surname>Seidel</surname>
       </persName>
-      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/44360"><forename>Jakob</forename><surname>Stern</surname></persName></editor></titleStmt>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/119144360"><forename>Jakob</forename><surname>Stern</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="2">2</edition>
       </editionStmt>

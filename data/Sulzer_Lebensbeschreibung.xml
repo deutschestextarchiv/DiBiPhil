@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Lebensbeschreibung, von ihm selbst aufgesetzt</title>
-        <author><persName ref="http://d-nb.info/gnd/9941X">
+        <author><persName ref="http://d-nb.info/gnd/11879941X">
         <surname>Sulzer</surname>
         <forename>Johann George</forename>
       </persName>
@@ -108,15 +108,15 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Lebensbeschreibung, von ihm selbst aufgesetzt</title>
-      <author><persName ref="http://d-nb.info/gnd/9941X">
+      <author><persName ref="http://d-nb.info/gnd/11879941X">
         <surname>Sulzer</surname>
         <forename>Johann George</forename>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/92021">
+      </author><editor><persName ref="http://d-nb.info/gnd/116892021">
         <forename>Johann Bernhard</forename>
         <surname>Merian</surname>
       </persName>
-      </editor><editor><persName ref="http://d-nb.info/gnd/87668">
+      </editor><editor><persName ref="http://d-nb.info/gnd/118587668">
         <forename>Friedrich</forename>
         <surname>Nicolai</surname>
       </persName>

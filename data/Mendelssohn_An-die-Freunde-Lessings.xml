@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Jacobis Spinoza-Büchlein nebst Replik und Duplik</title>
-        <author><persName ref="http://d-nb.info/gnd/56312">
+        <author><persName ref="http://d-nb.info/gnd/118556312">
         <surname>Jacobi</surname>
         <forename>Friedrich Heinrich</forename>
       </persName>
@@ -108,11 +108,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Jacobis Spinoza-Büchlein nebst Replik und Duplik</title>
-      <author><persName ref="http://d-nb.info/gnd/56312">
+      <author><persName ref="http://d-nb.info/gnd/118556312">
         <surname>Jacobi</surname>
         <forename>Friedrich Heinrich</forename>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/79304">
+      </author><editor><persName ref="http://d-nb.info/gnd/118579304">
         <forename>Fritz</forename>
         <surname>Mauthner</surname>
       </persName>

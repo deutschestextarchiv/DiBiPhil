@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">George Berkeley's Abhandlung über die Principien der menschlichen Erkenntnis</title>
-        <author><persName ref="http://d-nb.info/gnd/09616">
+        <author><persName ref="http://d-nb.info/gnd/118509616">
         <forename>George</forename>
         <surname>Berkeley</surname>
       </persName>
@@ -110,11 +110,11 @@
           <titleStmt>
             <title level="m" type="main">George Berkeley's Abhandlung über die Principien der
         menschlichen Erkenntnis</title>
-      <author><persName ref="http://d-nb.info/gnd/09616">
+      <author><persName ref="http://d-nb.info/gnd/118509616">
         <forename>George</forename>
         <surname>Berkeley</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/14920"><forename>Friedrich</forename><surname>Ueberweg</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/119014920"><forename>Friedrich</forename><surname>Ueberweg</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

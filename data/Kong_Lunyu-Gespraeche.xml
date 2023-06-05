@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Lun Yu</title>
-        <author><persName ref="http://d-nb.info/gnd/65036">Kungfutse<addName>Konfuzius</addName></persName>
+        <author><persName ref="http://d-nb.info/gnd/118565036"><surname>Kong</surname><forename>Qiu</forename><addName>Konfuzius</addName></persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -105,8 +105,8 @@
           <titleStmt>
             <title level="m" type="main">Lun Yu</title>
       <title level="m" type="sub">Gespräche</title>
-      <author><persName ref="http://d-nb.info/gnd/65036">Kungfutse<addName>Konfuzius</addName></persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/71876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118565036"><surname>Kong</surname><forename>Qiu</forename><addName>Konfuzius</addName></persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118771876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

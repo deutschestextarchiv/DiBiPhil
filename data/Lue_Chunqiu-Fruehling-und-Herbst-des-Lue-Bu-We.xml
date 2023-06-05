@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Chunqiu: Frühling und Herbst des Lü Bu We</title>
-        <author><persName ref="http://d-nb.info/gnd/12251">
+        <author><persName ref="http://d-nb.info/gnd/119012251">
         <forename>Lü</forename>
         <surname>Buwei</surname>
       </persName>
@@ -108,11 +108,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Chunqiu: Frühling und Herbst des Lü Bu We</title>
-      <author><persName ref="http://d-nb.info/gnd/12251">
+      <author><persName ref="http://d-nb.info/gnd/119012251">
         <forename>Lü</forename>
         <surname>Buwei</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/71876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118771876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Das wahre Buch vom südlichen Blütenland</title>
-        <author><persName ref="http://d-nb.info/gnd/20768">
+        <author><persName ref="http://d-nb.info/gnd/118520768">
         <forename>Dschuang</forename>
         <surname>Dsï</surname>
       </persName>
@@ -107,11 +107,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Das wahre Buch vom südlichen Blütenland</title>
-      <author><persName ref="http://d-nb.info/gnd/20768">
+      <author><persName ref="http://d-nb.info/gnd/118520768">
         <forename>Dschuang</forename>
         <surname>Dsï</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/71876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118771876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

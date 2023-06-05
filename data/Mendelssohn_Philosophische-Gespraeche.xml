@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Gesammelte Schriften</title>
         <title type="volume">Band 1</title>
-        <author><persName ref="http://d-nb.info/gnd/80744">
+        <author><persName ref="http://d-nb.info/gnd/118580744">
         <forename>Moses</forename>
         <surname>Mendelssohn</surname>
       </persName>
@@ -113,19 +113,19 @@
             <title level="m" type="main">Gesammelte Schriften</title>
       <title level="m" type="sub">Jubiläumsausgabe</title>
       <title level="m" type="volume" n="1">Band 1</title>
-      <author><persName ref="http://d-nb.info/gnd/80744">
+      <author><persName ref="http://d-nb.info/gnd/118580744">
         <forename>Moses</forename>
         <surname>Mendelssohn</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/46706">
+      </author><editor><persName ref="http://d-nb.info/gnd/116446706">
         <forename>Ismar</forename>
         <surname>Elbogen</surname>
       </persName>
-      </editor><editor><persName ref="http://d-nb.info/gnd/12324">
+      </editor><editor><persName ref="http://d-nb.info/gnd/122512324">
         <forename>Julius</forename>
         <surname>Guttmann</surname>
       </persName>
-      </editor><editor><persName ref="http://d-nb.info/gnd/65617">
+      </editor><editor><persName ref="http://d-nb.info/gnd/117065617">
         <forename>Eugen</forename>
         <surname>Mittwoch</surname>
       </persName>

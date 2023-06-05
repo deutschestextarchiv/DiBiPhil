@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Gemeinverständliche Werke</title>
         <title type="volume">Band 3</title>
-        <author><persName ref="http://d-nb.info/gnd/44381">
+        <author><persName ref="http://d-nb.info/gnd/118544381">
         <forename>Ernst</forename>
         <surname>Haeckel</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Gemeinverständliche Werke</title>
       <title level="m" type="volume" n="3">Band 3</title>
-      <author><persName ref="http://d-nb.info/gnd/44381">
+      <author><persName ref="http://d-nb.info/gnd/118544381">
         <forename>Ernst</forename>
         <surname>Haeckel</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/06567">
+      </author><editor><persName ref="http://d-nb.info/gnd/117506567">
         <forename>Heinrich</forename>
         <surname>Schmidt-Jena</surname>
       </persName>

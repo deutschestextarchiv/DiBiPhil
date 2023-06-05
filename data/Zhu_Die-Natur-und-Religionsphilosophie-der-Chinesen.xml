@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Die Natur- und Religionsphilosophie der Chinesen</title>
-        <author><persName ref="http://d-nb.info/gnd/17620">Tschuhi</persName>
+        <author><persName ref="http://d-nb.info/gnd/118817620"><surname>Zhu</surname><forename>Xi</forename><addName>Tschuhi</addName></persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -107,13 +107,13 @@
         <biblFull>
           <titleStmt>
             <title level="a" type="main">Die Natur- und Religionsphilosophie der Chinesen</title>
-      <author><persName ref="http://d-nb.info/gnd/17620">Tschuhi</persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/29119">
+            <author><persName ref="http://d-nb.info/gnd/118817620"><surname>Zhu</surname><forename>Xi</forename><addName>Tschuhi</addName></persName>
+      </author><editor><persName ref="http://d-nb.info/gnd/117129119">
         <roleName>D.</roleName>
         <forename>Christian Friedrich</forename>
         <surname>Illgen</surname>
       </persName>
-      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/62259"><roleName>D.</roleName><forename>Carl Friedrich</forename><surname>Neumann</surname></persName></editor></titleStmt>
+      </editor><editor role="translator"><persName ref="http://d-nb.info/gnd/116962259"><roleName>D.</roleName><forename>Carl Friedrich</forename><surname>Neumann</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

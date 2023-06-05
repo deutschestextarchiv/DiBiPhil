@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Theologisch-politische Abhandlung</title>
-        <author><persName ref="http://d-nb.info/gnd/16242">Spinoza</persName>
+        <author><persName ref="http://d-nb.info/gnd/118616242">Spinoza</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Theologisch-politische Abhandlung</title>
-      <author><persName ref="http://d-nb.info/gnd/16242">Spinoza</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/41726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118616242">Spinoza</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118841726"><forename>J. H.</forename><nameLink>von</nameLink><surname>Kirchmann</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

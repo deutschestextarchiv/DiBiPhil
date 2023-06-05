@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Kandid oder die beste Welt</title>
-        <author><persName ref="http://d-nb.info/gnd/27813">Voltaire</persName>
+        <author><persName ref="http://d-nb.info/gnd/118627813">Voltaire</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Kandid oder die beste Welt</title>
-      <author><persName ref="http://d-nb.info/gnd/27813">Voltaire</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/88790"><forename>Adolf</forename><surname>Ellissen</surname></persName></editor></titleStmt>
+      <author><persName ref="http://d-nb.info/gnd/118627813">Voltaire</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118688790"><forename>Adolf</forename><surname>Ellissen</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

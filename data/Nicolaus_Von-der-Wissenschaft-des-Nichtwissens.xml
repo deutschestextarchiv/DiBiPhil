@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Des Cardinals und Bischofs Nicolaus von Cusa wichtigste Schriften</title>
-        <author><persName ref="http://d-nb.info/gnd/88095">
+        <author><persName ref="http://d-nb.info/gnd/118588095">
         <forename>Nicolaus</forename>
         <nameLink>von</nameLink>
         <surname>Cusa</surname>
@@ -109,12 +109,12 @@
           <titleStmt>
             <title level="m" type="main">Des Cardinals und Bischofs Nicolaus von Cusa wichtigste
         Schriften</title>
-      <author><persName ref="http://d-nb.info/gnd/88095">
+      <author><persName ref="http://d-nb.info/gnd/118588095">
         <forename>Nicolaus</forename>
         <nameLink>von</nameLink>
         <surname>Cusa</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/10035"><forename>Franz Anton</forename><surname>Scharpff</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/117110035"><forename>Franz Anton</forename><surname>Scharpff</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

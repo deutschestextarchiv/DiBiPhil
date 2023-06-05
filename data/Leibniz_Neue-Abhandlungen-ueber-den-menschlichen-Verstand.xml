@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Neue Abhandlungen über den menschlichen Verstand</title>
-        <author><persName ref="http://d-nb.info/gnd/71249">
+        <author><persName ref="http://d-nb.info/gnd/118571249">
         <forename>Gottfried Wilhelm</forename>
         <surname>Leibniz</surname>
       </persName>
@@ -109,11 +109,11 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Neue Abhandlungen über den menschlichen Verstand</title>
-      <author><persName ref="http://d-nb.info/gnd/71249">
+      <author><persName ref="http://d-nb.info/gnd/118571249">
         <forename>Gottfried Wilhelm</forename>
         <surname>Leibniz</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/89591"><forename>C.</forename><surname>Schaarschmidt</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/117089591"><forename>C.</forename><surname>Schaarschmidt</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="2">{2}</edition>
       </editionStmt>

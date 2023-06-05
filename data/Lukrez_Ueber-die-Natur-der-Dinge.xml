@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Über die Natur der Dinge</title>
-        <author><persName ref="http://d-nb.info/gnd/75236">Lukrez</persName>
+        <author><persName ref="http://d-nb.info/gnd/118575236">Lukrez</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,8 +104,8 @@
         <biblFull>
           <titleStmt>
             <title level="m" type="main">Über die Natur der Dinge</title>
-      <author><persName ref="http://d-nb.info/gnd/75236">Lukrez</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/61457"><forename>Hermann</forename><surname>Diels</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118575236">Lukrez</persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/119061457"><forename>Hermann</forename><surname>Diels</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

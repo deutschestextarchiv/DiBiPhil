@@ -5,11 +5,11 @@
       <titleStmt>
         <title type="main">Werke</title>
         <title type="volume">Bd. 2</title>
-        <author><persName ref="http://d-nb.info/gnd/9169X">
+        <author><persName ref="http://d-nb.info/gnd/11859169X">
         <forename>Theophrast</forename>
         <surname>Paracelsus</surname>
       </persName>
-      </author><author><persName ref="http://d-nb.info/gnd/40636">
+      </author><author><persName ref="http://d-nb.info/gnd/118740636">
         <forename>Will-Erich</forename>
         <surname>Peukert</surname>
       </persName>
@@ -113,11 +113,11 @@
           <titleStmt>
             <title level="m" type="main">Werke</title>
       <title level="m" type="volume" n="2">Bd. 2</title>
-      <author><persName ref="http://d-nb.info/gnd/9169X">
+      <author><persName ref="http://d-nb.info/gnd/11859169X">
         <forename>Theophrast</forename>
         <surname>Paracelsus</surname>
       </persName>
-      </author><author><persName ref="http://d-nb.info/gnd/40636">
+      </author><author><persName ref="http://d-nb.info/gnd/118740636">
         <forename>Will-Erich</forename>
         <surname>Peukert</surname>
       </persName>

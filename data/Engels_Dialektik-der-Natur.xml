@@ -5,11 +5,11 @@
       <titleStmt>
         <title type="main">Werke</title>
         <title type="volume">Band 19</title>
-        <author><persName ref="http://d-nb.info/gnd/78537">
+        <author><persName ref="https://d-nb.info/gnd/118578537">
         <forename>Karl</forename>
         <surname>Marx</surname>
       </persName>
-      </author><author><persName ref="http://d-nb.info/gnd/30380">
+      </author><author><persName ref="http://d-nb.info/gnd/118530380">
         <forename>Friedrich</forename>
         <surname>Engels</surname>
       </persName>
@@ -114,11 +114,11 @@
           <titleStmt>
             <title level="m" type="main">Werke</title>
       <title level="m" type="volume" n="19">Band 19</title>
-      <author><persName ref="http://d-nb.info/gnd/78537">
+      <author><persName ref="https://d-nb.info/gnd/118578537">
         <forename>Karl</forename>
         <surname>Marx</surname>
       </persName>
-      </author><author><persName ref="http://d-nb.info/gnd/30380">
+      </author><author><persName ref="http://d-nb.info/gnd/118530380">
         <forename>Friedrich</forename>
         <surname>Engels</surname>
       </persName>

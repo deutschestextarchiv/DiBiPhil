@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Werke</title>
         <title type="volume">Bd. 1</title>
-        <author><persName ref="http://d-nb.info/gnd/9169X">
+        <author><persName ref="http://d-nb.info/gnd/11859169X">
         <forename>Theophrast</forename>
         <surname>Paracelsus</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Werke</title>
       <title level="m" type="volume" n="1">Bd. 1</title>
-      <author><persName ref="http://d-nb.info/gnd/9169X">
+      <author><persName ref="http://d-nb.info/gnd/11859169X">
         <forename>Theophrast</forename>
         <surname>Paracelsus</surname>
       </persName>
-      </author><editor><persName ref="http://d-nb.info/gnd/40636">
+      </author><editor><persName ref="http://d-nb.info/gnd/118740636">
         <forename>Will-Erich</forename>
         <surname>Peukert</surname>
       </persName>

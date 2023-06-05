@@ -3,8 +3,11 @@
       schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Tao Te King –</title>
-        <author><persName ref="http://d-nb.info/gnd/69678">Laotse</persName>
+        <title type="main">Tao Te King</title>
+        <author><persName ref="http://d-nb.info/gnd/118569678">
+          <forename>Lao</forename>
+          <surname>Zi</surname>
+        </persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -104,10 +107,13 @@
       Verlag, 1952.</bibl>
         <biblFull>
           <titleStmt>
-            <title level="m" type="main">Tao Te King –</title>
+            <title level="m" type="main">Tao Te King</title>
       <title level="m" type="sub">Das Buch des Alten vom Sinn und Leben</title>
-      <author><persName ref="http://d-nb.info/gnd/69678">Laotse</persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/71876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
+            <author><persName ref="http://d-nb.info/gnd/118569678">
+              <forename>Lao</forename>
+              <surname>Zi</surname>
+            </persName>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/118771876"><forename>Richard</forename><surname>Wilhelm</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

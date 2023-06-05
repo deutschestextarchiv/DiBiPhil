@@ -114,7 +114,7 @@
         <nameLink>von</nameLink>
         <surname>Canterbury</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/3026X"><forename>Wilhelm</forename><surname>Schenz</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/11723026X"><forename>Wilhelm</forename><surname>Schenz</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition n="2">{2}</edition>
       </editionStmt>

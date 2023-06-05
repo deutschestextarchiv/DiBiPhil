@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Der Gesellschaftsvertrag oder Die Grundsätze des Staatsrechtes</title>
-        <author><persName ref="http://d-nb.info/gnd/03426">
+        <author><persName ref="http://d-nb.info/gnd/118603426">
         <forename>Jean-Jacques</forename>
         <surname>Rousseau</surname>
       </persName>
@@ -109,11 +109,11 @@
           <titleStmt>
             <title level="m" type="main">Der Gesellschaftsvertrag oder Die Grundsätze des
         Staatsrechtes</title>
-      <author><persName ref="http://d-nb.info/gnd/03426">
+            <author><persName ref="http://d-nb.info/gnd/118603426">
         <forename>Jean-Jacques</forename>
         <surname>Rousseau</surname>
       </persName>
-      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/06941"><forename>Hermann</forename><surname>Denhardt</surname></persName></editor></titleStmt>
+      </author><editor role="translator"><persName ref="http://d-nb.info/gnd/115706941"><forename>Hermann</forename><surname>Denhardt</surname></persName></editor></titleStmt>
           <editionStmt>
             <edition/>
           </editionStmt>

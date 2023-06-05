@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Sämtliche Werke</title>
         <title type="volume">Band 1</title>
-        <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+        <author><persName ref="http://d-nb.info/gnd/118594893">Platon</persName>
       </author><editor corresp="#DTACorpusPublisher">
           <persName ref="http://d-nb.info/gnd/115266127">
             <surname>Geyken</surname>
@@ -105,7 +105,7 @@
           <titleStmt>
             <title level="m" type="main">Sämtliche Werke</title>
       <title level="m" type="volume" n="1">Band 1</title>
-      <author><persName ref="http://d-nb.info/gnd/94893">Platon</persName>
+      <author><persName ref="http://d-nb.info/gnd/118594893">Platon</persName>
       </author></titleStmt>
           <editionStmt>
             <edition/>
