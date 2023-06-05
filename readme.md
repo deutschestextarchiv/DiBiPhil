@@ -19,7 +19,13 @@ with a clear focus on 18th to 20th cent. literature. The corpus
 includes scholarly as well as literary texts with philosophical contents 
 or background written by renowned authors. 
 
-
 ## License
 The data are published under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+
+## Editors &amp; Contact
+
+* Deutsches Textarchiv [DTA](https://www.deutschestextarchiv.de) ([E-Mail](mailto:redaktion@deutschestextarchiv.de))
+* [Matthias Boenig](https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/boenig-matthias)
+* [Susanne Haaf](https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/haaf-susanne)
+* [Marius Hug](https://www.bbaw.de/die-akademie/mitarbeiterinnen-mitarbeiter/hug-marius)
 
