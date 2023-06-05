@@ -100,8 +100,8 @@
         <pubPlace>Berlin</pubPlace>
         <date type="publication">2023-06-02T12:00:00Z</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/3.0/deed.de">
-            <p>Distributed under the Creative Commons Attribution-ShareAlike 3.0 International Licence (CC BY 3.0).</p>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
+            <p>Distributed under the Creative Commons Attribution-ShareAlike 4.0 License.</p>
           </licence>
         </availability>
       </publicationStmt>
