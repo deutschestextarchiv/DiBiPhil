@@ -113,7 +113,8 @@
           <publicationStmt>
             <publisher><name>Hoffmann</name>
       </publisher><pubPlace>Stuttgart</pubPlace>
-      <date type="publication">1867</date>
+           
+      <date type="publication">1867</date> <date type="firstPublication">1867 (übersetzt)</date>
     </publicationStmt>
           <seriesStmt><title type="main"/></seriesStmt>
           <notesStmt>
