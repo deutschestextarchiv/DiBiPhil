@@ -119,6 +119,7 @@
             <publisher><name>Beck</name>
       </publisher><pubPlace>München</pubPlace>
       <date type="publication">1937</date>
+            <date type="firstPublication">1937</date>
     </publicationStmt>
           <seriesStmt><title type="main"/></seriesStmt>
           <notesStmt>

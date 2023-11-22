@@ -114,6 +114,7 @@
             <publisher><name>Diederichs Verlag</name>
       </publisher><pubPlace>Düsseldorf, Köln</pubPlace>
       <date type="publication">1958</date>
+            <date type="firstPublication">1958</date>
       </publicationStmt>
           <seriesStmt><title type="main"/></seriesStmt>
           <notesStmt>
@@ -144,7 +145,7 @@
       <langUsage>
         <language ident="deu">German</language>
       </langUsage>
-      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode><classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">translation</classCode></textClass>
     </profileDesc>
   </teiHeader><text><body>
 

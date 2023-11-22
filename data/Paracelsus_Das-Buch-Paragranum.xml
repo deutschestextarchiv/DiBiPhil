@@ -126,6 +126,8 @@
             <publisher><name>Wissenschaftliche Buchgesellschaft</name>
       </publisher><pubPlace>Darmstadt</pubPlace>
       <date type="publication">1965</date>
+            
+            <date type="firstPublication">1565</date>
     </publicationStmt>
           <seriesStmt><title type="main"/></seriesStmt>
           <notesStmt>
