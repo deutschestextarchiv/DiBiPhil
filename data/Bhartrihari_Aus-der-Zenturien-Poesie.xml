@@ -118,7 +118,7 @@
             <publisher><name>Bühler</name>
       </publisher><pubPlace>Baden-Baden</pubPlace>
       <date type="publication">1948</date>
-            <date type="firstPublication">1948 (übersetzt)</date>
+            <date type="firstPublication">1948</date>
     </publicationStmt>
           <seriesStmt><title type="main"/></seriesStmt>
           <notesStmt>
@@ -149,7 +149,7 @@
       <langUsage>
         <language ident="deu">German</language>
       </langUsage>
-      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode></textClass>
+      <textClass><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Philosophie</classCode><classCode scheme="http://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">dibiphil</classCode><classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#DTACorpus">translation</classCode></textClass>
     </profileDesc>
   </teiHeader><text><body>
 <note type="editorial">[Aus der Zenturien-Poesie]</note>
